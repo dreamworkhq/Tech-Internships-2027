@@ -1,0 +1,13 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dreamwork">
+  <defs>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" rx="16" fill="#08080C"/>
+  <rect x="1" y="1" width="1198" height="198" rx="15" stroke="#26262E" stroke-width="2" fill="none"/>
+  <rect x="48" y="48" width="56" height="8" rx="4" fill="url(#spectrum)"/>
+  <text x="48" y="112" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#EDEDF2" letter-spacing="-1">Dreamwork</text>
+  <text x="48" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#8B8B96">400,000+ live jobs, crawled daily. Matched to your resume. Applied for you.</text>
+</svg>

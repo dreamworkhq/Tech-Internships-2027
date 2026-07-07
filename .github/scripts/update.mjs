@@ -278,9 +278,34 @@ function renderReadme(rows, config, now) {
     .map((f) => `<details>\n<summary><strong>${f.q}</strong></summary>\n\n${f.a}\n\n</details>`)
     .join("\n\n");
 
-  return `# ${config.title}
+  const repoFull = `${config.owner}/${config.repo}`;
+  const shieldRoles = `https://img.shields.io/badge/open_roles-${rows.length}-7C3AED?labelColor=131318&style=flat-square`;
+  const shieldUpdated = `https://img.shields.io/github/last-commit/${repoFull}?label=updated&color=3B82F6&labelColor=131318&style=flat-square`;
+  const linkRow = [
+    `<a href="${SITE_BASE}/?utm_source=github&utm_medium=link_row&utm_campaign=${config.utmCampaign}">dreamworkhq.com</a>`,
+    `<a href="${SITE_BASE}/research?utm_source=github&utm_medium=link_row&utm_campaign=${config.utmCampaign}">Hiring research</a>`,
+    `<a href="${SITE_BASE}/research/ai?utm_source=github&utm_medium=link_row&utm_campaign=${config.utmCampaign}">AI Labor Index</a>`,
+    `<a href="../../issues">Report a listing</a>`,
+  ].join("\n  ·\n  ");
 
-${config.tagline}
+  return `<a href="${matchesUrl}"><img src="./static/img/banner.svg" alt="Dreamwork. 400,000+ live jobs, crawled daily. Matched to your resume. Applied for you." width="100%"></a>
+
+<h1 align="center">${config.title}</h1>
+
+<p align="center">${config.tagline}</p>
+
+<p align="center">
+  <img src="${shieldRoles}" alt="${rows.length} open roles">
+  <img src="${shieldUpdated}" alt="last updated">
+</p>
+
+<p align="center">
+  <a href="${matchesUrl}"><img src="./static/img/btn-matches.svg" width="200" alt="See your matches on Dreamwork"></a>
+</p>
+
+<p align="center">
+  ${linkRow}
+</p>
 
 Star this repo and new roles land in your GitHub feed every day. Listings come from [Dreamwork](${matchesUrl}), which crawls 400,000+ jobs directly from company career pages.
 

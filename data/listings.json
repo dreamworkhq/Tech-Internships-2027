@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T14:56:26.654Z",
+  "generatedAt": "2026-07-07T15:46:53.726Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2026",
   "count": 100,
@@ -1125,7 +1125,7 @@
       "url": "https://www.dreamworkhq.com/job/55550d3a-8da8-4dfc-a16a-6475d7829bfb?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
-      "id": "2cea799e-e651-4668-afca-c287b5ad6ff5",
+      "id": "7d17ae89-60cd-4709-9c9a-e9e10ee3e165",
       "title": "Test & Validation Engineering Yearlong Intern",
       "company": "Aumovio",
       "companyDomain": "aumovio.com",
@@ -1134,23 +1134,9 @@
       "salaryMin": 40000,
       "salaryMax": 50000,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-30T17:34:44.885Z",
+      "postedAt": "2026-06-30T17:34:51.445Z",
       "firstIndexedAt": "2026-07-01T06:02:52.556Z",
-      "url": "https://www.dreamworkhq.com/job/2cea799e-e651-4668-afca-c287b5ad6ff5?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
-    },
-    {
-      "id": "3f0cf5b5-3a8d-47c5-a11c-84127ad10ab8",
-      "title": "Structural Engineering Intern - Transportation (Fall 2026)",
-      "company": "Stantec",
-      "companyDomain": "dn9tckvz2rpxv.cloudfront.net",
-      "location": "New Haven, CT, United States",
-      "remoteType": "onsite",
-      "salaryMin": 48818,
-      "salaryMax": 71760,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-22T15:15:45.000Z",
-      "firstIndexedAt": "2026-06-30T08:31:42.999Z",
-      "url": "https://www.dreamworkhq.com/job/3f0cf5b5-3a8d-47c5-a11c-84127ad10ab8?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
+      "url": "https://www.dreamworkhq.com/job/7d17ae89-60cd-4709-9c9a-e9e10ee3e165?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
       "id": "c1048fe7-f884-4f77-85a8-40f8d3f9b177",
@@ -1167,18 +1153,18 @@
       "url": "https://www.dreamworkhq.com/job/c1048fe7-f884-4f77-85a8-40f8d3f9b177?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
-      "id": "38329107-713e-44f8-8c9c-3f6729b2b748",
-      "title": "Civil Engineering Intern - Transportation (Fall 2026)",
+      "id": "3f0cf5b5-3a8d-47c5-a11c-84127ad10ab8",
+      "title": "Structural Engineering Intern - Transportation (Fall 2026)",
       "company": "Stantec",
       "companyDomain": "dn9tckvz2rpxv.cloudfront.net",
-      "location": "Rochelle Park, NJ, United States",
+      "location": "New Haven, CT, United States",
       "remoteType": "onsite",
       "salaryMin": 48818,
       "salaryMax": 71760,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-23T13:56:11.000Z",
-      "firstIndexedAt": "2026-06-30T08:31:41.745Z",
-      "url": "https://www.dreamworkhq.com/job/38329107-713e-44f8-8c9c-3f6729b2b748?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
+      "postedAt": "2026-06-22T15:15:45.000Z",
+      "firstIndexedAt": "2026-06-30T08:31:42.999Z",
+      "url": "https://www.dreamworkhq.com/job/3f0cf5b5-3a8d-47c5-a11c-84127ad10ab8?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
       "id": "8f39d221-3cf0-48ec-aab2-40e585fc77f7",
@@ -1193,6 +1179,20 @@
       "postedAt": "2026-06-17T14:45:25.000Z",
       "firstIndexedAt": "2026-06-30T08:31:41.745Z",
       "url": "https://www.dreamworkhq.com/job/8f39d221-3cf0-48ec-aab2-40e585fc77f7?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
+    },
+    {
+      "id": "38329107-713e-44f8-8c9c-3f6729b2b748",
+      "title": "Civil Engineering Intern - Transportation (Fall 2026)",
+      "company": "Stantec",
+      "companyDomain": "dn9tckvz2rpxv.cloudfront.net",
+      "location": "Rochelle Park, NJ, United States",
+      "remoteType": "onsite",
+      "salaryMin": 48818,
+      "salaryMax": 71760,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-23T13:56:11.000Z",
+      "firstIndexedAt": "2026-06-30T08:31:41.745Z",
+      "url": "https://www.dreamworkhq.com/job/38329107-713e-44f8-8c9c-3f6729b2b748?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
       "id": "08b4b124-51e2-41b9-af77-31fcb13a6842",
@@ -1223,18 +1223,32 @@
       "url": "https://www.dreamworkhq.com/job/f46a15d2-4d58-4a12-ab68-8c25a7ba3886?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
-      "id": "1a74591e-21b2-469e-92de-6d6b90893bd0",
+      "id": "d9645ba3-3a15-4104-bc29-de5e4ec0ba32",
+      "title": "Software Engineer, Internship - Defense Tech",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "Palo Alto, CA",
+      "remoteType": null,
+      "salaryMin": 126000,
+      "salaryMax": 126000,
+      "aiRoleKind": null,
+      "postedAt": "2024-08-05T23:26:42.003Z",
+      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
+      "url": "https://www.dreamworkhq.com/job/d9645ba3-3a15-4104-bc29-de5e4ec0ba32?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
+    },
+    {
+      "id": "907a24b4-5777-4188-b717-24eec49864a4",
       "title": "Software Engineer, Internship",
       "company": "Palantir",
       "companyDomain": "palantir.com",
-      "location": "New York, NY",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2022-06-30T21:19:00.945Z",
+      "location": "Palo Alto, CA",
+      "remoteType": null,
+      "salaryMin": 126000,
+      "salaryMax": 126000,
+      "aiRoleKind": null,
+      "postedAt": "2021-07-01T21:52:15.503Z",
       "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://www.dreamworkhq.com/job/1a74591e-21b2-469e-92de-6d6b90893bd0?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
+      "url": "https://www.dreamworkhq.com/job/907a24b4-5777-4188-b717-24eec49864a4?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
       "id": "28b68a0b-8470-4cfd-a8dd-0e8683c3a3e1",
@@ -1249,6 +1263,34 @@
       "postedAt": "2024-08-29T04:34:48.941Z",
       "firstIndexedAt": "2026-06-30T06:24:20.763Z",
       "url": "https://www.dreamworkhq.com/job/28b68a0b-8470-4cfd-a8dd-0e8683c3a3e1?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
+    },
+    {
+      "id": "1a74591e-21b2-469e-92de-6d6b90893bd0",
+      "title": "Software Engineer, Internship",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "New York, NY",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2022-06-30T21:19:00.945Z",
+      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
+      "url": "https://www.dreamworkhq.com/job/1a74591e-21b2-469e-92de-6d6b90893bd0?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
+    },
+    {
+      "id": "dc106703-9972-4545-8d37-38f1db45aab0",
+      "title": "Software Engineer, Internship - Infrastructure",
+      "company": "Palantir",
+      "companyDomain": "palantir.com",
+      "location": "New York, NY",
+      "remoteType": null,
+      "salaryMin": 126000,
+      "salaryMax": 126000,
+      "aiRoleKind": null,
+      "postedAt": "2025-06-26T15:01:02.839Z",
+      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
+      "url": "https://www.dreamworkhq.com/job/dc106703-9972-4545-8d37-38f1db45aab0?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
       "id": "2ecfe130-b575-4dec-8fec-daa9f663a763",
@@ -1279,46 +1321,18 @@
       "url": "https://www.dreamworkhq.com/job/16edcd85-81a0-4790-b133-2af09f3577e8?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
-      "id": "dc106703-9972-4545-8d37-38f1db45aab0",
+      "id": "4b23b4bb-59a3-4d82-86bc-b05140369fb7",
       "title": "Software Engineer, Internship - Infrastructure",
       "company": "Palantir",
       "companyDomain": "palantir.com",
-      "location": "New York, NY",
-      "remoteType": null,
-      "salaryMin": 126000,
-      "salaryMax": 126000,
-      "aiRoleKind": null,
-      "postedAt": "2025-06-26T15:01:02.839Z",
-      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://www.dreamworkhq.com/job/dc106703-9972-4545-8d37-38f1db45aab0?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
-    },
-    {
-      "id": "c09e7bb1-3535-4465-a75a-8ca6ed33fc55",
-      "title": "Software Engineer, Internship - Defense Tech",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
-      "location": "New York, NY",
-      "remoteType": null,
-      "salaryMin": 126000,
-      "salaryMax": 126000,
-      "aiRoleKind": null,
-      "postedAt": "2024-08-05T23:27:08.111Z",
-      "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://www.dreamworkhq.com/job/c09e7bb1-3535-4465-a75a-8ca6ed33fc55?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
-    },
-    {
-      "id": "d9645ba3-3a15-4104-bc29-de5e4ec0ba32",
-      "title": "Software Engineer, Internship - Defense Tech",
-      "company": "Palantir",
-      "companyDomain": "palantir.com",
       "location": "Palo Alto, CA",
-      "remoteType": null,
+      "remoteType": "onsite",
       "salaryMin": 126000,
       "salaryMax": 126000,
-      "aiRoleKind": null,
-      "postedAt": "2024-08-05T23:26:42.003Z",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2025-08-19T09:48:43.334Z",
       "firstIndexedAt": "2026-06-30T06:24:20.763Z",
-      "url": "https://www.dreamworkhq.com/job/d9645ba3-3a15-4104-bc29-de5e4ec0ba32?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
+      "url": "https://www.dreamworkhq.com/job/4b23b4bb-59a3-4d82-86bc-b05140369fb7?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     },
     {
       "id": "559bc4da-baa9-4077-8f08-56b26251219e",
@@ -1389,20 +1403,6 @@
       "postedAt": "2026-06-29T15:23:09.924Z",
       "firstIndexedAt": "2026-06-30T06:03:49.934Z",
       "url": "https://www.dreamworkhq.com/job/5d5f662f-2133-491b-9748-db7c40fb3b12?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
-    },
-    {
-      "id": "6abcc8bd-03ef-47d8-a8c6-c943e48113fd",
-      "title": "Engineering Co-Op",
-      "company": "Standard Aero",
-      "companyDomain": "standardaerocareers.com",
-      "location": "Cincinnati, OH, United States",
-      "remoteType": "onsite",
-      "salaryMin": 35000,
-      "salaryMax": 45000,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-17T18:13:37.000Z",
-      "firstIndexedAt": "2026-06-29T20:31:34.457Z",
-      "url": "https://www.dreamworkhq.com/job/6abcc8bd-03ef-47d8-a8c6-c943e48113fd?utm_source=github&utm_medium=job_list&utm_campaign=gh-tech-internships-2026&utm_content=json"
     }
   ]
 }
