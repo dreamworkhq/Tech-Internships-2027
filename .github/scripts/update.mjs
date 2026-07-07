@@ -135,7 +135,11 @@ function dedupe(rows) {
 // ---------- rendering ----------
 
 function esc(text) {
-  return String(text).replace(/\|/g, "\\|").replace(/\s+/g, " ").trim();
+  // Escape everything that can break a markdown table cell or link label.
+  return String(text)
+    .replace(/[|[\]]/g, (c) => `\\${c}`)
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function truncate(text, max) {
