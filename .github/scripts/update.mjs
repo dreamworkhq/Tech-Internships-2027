@@ -319,8 +319,13 @@ function renderReadme(rows, config, now) {
   const bannerAlt = "Dreamwork turns live job listings into personalized matches";
   const ctaAlt = "Match my resume to these roles";
 
-  return `<a href="${matchesUrl}"><img src="./static/img/banner-dark.svg#gh-dark-mode-only" alt="${bannerAlt}" width="100%"></a>
-<a href="${matchesUrl}"><img src="./static/img/banner-light.svg#gh-light-mode-only" alt="${bannerAlt}" width="100%"></a>
+  return `<a href="${matchesUrl}">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./static/img/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./static/img/banner-light.svg">
+    <img src="./static/img/banner-light.svg" alt="${bannerAlt}" width="100%">
+  </picture>
+</a>
 
 <h1 align="center">${config.title}</h1>
 
@@ -332,8 +337,13 @@ function renderReadme(rows, config, now) {
 </p>
 
 <p align="center">
-  <a href="${matchesUrl}"><img src="./static/img/btn-matches-dark.svg#gh-dark-mode-only" width="340" alt="${ctaAlt}"></a>
-  <a href="${matchesUrl}"><img src="./static/img/btn-matches-light.svg#gh-light-mode-only" width="340" alt="${ctaAlt}"></a>
+  <a href="${matchesUrl}">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./static/img/btn-matches-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./static/img/btn-matches-light.svg">
+      <img src="./static/img/btn-matches-light.svg" width="340" alt="${ctaAlt}">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
