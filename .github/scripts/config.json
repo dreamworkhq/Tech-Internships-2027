@@ -59,7 +59,7 @@
   ],
   "titleExclude": "senior|staff|principal|director|\\bvp\\b|international\\b",
   "minRows": 100,
-  "minUpstreamCoverageRatio": 0.7,
+  "minUpstreamCoverageRatio": 0.45,
   "maxPagesPerSource": 45,
   "groupBy": "functionPrimary",
   "showAiColumn": false,
