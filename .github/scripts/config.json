@@ -53,7 +53,10 @@
     }
   ],
   "usOnly": true,
-  "titleInclude": "\\b(intern|internship|co-?op)\\b",
+  "titleInclude": "\\b(?:intern|internships?|co-?op)\\b",
+  "titleIncludeAll": [
+    "\\b(software|developer|computer|information technology|\\bit\\b|data|analytics?|machine learning|\\bml\\b|artificial intelligence|\\bai\\b|cyber|security|product|design|\\bux\\b|\\bui\\b|front[- ]?end|back[- ]?end|full[- ]?stack|web|mobile|android|\\bios\\b|cloud|devops|site reliability|\\bsre\\b|platform|infrastructure|embedded|firmware|hardware|robotics|automation|\\bqa\\b|test automation|solutions engineer)\\b"
+  ],
   "titleExclude": "senior|staff|principal|director|\\bvp\\b|international\\b",
   "minRows": 100,
   "minUpstreamCoverageRatio": 0.7,

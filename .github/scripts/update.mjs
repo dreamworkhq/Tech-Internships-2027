@@ -14,12 +14,36 @@
  * Usage: node generate.mjs <config.json> [--out <dir>]
  */
 
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 
 const API_BASE = process.env.DREAMWORK_API_BASE ?? "https://api.dreamworkhq.com";
 const SITE_BASE = process.env.DREAMWORK_SITE_BASE ?? "https://www.dreamworkhq.com";
 const PAGE_SIZE = 25; // anonymous plan cap on GET /listings
+const FETCH_MAX_ATTEMPTS = 4;
+
+function positiveIntegerEnv(name, fallback) {
+  const raw = process.env[name];
+  if (raw === undefined) return fallback;
+  const value = Number(raw);
+  if (!Number.isSafeInteger(value) || value <= 0) {
+    throw new Error(`${name} must be a positive integer (received ${JSON.stringify(raw)})`);
+  }
+  return value;
+}
+
+const FETCH_TIMEOUT_MS = positiveIntegerEnv(
+  "DREAMWORK_JOB_LIST_FETCH_TIMEOUT_MS",
+  15_000,
+);
+const FETCH_RETRY_BASE_MS = positiveIntegerEnv(
+  "DREAMWORK_JOB_LIST_FETCH_RETRY_BASE_MS",
+  2_000,
+);
+const FETCH_RETRY_MAX_MS = positiveIntegerEnv(
+  "DREAMWORK_JOB_LIST_FETCH_RETRY_MAX_MS",
+  8_000,
+);
 
 const US_STATES = new Set([
   "AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA",
@@ -41,18 +65,70 @@ function parseArgs(argv) {
   return { configPath: resolve(configPath), out };
 }
 
-async function fetchJson(url, attempt = 1) {
-  const res = await fetch(url, {
-    headers: { "user-agent": "dreamwork-job-lists/1.0 (+https://www.dreamworkhq.com)" },
-  });
-  if (!res.ok) {
-    if (attempt < 4 && (res.status >= 500 || res.status === 429)) {
-      await new Promise((r) => setTimeout(r, attempt * 2000));
-      return fetchJson(url, attempt + 1);
+function retryDelay(attempt) {
+  return Math.min(FETCH_RETRY_BASE_MS * 2 ** (attempt - 1), FETCH_RETRY_MAX_MS);
+}
+
+function isTransientNetworkError(error, signal) {
+  return signal.aborted || error instanceof TypeError || error?.name === "AbortError";
+}
+
+function networkFailureMessage(error, signal) {
+  if (signal.aborted) return `timed out after ${FETCH_TIMEOUT_MS}ms`;
+  return `network error: ${error instanceof Error ? error.message : String(error)}`;
+}
+
+async function fetchJson(url) {
+  for (let attempt = 1; attempt <= FETCH_MAX_ATTEMPTS; attempt++) {
+    const signal = AbortSignal.timeout(FETCH_TIMEOUT_MS);
+    let res;
+
+    try {
+      res = await fetch(url, {
+        headers: { "user-agent": "dreamwork-job-lists/1.0 (+https://www.dreamworkhq.com)" },
+        signal,
+      });
+    } catch (error) {
+      if (!isTransientNetworkError(error, signal)) throw error;
+      const failure = networkFailureMessage(error, signal);
+      if (attempt === FETCH_MAX_ATTEMPTS) {
+        throw new Error(
+          `GET ${url} failed after ${attempt} attempts: ${failure}`,
+          { cause: error },
+        );
+      }
+      await new Promise((resolveDelay) => setTimeout(resolveDelay, retryDelay(attempt)));
+      continue;
     }
-    throw new Error(`GET ${url} -> ${res.status}`);
+
+    if (!res.ok) {
+      const retriableStatus = res.status === 429 || res.status >= 500;
+      if (retriableStatus && attempt < FETCH_MAX_ATTEMPTS) {
+        await new Promise((resolveDelay) => setTimeout(resolveDelay, retryDelay(attempt)));
+        continue;
+      }
+      const suffix = attempt > 1 ? ` after ${attempt} attempts` : "";
+      throw new Error(`GET ${url} -> ${res.status}${suffix}`);
+    }
+
+    try {
+      return await res.json();
+    } catch (error) {
+      if (!isTransientNetworkError(error, signal)) {
+        throw new Error(`GET ${url} returned invalid JSON`, { cause: error });
+      }
+      const failure = networkFailureMessage(error, signal);
+      if (attempt === FETCH_MAX_ATTEMPTS) {
+        throw new Error(
+          `GET ${url} failed after ${attempt} attempts: ${failure}`,
+          { cause: error },
+        );
+      }
+      await new Promise((resolveDelay) => setTimeout(resolveDelay, retryDelay(attempt)));
+    }
   }
-  return res.json();
+
+  throw new Error(`GET ${url} exhausted its retry budget`);
 }
 
 /** Fetch listings for one source (query-param set), newest first. */
@@ -89,6 +165,14 @@ function keepRow(row, config) {
   if (/\bconfidential\b/i.test(row.companyName)) return false;
   if (/\b\d{9,}\b/.test(row.companyName)) return false;
   if (config.titleInclude && !new RegExp(config.titleInclude, "i").test(row.title)) return false;
+  if (
+    config.titleIncludeAll &&
+    !config.titleIncludeAll.every((pattern) =>
+      new RegExp(pattern, "i").test(row.title),
+    )
+  ) {
+    return false;
+  }
   if (config.titleExclude && new RegExp(config.titleExclude, "i").test(row.title)) return false;
   if (config.aiKinds && !config.aiKinds.includes(row.aiRoleKind)) return false;
   return true;
@@ -180,14 +264,22 @@ function companyUrl(row, config) {
   return `${SITE_BASE}/c/${row.companyDomain}?utm_source=github&utm_campaign=${config.utmCampaign}`;
 }
 
-function formatSalary(row) {
+function trustedSalaryRange(row) {
   const source = row.salarySource?.trim().toLowerCase();
-  if (source !== "posted" && source !== "extracted") return "";
+  if (source !== "posted" && source !== "extracted") return null;
   const { salaryMin: min, salaryMax: max } = row;
-  if (!min || !max || min > max) return "";
-  if (min >= 15 && max <= 300) return `$${min}–$${max}/hr`;
-  if (min < 20000 || max > 900000) return ""; // currency-conversion junk in corpus
-  if (max > min * 6) return ""; // implausible spread (e.g. $65K–$800K) → parse artifact
+  if (!min || !max || min > max) return null;
+  if (min >= 15 && max <= 300) return { min, max, period: "hourly" };
+  if (min < 20000 || max > 900000) return null; // currency-conversion junk in corpus
+  if (max > min * 6) return null; // implausible spread (e.g. $65K–$800K) → parse artifact
+  return { min, max, period: "annual" };
+}
+
+function formatSalary(row) {
+  const salary = trustedSalaryRange(row);
+  if (!salary) return "";
+  const { min, max } = salary;
+  if (salary.period === "hourly") return `$${min}–$${max}/hr`;
   const k = (n) => `$${Math.round(n / 1000)}K`;
   return min === max ? k(min) : `${k(min)}–${k(max)}`;
 }
@@ -427,24 +519,79 @@ function renderJson(rows, config, now) {
       source: "https://www.dreamworkhq.com",
       list: config.repo,
       count: rows.length,
-      listings: rows.map((row) => ({
-        id: row.id,
-        title: row.title,
-        company: row.companyName,
-        companyDomain: row.companyDomain ?? null,
-        location: row.location ?? null,
-        remoteType: row.remoteType ?? null,
-        salaryMin: row.salaryMin ?? null,
-        salaryMax: row.salaryMax ?? null,
-        aiRoleKind: row.aiRoleKind ?? null,
-        postedAt: row.postedAt ?? null,
-        firstIndexedAt: row.createdAt,
-        url: jobUrl(row, config),
-      })),
+      listings: rows.map((row) => {
+        const salary = trustedSalaryRange(row);
+        return {
+          id: row.id,
+          title: row.title,
+          company: row.companyName,
+          companyDomain: row.companyDomain ?? null,
+          location: row.location ?? null,
+          remoteType: row.remoteType ?? null,
+          salaryMin: salary?.min ?? null,
+          salaryMax: salary?.max ?? null,
+          salaryPeriod: salary?.period ?? null,
+          aiRoleKind: row.aiRoleKind ?? null,
+          postedAt: row.postedAt ?? null,
+          firstIndexedAt: row.createdAt,
+          url: jobUrl(row, config),
+        };
+      }),
     },
     null,
     2,
   )}\n`;
+}
+
+const DEFAULT_MIN_PREVIOUS_COUNT_RATIO = 0.7;
+const DEFAULT_MIN_PREVIOUS_OVERLAP_RATIO = 0.4;
+
+function loadPreviousSnapshot(out, config) {
+  const snapshotPath = join(out, "data", "listings.json");
+  if (!existsSync(snapshotPath)) return null;
+  let snapshot;
+  try {
+    snapshot = JSON.parse(readFileSync(snapshotPath, "utf8"));
+  } catch (error) {
+    throw new Error(
+      `Existing ${snapshotPath} is not valid JSON; refusing to overwrite it.`,
+      { cause: error },
+    );
+  }
+  if (
+    snapshot?.list !== config.repo ||
+    !Array.isArray(snapshot.listings) ||
+    snapshot.listings.some((listing) => !listing?.id)
+  ) {
+    throw new Error(
+      `Existing ${snapshotPath} does not match ${config.repo}; refusing to overwrite it.`,
+    );
+  }
+  return snapshot;
+}
+
+function assertPreviousSnapshotHealth(rows, previous, config) {
+  if (!previous || previous.listings.length === 0) return;
+  if (process.env.DREAMWORK_JOB_LIST_ALLOW_SNAPSHOT_RESET === "1") {
+    console.warn(
+      `${config.repo}: bypassing previous-snapshot health gate via DREAMWORK_JOB_LIST_ALLOW_SNAPSHOT_RESET=1`,
+    );
+    return;
+  }
+  const previousIds = new Set(previous.listings.map((listing) => listing.id));
+  const currentIds = new Set(rows.map((row) => row.id));
+  const overlap = [...previousIds].filter((id) => currentIds.has(id)).length;
+  const countRatio = rows.length / previousIds.size;
+  const overlapRatio = overlap / previousIds.size;
+  const minCountRatio =
+    config.minPreviousCountRatio ?? DEFAULT_MIN_PREVIOUS_COUNT_RATIO;
+  const minOverlapRatio =
+    config.minPreviousOverlapRatio ?? DEFAULT_MIN_PREVIOUS_OVERLAP_RATIO;
+  if (countRatio < minCountRatio || overlapRatio < minOverlapRatio) {
+    throw new Error(
+      `Snapshot health check failed: ${rows.length} current rows vs ${previousIds.size} previous (${(countRatio * 100).toFixed(1)}% count retention), ${overlap} retained ids (${(overlapRatio * 100).toFixed(1)}% overlap). Minimums are ${(minCountRatio * 100).toFixed(1)}% count and ${(minOverlapRatio * 100).toFixed(1)}% overlap. Refusing to overwrite the list.`,
+    );
+  }
 }
 
 // ---------- main ----------
@@ -501,20 +648,22 @@ if (readmeRows.length < (config.minRows ?? 10)) {
   );
 }
 
-mkdirSync(join(out, "data"), { recursive: true });
-
-let intlKept = 0;
-if (config.international && intlRows.length >= 25) {
-  const intl = fitToRenderLimit(intlRows, (r) => renderIntl(r, config, now));
-  writeFileSync(join(out, "INTERNATIONAL.md"), intl.text);
-  intlKept = intl.kept;
-}
+const intl =
+  config.international && intlRows.length >= 25
+    ? fitToRenderLimit(intlRows, (r) => renderIntl(r, config, now))
+    : null;
+const intlKept = intl?.kept ?? 0;
 config.intlCount = intlKept;
 
 const readme = fitToRenderLimit(readmeRows, (r) => renderReadme(r, config, now));
-writeFileSync(join(out, "README.md"), readme.text);
-
 const jsonRows = (config.usOnly ? usRows.concat(intlRows.slice(0, intlKept)) : readmeRows).slice(0, 1500);
+assertPreviousSnapshotHealth(jsonRows, loadPreviousSnapshot(out, config), config);
+
+// All remote fetch, filtering, rendering, and health checks complete before
+// the first output mutation, so a failed run preserves the last good snapshot.
+mkdirSync(join(out, "data"), { recursive: true });
+if (intl) writeFileSync(join(out, "INTERNATIONAL.md"), intl.text);
+writeFileSync(join(out, "README.md"), readme.text);
 writeFileSync(join(out, "data", "listings.json"), renderJson(jsonRows, config, now));
 console.log(
   `${config.repo}: README ${readme.kept} rows (${config.mode ?? "fresh"}), intl ${intlKept}, json ${jsonRows.length}, ${totalMatching} matching upstream -> ${out}`,
