@@ -1,4 +1,4 @@
-# Tech internships in El Salvador
+# Tech internships in Mauritius
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[RSMCareers](https://www.dreamworkhq.com/c/rsmcareers.yello.co?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Developer Intern](https://www.dreamworkhq.com/job/3ebdcb15-d4e0-4326-9e3b-e435d3ddc865?utm_source=github&utm_campaign=gh-tech-internships) | San Salvador |  | 5d |
+| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/4dbec656-4f4d-471c-8e9e-69f2a110ae77?utm_source=github&utm_campaign=gh-tech-internships) | Ebene |  | 2mo |
 
 <!-- TABLE_END -->
