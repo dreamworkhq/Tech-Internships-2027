@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T23:12:46.437Z",
+  "generatedAt": "2026-10-01T23:37:35.771Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 115,
+  "count": 117,
   "listings": [
     {
       "id": "af411b93-6d90-484b-99c3-7fc0165fc1a8",
@@ -164,6 +164,22 @@
       "postedAt": "2026-09-17T09:30:34.807Z",
       "firstIndexedAt": "2026-09-18T13:01:31.607Z",
       "url": "https://www.dreamworkhq.com/job/9e77fa45-c909-4001-aacc-0d8e3fd998ca?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "c160330b-9edb-4226-8d72-4e35a862b9ef",
+      "title": "Binance Accelerator Program - Compliance",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "UAE, Dubai",
+      "locationCountryCode": "AE",
+      "functionPrimary": "Legal",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-17T14:13:04.598Z",
+      "firstIndexedAt": "2026-09-18T13:01:27.722Z",
+      "url": "https://www.dreamworkhq.com/job/c160330b-9edb-4226-8d72-4e35a862b9ef?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "80beecfb-8abe-4581-bb9d-70b1155b179f",
@@ -1131,7 +1147,7 @@
       "company": "Binance",
       "companyDomain": "binance.com",
       "location": "Asia",
-      "locationCountryCode": null,
+      "locationCountryCode": "GB",
       "functionPrimary": "Legal",
       "remoteType": "onsite",
       "salaryMin": null,
@@ -1652,6 +1668,22 @@
       "postedAt": "2025-05-26T16:28:33.848Z",
       "firstIndexedAt": "2026-05-15T18:04:57.164Z",
       "url": "https://www.dreamworkhq.com/job/d90f3baa-e6e6-4216-bc8c-80bd54791752?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "dc3357e6-5fc0-4d31-966c-a2dac9d0fcd0",
+      "title": "Binance Accelerator Program - QA (Web3)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Asia",
+      "locationCountryCode": null,
+      "functionPrimary": "Engineering",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-01-15T07:02:08.129Z",
+      "firstIndexedAt": "2026-05-15T18:04:57.164Z",
+      "url": "https://www.dreamworkhq.com/job/dc3357e6-5fc0-4d31-966c-a2dac9d0fcd0?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "e0ae61cc-ad26-4e46-bf9d-b8c0e9cb0e7f",
