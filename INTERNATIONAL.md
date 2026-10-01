@@ -2,65 +2,66 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1478 country-located roles** across **63 countries** · **5 explicitly global remote** · Updated **2026-09-30**
+**1503 country-located roles** across **64 countries** · **5 explicitly global remote** · Updated **2026-10-01**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
 | --- | ---: |
-| [Canada](international/canada.md) | 222 |
-| [Singapore](international/singapore.md) | 205 |
-| [China](international/china.md) | 108 |
-| [United Kingdom](international/united-kingdom.md) | 88 |
-| [France](international/france.md) | 78 |
-| [Germany](international/germany.md) | 66 |
-| [India](international/india.md) | 64 |
-| [Malaysia](international/malaysia.md) | 54 |
-| [Italy](international/italy.md) | 45 |
-| [Netherlands](international/netherlands.md) | 45 |
-| [Switzerland](international/switzerland.md) | 39 |
-| [Ireland](international/ireland.md) | 35 |
+| [Canada](international/canada.md) | 224 |
+| [Singapore](international/singapore.md) | 210 |
+| [China](international/china.md) | 101 |
+| [United Kingdom](international/united-kingdom.md) | 87 |
+| [France](international/france.md) | 82 |
+| [India](international/india.md) | 70 |
+| [Germany](international/germany.md) | 60 |
+| [Malaysia](international/malaysia.md) | 56 |
+| [Switzerland](international/switzerland.md) | 51 |
+| [Italy](international/italy.md) | 43 |
+| [Netherlands](international/netherlands.md) | 42 |
+| [Ireland](international/ireland.md) | 38 |
 | [Taiwan](international/taiwan.md) | 35 |
-| [Poland](international/poland.md) | 32 |
-| [Spain](international/spain.md) | 29 |
-| [Mexico](international/mexico.md) | 27 |
+| [Poland](international/poland.md) | 34 |
+| [Spain](international/spain.md) | 32 |
+| [Mexico](international/mexico.md) | 29 |
 | [Brazil](international/brazil.md) | 24 |
 | [Vietnam](international/vietnam.md) | 24 |
 | [Hong Kong SAR China](international/hong-kong-sar-china.md) | 19 |
-| [New Zealand](international/new-zealand.md) | 18 |
+| [New Zealand](international/new-zealand.md) | 17 |
 | [Portugal](international/portugal.md) | 16 |
 | [Colombia](international/colombia.md) | 15 |
 | [Philippines](international/philippines.md) | 15 |
 | [Belgium](international/belgium.md) | 11 |
-| [Ukraine](international/ukraine.md) | 11 |
-| [Austria](international/austria.md) | 10 |
-| [Czechia](international/czechia.md) | 10 |
+| [Czechia](international/czechia.md) | 11 |
+| [Austria](international/austria.md) | 9 |
 | [Israel](international/israel.md) | 9 |
-| [Australia](international/australia.md) | 8 |
+| [Thailand](international/thailand.md) | 9 |
 | [Indonesia](international/indonesia.md) | 8 |
-| [Thailand](international/thailand.md) | 8 |
+| [Australia](international/australia.md) | 7 |
+| [Denmark](international/denmark.md) | 7 |
 | [Peru](international/peru.md) | 7 |
 | [Romania](international/romania.md) | 7 |
-| [Denmark](international/denmark.md) | 6 |
-| [Serbia](international/serbia.md) | 6 |
-| [South Korea](international/south-korea.md) | 6 |
+| [South Korea](international/south-korea.md) | 7 |
+| [Ukraine](international/ukraine.md) | 7 |
+| [Sri Lanka](international/sri-lanka.md) | 6 |
 | [Argentina](international/argentina.md) | 5 |
 | [Egypt](international/egypt.md) | 5 |
 | [Greece](international/greece.md) | 5 |
-| [Sri Lanka](international/sri-lanka.md) | 5 |
+| [Hungary](international/hungary.md) | 5 |
+| [Serbia](international/serbia.md) | 5 |
 | [Bulgaria](international/bulgaria.md) | 4 |
-| [Hungary](international/hungary.md) | 4 |
+| [Costa Rica](international/costa-rica.md) | 4 |
 | [Japan](international/japan.md) | 4 |
 | [Luxembourg](international/luxembourg.md) | 4 |
+| [Russia](international/russia.md) | 4 |
+| [Norway](international/norway.md) | 3 |
 | [Puerto Rico](international/puerto-rico.md) | 3 |
-| [Russia](international/russia.md) | 3 |
 | [Slovakia](international/slovakia.md) | 3 |
 | [Türkiye](international/turkiye.md) | 3 |
-| [Costa Rica](international/costa-rica.md) | 2 |
 | [Lithuania](international/lithuania.md) | 2 |
-| [Norway](international/norway.md) | 2 |
 | [Sweden](international/sweden.md) | 2 |
 | [United Arab Emirates](international/united-arab-emirates.md) | 2 |
+| [Cambodia](international/cambodia.md) | 1 |
 | [El Salvador](international/el-salvador.md) | 1 |
 | [Kenya](international/kenya.md) | 1 |
 | [Malta](international/malta.md) | 1 |
@@ -78,7 +79,7 @@ Only roles whose listing explicitly says applicants can work from anywhere appea
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/6e07f617-19b8-4111-88f1-561fed69750f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Portugal) |  | 27d |
+| **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/6e07f617-19b8-4111-88f1-561fed69750f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Portugal) |  | 28d |
 | **[Yotta](https://www.dreamworkhq.com/c/yottalabs.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Engineer Intern - AI Systems](https://www.dreamworkhq.com/job/8b4a8a28-5248-4a7c-9985-0db6583a0c85?utm_source=github&utm_campaign=gh-tech-internships) | Remote (United States) |  | 1mo |
 | **[DeliveryHero](https://www.dreamworkhq.com/c/deliveryhero.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/99b4692a-4928-4f20-b509-2bcee4b68ba6?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Barcelona, , Spain) |  | 3mo |
 | **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data and Machine Learning Intern](https://www.dreamworkhq.com/job/42cad5e1-5cf3-4fec-b440-c2838096d854?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia) |  | 4mo |

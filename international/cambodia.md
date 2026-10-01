@@ -1,4 +1,4 @@
-# Tech internships in El Salvador
+# Tech internships in Cambodia
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[RSMCareers](https://www.dreamworkhq.com/c/rsmcareers.yello.co?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Developer Intern](https://www.dreamworkhq.com/job/3ebdcb15-d4e0-4326-9e3b-e435d3ddc865?utm_source=github&utm_campaign=gh-tech-internships) | San Salvador |  | 6d |
+| **[Grab](https://www.dreamworkhq.com/c/grab.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Product Support](https://www.dreamworkhq.com/job/f0d60ebd-fa0b-46f4-b975-d3697f2a787f?utm_source=github&utm_campaign=gh-tech-internships) | Phnom Penh, , Cambodia |  | 0d |
 
 <!-- TABLE_END -->

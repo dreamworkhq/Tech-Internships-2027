@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-09-30**
+**11 currently open roles** · Updated **2026-10-01**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,9 +15,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[team blue](https://www.dreamworkhq.com/c/accessiway.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship/Stage Full Stack Developer (Java & React)](https://www.dreamworkhq.com/job/7d7e9e95-e74c-46da-b563-3af8e41f03b8?utm_source=github&utm_campaign=gh-tech-internships) | Gent, Belgium |  | 1d |
-| **[Devoteam](https://www.dreamworkhq.com/c/devoteam.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Platform for containerized applications](https://www.dreamworkhq.com/job/ad4a8aa2-22e4-4530-9689-193826f1db32?utm_source=github&utm_campaign=gh-tech-internships) | Machelen, Vlaams Gewest, Belgium (Hybrid) |  | 5d |
-| **[Devoteam](https://www.dreamworkhq.com/c/devoteam.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship (AI-Powered Software Factory)](https://www.dreamworkhq.com/job/94e08884-ae76-46ed-8390-dafeac466c16?utm_source=github&utm_campaign=gh-tech-internships) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 28d |
+| **[team blue](https://www.dreamworkhq.com/c/accessiway.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship/Stage Full Stack Developer (Java & React)](https://www.dreamworkhq.com/job/7d7e9e95-e74c-46da-b563-3af8e41f03b8?utm_source=github&utm_campaign=gh-tech-internships) | Gent, Belgium |  | 2d |
+| **[Devoteam](https://www.dreamworkhq.com/c/devoteam.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Platform for containerized applications](https://www.dreamworkhq.com/job/ad4a8aa2-22e4-4530-9689-193826f1db32?utm_source=github&utm_campaign=gh-tech-internships) | Machelen, Vlaams Gewest, Belgium (Hybrid) |  | 6d |
+| **[Devoteam](https://www.dreamworkhq.com/c/devoteam.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship (AI-Powered Software Factory)](https://www.dreamworkhq.com/job/94e08884-ae76-46ed-8390-dafeac466c16?utm_source=github&utm_campaign=gh-tech-internships) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 1mo |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in AI Agent Development in Deals M&A (2026-2027)](https://www.dreamworkhq.com/job/24dae90f-079f-4a72-b9b9-9e7db95d0245?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 2mo |
 | **[TechWolf](https://www.dreamworkhq.com/c/techwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Software Engineer](https://www.dreamworkhq.com/job/03e09bf0-cb87-4ada-9eea-787af96ade3b?utm_source=github&utm_campaign=gh-tech-internships) | Ghent, Vlaams Gewest, Belgium |  | 2mo |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Engineering Internship - Automation/Mechanical/Mechatronic/Data Science…](https://www.dreamworkhq.com/job/412c98ea-9787-4beb-b449-e6780ca5821e?utm_source=github&utm_campaign=gh-tech-internships) | Brussels | $31K | 2mo |
@@ -27,9 +27,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[GSKCareers](https://www.dreamworkhq.com/c/gsk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: GenAI Data Analyst, Belgium – 2026](https://www.dreamworkhq.com/job/76a18bf2-8a17-4e72-b77a-5d9e9185e8cd?utm_source=github&utm_campaign=gh-tech-internships) | Belgium-Wavre |  | 2mo |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in Data Consulting (2026-2027)](https://www.dreamworkhq.com/job/e8c8bff2-57b0-4fdc-ad0c-ce3ddfb9b683?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 2mo |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in Data Analytics in Deals M&A (2026-2027)](https://www.dreamworkhq.com/job/69f31dfc-9a60-47a5-9cff-5997d5f6236a?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 2mo |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science Internship](https://www.dreamworkhq.com/job/8e5672c0-6336-49a3-9641-290bef68f50c?utm_source=github&utm_campaign=gh-tech-internships) | Brussels | $31K | 2mo |
+| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Security - as of February 2027](https://www.dreamworkhq.com/job/c9ff194d-9151-4a80-8b0e-cf9eb46f322e?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 3mo |
 
 <!-- TABLE_END -->
