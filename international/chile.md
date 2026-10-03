@@ -1,4 +1,4 @@
-# Tech internships in Mauritius
+# Tech internships in Chile
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/4dbec656-4f4d-471c-8e9e-69f2a110ae77?utm_source=github&utm_campaign=gh-tech-internships) | Ebene |  | 2mo |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Operations Intern, Rewards](https://www.dreamworkhq.com/job/dc3a50db-4ff1-48f1-af29-937e861c6700?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Chile, Remote) |  | 0d |
 
 <!-- TABLE_END -->
