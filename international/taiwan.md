@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**35 currently open roles** · Updated **2026-10-03**
+**34 currently open roles** · Updated **2026-10-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-33) · 33 roles
-- [Other](#other-2) · 2 roles
+- [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -15,18 +15,18 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software CAD Engineer, VLSI (RDSS Intern)](https://www.dreamworkhq.com/job/7ee6805c-cc6a-457b-bcd4-e1ad308033e5?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 4d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Computing Software Development Intern - 2027](https://www.dreamworkhq.com/job/9d89bf9d-bda4-4c7d-9de0-56a1fc8e8ff3?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 4d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [System Software Engineer - USB (RDSS Intern)](https://www.dreamworkhq.com/job/39154d06-79b1-46a3-acbd-31eb53d27210?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 11d |
-| **[Tomofunfurbo](https://www.dreamworkhq.com/c/furbo.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Backend Engineering Intern](https://www.dreamworkhq.com/job/e4b10c55-3ff0-43c7-be93-659cd65819db?utm_source=github&utm_campaign=gh-tech-internships) | Taipei, Taiwan |  | 11d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Simulation and Virtualization (RDSS Intern)](https://www.dreamworkhq.com/job/67b91cce-85c2-4d78-839d-c0c4560fd3ad?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 12d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Silicon Software Engineer - System and AI (RDSS Intern)](https://www.dreamworkhq.com/job/2c0a794b-4299-4626-8d1b-e1053a8a0104?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 17d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Server Firmware Developer (RDSS Intern)](https://www.dreamworkhq.com/job/ccca641c-e57d-40c7-9e30-ce9b11443eeb?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 17d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Firmware Application Engineer (RDSS Intern)](https://www.dreamworkhq.com/job/f7c73464-7f9d-478f-aa82-8932282b180a?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 17d |
-| **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern - Core OS](https://www.dreamworkhq.com/job/05a9757d-1262-4585-8448-cbf09bd806fd?utm_source=github&utm_campaign=gh-tech-internships) | Taipei |  | 18d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [VLSI Physical Design CAD Intern - Summer 2027](https://www.dreamworkhq.com/job/befc2e52-28c8-4e29-b537-0715eebf0330?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Hsinchu |  | 18d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Physical Design Engineer (RDSS Intern)](https://www.dreamworkhq.com/job/d031c098-47b9-4363-8068-6e5a663f0228?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Hsinchu |  | 18d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Linux for Edge System Software Engineer (RDSS intern)](https://www.dreamworkhq.com/job/3f364bca-ff0e-4aa4-b265-63c6443b70e4?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 19d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software CAD Engineer, VLSI (RDSS Intern)](https://www.dreamworkhq.com/job/7ee6805c-cc6a-457b-bcd4-e1ad308033e5?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 5d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Computing Software Development Intern - 2027](https://www.dreamworkhq.com/job/9d89bf9d-bda4-4c7d-9de0-56a1fc8e8ff3?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 5d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [System Software Engineer - USB (RDSS Intern)](https://www.dreamworkhq.com/job/39154d06-79b1-46a3-acbd-31eb53d27210?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 12d |
+| **[Tomofunfurbo](https://www.dreamworkhq.com/c/furbo.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Backend Engineering Intern](https://www.dreamworkhq.com/job/e4b10c55-3ff0-43c7-be93-659cd65819db?utm_source=github&utm_campaign=gh-tech-internships) | Taipei, Taiwan |  | 12d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Simulation and Virtualization (RDSS Intern)](https://www.dreamworkhq.com/job/67b91cce-85c2-4d78-839d-c0c4560fd3ad?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 13d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Silicon Software Engineer - System and AI (RDSS Intern)](https://www.dreamworkhq.com/job/2c0a794b-4299-4626-8d1b-e1053a8a0104?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 18d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Server Firmware Developer (RDSS Intern)](https://www.dreamworkhq.com/job/ccca641c-e57d-40c7-9e30-ce9b11443eeb?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 18d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Firmware Application Engineer (RDSS Intern)](https://www.dreamworkhq.com/job/f7c73464-7f9d-478f-aa82-8932282b180a?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 18d |
+| **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern - Core OS](https://www.dreamworkhq.com/job/05a9757d-1262-4585-8448-cbf09bd806fd?utm_source=github&utm_campaign=gh-tech-internships) | Taipei |  | 19d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [VLSI Physical Design CAD Intern - Summer 2027](https://www.dreamworkhq.com/job/befc2e52-28c8-4e29-b537-0715eebf0330?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Hsinchu |  | 19d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Physical Design Engineer (RDSS Intern)](https://www.dreamworkhq.com/job/d031c098-47b9-4363-8068-6e5a663f0228?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Hsinchu |  | 19d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Linux for Edge System Software Engineer (RDSS intern)](https://www.dreamworkhq.com/job/3f364bca-ff0e-4aa4-b265-63c6443b70e4?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 20d |
 | **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [ASIC Design Engineer (RDSS Intern)](https://www.dreamworkhq.com/job/6daf78f1-9b03-4724-b7f2-6c35cbab39ba?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Hsinchu |  | 1mo |
 | **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer Technology Engineering Intern, HPC and AI - 2027](https://www.dreamworkhq.com/job/bc19e912-b9f5-4e13-a0bc-c01e571f79cd?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 1mo |
 | **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification Engineer (RDSS Intern)](https://www.dreamworkhq.com/job/f6edaaac-65bc-46c0-b055-4506dc901de3?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Hsinchu |  | 1mo |
@@ -49,11 +49,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Appier](https://www.dreamworkhq.com/c/appier.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern, Backend Development](https://www.dreamworkhq.com/job/e928c9e3-659f-4f05-a8a0-655610dddb65?utm_source=github&utm_campaign=gh-tech-internships) | Taipei, Taiwan (Hybrid) |  | 4mo |
 | **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Analog IC Design Intern - Master's Degree](https://www.dreamworkhq.com/job/cb763464-73e5-4334-a63c-a1270bc26e53?utm_source=github&utm_campaign=gh-tech-internships) | Hsinchu City |  | 4mo |
 
-### Other (2)
+### Other (1)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Philips](https://www.dreamworkhq.com/c/philips.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Data Scientist](https://www.dreamworkhq.com/job/1aa0e9be-aa41-4494-b45c-2b37c4237b1b?utm_source=github&utm_campaign=gh-tech-internships) | Taipei |  | 5d |
-| **[Appier](https://www.dreamworkhq.com/c/appier.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/37cdf9e5-7800-4366-8467-e4941e739cf2?utm_source=github&utm_campaign=gh-tech-internships) | Taipei, Taiwan |  | 4mo |
+| **[Philips](https://www.dreamworkhq.com/c/philips.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Data Scientist](https://www.dreamworkhq.com/job/1aa0e9be-aa41-4494-b45c-2b37c4237b1b?utm_source=github&utm_campaign=gh-tech-internships) | Taipei |  | 6d |
 
 <!-- TABLE_END -->

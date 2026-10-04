@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-03**
+**1 currently open roles** · Updated **2026-10-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Operations Intern, Rewards](https://www.dreamworkhq.com/job/dc3a50db-4ff1-48f1-af29-937e861c6700?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Chile, Remote) |  | 0d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Operations Intern, Rewards](https://www.dreamworkhq.com/job/dc3a50db-4ff1-48f1-af29-937e861c6700?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Chile, Remote) |  | 1d |
 
 <!-- TABLE_END -->

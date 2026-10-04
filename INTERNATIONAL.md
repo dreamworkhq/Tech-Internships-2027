@@ -2,28 +2,28 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1517 country-located roles** across **64 countries** · **5 explicitly global remote** · Updated **2026-10-03**
+**1520 country-located roles** across **64 countries** · **5 explicitly global remote** · Updated **2026-10-04**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
 | --- | ---: |
 | [Canada](international/canada.md) | 232 |
-| [Singapore](international/singapore.md) | 205 |
-| [China](international/china.md) | 101 |
-| [United Kingdom](international/united-kingdom.md) | 92 |
-| [France](international/france.md) | 81 |
-| [India](international/india.md) | 67 |
-| [Germany](international/germany.md) | 66 |
-| [Malaysia](international/malaysia.md) | 55 |
-| [Switzerland](international/switzerland.md) | 55 |
-| [Netherlands](international/netherlands.md) | 46 |
+| [Singapore](international/singapore.md) | 211 |
+| [China](international/china.md) | 104 |
+| [United Kingdom](international/united-kingdom.md) | 94 |
+| [France](international/france.md) | 79 |
+| [Germany](international/germany.md) | 67 |
+| [India](international/india.md) | 63 |
+| [Switzerland](international/switzerland.md) | 56 |
+| [Malaysia](international/malaysia.md) | 54 |
+| [Netherlands](international/netherlands.md) | 43 |
+| [Italy](international/italy.md) | 40 |
 | [Spain](international/spain.md) | 40 |
-| [Italy](international/italy.md) | 39 |
-| [Taiwan](international/taiwan.md) | 35 |
+| [Taiwan](international/taiwan.md) | 34 |
 | [Ireland](international/ireland.md) | 33 |
-| [Mexico](international/mexico.md) | 32 |
-| [Poland](international/poland.md) | 32 |
+| [Poland](international/poland.md) | 33 |
+| [Mexico](international/mexico.md) | 31 |
 | [Brazil](international/brazil.md) | 23 |
 | [Vietnam](international/vietnam.md) | 23 |
 | [Hong Kong SAR China](international/hong-kong-sar-china.md) | 19 |
@@ -31,19 +31,19 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Belgium](international/belgium.md) | 15 |
 | [Colombia](international/colombia.md) | 15 |
 | [New Zealand](international/new-zealand.md) | 15 |
-| [Philippines](international/philippines.md) | 15 |
-| [Israel](international/israel.md) | 10 |
+| [Philippines](international/philippines.md) | 14 |
+| [Israel](international/israel.md) | 12 |
 | [Thailand](international/thailand.md) | 9 |
 | [Ukraine](international/ukraine.md) | 9 |
 | [Austria](international/austria.md) | 8 |
 | [Czechia](international/czechia.md) | 8 |
 | [Denmark](international/denmark.md) | 8 |
 | [Indonesia](international/indonesia.md) | 8 |
+| [Australia](international/australia.md) | 7 |
 | [Peru](international/peru.md) | 7 |
 | [Romania](international/romania.md) | 7 |
 | [Serbia](international/serbia.md) | 7 |
 | [South Korea](international/south-korea.md) | 7 |
-| [Australia](international/australia.md) | 6 |
 | [Argentina](international/argentina.md) | 5 |
 | [Costa Rica](international/costa-rica.md) | 5 |
 | [Egypt](international/egypt.md) | 5 |
@@ -52,14 +52,14 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Sri Lanka](international/sri-lanka.md) | 5 |
 | [Japan](international/japan.md) | 4 |
 | [Luxembourg](international/luxembourg.md) | 4 |
-| [Bulgaria](international/bulgaria.md) | 3 |
 | [Norway](international/norway.md) | 3 |
 | [Slovakia](international/slovakia.md) | 3 |
-| [Türkiye](international/turkiye.md) | 3 |
+| [Bulgaria](international/bulgaria.md) | 2 |
 | [Lithuania](international/lithuania.md) | 2 |
 | [Russia](international/russia.md) | 2 |
 | [South Africa](international/south-africa.md) | 2 |
 | [Sweden](international/sweden.md) | 2 |
+| [Türkiye](international/turkiye.md) | 2 |
 | [United Arab Emirates](international/united-arab-emirates.md) | 2 |
 | [Cambodia](international/cambodia.md) | 1 |
 | [Chile](international/chile.md) | 1 |

@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-03T17:40:25.008Z",
+  "generatedAt": "2026-10-04T17:58:32.082Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "international",
-  "count": 1518,
+  "count": 1521,
   "countryCounts": {
     "AE": 2,
     "AR": 5,
     "AT": 8,
-    "AU": 6,
+    "AU": 7,
     "BE": 15,
-    "BG": 3,
+    "BG": 2,
     "BR": 23,
     "CA": 232,
-    "CH": 55,
+    "CH": 56,
     "CL": 1,
-    "CN": 101,
+    "CN": 104,
     "CO": 15,
     "CR": 5,
     "CZ": 8,
-    "DE": 66,
+    "DE": 67,
     "DK": 8,
     "EG": 5,
     "ES": 40,
     "FI": 1,
-    "FR": 81,
-    "GB": 92,
+    "FR": 79,
+    "GB": 94,
     "GR": 5,
     "HK": 19,
     "HU": 5,
     "ID": 8,
     "IE": 33,
-    "IL": 10,
-    "IN": 67,
-    "IT": 39,
+    "IL": 12,
+    "IN": 63,
+    "IT": 40,
     "JP": 4,
     "KE": 1,
     "KH": 1,
@@ -44,14 +44,14 @@
     "MA": 1,
     "MT": 1,
     "MU": 1,
-    "MX": 32,
-    "MY": 55,
-    "NL": 46,
+    "MX": 31,
+    "MY": 54,
+    "NL": 43,
     "NO": 3,
     "NZ": 15,
     "PE": 7,
-    "PH": 15,
-    "PL": 32,
+    "PH": 14,
+    "PL": 33,
     "PR": 1,
     "PT": 16,
     "QA": 1,
@@ -60,18 +60,343 @@
     "RU": 2,
     "SA": 1,
     "SE": 2,
-    "SG": 205,
+    "SG": 211,
     "SK": 3,
     "SR": 1,
     "TH": 9,
-    "TR": 3,
-    "TW": 35,
+    "TR": 2,
+    "TW": 34,
     "UA": 9,
     "VN": 23,
     "ZA": 2
   },
   "globalRemoteCount": 5,
   "listings": [
+    {
+      "id": "f4ebd219-6003-4836-833a-c6761a2373d8",
+      "title": "Software Developer Intern- 2027 Glasgow Summer R&D Internship",
+      "company": "SAS",
+      "companyDomain": "sas.com",
+      "location": "Glasgow, UK",
+      "locationCountryCode": "GB",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-10-02T04:00:00.000Z",
+      "firstIndexedAt": "2026-10-04T13:15:20.939Z",
+      "url": "https://www.dreamworkhq.com/job/f4ebd219-6003-4836-833a-c6761a2373d8?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "1621f4cb-a06d-4373-b826-93d4a180baf6",
+      "title": "Victorian Government Cyber Internship Program",
+      "company": "Hoban Recruitment",
+      "companyDomain": "hoban.com.au",
+      "location": "Melbourne VIC",
+      "locationCountryCode": "AU",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-09-28T00:51:36.000Z",
+      "firstIndexedAt": "2026-10-04T12:54:05.698Z",
+      "url": "https://www.dreamworkhq.com/job/1621f4cb-a06d-4373-b826-93d4a180baf6?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "12bad9a4-18af-4713-9b3e-6d7d8ac29dce",
+      "title": "AI/ML Software Engineer Intern",
+      "company": "Agilent",
+      "companyDomain": "agilent.com",
+      "location": "China-Shanghai",
+      "locationCountryCode": "CN",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T12:33:13.615Z",
+      "url": "https://www.dreamworkhq.com/job/12bad9a4-18af-4713-9b3e-6d7d8ac29dce?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "3529230d-e867-4337-b8f9-5d962047dde9",
+      "title": "Engineering Internship – AI Applications in Manufacturing & Quality",
+      "company": "Agilent",
+      "companyDomain": "agilent.com",
+      "location": "Italy-Torino",
+      "locationCountryCode": "IT",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T12:33:13.615Z",
+      "url": "https://www.dreamworkhq.com/job/3529230d-e867-4337-b8f9-5d962047dde9?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "3d983549-4767-4536-947c-1368e85cec8f",
+      "title": "Research Intern (PhD), FPGA & Silicon Prototyping",
+      "company": "Marvell Technology",
+      "companyDomain": "marvell.com",
+      "location": "Hyderabad",
+      "locationCountryCode": "IN",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-10-04T14:01:32.661Z",
+      "firstIndexedAt": "2026-10-04T12:02:37.547Z",
+      "url": "https://www.dreamworkhq.com/job/3d983549-4767-4536-947c-1368e85cec8f?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "b5f5780e-eca3-4fc2-9f84-0d051a6a39b4",
+      "title": "Digital IC Design- Intern",
+      "company": "Marvell Technology",
+      "companyDomain": "marvell.com",
+      "location": "Yokneam",
+      "locationCountryCode": "IL",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-10-04T14:01:32.522Z",
+      "firstIndexedAt": "2026-10-04T12:02:37.547Z",
+      "url": "https://www.dreamworkhq.com/job/b5f5780e-eca3-4fc2-9f84-0d051a6a39b4?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "41a3a7ce-c489-4116-a9c9-4c8f3ba6b4bb",
+      "title": "Winter 2027: AI Developer Co-op (4 months)",
+      "company": "CGI",
+      "companyDomain": "cgi.com",
+      "location": "Toronto, Ontario, Canada",
+      "locationCountryCode": "CA",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-10-03T12:36:51.000Z",
+      "firstIndexedAt": "2026-10-04T02:37:11.747Z",
+      "url": "https://www.dreamworkhq.com/job/41a3a7ce-c489-4116-a9c9-4c8f3ba6b4bb?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "7e531699-916d-480c-b208-b824dab0c658",
+      "title": "Co-Op Student - Data Engineer, AI Readiness (Medical-Legal Data)",
+      "company": "Cmpa/Acpm",
+      "companyDomain": "cmpa.org",
+      "location": "Ottawa, Ontario",
+      "locationCountryCode": "CA",
+      "remoteType": "remote",
+      "globalRemote": false,
+      "postedAt": "2026-10-03T15:06:18.000Z",
+      "firstIndexedAt": "2026-10-04T02:36:46.599Z",
+      "url": "https://www.dreamworkhq.com/job/7e531699-916d-480c-b208-b824dab0c658?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "6bef0a65-b77d-453f-8c7a-39d252e70c9b",
+      "title": "Data Center Technician Intern, 2027",
+      "company": "Google",
+      "companyDomain": "google.com",
+      "location": "London, UK",
+      "locationCountryCode": "GB",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-10-03T11:03:17.000Z",
+      "firstIndexedAt": "2026-10-04T02:36:45.775Z",
+      "url": "https://www.dreamworkhq.com/job/6bef0a65-b77d-453f-8c7a-39d252e70c9b?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "eca94214-c17b-48ee-a733-4c19a0a779fa",
+      "title": "Associate Product Manager BS/MS Intern, 2027",
+      "company": "Google",
+      "companyDomain": "google.com",
+      "location": "London, UK",
+      "locationCountryCode": "GB",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-10-03T05:45:33.000Z",
+      "firstIndexedAt": "2026-10-04T02:36:37.498Z",
+      "url": "https://www.dreamworkhq.com/job/eca94214-c17b-48ee-a733-4c19a0a779fa?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "0439ac64-0a71-40d8-9eef-5fde2ef034cc",
+      "title": "Summer Internship - Cyber / AI Consultant - 2027",
+      "company": "TTP",
+      "companyDomain": "ttp.com",
+      "location": "Melbourn, Royston, UK",
+      "locationCountryCode": "GB",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-10-03T08:08:18.000Z",
+      "firstIndexedAt": "2026-10-04T02:36:36.787Z",
+      "url": "https://www.dreamworkhq.com/job/0439ac64-0a71-40d8-9eef-5fde2ef034cc?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "25c4865e-7ceb-47dd-9997-de9b5b5f179d",
+      "title": "Co-Op Student - Data Engineer, AI Readiness (Medical-Legal Data)",
+      "company": "Carrières CMPA/ACPM",
+      "companyDomain": "cmpa.ca",
+      "location": "Ottawa, Ontario",
+      "locationCountryCode": "CA",
+      "remoteType": "remote",
+      "globalRemote": false,
+      "postedAt": "2026-10-03T01:30:39.000Z",
+      "firstIndexedAt": "2026-10-04T02:36:31.240Z",
+      "url": "https://www.dreamworkhq.com/job/25c4865e-7ceb-47dd-9997-de9b5b5f179d?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "e11f7c28-0b48-47f7-93b8-0b740064ab52",
+      "title": "Let's begin! Software Engineering Summer Intern",
+      "company": "Moody's",
+      "companyDomain": "moodys.com",
+      "location": "Edinburgh - 7 Exchange Crescent",
+      "locationCountryCode": "GB",
+      "remoteType": "hybrid",
+      "globalRemote": false,
+      "postedAt": "2026-10-03T12:14:37.000Z",
+      "firstIndexedAt": "2026-10-04T02:32:00.463Z",
+      "url": "https://www.dreamworkhq.com/job/e11f7c28-0b48-47f7-93b8-0b740064ab52?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "8460c1be-b1f4-4e23-ac1d-61821b1d6be8",
+      "title": "Product Intern",
+      "company": "Titan OS",
+      "companyDomain": "titanosapp.com",
+      "location": "Barcelona, Catalonia, Spain",
+      "locationCountryCode": "ES",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-10-03T20:30:41.000Z",
+      "firstIndexedAt": "2026-10-04T02:31:48.908Z",
+      "url": "https://www.dreamworkhq.com/job/8460c1be-b1f4-4e23-ac1d-61821b1d6be8?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "6480969b-a668-4907-9dcb-83a4e57cfd0f",
+      "title": "IT Support Intern",
+      "company": "Wsa Apac",
+      "companyDomain": "wsaudiology.com",
+      "location": "18 Tai Seng, Singapore, 539775 Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-10-03T08:25:47.000Z",
+      "firstIndexedAt": "2026-10-04T02:31:04.891Z",
+      "url": "https://www.dreamworkhq.com/job/6480969b-a668-4907-9dcb-83a4e57cfd0f?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "0297254b-81c5-4776-a9f0-da3685c6c8cf",
+      "title": "Cybersecurity Engineering Internship",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": "Malaysia (Selangor)",
+      "locationCountryCode": "MY",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/0297254b-81c5-4776-a9f0-da3685c6c8cf?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "07c7ca32-11f7-45d0-9d2f-437c54fddd5e",
+      "title": "Intern, Full-Stack Software Engineer",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": null,
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/07c7ca32-11f7-45d0-9d2f-437c54fddd5e?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "0e9b6da3-9f1f-4537-a89e-5c1ca1f8b536",
+      "title": "Intern, Security Testing & Red Team",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": "Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/0e9b6da3-9f1f-4537-a89e-5c1ca1f8b536?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "1d68584b-e20b-4e79-a9d1-4387a3f414d8",
+      "title": "Intern, Cyber Threat Intel",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": "Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/1d68584b-e20b-4e79-a9d1-4387a3f414d8?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "25a08a0b-39e4-4b9f-ad5e-568f7d40e0c8",
+      "title": "Intern, Security Testing and Red Team",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": "Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/25a08a0b-39e4-4b9f-ad5e-568f7d40e0c8?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "364a24ea-d6c3-469d-b5ec-7b646ac66856",
+      "title": "Intern, Cyber Hunt & Response",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": "Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/364a24ea-d6c3-469d-b5ec-7b646ac66856?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "44892cd0-df9b-4e65-84f4-fc0387cf0809",
+      "title": "Intern, Security Engineering",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": "Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/44892cd0-df9b-4e65-84f4-fc0387cf0809?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "5059927e-c5a3-46b0-b0a4-a335a7094726",
+      "title": "Intern, Cyber Trust",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": "Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/5059927e-c5a3-46b0-b0a4-a335a7094726?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "6c5dc5ad-9457-44e5-b49f-4a36ea0e5e19",
+      "title": "Intern, Machine Learning Ops",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": null,
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": null,
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/6c5dc5ad-9457-44e5-b49f-4a36ea0e5e19?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "d0e738b7-db87-425f-95be-4d55c80545ca",
+      "title": "Intern, AI Engineer",
+      "company": "Ensigninfosecurity",
+      "companyDomain": "ensigninfosecurity.com",
+      "location": "Singapore",
+      "locationCountryCode": "SG",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-09-22T14:16:53.683Z",
+      "firstIndexedAt": "2026-10-04T00:32:11.938Z",
+      "url": "https://www.dreamworkhq.com/job/d0e738b7-db87-425f-95be-4d55c80545ca?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "2e3b5d29-da9c-4cf1-82fe-a8222c432080",
       "title": "Software Engineer Intern - Industrialization",
@@ -107,7 +432,7 @@
       "locationCountryCode": "ES",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-09-21T11:45:34.923Z",
+      "postedAt": "2026-09-22T02:16:38.643Z",
       "firstIndexedAt": "2026-10-03T10:31:16.054Z",
       "url": "https://www.dreamworkhq.com/job/21301e04-8850-4001-bbe5-787afd89e3c6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -120,7 +445,7 @@
       "locationCountryCode": "ES",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-09-21T11:45:35.014Z",
+      "postedAt": "2026-09-22T02:16:38.655Z",
       "firstIndexedAt": "2026-10-03T10:31:16.054Z",
       "url": "https://www.dreamworkhq.com/job/71ffa1f4-0ba2-4c91-9721-6bf24beef150?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -133,7 +458,7 @@
       "locationCountryCode": "ES",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-09-21T11:45:34.979Z",
+      "postedAt": "2026-09-22T02:16:38.628Z",
       "firstIndexedAt": "2026-10-03T10:31:16.054Z",
       "url": "https://www.dreamworkhq.com/job/f1600732-c1e5-4ba7-8b03-74241504a45d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -177,19 +502,6 @@
       "url": "https://www.dreamworkhq.com/job/e8156d19-f18e-4dd1-b6cf-1b9227a51f7f?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "b680239f-7940-46af-8e63-a3ee8ad2ec6b",
-      "title": "Associate Product Manager BS/MS Intern, 2027",
-      "company": "Google",
-      "companyDomain": "google.com",
-      "location": "London, UK",
-      "locationCountryCode": "GB",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": null,
-      "firstIndexedAt": "2026-10-03T10:04:16.910Z",
-      "url": "https://www.dreamworkhq.com/job/b680239f-7940-46af-8e63-a3ee8ad2ec6b?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "fd0d359d-1416-41a0-ac96-916a760f1c7f",
       "title": "Hardware/Electrical Engineering BS/MS Intern, 2027",
       "company": "Google",
@@ -216,19 +528,6 @@
       "url": "https://www.dreamworkhq.com/job/2f8a24f0-53a0-4eed-9f86-f582c7d826d4?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "f6df145c-f6ec-4b0b-809e-1004e4db41a2",
-      "title": "Data Center Technician Intern, 2027",
-      "company": "Google",
-      "companyDomain": "google.com",
-      "location": "London, UK",
-      "locationCountryCode": "GB",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": null,
-      "firstIndexedAt": "2026-10-03T10:02:59.494Z",
-      "url": "https://www.dreamworkhq.com/job/f6df145c-f6ec-4b0b-809e-1004e4db41a2?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "78923a77-bce5-4c79-b40a-c6c1abc33215",
       "title": "Data Center Technician Intern, 2027",
       "company": "Google",
@@ -253,19 +552,6 @@
       "postedAt": null,
       "firstIndexedAt": "2026-10-03T10:02:56.483Z",
       "url": "https://www.dreamworkhq.com/job/dfa8d2ec-7ed7-464c-a1da-1abceb0bc41a?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "0aa1f1a3-5a77-4ba0-92bd-1b79deef17aa",
-      "title": "Software Developer Intern- 2027 Glasgow Summer R&D Internship",
-      "company": "SAS",
-      "companyDomain": "sas.com",
-      "location": "Glasgow, UK",
-      "locationCountryCode": "GB",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-10-02T04:00:00.000Z",
-      "firstIndexedAt": "2026-10-03T09:45:48.037Z",
-      "url": "https://www.dreamworkhq.com/job/0aa1f1a3-5a77-4ba0-92bd-1b79deef17aa?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "7b23c5d2-7288-4ace-8866-b78598d73c70",
@@ -341,7 +627,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-02T17:33:05.161Z",
+      "postedAt": "2026-10-02T17:47:07.943Z",
       "firstIndexedAt": "2026-10-03T03:44:39.392Z",
       "url": "https://www.dreamworkhq.com/job/21d8a520-63c9-4fa2-89e8-0281f5c3e295?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -354,7 +640,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-02T07:31:53.317Z",
+      "postedAt": "2026-10-03T02:54:38.245Z",
       "firstIndexedAt": "2026-10-03T03:39:23.022Z",
       "url": "https://www.dreamworkhq.com/job/7c3faa1d-f3c6-4d13-97f0-68c27b48ac94?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -367,7 +653,7 @@
       "locationCountryCode": "IN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-03T03:12:16.990Z",
+      "postedAt": "2026-10-03T06:27:54.552Z",
       "firstIndexedAt": "2026-10-03T03:12:18.567Z",
       "url": "https://www.dreamworkhq.com/job/6d0150fa-9f48-4def-bf95-131ad5c76fa6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -549,7 +835,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-02T17:09:21.942Z",
+      "postedAt": "2026-10-03T05:17:34.631Z",
       "firstIndexedAt": "2026-10-02T23:15:46.806Z",
       "url": "https://www.dreamworkhq.com/job/8bcf887f-c2ab-4a48-bb1e-5e39e38ce52f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -718,7 +1004,7 @@
       "locationCountryCode": "HK",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T16:58:38.998Z",
+      "postedAt": "2026-10-02T17:19:06.158Z",
       "firstIndexedAt": "2026-10-02T19:16:15.616Z",
       "url": "https://www.dreamworkhq.com/job/04063a4b-ff91-4515-936c-0a63e525c1d4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -731,7 +1017,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T11:18:16.395Z",
+      "postedAt": "2026-10-02T11:33:53.249Z",
       "firstIndexedAt": "2026-10-02T18:39:14.853Z",
       "url": "https://www.dreamworkhq.com/job/acb73c2e-3777-438a-9e2f-f41a13cf0930?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -744,7 +1030,7 @@
       "locationCountryCode": "LK",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-30T09:15:26.049Z",
+      "postedAt": "2026-09-30T09:30:24.347Z",
       "firstIndexedAt": "2026-10-02T18:31:39.512Z",
       "url": "https://www.dreamworkhq.com/job/ecc5abaf-75f1-4272-b4bb-3941e69028d6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -770,7 +1056,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-02T14:51:56.564Z",
+      "postedAt": "2026-10-03T03:02:40.583Z",
       "firstIndexedAt": "2026-10-02T18:21:24.792Z",
       "url": "https://www.dreamworkhq.com/job/9fdefd56-ee19-4ccc-bd31-ae0e801ea2cb?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -783,7 +1069,7 @@
       "locationCountryCode": "BE",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T09:33:08.445Z",
+      "postedAt": "2026-10-02T09:47:54.270Z",
       "firstIndexedAt": "2026-10-02T17:39:28.844Z",
       "url": "https://www.dreamworkhq.com/job/02744674-6d9b-452a-b509-793a8fd17fc8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -796,7 +1082,7 @@
       "locationCountryCode": "IT",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T09:33:08.340Z",
+      "postedAt": "2026-10-02T09:47:54.068Z",
       "firstIndexedAt": "2026-10-02T17:39:28.844Z",
       "url": "https://www.dreamworkhq.com/job/5d8a713c-0927-4c91-852c-e1c3d14456da?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -809,7 +1095,7 @@
       "locationCountryCode": "VN",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T09:33:08.479Z",
+      "postedAt": "2026-10-02T09:47:54.189Z",
       "firstIndexedAt": "2026-10-02T17:39:28.844Z",
       "url": "https://www.dreamworkhq.com/job/9c7db04c-d0c2-474f-b2f0-b4b8bab2f254?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -822,7 +1108,7 @@
       "locationCountryCode": "CH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-02T19:35:04.671Z",
+      "postedAt": "2026-10-02T16:50:31.455Z",
       "firstIndexedAt": "2026-10-02T17:22:42.848Z",
       "url": "https://www.dreamworkhq.com/job/21ffa6fd-c5c6-4ebe-a6c6-8d993e7b727e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -848,7 +1134,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T12:09:42.345Z",
+      "postedAt": "2026-10-02T14:01:32.894Z",
       "firstIndexedAt": "2026-10-02T16:19:01.703Z",
       "url": "https://www.dreamworkhq.com/job/54c15c5b-5ebc-4c69-9b87-a73502e07b94?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -861,7 +1147,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T12:09:42.369Z",
+      "postedAt": "2026-10-02T14:01:32.980Z",
       "firstIndexedAt": "2026-10-02T16:19:01.703Z",
       "url": "https://www.dreamworkhq.com/job/cae86364-2576-47cf-a0fa-bb3e42d2914d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -900,7 +1186,7 @@
       "locationCountryCode": "BR",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-30T04:22:58.881Z",
+      "postedAt": "2026-09-30T04:30:53.871Z",
       "firstIndexedAt": "2026-10-02T14:34:07.328Z",
       "url": "https://www.dreamworkhq.com/job/8ac3d00c-6a7b-48f5-86d1-b8dfff17ff00?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -913,7 +1199,7 @@
       "locationCountryCode": "BE",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T16:23:50.543Z",
+      "postedAt": "2026-10-03T06:04:09.598Z",
       "firstIndexedAt": "2026-10-02T14:08:07.239Z",
       "url": "https://www.dreamworkhq.com/job/400176b5-c93c-4b15-aff0-621c96adba72?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -939,7 +1225,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-01T17:33:05.660Z",
+      "postedAt": "2026-10-01T17:47:08.343Z",
       "firstIndexedAt": "2026-10-02T13:22:48.030Z",
       "url": "https://www.dreamworkhq.com/job/b6326a23-1c1b-4dda-b54c-2f3b945b8e9e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -952,7 +1238,7 @@
       "locationCountryCode": "BE",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T16:23:50.543Z",
+      "postedAt": "2026-10-03T06:04:09.924Z",
       "firstIndexedAt": "2026-10-02T12:51:35.210Z",
       "url": "https://www.dreamworkhq.com/job/2b0887dd-09be-4e6b-8c13-1882bdcdda81?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1030,7 +1316,7 @@
       "locationCountryCode": "MX",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-01T14:20:08.392Z",
+      "postedAt": "2026-10-01T17:38:11.471Z",
       "firstIndexedAt": "2026-10-02T04:46:47.018Z",
       "url": "https://www.dreamworkhq.com/job/44c1edde-c959-4ead-996c-3082ead462c4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1264,7 +1550,7 @@
       "locationCountryCode": "CR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-02T05:34:10.783Z",
+      "postedAt": "2026-10-01T07:52:08.462Z",
       "firstIndexedAt": "2026-10-02T01:11:05.367Z",
       "url": "https://www.dreamworkhq.com/job/70b99d26-6ff9-42fd-b7c3-7cb8b70dc6bb?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1277,7 +1563,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T08:03:27.981Z",
+      "postedAt": "2026-09-24T08:15:36.702Z",
       "firstIndexedAt": "2026-10-02T00:31:19.190Z",
       "url": "https://www.dreamworkhq.com/job/0b3f8193-0fe3-45f6-810b-8b1b4673cde0?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1290,7 +1576,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-24T08:03:28.087Z",
+      "postedAt": "2026-09-24T08:15:36.504Z",
       "firstIndexedAt": "2026-10-02T00:31:19.190Z",
       "url": "https://www.dreamworkhq.com/job/167db811-a213-4c84-b398-3eb464f86eb1?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1303,7 +1589,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T08:03:27.659Z",
+      "postedAt": "2026-09-24T08:15:37.196Z",
       "firstIndexedAt": "2026-10-02T00:31:19.190Z",
       "url": "https://www.dreamworkhq.com/job/4a3d4cf6-2957-44b6-8585-09e543094b32?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1316,7 +1602,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T08:03:27.665Z",
+      "postedAt": "2026-09-24T08:15:36.670Z",
       "firstIndexedAt": "2026-10-02T00:31:19.190Z",
       "url": "https://www.dreamworkhq.com/job/8ca13e0a-189c-491f-9df2-94a80987fd12?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1329,7 +1615,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T08:03:27.966Z",
+      "postedAt": "2026-09-24T08:15:37.170Z",
       "firstIndexedAt": "2026-10-02T00:31:19.190Z",
       "url": "https://www.dreamworkhq.com/job/9e26ed91-21d3-4668-93a4-433433b4d607?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1355,7 +1641,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T16:35:45.242Z",
+      "postedAt": "2026-10-01T09:16:14.597Z",
       "firstIndexedAt": "2026-10-01T23:01:55.400Z",
       "url": "https://www.dreamworkhq.com/job/98b3e226-b5d4-4f9f-b428-a3da11c349c6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1368,7 +1654,7 @@
       "locationCountryCode": "MX",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-01T14:47:10.190Z",
+      "postedAt": "2026-10-01T17:10:04.018Z",
       "firstIndexedAt": "2026-10-01T22:54:36.518Z",
       "url": "https://www.dreamworkhq.com/job/a532ff72-ac1a-4f66-bdbf-3715e5dad6e3?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1381,7 +1667,7 @@
       "locationCountryCode": "MX",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T17:33:05.780Z",
+      "postedAt": "2026-10-01T17:47:08.480Z",
       "firstIndexedAt": "2026-10-01T22:27:00.317Z",
       "url": "https://www.dreamworkhq.com/job/e2127e66-b38a-4069-afe3-2cabb8479d42?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1407,7 +1693,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T17:16:26.731Z",
+      "postedAt": "2026-10-01T17:32:56.479Z",
       "firstIndexedAt": "2026-10-01T20:49:04.007Z",
       "url": "https://www.dreamworkhq.com/job/468bc7ec-4a79-49fc-8a30-49cc2aa72202?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1420,7 +1706,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T17:16:26.659Z",
+      "postedAt": "2026-10-01T17:32:56.417Z",
       "firstIndexedAt": "2026-10-01T20:49:04.007Z",
       "url": "https://www.dreamworkhq.com/job/62ade406-b548-4368-9577-d3fbd3aff9c4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1433,7 +1719,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T17:16:26.784Z",
+      "postedAt": "2026-10-01T17:32:56.472Z",
       "firstIndexedAt": "2026-10-01T20:49:04.007Z",
       "url": "https://www.dreamworkhq.com/job/87a6c18c-7dc8-4096-94e5-53c7dde8ee56?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1446,7 +1732,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T17:16:26.697Z",
+      "postedAt": "2026-10-01T17:32:56.516Z",
       "firstIndexedAt": "2026-10-01T20:49:04.007Z",
       "url": "https://www.dreamworkhq.com/job/cdc23887-b3a3-4b51-8696-88044637bfa1?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1576,7 +1862,7 @@
       "locationCountryCode": "SG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-02T02:47:36.219Z",
+      "postedAt": "2026-10-02T03:01:38.209Z",
       "firstIndexedAt": "2026-10-01T17:22:57.695Z",
       "url": "https://www.dreamworkhq.com/job/da20ed60-49fb-4fe4-af1f-9649fe7a1f31?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1589,7 +1875,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-02T12:05:30.961Z",
+      "postedAt": "2026-10-03T02:52:19.395Z",
       "firstIndexedAt": "2026-10-01T17:20:39.644Z",
       "url": "https://www.dreamworkhq.com/job/5bb010ba-dc51-424b-b7aa-4138f049cbf9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1605,32 +1891,6 @@
       "postedAt": "2026-10-02T10:18:58.148Z",
       "firstIndexedAt": "2026-10-01T17:19:36.772Z",
       "url": "https://www.dreamworkhq.com/job/a14847fc-25e8-4b39-8b63-0008320e7b2b?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "682d3bd0-54b1-40d9-84d5-c7ebbc6ad5d5",
-      "title": "Software Engineer Intern (Located in Bengaluru)",
-      "company": "Knowbe4",
-      "companyDomain": "knowbe4.com",
-      "location": "Bangalore, Karnataka, India",
-      "locationCountryCode": "IN",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-10-01T16:13:43.000Z",
-      "firstIndexedAt": "2026-10-01T16:45:26.078Z",
-      "url": "https://www.dreamworkhq.com/job/682d3bd0-54b1-40d9-84d5-c7ebbc6ad5d5?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "c2aac488-53a1-4ead-a291-4748bee5b2a5",
-      "title": "Software Engineer Intern (Located in Kochi)",
-      "company": "Knowbe4",
-      "companyDomain": "knowbe4.com",
-      "location": "Kochi, India",
-      "locationCountryCode": "IN",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-10-01T16:13:49.000Z",
-      "firstIndexedAt": "2026-10-01T16:45:26.078Z",
-      "url": "https://www.dreamworkhq.com/job/c2aac488-53a1-4ead-a291-4748bee5b2a5?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "57857cd5-ec84-46f7-a57d-35c3d7e00cb5",
@@ -1693,7 +1953,7 @@
       "locationCountryCode": "TR",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-01T15:49:19.739Z",
+      "postedAt": "2026-10-02T06:09:51.309Z",
       "firstIndexedAt": "2026-10-01T15:41:06.986Z",
       "url": "https://www.dreamworkhq.com/job/08fced5c-c73f-42de-90bc-066c7d70a73d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1732,7 +1992,7 @@
       "locationCountryCode": "TH",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T10:45:56.969Z",
+      "postedAt": "2026-10-01T13:01:24.533Z",
       "firstIndexedAt": "2026-10-01T14:20:23.918Z",
       "url": "https://www.dreamworkhq.com/job/cc9e97a0-4882-48a1-9333-08ce3cf47df1?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1745,7 +2005,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-01T13:08:52.766Z",
+      "postedAt": "2026-10-01T13:17:11.733Z",
       "firstIndexedAt": "2026-10-01T13:48:29.887Z",
       "url": "https://www.dreamworkhq.com/job/0c6c64a9-bef1-45be-9497-3d01cc57f463?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1823,7 +2083,7 @@
       "locationCountryCode": "ES",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-01T15:59:32.677Z",
+      "postedAt": "2026-10-02T06:55:16.972Z",
       "firstIndexedAt": "2026-10-01T10:48:12.422Z",
       "url": "https://www.dreamworkhq.com/job/e43d47b8-2de1-494b-9cbd-ce8035edcfea?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2057,7 +2317,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-30T09:33:08.444Z",
+      "postedAt": "2026-09-30T09:47:54.209Z",
       "firstIndexedAt": "2026-10-01T06:46:09.137Z",
       "url": "https://www.dreamworkhq.com/job/daecc901-bc9f-4c91-b972-824ffa193d86?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2140,6 +2400,19 @@
       "url": "https://www.dreamworkhq.com/job/f63f7bb4-4b82-444b-b1f1-805c0d8e3947?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
+      "id": "e4700459-2998-4bd6-9dee-941a9e06d040",
+      "title": "Winter 2027 Co-op: Junior Developer (8 months)",
+      "company": "CGI",
+      "companyDomain": "cgi.com",
+      "location": "Montréal, Quebec, Canada",
+      "locationCountryCode": "CA",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-09-30T16:06:55.000Z",
+      "firstIndexedAt": "2026-10-01T03:02:22.496Z",
+      "url": "https://www.dreamworkhq.com/job/e4700459-2998-4bd6-9dee-941a9e06d040?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
       "id": "dc86b78b-da5f-4b9e-b9bf-eea369f29617",
       "title": "Webflow Developer Intern",
       "company": "Alaan",
@@ -2213,7 +2486,7 @@
       "locationCountryCode": "CR",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-30T17:33:06.347Z",
+      "postedAt": "2026-09-30T17:47:09.057Z",
       "firstIndexedAt": "2026-10-01T02:33:31.598Z",
       "url": "https://www.dreamworkhq.com/job/cd3f82c9-b021-43f4-b4e7-c4e1563a3d49?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2283,19 +2556,6 @@
       "url": "https://www.dreamworkhq.com/job/e178ef96-cde6-4bf7-ae2b-2dfb5dc99b1a?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "235df4e1-563b-4ef3-91de-1b07631fbcbd",
-      "title": "Winter 2027 Co-op: Junior Developer (8 months)",
-      "company": "CGI",
-      "companyDomain": "cgi.com",
-      "location": "Montréal, Quebec, Canada",
-      "locationCountryCode": "CA",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-09-30T03:50:33.000Z",
-      "firstIndexedAt": "2026-10-01T02:31:10.544Z",
-      "url": "https://www.dreamworkhq.com/job/235df4e1-563b-4ef3-91de-1b07631fbcbd?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "b0777609-ba14-4732-a3a3-ad2718c05a08",
       "title": "Tool Design Intern",
       "company": "RTX (Raytheon)",
@@ -2304,7 +2564,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-30T17:39:28.984Z",
+      "postedAt": "2026-09-30T18:03:23.851Z",
       "firstIndexedAt": "2026-10-01T01:50:56.495Z",
       "url": "https://www.dreamworkhq.com/job/b0777609-ba14-4732-a3a3-ad2718c05a08?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2369,7 +2629,7 @@
       "locationCountryCode": "RU",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-30T12:05:32.593Z",
+      "postedAt": "2026-10-01T02:52:21.499Z",
       "firstIndexedAt": "2026-09-30T23:17:19.528Z",
       "url": "https://www.dreamworkhq.com/job/7689b08d-2fb7-4bf2-af67-f4385c8c2b77?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2382,7 +2642,7 @@
       "locationCountryCode": "NO",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T16:49:38.661Z",
+      "postedAt": "2026-10-01T17:03:24.994Z",
       "firstIndexedAt": "2026-09-30T22:55:30.209Z",
       "url": "https://www.dreamworkhq.com/job/0c7b6059-e8f9-4b7b-8f13-d7dab31d699d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2395,33 +2655,20 @@
       "locationCountryCode": "CR",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-30T17:33:06.594Z",
+      "postedAt": "2026-09-30T17:47:09.301Z",
       "firstIndexedAt": "2026-09-30T21:39:03.193Z",
       "url": "https://www.dreamworkhq.com/job/f13b14e7-7b39-4318-9508-682cf12c8f6d?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "41418d36-4dff-4320-8c7a-5320e7a7db6c",
-      "title": "Software Developer Intern - SOTI MobiControl Apple HQ (January 2027 12 Months)",
-      "company": "SOTI",
-      "companyDomain": "soti.net",
-      "location": "Mississauga, Canada – Meadowvale Office (HQ)",
-      "locationCountryCode": "CA",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-09-30T11:11:25.691Z",
-      "firstIndexedAt": "2026-09-30T20:09:42.001Z",
-      "url": "https://www.dreamworkhq.com/job/41418d36-4dff-4320-8c7a-5320e7a7db6c?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "10405e86-be37-44b9-acc6-ede5d29919a7",
       "title": "Deep Learning Performance Software Intern - 2027",
       "company": "Nvidia",
       "companyDomain": "nvidia.com",
-      "location": "China, Shanghai",
+      "location": "2 Locations",
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-30T15:38:19.748Z",
+      "postedAt": "2026-09-30T17:39:09.903Z",
       "firstIndexedAt": "2026-09-30T18:17:45.950Z",
       "url": "https://www.dreamworkhq.com/job/10405e86-be37-44b9-acc6-ede5d29919a7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2434,7 +2681,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-30T15:38:19.705Z",
+      "postedAt": "2026-09-30T17:39:09.903Z",
       "firstIndexedAt": "2026-09-30T18:17:45.950Z",
       "url": "https://www.dreamworkhq.com/job/88d42846-c7f3-44d7-a159-1415cc9cc7f7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2443,11 +2690,11 @@
       "title": "Developer Technology Engineering Intern - Compute Performance",
       "company": "Nvidia",
       "companyDomain": "nvidia.com",
-      "location": "Switzerland, Zurich",
+      "location": "5 Locations",
       "locationCountryCode": "CH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-30T15:38:19.757Z",
+      "postedAt": "2026-09-30T17:39:09.903Z",
       "firstIndexedAt": "2026-09-30T18:17:45.950Z",
       "url": "https://www.dreamworkhq.com/job/f363a6b3-9564-462b-8b67-7e615f09d814?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2460,7 +2707,7 @@
       "locationCountryCode": "IL",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-30T12:09:43.025Z",
+      "postedAt": "2026-09-30T14:01:33.817Z",
       "firstIndexedAt": "2026-09-30T18:09:57.620Z",
       "url": "https://www.dreamworkhq.com/job/baf97c0f-d255-4559-aeca-5541e093b823?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2473,7 +2720,7 @@
       "locationCountryCode": "SG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-30T12:09:43.096Z",
+      "postedAt": "2026-09-30T14:01:33.874Z",
       "firstIndexedAt": "2026-09-30T18:09:57.620Z",
       "url": "https://www.dreamworkhq.com/job/bb87500e-97f8-4dce-b8bc-813743133279?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2486,7 +2733,7 @@
       "locationCountryCode": "SG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-30T12:09:42.906Z",
+      "postedAt": "2026-09-30T14:01:33.609Z",
       "firstIndexedAt": "2026-09-30T18:09:57.620Z",
       "url": "https://www.dreamworkhq.com/job/f97397af-46eb-4b81-8807-2f4280e2d82f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2538,7 +2785,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T14:19:09.781Z",
+      "postedAt": "2026-09-29T14:33:14.404Z",
       "firstIndexedAt": "2026-09-30T13:22:20.513Z",
       "url": "https://www.dreamworkhq.com/job/64c8e8a5-284a-4867-8038-836958a2c5de?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2551,7 +2798,7 @@
       "locationCountryCode": "IE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-30T14:19:09.718Z",
+      "postedAt": "2026-09-30T14:33:14.248Z",
       "firstIndexedAt": "2026-09-30T13:22:20.513Z",
       "url": "https://www.dreamworkhq.com/job/46af9a8c-6f1c-43a9-b909-f7c22a5f5f37?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2564,7 +2811,7 @@
       "locationCountryCode": "IE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-30T14:19:09.662Z",
+      "postedAt": "2026-09-30T14:33:14.198Z",
       "firstIndexedAt": "2026-09-30T13:22:20.513Z",
       "url": "https://www.dreamworkhq.com/job/d3becb6f-3ffe-45a9-ba15-9d6d3be4ac5f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2595,19 +2842,6 @@
       "url": "https://www.dreamworkhq.com/job/59806fd0-0e51-4cfb-9647-1d9717f4736b?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "a2cced5d-ace2-4064-8ce2-852505861285",
-      "title": "SAP Full-Stack Developer Intern - AI & Data Transformation",
-      "company": "SAP",
-      "companyDomain": "sap.com",
-      "location": "Sofia, Bulgaria",
-      "locationCountryCode": "BG",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-09-30T00:00:00.000Z",
-      "firstIndexedAt": "2026-09-30T11:31:40.886Z",
-      "url": "https://www.dreamworkhq.com/job/a2cced5d-ace2-4064-8ce2-852505861285?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "11ca24f5-d14e-451e-9f7c-22e4fe6769b8",
       "title": "Graduation Internship Netherland - Protect the data",
       "company": "Avanade",
@@ -2616,7 +2850,7 @@
       "locationCountryCode": "NL",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-29T11:30:44.584Z",
+      "postedAt": "2026-09-30T02:09:53.133Z",
       "firstIndexedAt": "2026-09-30T09:50:51.442Z",
       "url": "https://www.dreamworkhq.com/job/11ca24f5-d14e-451e-9f7c-22e4fe6769b8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2629,7 +2863,7 @@
       "locationCountryCode": "NL",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-29T11:30:44.581Z",
+      "postedAt": "2026-09-30T02:09:53.251Z",
       "firstIndexedAt": "2026-09-30T09:50:51.442Z",
       "url": "https://www.dreamworkhq.com/job/782f9380-5c9f-4ab7-9ed4-e18a28205d04?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2642,7 +2876,7 @@
       "locationCountryCode": "SG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-29T11:30:45.424Z",
+      "postedAt": "2026-09-30T02:09:54.138Z",
       "firstIndexedAt": "2026-09-30T09:50:51.442Z",
       "url": "https://www.dreamworkhq.com/job/3e1c058d-6c49-4371-b129-fbc0e38d2852?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2655,7 +2889,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T14:47:11.657Z",
+      "postedAt": "2026-09-29T17:10:05.694Z",
       "firstIndexedAt": "2026-09-30T09:28:15.212Z",
       "url": "https://www.dreamworkhq.com/job/deb958a7-0c7a-4fb8-9169-ece1f23f16cc?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2863,7 +3097,7 @@
       "locationCountryCode": "MY",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-29T18:18:55.446Z",
+      "postedAt": "2026-09-29T17:22:50.615Z",
       "firstIndexedAt": "2026-09-30T00:51:02.890Z",
       "url": "https://www.dreamworkhq.com/job/99d93e1c-b93b-458e-89ef-cee44af9f3ae?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2876,7 +3110,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T18:18:55.701Z",
+      "postedAt": "2026-09-29T17:22:50.787Z",
       "firstIndexedAt": "2026-09-30T00:51:02.890Z",
       "url": "https://www.dreamworkhq.com/job/69fff503-f772-4f05-b187-0146bd0b8cb6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2889,7 +3123,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T18:18:55.380Z",
+      "postedAt": "2026-09-29T17:22:50.544Z",
       "firstIndexedAt": "2026-09-30T00:51:02.890Z",
       "url": "https://www.dreamworkhq.com/job/b399cbac-7bc4-47e7-8fbc-7da755aca419?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2902,7 +3136,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-30T13:37:04.895Z",
+      "postedAt": "2026-10-01T03:37:16.366Z",
       "firstIndexedAt": "2026-09-29T23:16:24.746Z",
       "url": "https://www.dreamworkhq.com/job/1c688579-3b72-40db-a1f3-cc188111481a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2928,7 +3162,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-29T17:29:45.370Z",
+      "postedAt": "2026-09-29T15:16:55.563Z",
       "firstIndexedAt": "2026-09-29T21:28:22.531Z",
       "url": "https://www.dreamworkhq.com/job/1ab46986-6a3d-4d95-97c1-b8b1b4d226ed?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2941,7 +3175,7 @@
       "locationCountryCode": "BR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T13:07:11.086Z",
+      "postedAt": "2026-09-29T13:17:26.178Z",
       "firstIndexedAt": "2026-09-29T20:34:42.311Z",
       "url": "https://www.dreamworkhq.com/job/22c52c2b-6372-4fde-af7f-adf190a8a00b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2980,7 +3214,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-30T12:09:43.240Z",
+      "postedAt": "2026-09-30T14:01:34.179Z",
       "firstIndexedAt": "2026-09-29T18:33:31.715Z",
       "url": "https://www.dreamworkhq.com/job/1051b6e7-bd2e-42bc-8552-2ee30acc0459?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2993,7 +3227,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-30T12:09:43.200Z",
+      "postedAt": "2026-09-30T14:01:34.218Z",
       "firstIndexedAt": "2026-09-29T18:33:31.715Z",
       "url": "https://www.dreamworkhq.com/job/89dd50f1-f262-4e29-9ec8-1c26ac550adf?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3006,7 +3240,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T01:20:32.965Z",
+      "postedAt": "2026-09-18T02:13:55.678Z",
       "firstIndexedAt": "2026-09-29T18:32:17.177Z",
       "url": "https://www.dreamworkhq.com/job/039ca5d5-93b6-49c6-bc08-aa8ebfa4af75?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3019,7 +3253,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T01:20:32.652Z",
+      "postedAt": "2026-09-18T02:13:55.379Z",
       "firstIndexedAt": "2026-09-29T18:32:17.177Z",
       "url": "https://www.dreamworkhq.com/job/31dc43ce-4c88-4071-b253-059c54e7fdfa?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3032,7 +3266,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T01:20:32.607Z",
+      "postedAt": "2026-09-18T02:13:55.403Z",
       "firstIndexedAt": "2026-09-29T18:32:17.177Z",
       "url": "https://www.dreamworkhq.com/job/60637ae4-168d-43ab-93c5-c504a040140a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3045,7 +3279,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-19T01:20:32.607Z",
+      "postedAt": "2026-09-19T02:13:55.381Z",
       "firstIndexedAt": "2026-09-29T18:32:17.177Z",
       "url": "https://www.dreamworkhq.com/job/7ae8d58c-b967-4a7f-9678-cf7627869e19?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3058,7 +3292,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T01:20:32.978Z",
+      "postedAt": "2026-09-18T02:13:55.739Z",
       "firstIndexedAt": "2026-09-29T18:32:17.177Z",
       "url": "https://www.dreamworkhq.com/job/c8234c8d-755a-4f53-967c-85b746b465f4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3071,7 +3305,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T01:20:32.684Z",
+      "postedAt": "2026-09-18T02:13:55.386Z",
       "firstIndexedAt": "2026-09-29T18:32:17.177Z",
       "url": "https://www.dreamworkhq.com/job/d86a2595-6a6c-4cc6-b3f5-cfa30223d5ef?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3084,7 +3318,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T01:20:32.948Z",
+      "postedAt": "2026-09-18T02:13:55.773Z",
       "firstIndexedAt": "2026-09-29T18:32:17.177Z",
       "url": "https://www.dreamworkhq.com/job/db2d6469-4698-4427-854c-89cf72167f38?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3097,7 +3331,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T01:20:32.559Z",
+      "postedAt": "2026-09-18T02:13:55.300Z",
       "firstIndexedAt": "2026-09-29T18:32:17.177Z",
       "url": "https://www.dreamworkhq.com/job/df0f353a-6a07-40a6-b3fa-51836b38ee79?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3110,7 +3344,7 @@
       "locationCountryCode": "FR",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-28T13:08:53.280Z",
+      "postedAt": "2026-09-28T13:17:12.322Z",
       "firstIndexedAt": "2026-09-29T18:12:30.289Z",
       "url": "https://www.dreamworkhq.com/job/03bb4faf-a782-4a3c-98c4-c1a7bf567140?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3123,7 +3357,7 @@
       "locationCountryCode": "MY",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-28T17:33:08.774Z",
+      "postedAt": "2026-09-28T17:47:12.884Z",
       "firstIndexedAt": "2026-09-29T17:41:28.042Z",
       "url": "https://www.dreamworkhq.com/job/ff270d98-e299-4ddc-a33e-48e1598d45ba?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3136,7 +3370,7 @@
       "locationCountryCode": "MY",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-28T09:16:28.213Z",
+      "postedAt": "2026-09-28T16:54:52.228Z",
       "firstIndexedAt": "2026-09-29T17:37:50.356Z",
       "url": "https://www.dreamworkhq.com/job/007e38db-50fd-43b2-bac6-808cc61e45df?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3149,7 +3383,7 @@
       "locationCountryCode": "MY",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-28T09:16:28.348Z",
+      "postedAt": "2026-09-28T16:54:52.516Z",
       "firstIndexedAt": "2026-09-29T17:37:50.356Z",
       "url": "https://www.dreamworkhq.com/job/99e24bd5-2d3e-4e84-8b1c-704a758f1182?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3162,7 +3396,7 @@
       "locationCountryCode": "MY",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-29T09:16:27.049Z",
+      "postedAt": "2026-09-29T16:54:50.733Z",
       "firstIndexedAt": "2026-09-29T17:37:46.523Z",
       "url": "https://www.dreamworkhq.com/job/0cf82df8-7091-447d-9860-2a38ce597e10?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3227,7 +3461,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T15:23:25.031Z",
+      "postedAt": "2026-09-29T15:36:16.872Z",
       "firstIndexedAt": "2026-09-29T14:21:43.261Z",
       "url": "https://www.dreamworkhq.com/job/eabb6d90-2e40-4c0d-8e13-d9c3efe19f43?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3292,7 +3526,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-28T15:47:15.502Z",
+      "postedAt": "2026-09-28T16:09:33.629Z",
       "firstIndexedAt": "2026-09-29T12:51:16.965Z",
       "url": "https://www.dreamworkhq.com/job/8821f671-24c6-4e84-a8da-3eee8d55db2a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3344,7 +3578,7 @@
       "locationCountryCode": "DE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-28T13:51:38.645Z",
+      "postedAt": "2026-09-28T14:05:47.796Z",
       "firstIndexedAt": "2026-09-29T12:04:40.189Z",
       "url": "https://www.dreamworkhq.com/job/cdf50487-c21d-4c56-9783-2e4fa66372d8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3470,24 +3704,37 @@
       "title": "Image and Data Processing Libraries Intern",
       "company": "Nvidia",
       "companyDomain": "nvidia.com",
-      "location": "Poland, Warsaw",
+      "location": "3 Locations",
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-29T15:38:23.214Z",
+      "postedAt": "2026-09-29T17:39:09.903Z",
       "firstIndexedAt": "2026-09-29T09:51:25.794Z",
       "url": "https://www.dreamworkhq.com/job/0c7bdbb3-291f-411e-a8ba-4e321dd204e0?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "5474233b-db68-4346-9857-e21fe3271faf",
+      "title": "Image and Data Processing Libraries Intern",
+      "company": "Nvidia",
+      "companyDomain": "nvidia.com",
+      "location": "2 Locations",
+      "locationCountryCode": "PL",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-09-29T17:39:09.903Z",
+      "firstIndexedAt": "2026-09-29T09:51:25.794Z",
+      "url": "https://www.dreamworkhq.com/job/5474233b-db68-4346-9857-e21fe3271faf?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "7ee6805c-cc6a-457b-bcd4-e1ad308033e5",
       "title": "Software CAD Engineer, VLSI (RDSS Intern)",
       "company": "Nvidia",
       "companyDomain": "nvidia.com",
-      "location": "Taiwan, Taipei",
+      "location": "2 Locations",
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T15:38:23.149Z",
+      "postedAt": "2026-09-29T17:39:09.903Z",
       "firstIndexedAt": "2026-09-29T09:51:25.794Z",
       "url": "https://www.dreamworkhq.com/job/7ee6805c-cc6a-457b-bcd4-e1ad308033e5?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3500,7 +3747,7 @@
       "locationCountryCode": "TW",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-29T15:38:23.224Z",
+      "postedAt": "2026-09-29T17:39:09.903Z",
       "firstIndexedAt": "2026-09-29T09:51:25.794Z",
       "url": "https://www.dreamworkhq.com/job/9d89bf9d-bda4-4c7d-9de0-56a1fc8e8ff3?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3578,7 +3825,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T12:30:52.560Z",
+      "postedAt": "2026-09-29T12:45:36.955Z",
       "firstIndexedAt": "2026-09-29T04:32:40.946Z",
       "url": "https://www.dreamworkhq.com/job/38eb568c-5a0e-4eb0-b908-ff3e4eb4fdaa?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3591,7 +3838,7 @@
       "locationCountryCode": "FR",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-29T12:30:52.571Z",
+      "postedAt": "2026-09-29T12:45:36.914Z",
       "firstIndexedAt": "2026-09-29T04:32:40.946Z",
       "url": "https://www.dreamworkhq.com/job/590c5e94-d315-4e1c-a1e1-a903b0eae138?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3604,7 +3851,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T12:30:52.489Z",
+      "postedAt": "2026-09-22T12:45:37.013Z",
       "firstIndexedAt": "2026-09-29T04:32:40.946Z",
       "url": "https://www.dreamworkhq.com/job/86653ed8-66ad-490d-b560-89fc3c369c41?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3617,7 +3864,7 @@
       "locationCountryCode": "FR",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-22T12:30:52.577Z",
+      "postedAt": "2026-09-22T12:45:36.983Z",
       "firstIndexedAt": "2026-09-29T04:32:40.946Z",
       "url": "https://www.dreamworkhq.com/job/89600b42-36cb-4c03-a965-860e92940818?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3838,7 +4085,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-28T16:35:49.096Z",
+      "postedAt": "2026-09-28T09:16:19.122Z",
       "firstIndexedAt": "2026-09-28T22:16:38.281Z",
       "url": "https://www.dreamworkhq.com/job/796a83bf-1c5a-4e93-9a2f-cdd8e4ca9db8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3890,7 +4137,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-28T15:38:25.949Z",
+      "postedAt": "2026-09-28T17:39:09.903Z",
       "firstIndexedAt": "2026-09-28T17:59:50.792Z",
       "url": "https://www.dreamworkhq.com/job/f511fa8d-b036-4a93-b1ec-cba0e5e32753?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3903,7 +4150,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T17:24:16.052Z",
+      "postedAt": "2026-10-01T17:40:04.955Z",
       "firstIndexedAt": "2026-09-28T17:56:54.022Z",
       "url": "https://www.dreamworkhq.com/job/011df746-d9df-4ca3-bc85-86e0f8884b28?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3929,7 +4176,7 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-28T15:40:47.814Z",
+      "postedAt": "2026-09-29T03:49:52.224Z",
       "firstIndexedAt": "2026-09-28T09:16:49.493Z",
       "url": "https://www.dreamworkhq.com/job/1aa0e9be-aa41-4494-b45c-2b37c4237b1b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3968,7 +4215,7 @@
       "locationCountryCode": "IT",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-28T15:49:27.345Z",
+      "postedAt": "2026-09-29T06:09:58.899Z",
       "firstIndexedAt": "2026-09-28T04:07:03.403Z",
       "url": "https://www.dreamworkhq.com/job/6b496260-803c-462a-82c4-3eea835ef7fb?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3981,22 +4228,9 @@
       "locationCountryCode": "PT",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-28T15:49:27.276Z",
+      "postedAt": "2026-09-29T06:09:58.893Z",
       "firstIndexedAt": "2026-09-28T04:07:03.403Z",
       "url": "https://www.dreamworkhq.com/job/047e0f1c-c96b-4aec-9cf4-c232c18b165c?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "3610cc6e-99e4-4025-9ba5-b77d194dee64",
-      "title": "UI/UX-Intern",
-      "company": "IPE Global",
-      "companyDomain": "ipeglobal.com",
-      "location": "Delhi, India",
-      "locationCountryCode": "IN",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-09-27T05:49:46.000Z",
-      "firstIndexedAt": "2026-09-28T02:30:45.025Z",
-      "url": "https://www.dreamworkhq.com/job/3610cc6e-99e4-4025-9ba5-b77d194dee64?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "9ae4c42d-3e8c-48b2-b80b-1ce55b0e17cf",
@@ -4007,7 +4241,7 @@
       "locationCountryCode": "EG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-27T15:49:27.491Z",
+      "postedAt": "2026-09-28T06:09:59.147Z",
       "firstIndexedAt": "2026-09-27T14:18:00.091Z",
       "url": "https://www.dreamworkhq.com/job/9ae4c42d-3e8c-48b2-b80b-1ce55b0e17cf?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4038,32 +4272,6 @@
       "url": "https://www.dreamworkhq.com/job/32481919-b808-442a-b338-a6c64dcf6cc1?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "2cf2dac2-a25a-4caf-a88f-c87c91ef9d27",
-      "title": "Visual Design Intern",
-      "company": "NOT Drones Innovations",
-      "companyDomain": "notdrones.com",
-      "location": "Ahmedabad",
-      "locationCountryCode": "IN",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-09-26T23:32:36.000Z",
-      "firstIndexedAt": "2026-09-27T02:35:33.636Z",
-      "url": "https://www.dreamworkhq.com/job/2cf2dac2-a25a-4caf-a88f-c87c91ef9d27?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "1bf167c3-dea8-45f4-a904-1f3621bb1d78",
-      "title": "Data Analyst Intern",
-      "company": "Sage Software Solutions",
-      "companyDomain": "sagesoftware.co.in",
-      "location": "Navi Mumbai, Maharashtra, INDIA",
-      "locationCountryCode": "IN",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-09-26T23:30:41.000Z",
-      "firstIndexedAt": "2026-09-27T02:30:40.314Z",
-      "url": "https://www.dreamworkhq.com/job/1bf167c3-dea8-45f4-a904-1f3621bb1d78?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "c4b5498e-1b82-46c0-9e34-eb7d648eac10",
       "title": "Software Engineer Intern",
       "company": "EURES Netherlands",
@@ -4090,19 +4298,6 @@
       "url": "https://www.dreamworkhq.com/job/6d4cea0f-d8d3-4ef6-98df-87f27d28d70b?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "0081298a-826c-4642-b7a2-5c26407078e2",
-      "title": "Product Development Engineer - Intern",
-      "company": "Ford",
-      "companyDomain": "ford.com",
-      "location": "Naucalpan de Juarez, MEX, Mexico",
-      "locationCountryCode": "MX",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-09-30T18:37:10.000Z",
-      "firstIndexedAt": "2026-09-26T07:46:30.823Z",
-      "url": "https://www.dreamworkhq.com/job/0081298a-826c-4642-b7a2-5c26407078e2?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "8cff9d3c-ab64-4744-917a-41f677491435",
       "title": "Student Internship - R&D QA Engineer",
       "company": "External Career Page",
@@ -4111,7 +4306,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-09T17:35:24.510Z",
+      "postedAt": "2026-09-10T05:52:08.731Z",
       "firstIndexedAt": "2026-09-26T02:59:20.125Z",
       "url": "https://www.dreamworkhq.com/job/8cff9d3c-ab64-4744-917a-41f677491435?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4124,7 +4319,7 @@
       "locationCountryCode": "CH",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-15T17:35:22.529Z",
+      "postedAt": "2026-09-16T05:52:08.378Z",
       "firstIndexedAt": "2026-09-26T02:59:19.564Z",
       "url": "https://www.dreamworkhq.com/job/ded54bf9-5f8b-48b2-8d24-3f5c99b7d732?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4137,7 +4332,7 @@
       "locationCountryCode": "ES",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-17T17:35:20.346Z",
+      "postedAt": "2026-09-18T05:52:06.951Z",
       "firstIndexedAt": "2026-09-26T02:59:18.454Z",
       "url": "https://www.dreamworkhq.com/job/15020657-d685-4d79-83bd-fb75f2bff5b7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4150,7 +4345,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T17:35:15.552Z",
+      "postedAt": "2026-09-25T05:52:02.751Z",
       "firstIndexedAt": "2026-09-26T00:31:55.735Z",
       "url": "https://www.dreamworkhq.com/job/6e630cb0-2a64-45d3-bc78-9fec6ca56e2b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4163,7 +4358,7 @@
       "locationCountryCode": "PL",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-23T17:35:16.084Z",
+      "postedAt": "2026-09-24T05:52:03.367Z",
       "firstIndexedAt": "2026-09-26T00:31:55.735Z",
       "url": "https://www.dreamworkhq.com/job/ad2a759f-dd29-4b10-a77c-4439f6504fcc?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4176,7 +4371,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T17:35:14.580Z",
+      "postedAt": "2026-09-25T05:52:01.842Z",
       "firstIndexedAt": "2026-09-26T00:31:54.870Z",
       "url": "https://www.dreamworkhq.com/job/00b15a4c-bb24-44e4-bc37-c6fe7c2f830b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4189,7 +4384,7 @@
       "locationCountryCode": "PL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-02T17:35:06.917Z",
+      "postedAt": "2026-10-03T05:51:54.502Z",
       "firstIndexedAt": "2026-09-26T00:31:54.870Z",
       "url": "https://www.dreamworkhq.com/job/eb752566-269e-4b33-85cc-60b302cab03c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4215,7 +4410,7 @@
       "locationCountryCode": "NL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-28T15:40:47.844Z",
+      "postedAt": "2026-09-29T03:49:52.257Z",
       "firstIndexedAt": "2026-09-25T21:09:30.945Z",
       "url": "https://www.dreamworkhq.com/job/95e85867-d4ca-4668-be41-02929678cac6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4228,7 +4423,7 @@
       "locationCountryCode": "ID",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-25T09:33:08.976Z",
+      "postedAt": "2026-09-25T09:47:54.787Z",
       "firstIndexedAt": "2026-09-25T19:32:45.534Z",
       "url": "https://www.dreamworkhq.com/job/541802e6-426a-4ecc-b9be-ab06b699476c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4241,7 +4436,7 @@
       "locationCountryCode": "SG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-25T08:03:53.650Z",
+      "postedAt": "2026-09-25T08:16:12.615Z",
       "firstIndexedAt": "2026-09-25T17:57:09.728Z",
       "url": "https://www.dreamworkhq.com/job/c587692a-a730-4f8c-80e6-5b38d2339153?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4285,19 +4480,6 @@
       "url": "https://www.dreamworkhq.com/job/d1e6b1bb-0d97-4a7b-a383-a06481a145ed?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "488ad079-1683-432e-b9c8-c33256b14931",
-      "title": "JR10440295 Internship 2027_ Data Analyst in Supply Chain (F/H)",
-      "company": "Airbus",
-      "companyDomain": "airbus.com",
-      "location": "Toulouse Area",
-      "locationCountryCode": "FR",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-09-25T11:51:00.473Z",
-      "firstIndexedAt": "2026-09-25T14:17:44.596Z",
-      "url": "https://www.dreamworkhq.com/job/488ad079-1683-432e-b9c8-c33256b14931?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "d1dc8d1f-a409-4890-a3db-fcb666a4869b",
       "title": "Mechanical Design Engineer Intern",
       "company": "Crane Company",
@@ -4306,7 +4488,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-26T03:16:45.081Z",
+      "postedAt": "2026-09-26T03:34:52.084Z",
       "firstIndexedAt": "2026-09-25T14:01:41.148Z",
       "url": "https://www.dreamworkhq.com/job/d1dc8d1f-a409-4890-a3db-fcb666a4869b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4345,7 +4527,7 @@
       "locationCountryCode": "SG",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-25T18:53:45.072Z",
+      "postedAt": "2026-09-25T15:02:58.337Z",
       "firstIndexedAt": "2026-09-25T12:45:35.201Z",
       "url": "https://www.dreamworkhq.com/job/16fc82d3-63b7-4092-816d-140e59d054b4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4384,7 +4566,7 @@
       "locationCountryCode": "SG",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-11T23:13:46.228Z",
+      "postedAt": "2026-09-12T02:30:07.429Z",
       "firstIndexedAt": "2026-09-25T12:32:38.199Z",
       "url": "https://www.dreamworkhq.com/job/9d68d729-079f-41ea-bdfd-d6e3f5b68167?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4436,7 +4618,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T17:16:28.430Z",
+      "postedAt": "2026-09-25T17:32:58.153Z",
       "firstIndexedAt": "2026-09-25T10:24:32.111Z",
       "url": "https://www.dreamworkhq.com/job/126d8cdc-0821-4b34-abaa-3930f25346a8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4449,7 +4631,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T17:16:28.331Z",
+      "postedAt": "2026-09-25T17:32:58.116Z",
       "firstIndexedAt": "2026-09-25T10:24:32.111Z",
       "url": "https://www.dreamworkhq.com/job/56d7421e-602b-4fba-86ca-db721262d303?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4462,7 +4644,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T17:16:28.502Z",
+      "postedAt": "2026-09-25T17:32:58.379Z",
       "firstIndexedAt": "2026-09-25T10:24:32.111Z",
       "url": "https://www.dreamworkhq.com/job/7bbbb260-f75d-4aaa-90f0-f487f51c2125?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4475,7 +4657,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T17:16:28.150Z",
+      "postedAt": "2026-09-25T17:32:58.069Z",
       "firstIndexedAt": "2026-09-25T10:24:32.111Z",
       "url": "https://www.dreamworkhq.com/job/8cad7122-0820-45e6-8613-165ed7bfd66f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4488,7 +4670,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T17:16:28.213Z",
+      "postedAt": "2026-09-25T17:32:58.147Z",
       "firstIndexedAt": "2026-09-25T10:24:32.111Z",
       "url": "https://www.dreamworkhq.com/job/c71aa046-7a65-42b6-9396-9ee761620b4c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4540,7 +4722,7 @@
       "locationCountryCode": "NL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T15:02:25.692Z",
+      "postedAt": "2026-09-24T15:16:02.842Z",
       "firstIndexedAt": "2026-09-25T07:47:07.989Z",
       "url": "https://www.dreamworkhq.com/job/e911273d-6fc2-4c9d-9a10-ea547774797c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4553,7 +4735,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T05:18:03.913Z",
+      "postedAt": "2026-09-24T17:46:11.256Z",
       "firstIndexedAt": "2026-09-25T07:39:27.857Z",
       "url": "https://www.dreamworkhq.com/job/35137ebe-06b9-4384-913f-4090d517e165?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4566,7 +4748,7 @@
       "locationCountryCode": "SG",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-26T03:59:50.818Z",
+      "postedAt": "2026-09-26T06:47:18.366Z",
       "firstIndexedAt": "2026-09-25T07:39:02.137Z",
       "url": "https://www.dreamworkhq.com/job/7c30d508-cd48-4d07-82e3-b3b645f27e05?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4579,7 +4761,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T18:19:00.236Z",
+      "postedAt": "2026-09-24T17:22:51.017Z",
       "firstIndexedAt": "2026-09-25T07:34:50.801Z",
       "url": "https://www.dreamworkhq.com/job/192d47f8-1ffe-4383-ba3b-33a27c7a0e96?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4683,7 +4865,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-23T13:37:05.503Z",
+      "postedAt": "2026-09-24T03:37:16.615Z",
       "firstIndexedAt": "2026-09-25T04:49:59.027Z",
       "url": "https://www.dreamworkhq.com/job/497d483b-6b37-4516-b138-693e500ca648?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4722,7 +4904,7 @@
       "locationCountryCode": "CH",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-30T11:47:52.313Z",
+      "postedAt": "2026-10-01T02:31:14.525Z",
       "firstIndexedAt": "2026-09-25T00:35:45.584Z",
       "url": "https://www.dreamworkhq.com/job/29940f9f-c37e-4f47-bf65-612df541fd08?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4748,22 +4930,9 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-24T12:09:44.008Z",
+      "postedAt": "2026-09-24T14:01:35.689Z",
       "firstIndexedAt": "2026-09-24T23:48:51.183Z",
       "url": "https://www.dreamworkhq.com/job/0ee82983-475c-424a-a38c-e4a1e42d5c60?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "9d862884-7659-44ef-a1be-0b58531ee4f3",
-      "title": "Automation & Robotic Engineer Intern",
-      "company": "GE Vernova",
-      "companyDomain": "gevernova.com",
-      "location": "Singapore",
-      "locationCountryCode": "SG",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-09-25T06:38:21.437Z",
-      "firstIndexedAt": "2026-09-24T20:46:40.071Z",
-      "url": "https://www.dreamworkhq.com/job/9d862884-7659-44ef-a1be-0b58531ee4f3?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "0c2dc3b6-c2e2-4765-a6f4-ac96b1a3c889",
@@ -4774,7 +4943,7 @@
       "locationCountryCode": "PL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T06:14:06.369Z",
+      "postedAt": "2026-09-24T18:34:46.579Z",
       "firstIndexedAt": "2026-09-24T20:23:42.039Z",
       "url": "https://www.dreamworkhq.com/job/0c2dc3b6-c2e2-4765-a6f4-ac96b1a3c889?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4787,7 +4956,7 @@
       "locationCountryCode": "PL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T06:14:06.363Z",
+      "postedAt": "2026-09-24T18:34:46.808Z",
       "firstIndexedAt": "2026-09-24T20:23:42.039Z",
       "url": "https://www.dreamworkhq.com/job/3e0e38f5-f536-47ef-baed-a7c3dc5728f0?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4800,7 +4969,7 @@
       "locationCountryCode": "PL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T06:14:06.364Z",
+      "postedAt": "2026-09-24T18:34:46.556Z",
       "firstIndexedAt": "2026-09-24T20:23:42.039Z",
       "url": "https://www.dreamworkhq.com/job/8a79f2f1-5be9-42d2-bd40-5df74d88cd3a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4839,7 +5008,7 @@
       "locationCountryCode": "TR",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-24T12:05:33.516Z",
+      "postedAt": "2026-09-25T02:52:22.465Z",
       "firstIndexedAt": "2026-09-24T17:38:48.839Z",
       "url": "https://www.dreamworkhq.com/job/662899cf-6a19-42ae-8336-22a29293bae7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4852,7 +5021,7 @@
       "locationCountryCode": "BR",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T15:20:33.416Z",
+      "postedAt": "2026-09-23T14:28:34.467Z",
       "firstIndexedAt": "2026-09-24T17:37:38.370Z",
       "url": "https://www.dreamworkhq.com/job/cc343faf-e38d-480d-9369-3a0207123f93?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4917,7 +5086,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T07:09:07.790Z",
+      "postedAt": "2026-09-23T02:33:33.756Z",
       "firstIndexedAt": "2026-09-24T14:12:06.983Z",
       "url": "https://www.dreamworkhq.com/job/7a08405e-cc81-4fba-8955-ad71094586b4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5151,7 +5320,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T15:40:15.954Z",
+      "postedAt": "2026-09-24T15:49:14.499Z",
       "firstIndexedAt": "2026-09-24T12:35:00.905Z",
       "url": "https://www.dreamworkhq.com/job/ac7d0cfc-f97f-475c-a152-9db6910f3e82?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5164,7 +5333,7 @@
       "locationCountryCode": "DE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-24T13:15:49.953Z",
+      "postedAt": "2026-09-25T02:51:37.665Z",
       "firstIndexedAt": "2026-09-24T11:55:31.918Z",
       "url": "https://www.dreamworkhq.com/job/2e6c0cd1-b67a-4ad6-b753-d57c9a9b10b5?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5177,7 +5346,7 @@
       "locationCountryCode": "IL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T12:09:44.197Z",
+      "postedAt": "2026-09-24T14:01:35.776Z",
       "firstIndexedAt": "2026-09-24T10:56:51.601Z",
       "url": "https://www.dreamworkhq.com/job/3b16d518-6fb1-413a-96d1-32b96e7ab89b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5190,7 +5359,7 @@
       "locationCountryCode": "NZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T17:39:28.986Z",
+      "postedAt": "2026-09-24T18:03:23.853Z",
       "firstIndexedAt": "2026-09-24T10:51:32.057Z",
       "url": "https://www.dreamworkhq.com/job/820c04a4-83b3-4803-9ca1-e0df2520e942?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5216,7 +5385,7 @@
       "locationCountryCode": "BR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T13:07:12.587Z",
+      "postedAt": "2026-09-23T13:17:27.436Z",
       "firstIndexedAt": "2026-09-24T10:14:02.486Z",
       "url": "https://www.dreamworkhq.com/job/aa7d9028-59df-4175-a70d-cb351c2b1f32?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5242,7 +5411,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T16:45:17.949Z",
+      "postedAt": "2026-09-24T16:51:25.502Z",
       "firstIndexedAt": "2026-09-24T06:58:09.072Z",
       "url": "https://www.dreamworkhq.com/job/1122f24e-d5d0-41ca-8c7c-d2c3fcab7b9d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5281,7 +5450,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-23T14:02:05.426Z",
+      "postedAt": "2026-09-23T16:18:26.011Z",
       "firstIndexedAt": "2026-09-24T01:23:32.393Z",
       "url": "https://www.dreamworkhq.com/job/99817283-0ab3-4125-a478-132012825060?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5294,7 +5463,7 @@
       "locationCountryCode": "NZ",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T17:39:28.986Z",
+      "postedAt": "2026-09-23T18:03:23.853Z",
       "firstIndexedAt": "2026-09-23T20:16:10.877Z",
       "url": "https://www.dreamworkhq.com/job/36d92248-710a-4bef-b97e-fb81dec17fac?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5320,7 +5489,7 @@
       "locationCountryCode": "CA",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-09-29T17:33:06.969Z",
+      "postedAt": "2026-09-29T17:47:09.597Z",
       "firstIndexedAt": "2026-09-23T16:09:44.125Z",
       "url": "https://www.dreamworkhq.com/job/a49903b4-23c1-4006-bac7-aa0ec1bdab2b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5333,7 +5502,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T13:36:19.386Z",
+      "postedAt": "2026-09-23T13:48:57.678Z",
       "firstIndexedAt": "2026-09-23T16:08:28.483Z",
       "url": "https://www.dreamworkhq.com/job/e99de47d-cfa1-4f4d-af03-24b39ea2e1dd?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5359,7 +5528,7 @@
       "locationCountryCode": "ES",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T12:09:44.591Z",
+      "postedAt": "2026-09-23T14:01:36.233Z",
       "firstIndexedAt": "2026-09-23T14:19:28.750Z",
       "url": "https://www.dreamworkhq.com/job/9a139e14-dfec-41be-8894-4782f627200f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5398,7 +5567,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T07:33:13.859Z",
+      "postedAt": "2026-09-23T17:17:10.965Z",
       "firstIndexedAt": "2026-09-23T12:38:18.011Z",
       "url": "https://www.dreamworkhq.com/job/972996c6-518b-4251-a152-0b1812ff2728?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5424,7 +5593,7 @@
       "locationCountryCode": "LT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T11:18:49.963Z",
+      "postedAt": "2026-09-23T11:34:27.425Z",
       "firstIndexedAt": "2026-09-23T12:20:51.834Z",
       "url": "https://www.dreamworkhq.com/job/409dd297-b93f-45ec-a529-642fd2e8bccb?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5437,7 +5606,7 @@
       "locationCountryCode": "LT",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T11:18:49.975Z",
+      "postedAt": "2026-09-23T11:34:27.449Z",
       "firstIndexedAt": "2026-09-23T12:20:51.834Z",
       "url": "https://www.dreamworkhq.com/job/8d49371f-257a-40c1-b2eb-b6b694abaa9c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5450,7 +5619,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T16:19:13.507Z",
+      "postedAt": "2026-09-23T16:32:26.198Z",
       "firstIndexedAt": "2026-09-23T11:10:30.708Z",
       "url": "https://www.dreamworkhq.com/job/9b0f901d-ac46-4577-932f-f01399479227?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5463,7 +5632,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T17:38:01.785Z",
+      "postedAt": "2026-09-23T17:49:14.515Z",
       "firstIndexedAt": "2026-09-23T10:48:13.401Z",
       "url": "https://www.dreamworkhq.com/job/5429c5db-66af-4c80-b048-76786f6a9bd9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5476,7 +5645,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-24T05:34:13.576Z",
+      "postedAt": "2026-09-23T07:52:21.083Z",
       "firstIndexedAt": "2026-09-23T10:37:23.315Z",
       "url": "https://www.dreamworkhq.com/job/21ad4bb3-4d1c-4387-8fce-67c6756676f5?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5502,7 +5671,7 @@
       "locationCountryCode": "IL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T12:09:44.562Z",
+      "postedAt": "2026-09-23T14:01:36.268Z",
       "firstIndexedAt": "2026-09-23T09:59:10.265Z",
       "url": "https://www.dreamworkhq.com/job/12e55416-6caa-4cc2-80cc-824682369813?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5528,7 +5697,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T15:40:49.543Z",
+      "postedAt": "2026-09-25T03:49:53.393Z",
       "firstIndexedAt": "2026-09-23T08:27:29.464Z",
       "url": "https://www.dreamworkhq.com/job/9bce824a-5a32-434c-bab0-09120249ba18?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5554,7 +5723,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T13:15:50.562Z",
+      "postedAt": "2026-09-24T02:51:38.365Z",
       "firstIndexedAt": "2026-09-23T07:53:55.816Z",
       "url": "https://www.dreamworkhq.com/job/1c10ddcc-716e-414f-87b0-eb56494bec14?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5567,7 +5736,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T13:15:50.489Z",
+      "postedAt": "2026-09-24T02:51:38.266Z",
       "firstIndexedAt": "2026-09-23T07:53:55.816Z",
       "url": "https://www.dreamworkhq.com/job/9588094a-55b5-4088-a051-7f955e500cd2?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5658,7 +5827,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T15:38:25.949Z",
+      "postedAt": "2026-09-23T17:39:09.904Z",
       "firstIndexedAt": "2026-09-23T05:09:13.353Z",
       "url": "https://www.dreamworkhq.com/job/3c54f512-8901-4ba8-a99c-2d9da7b0a378?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5671,7 +5840,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T15:38:25.949Z",
+      "postedAt": "2026-09-23T17:39:09.904Z",
       "firstIndexedAt": "2026-09-23T05:09:13.353Z",
       "url": "https://www.dreamworkhq.com/job/40cd989d-5f8d-4a04-90fa-1f1bf74eb036?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5684,7 +5853,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T15:38:25.949Z",
+      "postedAt": "2026-09-23T17:39:09.904Z",
       "firstIndexedAt": "2026-09-23T05:09:13.353Z",
       "url": "https://www.dreamworkhq.com/job/5f675314-6a93-49fa-8189-9dc3ecf7f508?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5697,7 +5866,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T15:38:25.949Z",
+      "postedAt": "2026-09-23T17:39:09.904Z",
       "firstIndexedAt": "2026-09-23T05:09:13.353Z",
       "url": "https://www.dreamworkhq.com/job/856531e8-5df2-418f-98a5-94196c657147?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5710,9 +5879,22 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T15:38:25.949Z",
+      "postedAt": "2026-09-23T17:39:09.904Z",
       "firstIndexedAt": "2026-09-23T05:09:13.353Z",
       "url": "https://www.dreamworkhq.com/job/ec70d04e-b5e1-4fc7-bb39-2140aa79f108?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "feb63069-b54d-45d6-acb4-6a37c9829184",
+      "title": "AI Computing Development Intern, TensorRT-LLM - 2027",
+      "company": "Nvidia",
+      "companyDomain": "nvidia.com",
+      "location": "China, Shanghai",
+      "locationCountryCode": "CN",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-09-23T17:39:09.904Z",
+      "firstIndexedAt": "2026-09-23T05:09:13.353Z",
+      "url": "https://www.dreamworkhq.com/job/feb63069-b54d-45d6-acb4-6a37c9829184?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "fa9062fe-7a57-4987-b6ae-8259355f0615",
@@ -5723,7 +5905,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T18:19:00.237Z",
+      "postedAt": "2026-09-22T17:22:51.017Z",
       "firstIndexedAt": "2026-09-23T04:40:27.538Z",
       "url": "https://www.dreamworkhq.com/job/fa9062fe-7a57-4987-b6ae-8259355f0615?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5736,7 +5918,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T18:19:00.237Z",
+      "postedAt": "2026-09-22T17:22:51.017Z",
       "firstIndexedAt": "2026-09-23T04:40:23.822Z",
       "url": "https://www.dreamworkhq.com/job/3c3e69c1-d9e7-43c2-83d0-c40300656cac?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5749,7 +5931,7 @@
       "locationCountryCode": "LK",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T17:56:29.737Z",
+      "postedAt": "2026-09-18T18:21:10.048Z",
       "firstIndexedAt": "2026-09-23T04:32:04.139Z",
       "url": "https://www.dreamworkhq.com/job/4ae5aae3-2754-4ff9-80d2-bd3540190db4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5762,7 +5944,7 @@
       "locationCountryCode": "HK",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-23T11:17:57.546Z",
+      "postedAt": "2026-09-23T11:33:25.996Z",
       "firstIndexedAt": "2026-09-23T02:29:28.207Z",
       "url": "https://www.dreamworkhq.com/job/5b33ced9-070a-4383-945f-55904cb26eb3?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5775,7 +5957,7 @@
       "locationCountryCode": "FR",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-22T12:05:33.724Z",
+      "postedAt": "2026-09-23T02:52:22.707Z",
       "firstIndexedAt": "2026-09-23T02:19:36.405Z",
       "url": "https://www.dreamworkhq.com/job/9ab6217b-be4f-4c53-bc06-99e2c349faa1?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5858,19 +6040,6 @@
       "url": "https://www.dreamworkhq.com/job/66901ad0-8c35-4c39-9e38-901fe6be9204?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "0e859895-65f8-4d6e-a2ac-e6ecac3099a9",
-      "title": "Cyber Security Co-op/Intern – JEDI Partnership",
-      "company": "Td",
-      "companyDomain": "td.com",
-      "location": "Toronto, Ontario",
-      "locationCountryCode": "CA",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-09-22T03:30:46.258Z",
-      "firstIndexedAt": "2026-09-22T20:00:17.013Z",
-      "url": "https://www.dreamworkhq.com/job/0e859895-65f8-4d6e-a2ac-e6ecac3099a9?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "342ac8cd-0547-4035-8a49-0f3026b8171f",
       "title": "Software/Firmware Engineer Intern",
       "company": "Marvell Technology",
@@ -5892,7 +6061,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-22T12:09:45.103Z",
+      "postedAt": "2026-09-22T14:01:36.888Z",
       "firstIndexedAt": "2026-09-22T19:44:59.989Z",
       "url": "https://www.dreamworkhq.com/job/4182a45f-3212-4d63-ba56-ad6797987a5b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5944,7 +6113,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T18:19:00.237Z",
+      "postedAt": "2026-09-22T17:22:51.017Z",
       "firstIndexedAt": "2026-09-22T14:07:02.426Z",
       "url": "https://www.dreamworkhq.com/job/33489050-5260-4fea-b704-c9fefa261be9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5970,7 +6139,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T18:19:00.237Z",
+      "postedAt": "2026-09-22T17:22:51.017Z",
       "firstIndexedAt": "2026-09-22T12:52:30.341Z",
       "url": "https://www.dreamworkhq.com/job/25558221-5e7d-4b79-9719-c57861e2fcb5?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5983,7 +6152,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T18:19:00.237Z",
+      "postedAt": "2026-09-22T17:22:51.017Z",
       "firstIndexedAt": "2026-09-22T12:52:30.341Z",
       "url": "https://www.dreamworkhq.com/job/77360b1e-d5d8-4098-9c2a-8fb16f8956ec?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5996,7 +6165,7 @@
       "locationCountryCode": "AU",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T16:40:13.883Z",
+      "postedAt": "2026-09-23T04:58:09.936Z",
       "firstIndexedAt": "2026-09-22T12:44:14.780Z",
       "url": "https://www.dreamworkhq.com/job/fea54c4a-ffa5-4d03-a9e5-984162102043?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6022,7 +6191,7 @@
       "locationCountryCode": "DE",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-22T13:51:45.103Z",
+      "postedAt": "2026-09-22T14:05:53.198Z",
       "firstIndexedAt": "2026-09-22T11:26:30.306Z",
       "url": "https://www.dreamworkhq.com/job/7faf415c-3e8a-4381-95b3-9512de164093?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6035,7 +6204,7 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T15:38:25.950Z",
+      "postedAt": "2026-09-22T17:39:09.904Z",
       "firstIndexedAt": "2026-09-22T11:18:14.132Z",
       "url": "https://www.dreamworkhq.com/job/39154d06-79b1-46a3-acbd-31eb53d27210?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6061,7 +6230,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T13:15:51.640Z",
+      "postedAt": "2026-09-23T02:51:39.352Z",
       "firstIndexedAt": "2026-09-22T09:47:13.663Z",
       "url": "https://www.dreamworkhq.com/job/0ca819bc-1f17-4046-80be-6d24fe052da6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6074,7 +6243,7 @@
       "locationCountryCode": "TH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-22T13:15:51.377Z",
+      "postedAt": "2026-09-23T02:51:39.040Z",
       "firstIndexedAt": "2026-09-22T09:47:13.663Z",
       "url": "https://www.dreamworkhq.com/job/22338deb-22b7-476e-96fb-b76fc29faaab?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6139,7 +6308,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-27T16:45:16.619Z",
+      "postedAt": "2026-09-27T16:51:24.320Z",
       "firstIndexedAt": "2026-09-22T04:03:01.069Z",
       "url": "https://www.dreamworkhq.com/job/0d8b6953-e7af-4c72-be04-11c2e26a1b05?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6152,7 +6321,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T16:45:18.781Z",
+      "postedAt": "2026-09-22T16:51:26.447Z",
       "firstIndexedAt": "2026-09-22T04:03:01.069Z",
       "url": "https://www.dreamworkhq.com/job/c9bc0a5c-ddbc-4263-b131-e987d78de87e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6165,7 +6334,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-21T17:18:35.101Z",
+      "postedAt": "2026-09-21T17:43:48.075Z",
       "firstIndexedAt": "2026-09-21T22:51:48.570Z",
       "url": "https://www.dreamworkhq.com/job/ffc2b993-00af-47c2-9be0-7d149220ba4d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6243,7 +6412,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-21T18:19:00.237Z",
+      "postedAt": "2026-09-21T17:22:51.017Z",
       "firstIndexedAt": "2026-09-21T10:34:19.759Z",
       "url": "https://www.dreamworkhq.com/job/8623131b-9096-4dfc-961d-ae963e860f96?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6256,7 +6425,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-21T18:19:00.237Z",
+      "postedAt": "2026-09-21T17:22:51.017Z",
       "firstIndexedAt": "2026-09-21T10:34:19.759Z",
       "url": "https://www.dreamworkhq.com/job/a86dea87-e186-45e6-925a-feb41187489d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6269,7 +6438,7 @@
       "locationCountryCode": "CH",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-21T15:23:29.116Z",
+      "postedAt": "2026-09-21T15:36:21.104Z",
       "firstIndexedAt": "2026-09-21T10:19:38.021Z",
       "url": "https://www.dreamworkhq.com/job/80230601-b7a5-4d7e-9e5e-ee5b6a07b2b0?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6285,19 +6454,6 @@
       "postedAt": "2026-09-20T07:50:25.936Z",
       "firstIndexedAt": "2026-09-21T10:14:20.587Z",
       "url": "https://www.dreamworkhq.com/job/357789de-5451-427c-8a3b-1dfeac2f7c26?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "0942e997-22fa-43d3-8ba7-351c5ab216a2",
-      "title": "Thermal Systems Design Engineering Intern (6 Months)",
-      "company": "GE Aerospace",
-      "companyDomain": "geaerospace.com",
-      "location": "Istanbul",
-      "locationCountryCode": "TR",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-09-28T20:14:41.238Z",
-      "firstIndexedAt": "2026-09-21T08:26:27.040Z",
-      "url": "https://www.dreamworkhq.com/job/0942e997-22fa-43d3-8ba7-351c5ab216a2?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "9e425a69-dac2-4c1e-b6e2-99050a4ed8c3",
@@ -6339,32 +6495,6 @@
       "url": "https://www.dreamworkhq.com/job/6532f678-9afb-428e-9a9e-6476e4f6a873?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "a1469496-508f-4dd3-8a5d-b9b441a3111e",
-      "title": "Intern #1 for Engineering Data Management GTS in KLCC",
-      "company": "PETRONAS",
-      "companyDomain": "petronas.com",
-      "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2025-07-15T01:59:35.000Z",
-      "firstIndexedAt": "2026-09-21T06:32:06.966Z",
-      "url": "https://www.dreamworkhq.com/job/a1469496-508f-4dd3-8a5d-b9b441a3111e?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "a17e0dc9-4a62-4015-a8b8-e0d58f97c523",
-      "title": "Intern # 2 for Project Engineering Data Management, GTS in KLCC",
-      "company": "PETRONAS",
-      "companyDomain": "petronas.com",
-      "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2025-07-24T05:48:11.000Z",
-      "firstIndexedAt": "2026-09-21T06:32:06.966Z",
-      "url": "https://www.dreamworkhq.com/job/a17e0dc9-4a62-4015-a8b8-e0d58f97c523?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "67b91cce-85c2-4d78-839d-c0c4560fd3ad",
       "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
       "company": "Nvidia",
@@ -6373,7 +6503,7 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-22T15:38:25.950Z",
+      "postedAt": "2026-09-22T17:39:09.904Z",
       "firstIndexedAt": "2026-09-21T04:48:48.009Z",
       "url": "https://www.dreamworkhq.com/job/67b91cce-85c2-4d78-839d-c0c4560fd3ad?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6386,7 +6516,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-20T15:38:25.950Z",
+      "postedAt": "2026-09-20T17:39:09.904Z",
       "firstIndexedAt": "2026-09-20T15:18:56.029Z",
       "url": "https://www.dreamworkhq.com/job/1413d983-de94-4007-b5f1-f5510507bedd?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6399,7 +6529,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-19T17:16:29.556Z",
+      "postedAt": "2026-09-19T17:32:59.379Z",
       "firstIndexedAt": "2026-09-20T12:31:40.432Z",
       "url": "https://www.dreamworkhq.com/job/8032ab41-db3e-4926-95fa-55dcdc4cd936?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6412,7 +6542,7 @@
       "locationCountryCode": "SA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-21T05:34:13.576Z",
+      "postedAt": "2026-09-20T07:52:21.083Z",
       "firstIndexedAt": "2026-09-20T09:39:14.426Z",
       "url": "https://www.dreamworkhq.com/job/5c57e89a-5a31-4301-aa5a-3e7895741031?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6490,7 +6620,7 @@
       "locationCountryCode": "DK",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T16:19:13.755Z",
+      "postedAt": "2026-09-18T16:32:26.559Z",
       "firstIndexedAt": "2026-09-19T11:31:03.364Z",
       "url": "https://www.dreamworkhq.com/job/36e28b9d-fb35-42d9-af41-85921dedf872?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6503,7 +6633,7 @@
       "locationCountryCode": "DK",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T16:19:13.802Z",
+      "postedAt": "2026-09-18T16:32:26.620Z",
       "firstIndexedAt": "2026-09-19T11:31:03.364Z",
       "url": "https://www.dreamworkhq.com/job/ea9dc7f8-8ca0-4415-9345-fcf32a8b2c58?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6516,22 +6646,9 @@
       "locationCountryCode": "IN",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-09-19T11:18:18.575Z",
+      "postedAt": "2026-09-19T11:33:56.101Z",
       "firstIndexedAt": "2026-09-19T10:26:24.627Z",
       "url": "https://www.dreamworkhq.com/job/931dc637-2d95-4b21-8c1b-85fb114ec4ae?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "55c3453b-e4a1-4fe7-8176-ca666e18573c",
-      "title": "Software Engineering Co-op - Winter 2027",
-      "company": "Achievers",
-      "companyDomain": "achievers.com",
-      "location": "Toronto",
-      "locationCountryCode": "CA",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-09-18T22:56:50.085Z",
-      "firstIndexedAt": "2026-09-19T10:01:15.654Z",
-      "url": "https://www.dreamworkhq.com/job/55c3453b-e4a1-4fe7-8176-ca666e18573c?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "ec916e69-fa88-4be6-b540-029b9ec39f7a",
@@ -6586,6 +6703,19 @@
       "url": "https://www.dreamworkhq.com/job/190cd982-a921-411c-8028-9cc5cab3f091?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
+      "id": "e57dd9d5-9955-466b-b35d-aeb2716c704a",
+      "title": "Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)",
+      "company": "Towerresearchcapital",
+      "companyDomain": "towerresearchcapital.com",
+      "location": "Montreal",
+      "locationCountryCode": "CA",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-09-17T20:59:48.000Z",
+      "firstIndexedAt": "2026-09-19T01:01:23.550Z",
+      "url": "https://www.dreamworkhq.com/job/e57dd9d5-9955-466b-b35d-aeb2716c704a?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
       "id": "b473dfca-6cc3-45fd-b97c-8f84032eb6d2",
       "title": "Software Engineer Intern",
       "company": "Opswat",
@@ -6607,7 +6737,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-19T06:50:13.695Z",
+      "postedAt": "2026-09-19T02:03:08.895Z",
       "firstIndexedAt": "2026-09-19T00:05:48.158Z",
       "url": "https://www.dreamworkhq.com/job/3d10ddb9-7ee5-465c-abfa-235747a7f1b0?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6620,7 +6750,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-19T06:50:13.560Z",
+      "postedAt": "2026-09-19T02:03:08.838Z",
       "firstIndexedAt": "2026-09-19T00:05:48.158Z",
       "url": "https://www.dreamworkhq.com/job/ae7d6b22-6ca0-4376-8deb-fc6e37809178?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6633,7 +6763,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-19T06:50:13.853Z",
+      "postedAt": "2026-09-19T02:03:08.994Z",
       "firstIndexedAt": "2026-09-19T00:05:48.158Z",
       "url": "https://www.dreamworkhq.com/job/b9dc075e-1756-49de-bb2f-d96f703d7a71?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6646,7 +6776,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-19T06:50:13.540Z",
+      "postedAt": "2026-09-19T02:03:08.756Z",
       "firstIndexedAt": "2026-09-19T00:05:48.158Z",
       "url": "https://www.dreamworkhq.com/job/d6aa78af-3296-4d89-a867-bd08c92be526?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6659,7 +6789,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-19T06:50:13.669Z",
+      "postedAt": "2026-09-19T02:03:08.983Z",
       "firstIndexedAt": "2026-09-19T00:05:48.158Z",
       "url": "https://www.dreamworkhq.com/job/f9d7f615-9187-4a11-a372-d8912a766236?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6729,19 +6859,6 @@
       "url": "https://www.dreamworkhq.com/job/12d14af4-9727-4ba5-a2d6-567845bcd321?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "8e578d98-38ac-4a78-b1a6-95a20ef504b7",
-      "title": "Research Intern – AI-Based Audio Optimization",
-      "company": "Keenfinity",
-      "companyDomain": "keenfinity-group.com",
-      "location": "Eindhoven, NB, Netherlands",
-      "locationCountryCode": "NL",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-09-18T11:25:45.876Z",
-      "firstIndexedAt": "2026-09-18T16:45:24.535Z",
-      "url": "https://www.dreamworkhq.com/job/8e578d98-38ac-4a78-b1a6-95a20ef504b7?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "067fa52c-f760-4e70-8eb3-e407ee73dd8a",
       "title": "Software Developer Intern, Predictions Data & Decision Science",
       "company": "Genesys",
@@ -6750,7 +6867,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T00:15:47.082Z",
+      "postedAt": "2026-09-23T03:35:18.711Z",
       "firstIndexedAt": "2026-09-18T16:34:49.260Z",
       "url": "https://www.dreamworkhq.com/job/067fa52c-f760-4e70-8eb3-e407ee73dd8a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6763,7 +6880,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T00:15:47.266Z",
+      "postedAt": "2026-09-23T03:35:18.971Z",
       "firstIndexedAt": "2026-09-18T16:34:49.260Z",
       "url": "https://www.dreamworkhq.com/job/35f6da74-0df1-48fb-af2b-a87b2e98a7a9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6776,7 +6893,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T00:15:47.154Z",
+      "postedAt": "2026-09-23T03:35:18.700Z",
       "firstIndexedAt": "2026-09-18T16:34:49.260Z",
       "url": "https://www.dreamworkhq.com/job/56e2c36b-09a8-4eb5-92d8-ae61a295050e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6789,7 +6906,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T00:15:47.326Z",
+      "postedAt": "2026-09-23T03:35:18.956Z",
       "firstIndexedAt": "2026-09-18T16:34:49.260Z",
       "url": "https://www.dreamworkhq.com/job/60fb45aa-12fa-4252-9412-ceb720acdf46?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6802,7 +6919,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-23T00:15:47.054Z",
+      "postedAt": "2026-09-23T03:35:18.667Z",
       "firstIndexedAt": "2026-09-18T16:34:49.260Z",
       "url": "https://www.dreamworkhq.com/job/7d044c35-f156-4eff-8f1d-fcdfba4f0362?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6815,7 +6932,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T00:15:47.327Z",
+      "postedAt": "2026-09-23T03:35:18.800Z",
       "firstIndexedAt": "2026-09-18T16:34:49.260Z",
       "url": "https://www.dreamworkhq.com/job/aefb4540-9ef2-4c67-b5ef-66e3254caa94?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6828,7 +6945,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T00:15:47.320Z",
+      "postedAt": "2026-09-23T03:35:18.898Z",
       "firstIndexedAt": "2026-09-18T16:34:49.260Z",
       "url": "https://www.dreamworkhq.com/job/bbb8c69e-9c00-4936-8e2d-4a75bcca159e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6841,7 +6958,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T00:15:47.033Z",
+      "postedAt": "2026-09-23T03:35:18.664Z",
       "firstIndexedAt": "2026-09-18T16:34:49.260Z",
       "url": "https://www.dreamworkhq.com/job/c711e9fd-5bd8-43d8-b19f-d9a9cc45e938?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6854,7 +6971,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-23T00:15:46.964Z",
+      "postedAt": "2026-09-23T03:35:18.639Z",
       "firstIndexedAt": "2026-09-18T16:34:49.260Z",
       "url": "https://www.dreamworkhq.com/job/e2932eb8-3c59-4997-889b-04d0d3dcea0b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6919,7 +7036,7 @@
       "locationCountryCode": "SG",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-19T05:34:13.576Z",
+      "postedAt": "2026-09-18T07:52:21.083Z",
       "firstIndexedAt": "2026-09-18T15:18:32.959Z",
       "url": "https://www.dreamworkhq.com/job/63d15484-0288-4de3-aeb1-3d0eccef2e26?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6984,7 +7101,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-17T18:19:00.238Z",
+      "postedAt": "2026-09-17T17:22:51.017Z",
       "firstIndexedAt": "2026-09-18T12:07:37.538Z",
       "url": "https://www.dreamworkhq.com/job/bfc4c73a-38fb-49ee-9004-5e9887e4c530?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6997,7 +7114,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T18:19:00.237Z",
+      "postedAt": "2026-09-18T17:22:51.017Z",
       "firstIndexedAt": "2026-09-18T12:07:35.579Z",
       "url": "https://www.dreamworkhq.com/job/792a1df3-b964-4eea-9c8f-1a3ff0158dcd?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7010,7 +7127,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T18:19:00.237Z",
+      "postedAt": "2026-09-18T17:22:51.017Z",
       "firstIndexedAt": "2026-09-18T12:07:35.579Z",
       "url": "https://www.dreamworkhq.com/job/cbeb0af2-ffc5-41ad-a54b-7a0d44da581b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7062,7 +7179,7 @@
       "locationCountryCode": "NL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T22:00:37.408Z",
+      "postedAt": "2026-10-02T03:08:53.501Z",
       "firstIndexedAt": "2026-09-18T07:52:04.278Z",
       "url": "https://www.dreamworkhq.com/job/441283b4-1fd4-43a6-a46d-082d2cc75421?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7153,7 +7270,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-17T17:20:40.512Z",
+      "postedAt": "2026-09-17T17:36:16.595Z",
       "firstIndexedAt": "2026-09-17T21:01:27.177Z",
       "url": "https://www.dreamworkhq.com/job/0f0d605a-d596-4c5f-870c-dc47b2961017?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7166,7 +7283,7 @@
       "locationCountryCode": "RU",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-17T12:05:33.846Z",
+      "postedAt": "2026-09-18T02:52:22.845Z",
       "firstIndexedAt": "2026-09-17T20:47:12.805Z",
       "url": "https://www.dreamworkhq.com/job/7cf94b85-95c5-4cf7-8156-76fa045880ad?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7179,7 +7296,7 @@
       "locationCountryCode": "IT",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-18T05:34:13.576Z",
+      "postedAt": "2026-09-17T07:52:21.083Z",
       "firstIndexedAt": "2026-09-17T20:38:05.450Z",
       "url": "https://www.dreamworkhq.com/job/ef5a7ee7-4da5-481d-bd7c-dbf7b71bf71c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7205,7 +7322,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T15:38:25.950Z",
+      "postedAt": "2026-09-18T17:39:09.904Z",
       "firstIndexedAt": "2026-09-17T19:51:09.948Z",
       "url": "https://www.dreamworkhq.com/job/dfb721c6-ece0-4ea2-9fa5-2960f62a77ed?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7218,7 +7335,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-17T13:07:13.457Z",
+      "postedAt": "2026-09-17T13:17:28.310Z",
       "firstIndexedAt": "2026-09-17T17:43:13.238Z",
       "url": "https://www.dreamworkhq.com/job/2e70d5af-ee8f-4de1-95ff-b105e23b573a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7231,7 +7348,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-17T13:07:13.255Z",
+      "postedAt": "2026-09-17T13:17:28.065Z",
       "firstIndexedAt": "2026-09-17T17:43:13.238Z",
       "url": "https://www.dreamworkhq.com/job/33880549-efbc-4619-85a6-92fd53c769aa?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7244,7 +7361,7 @@
       "locationCountryCode": "IE",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-17T13:07:13.301Z",
+      "postedAt": "2026-09-17T13:17:28.209Z",
       "firstIndexedAt": "2026-09-17T17:43:13.238Z",
       "url": "https://www.dreamworkhq.com/job/cb273ce6-5f2c-4012-af48-200f1b5a78a3?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7262,19 +7379,6 @@
       "url": "https://www.dreamworkhq.com/job/4d776ca3-b452-44ca-bc26-f68a9af0066a?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "f392390b-a402-4070-996e-3a86a92ad6cc",
-      "title": "Hardware Developer Internship",
-      "company": "Novanta",
-      "companyDomain": "novanta.com",
-      "location": "Barcelona, Spain - Keonn",
-      "locationCountryCode": "ES",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-10-01T14:58:17.307Z",
-      "firstIndexedAt": "2026-09-17T15:37:42.161Z",
-      "url": "https://www.dreamworkhq.com/job/f392390b-a402-4070-996e-3a86a92ad6cc?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "263db5df-df18-4d34-b2d0-129f01a2ec13",
       "title": "Internship - AI & HSE Performance Analyst",
       "company": "CMA CGM Group",
@@ -7286,19 +7390,6 @@
       "postedAt": "2026-09-17T00:00:00.000Z",
       "firstIndexedAt": "2026-09-17T13:01:11.135Z",
       "url": "https://www.dreamworkhq.com/job/263db5df-df18-4d34-b2d0-129f01a2ec13?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "286d5809-3548-451c-9091-05d6a7274e75",
-      "title": "Internship: Data Science for Multidimensional Market Modelling",
-      "company": "Philips",
-      "companyDomain": "philips.com",
-      "location": "Amsterdam",
-      "locationCountryCode": "NL",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-09-17T07:53:58.672Z",
-      "firstIndexedAt": "2026-09-17T11:48:08.398Z",
-      "url": "https://www.dreamworkhq.com/job/286d5809-3548-451c-9091-05d6a7274e75?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "6ad7501a-96f5-4907-8325-8ad1d6f8bbe6",
@@ -7374,7 +7465,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-16T15:48:05.723Z",
+      "postedAt": "2026-09-17T04:03:37.991Z",
       "firstIndexedAt": "2026-09-17T00:34:59.357Z",
       "url": "https://www.dreamworkhq.com/job/cb68549f-0441-40e6-a3dc-debb00183273?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7400,7 +7491,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-16T16:35:49.096Z",
+      "postedAt": "2026-09-16T09:16:19.123Z",
       "firstIndexedAt": "2026-09-16T22:05:21.424Z",
       "url": "https://www.dreamworkhq.com/job/6cd05e76-6b2a-439f-97fe-f2006cc6f560?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7426,7 +7517,7 @@
       "locationCountryCode": "MY",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-14T19:40:17.081Z",
+      "postedAt": "2026-09-15T02:54:55.668Z",
       "firstIndexedAt": "2026-09-16T18:04:20.429Z",
       "url": "https://www.dreamworkhq.com/job/4aabbb6d-be97-4a69-a569-8844bf6444dd?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7465,7 +7556,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-15T15:59:46.262Z",
+      "postedAt": "2026-09-16T04:07:38.542Z",
       "firstIndexedAt": "2026-09-16T16:29:09.483Z",
       "url": "https://www.dreamworkhq.com/job/4cef42e1-110d-4299-90da-6ead73a17cee?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7478,7 +7569,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T15:59:45.645Z",
+      "postedAt": "2026-09-19T04:07:37.477Z",
       "firstIndexedAt": "2026-09-16T16:29:09.483Z",
       "url": "https://www.dreamworkhq.com/job/86583d89-76bc-422c-b4b7-524c009cb529?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7491,7 +7582,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-02T15:59:43.751Z",
+      "postedAt": "2026-10-03T04:07:34.699Z",
       "firstIndexedAt": "2026-09-16T16:29:09.483Z",
       "url": "https://www.dreamworkhq.com/job/907b76a7-5bd4-487e-b8bb-65a9587a88a6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7530,7 +7621,7 @@
       "locationCountryCode": "IE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-17T05:34:13.576Z",
+      "postedAt": "2026-09-16T07:52:21.083Z",
       "firstIndexedAt": "2026-09-16T11:44:33.109Z",
       "url": "https://www.dreamworkhq.com/job/d74573e9-fef8-4111-9aa0-01c80a6b475d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7556,7 +7647,7 @@
       "locationCountryCode": "MY",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-15T18:19:00.238Z",
+      "postedAt": "2026-09-15T17:22:51.018Z",
       "firstIndexedAt": "2026-09-16T09:30:58.420Z",
       "url": "https://www.dreamworkhq.com/job/20c2103d-efa9-4849-b08e-b566df841292?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7647,7 +7738,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-15T12:36:57.865Z",
+      "postedAt": "2026-09-16T03:36:40.165Z",
       "firstIndexedAt": "2026-09-16T07:43:45.613Z",
       "url": "https://www.dreamworkhq.com/job/96c43be0-add2-4fc7-85ac-c86f9a1a61c9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7686,7 +7777,7 @@
       "locationCountryCode": "TW",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-16T15:38:25.950Z",
+      "postedAt": "2026-09-16T17:39:09.905Z",
       "firstIndexedAt": "2026-09-16T06:52:45.971Z",
       "url": "https://www.dreamworkhq.com/job/2c0a794b-4299-4626-8d1b-e1053a8a0104?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7699,7 +7790,7 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-16T15:38:25.950Z",
+      "postedAt": "2026-09-16T17:39:09.905Z",
       "firstIndexedAt": "2026-09-16T06:52:45.971Z",
       "url": "https://www.dreamworkhq.com/job/ccca641c-e57d-40c7-9e30-ce9b11443eeb?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7712,7 +7803,7 @@
       "locationCountryCode": "TW",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-16T15:38:25.950Z",
+      "postedAt": "2026-09-16T17:39:09.905Z",
       "firstIndexedAt": "2026-09-16T06:52:45.971Z",
       "url": "https://www.dreamworkhq.com/job/f7c73464-7f9d-478f-aa82-8932282b180a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7842,7 +7933,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T17:39:28.985Z",
+      "postedAt": "2026-09-29T18:03:23.851Z",
       "firstIndexedAt": "2026-09-16T03:24:48.159Z",
       "url": "https://www.dreamworkhq.com/job/88a81071-7c76-461a-9034-9bfbbae51176?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7855,7 +7946,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-16T11:18:19.274Z",
+      "postedAt": "2026-09-16T11:33:56.592Z",
       "firstIndexedAt": "2026-09-16T03:05:34.246Z",
       "url": "https://www.dreamworkhq.com/job/1a049e70-70a9-4e56-af73-12aa3e878353?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7894,7 +7985,7 @@
       "locationCountryCode": "GR",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-09-15T10:47:29.205Z",
+      "postedAt": "2026-09-16T02:29:36.595Z",
       "firstIndexedAt": "2026-09-15T22:22:00.982Z",
       "url": "https://www.dreamworkhq.com/job/52d86f27-5653-4d53-98bb-b65a2189ba02?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7907,7 +7998,7 @@
       "locationCountryCode": "GR",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-09-15T10:47:29.205Z",
+      "postedAt": "2026-09-16T02:29:36.595Z",
       "firstIndexedAt": "2026-09-15T22:22:00.982Z",
       "url": "https://www.dreamworkhq.com/job/55640c8b-7ef3-48cc-897d-e3600a0157db?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7920,7 +8011,7 @@
       "locationCountryCode": "CA",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-14T15:48:06.150Z",
+      "postedAt": "2026-09-15T04:03:38.123Z",
       "firstIndexedAt": "2026-09-15T20:46:33.548Z",
       "url": "https://www.dreamworkhq.com/job/8d45a3cb-9d65-4d0b-b4e9-78f63f3ac1a6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7933,7 +8024,7 @@
       "locationCountryCode": "IT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-15T13:15:55.153Z",
+      "postedAt": "2026-09-16T02:51:42.377Z",
       "firstIndexedAt": "2026-09-15T19:58:58.504Z",
       "url": "https://www.dreamworkhq.com/job/a3b3a4a5-059d-44a3-9232-0a261e7af202?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7972,7 +8063,7 @@
       "locationCountryCode": "GR",
       "remoteType": "remote",
       "globalRemote": false,
-      "postedAt": "2026-09-15T10:47:29.205Z",
+      "postedAt": "2026-09-16T02:29:36.595Z",
       "firstIndexedAt": "2026-09-15T17:15:24.934Z",
       "url": "https://www.dreamworkhq.com/job/28da3681-0d2f-4c58-a2bb-b96b08ad1b70?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8050,7 +8141,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-15T15:12:16.034Z",
+      "postedAt": "2026-09-15T07:15:32.072Z",
       "firstIndexedAt": "2026-09-15T15:48:46.889Z",
       "url": "https://www.dreamworkhq.com/job/f57983d9-768d-4d36-b5e3-2562c3848098?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8206,7 +8297,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-15T18:19:00.238Z",
+      "postedAt": "2026-09-15T17:22:51.018Z",
       "firstIndexedAt": "2026-09-15T06:48:11.993Z",
       "url": "https://www.dreamworkhq.com/job/07feba30-fa2e-4521-ad1d-671b9f806028?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8219,7 +8310,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-15T18:19:00.238Z",
+      "postedAt": "2026-09-15T17:22:51.018Z",
       "firstIndexedAt": "2026-09-15T06:48:11.993Z",
       "url": "https://www.dreamworkhq.com/job/32f635de-a425-41e7-b66d-0f7bdeb37536?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8245,7 +8336,7 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-15T15:38:25.950Z",
+      "postedAt": "2026-09-15T17:39:09.905Z",
       "firstIndexedAt": "2026-09-15T03:30:51.992Z",
       "url": "https://www.dreamworkhq.com/job/befc2e52-28c8-4e29-b537-0715eebf0330?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8258,7 +8349,7 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-15T15:38:25.950Z",
+      "postedAt": "2026-09-15T17:39:09.905Z",
       "firstIndexedAt": "2026-09-15T03:30:51.992Z",
       "url": "https://www.dreamworkhq.com/job/d031c098-47b9-4363-8068-6e5a663f0228?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8284,7 +8375,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-14T15:12:16.535Z",
+      "postedAt": "2026-09-14T07:15:32.461Z",
       "firstIndexedAt": "2026-09-14T19:51:59.265Z",
       "url": "https://www.dreamworkhq.com/job/acb9882c-cb1b-4113-a3d8-2b671b5a52b8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8297,7 +8388,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-14T15:12:16.313Z",
+      "postedAt": "2026-09-14T07:15:32.268Z",
       "firstIndexedAt": "2026-09-14T19:51:59.265Z",
       "url": "https://www.dreamworkhq.com/job/f6e8750d-4e02-469a-96cc-62bfe983122c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8336,7 +8427,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-14T18:19:00.238Z",
+      "postedAt": "2026-09-14T17:22:51.018Z",
       "firstIndexedAt": "2026-09-14T15:55:08.189Z",
       "url": "https://www.dreamworkhq.com/job/d4347ec5-db42-49ea-bdc8-4b1a70ac2b21?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8362,7 +8453,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-14T13:07:14.239Z",
+      "postedAt": "2026-09-14T13:17:29.080Z",
       "firstIndexedAt": "2026-09-14T09:50:45.862Z",
       "url": "https://www.dreamworkhq.com/job/81042fde-ec68-4540-b891-f625c854c9b4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8414,7 +8505,7 @@
       "locationCountryCode": "TW",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-14T15:38:25.950Z",
+      "postedAt": "2026-09-14T17:39:09.905Z",
       "firstIndexedAt": "2026-09-13T18:22:59.896Z",
       "url": "https://www.dreamworkhq.com/job/3f364bca-ff0e-4aa4-b265-63c6443b70e4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8492,7 +8583,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-10T15:12:16.444Z",
+      "postedAt": "2026-09-10T07:15:32.563Z",
       "firstIndexedAt": "2026-09-12T12:04:23.344Z",
       "url": "https://www.dreamworkhq.com/job/719c8a94-60f5-4692-908e-dd0f1b792480?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8648,7 +8739,7 @@
       "locationCountryCode": "BR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-11T17:35:58.645Z",
+      "postedAt": "2026-09-11T16:16:52.052Z",
       "firstIndexedAt": "2026-09-12T06:10:12.702Z",
       "url": "https://www.dreamworkhq.com/job/8805c6f1-80c4-4784-b858-e21f5fa9575f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8661,7 +8752,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-11T17:35:58.645Z",
+      "postedAt": "2026-09-11T16:16:52.052Z",
       "firstIndexedAt": "2026-09-12T06:10:12.702Z",
       "url": "https://www.dreamworkhq.com/job/d9b4a7c3-8cdb-44d9-ae75-75ba5cd56e2d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -8874,6 +8965,19 @@
       "url": "https://www.dreamworkhq.com/job/3c618db9-f20a-4443-9f26-fa18152867bd?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
+      "id": "e47e16f3-eca0-4665-bc8b-470a47763afb",
+      "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "CA, ON, Toronto",
+      "locationCountryCode": "CA",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "firstIndexedAt": "2026-09-11T22:33:36.771Z",
+      "url": "https://www.dreamworkhq.com/job/e47e16f3-eca0-4665-bc8b-470a47763afb?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
       "id": "c6d5c155-39f1-4e11-bf5c-713ca2fa567d",
       "title": "2027 Undergraduate Software Development Engineering Internships – Mexico",
       "company": "Solidigm",
@@ -8908,7 +9012,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-12T15:38:25.950Z",
+      "postedAt": "2026-09-12T17:39:09.905Z",
       "firstIndexedAt": "2026-09-11T21:37:55.925Z",
       "url": "https://www.dreamworkhq.com/job/9f6b1066-238e-4626-8797-1589a4f2049a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9129,7 +9233,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-11T15:23:29.116Z",
+      "postedAt": "2026-09-11T15:36:21.105Z",
       "firstIndexedAt": "2026-09-11T17:20:25.162Z",
       "url": "https://www.dreamworkhq.com/job/38f66e23-581b-4a9e-b1bc-bef3a41ab110?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9142,7 +9246,7 @@
       "locationCountryCode": "IT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-23T18:19:00.237Z",
+      "postedAt": "2026-09-23T17:22:51.017Z",
       "firstIndexedAt": "2026-09-11T16:49:54.612Z",
       "url": "https://www.dreamworkhq.com/job/c06de127-b979-48ab-8e60-1f76d7640770?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9207,7 +9311,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-14T15:54:49.674Z",
+      "postedAt": "2026-09-14T17:31:56.981Z",
       "firstIndexedAt": "2026-09-11T12:23:30.354Z",
       "url": "https://www.dreamworkhq.com/job/ccd788d8-dc2f-4b7f-95fa-990f82711406?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9220,7 +9324,7 @@
       "locationCountryCode": "AT",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-11T13:15:56.050Z",
+      "postedAt": "2026-09-12T02:51:43.259Z",
       "firstIndexedAt": "2026-09-11T12:20:45.574Z",
       "url": "https://www.dreamworkhq.com/job/177182fc-930f-4e17-8609-0582c6b6fd8c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9233,7 +9337,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-11T13:15:56.142Z",
+      "postedAt": "2026-09-12T02:51:43.347Z",
       "firstIndexedAt": "2026-09-11T12:20:45.574Z",
       "url": "https://www.dreamworkhq.com/job/b50d6dfd-e26d-45d5-9154-d540adbb0e30?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9246,7 +9350,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-11T06:30:49.433Z",
+      "postedAt": "2026-09-11T06:45:31.333Z",
       "firstIndexedAt": "2026-09-11T08:06:08.693Z",
       "url": "https://www.dreamworkhq.com/job/689fa52b-28ef-4ca2-a717-0c320b1c70f5?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9259,7 +9363,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-11T06:30:49.473Z",
+      "postedAt": "2026-09-11T06:45:31.521Z",
       "firstIndexedAt": "2026-09-11T08:06:08.693Z",
       "url": "https://www.dreamworkhq.com/job/6b48184a-6b24-45e6-8c30-4f1de91d16e9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9272,7 +9376,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-11T06:30:49.495Z",
+      "postedAt": "2026-09-11T06:45:31.377Z",
       "firstIndexedAt": "2026-09-11T08:06:08.693Z",
       "url": "https://www.dreamworkhq.com/job/9f8b0c0c-28e3-494d-b6f5-b0b0325d3ffe?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9285,7 +9389,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-11T06:30:49.456Z",
+      "postedAt": "2026-09-11T06:45:31.312Z",
       "firstIndexedAt": "2026-09-11T08:06:08.693Z",
       "url": "https://www.dreamworkhq.com/job/f5b26644-96fe-474b-885b-cc033c15eb4b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9298,7 +9402,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-11T06:30:49.486Z",
+      "postedAt": "2026-09-11T06:45:31.467Z",
       "firstIndexedAt": "2026-09-11T08:06:08.693Z",
       "url": "https://www.dreamworkhq.com/job/f5e7ff10-bce8-4a31-b5cc-b048068f07eb?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9311,7 +9415,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-14T15:54:49.674Z",
+      "postedAt": "2026-09-14T17:31:56.981Z",
       "firstIndexedAt": "2026-09-11T02:36:53.717Z",
       "url": "https://www.dreamworkhq.com/job/421254f8-20cd-4c09-8cca-77ec5c33e527?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9324,7 +9428,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-14T15:54:49.674Z",
+      "postedAt": "2026-09-14T17:31:56.981Z",
       "firstIndexedAt": "2026-09-11T02:36:53.717Z",
       "url": "https://www.dreamworkhq.com/job/5d63bdc0-5b06-4aed-900f-7a76a45ae3ca?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9337,7 +9441,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-14T15:54:49.674Z",
+      "postedAt": "2026-09-14T17:31:56.981Z",
       "firstIndexedAt": "2026-09-11T02:36:53.717Z",
       "url": "https://www.dreamworkhq.com/job/b1dfab62-0683-4c3c-a40b-485149844cbf?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9376,7 +9480,7 @@
       "locationCountryCode": "HK",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-14T13:37:05.526Z",
+      "postedAt": "2026-09-15T03:37:16.894Z",
       "firstIndexedAt": "2026-09-10T20:17:16.416Z",
       "url": "https://www.dreamworkhq.com/job/5191691b-f8a7-4094-aef8-f49f60d4d69e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9389,7 +9493,7 @@
       "locationCountryCode": "HK",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-15T13:37:05.416Z",
+      "postedAt": "2026-09-16T03:37:16.863Z",
       "firstIndexedAt": "2026-09-10T20:17:16.416Z",
       "url": "https://www.dreamworkhq.com/job/c5faeaff-509a-431a-8d9c-b3b9b7471cba?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9402,7 +9506,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-10T23:20:55.889Z",
+      "postedAt": "2026-09-11T03:23:51.726Z",
       "firstIndexedAt": "2026-09-10T17:18:14.692Z",
       "url": "https://www.dreamworkhq.com/job/20cbcaab-d9e8-4778-9048-5f5c1aa7307a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9415,7 +9519,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-10T23:20:55.900Z",
+      "postedAt": "2026-09-11T03:23:51.690Z",
       "firstIndexedAt": "2026-09-10T17:18:14.692Z",
       "url": "https://www.dreamworkhq.com/job/f3895ea9-dfec-458e-aba5-e5f23fb3f4cf?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9480,7 +9584,7 @@
       "locationCountryCode": "IT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T12:09:47.244Z",
+      "postedAt": "2026-09-09T14:01:39.182Z",
       "firstIndexedAt": "2026-09-10T15:12:12.972Z",
       "url": "https://www.dreamworkhq.com/job/3465335f-23e6-4ac5-96b5-f29ed44d56f9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9493,7 +9597,7 @@
       "locationCountryCode": "IT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T12:09:47.292Z",
+      "postedAt": "2026-09-09T14:01:39.240Z",
       "firstIndexedAt": "2026-09-10T15:12:12.972Z",
       "url": "https://www.dreamworkhq.com/job/a00a3455-9ac0-4252-b852-9acc1f99b995?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9506,7 +9610,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-10T17:09:37.550Z",
+      "postedAt": "2026-09-11T05:17:45.929Z",
       "firstIndexedAt": "2026-09-10T13:19:31.529Z",
       "url": "https://www.dreamworkhq.com/job/00b67d77-3189-4ea7-b036-3d76b8dfe932?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9558,7 +9662,7 @@
       "locationCountryCode": "AR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T17:35:58.645Z",
+      "postedAt": "2026-09-09T16:16:52.052Z",
       "firstIndexedAt": "2026-09-09T22:19:16.401Z",
       "url": "https://www.dreamworkhq.com/job/af705af0-d22c-4a42-bf53-ee298146b42b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9584,7 +9688,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-25T09:31:35.619Z",
+      "postedAt": "2026-09-25T09:45:52.735Z",
       "firstIndexedAt": "2026-09-09T19:44:25.969Z",
       "url": "https://www.dreamworkhq.com/job/0494e8d6-6626-4d0e-a7ea-79a188e79b1c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9597,7 +9701,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T09:31:35.470Z",
+      "postedAt": "2026-09-25T09:45:52.340Z",
       "firstIndexedAt": "2026-09-09T19:44:25.969Z",
       "url": "https://www.dreamworkhq.com/job/87850d21-2892-47c6-a104-1fdeff92bbd7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9610,7 +9714,7 @@
       "locationCountryCode": "GB",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-25T09:31:35.160Z",
+      "postedAt": "2026-09-25T09:45:52.010Z",
       "firstIndexedAt": "2026-09-09T19:44:25.969Z",
       "url": "https://www.dreamworkhq.com/job/8eb56041-3ee1-4b06-acc6-e25997dd93c2?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9623,7 +9727,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T09:31:35.135Z",
+      "postedAt": "2026-09-25T09:45:52.081Z",
       "firstIndexedAt": "2026-09-09T19:44:25.969Z",
       "url": "https://www.dreamworkhq.com/job/9deff040-8b64-4114-ab13-b5b7a82bfb8e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9636,7 +9740,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T09:31:35.600Z",
+      "postedAt": "2026-09-25T09:45:52.369Z",
       "firstIndexedAt": "2026-09-09T19:44:25.969Z",
       "url": "https://www.dreamworkhq.com/job/a7b2c7d4-686c-48fb-b7db-4e894c314cb0?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9649,7 +9753,7 @@
       "locationCountryCode": "GB",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T09:31:35.425Z",
+      "postedAt": "2026-09-25T09:45:52.383Z",
       "firstIndexedAt": "2026-09-09T19:44:25.969Z",
       "url": "https://www.dreamworkhq.com/job/c5e9a1ec-e16f-4e06-b88d-200909daa76f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9675,7 +9779,7 @@
       "locationCountryCode": "PH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-09T11:17:41.446Z",
+      "postedAt": "2026-09-09T11:32:29.277Z",
       "firstIndexedAt": "2026-09-09T17:15:14.421Z",
       "url": "https://www.dreamworkhq.com/job/9d14633a-092e-415f-9cbf-5ad0a6fa74e4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9779,7 +9883,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T13:15:57.194Z",
+      "postedAt": "2026-09-10T02:51:44.280Z",
       "firstIndexedAt": "2026-09-09T11:02:36.749Z",
       "url": "https://www.dreamworkhq.com/job/cf91f302-7bd8-4222-944c-44b0972b4e14?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9805,7 +9909,7 @@
       "locationCountryCode": "MY",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-09T17:33:09.848Z",
+      "postedAt": "2026-09-09T17:47:16.292Z",
       "firstIndexedAt": "2026-09-09T07:58:59.599Z",
       "url": "https://www.dreamworkhq.com/job/e823b954-af38-4547-ace3-32112fb3bd61?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9870,7 +9974,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T15:38:25.950Z",
+      "postedAt": "2026-09-09T17:39:09.906Z",
       "firstIndexedAt": "2026-09-09T03:47:03.127Z",
       "url": "https://www.dreamworkhq.com/job/54c1d4cd-58d8-4d3d-8e7f-473ff0d8cc68?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9883,7 +9987,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T15:38:25.950Z",
+      "postedAt": "2026-09-09T17:39:09.906Z",
       "firstIndexedAt": "2026-09-09T03:47:03.127Z",
       "url": "https://www.dreamworkhq.com/job/6053e4a8-386d-4387-832c-e82e5bac3735?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -9896,7 +10000,7 @@
       "locationCountryCode": "RO",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-10T13:15:56.541Z",
+      "postedAt": "2026-09-11T02:51:43.785Z",
       "firstIndexedAt": "2026-09-09T03:43:36.940Z",
       "url": "https://www.dreamworkhq.com/job/be66ca81-e29e-4143-aa5f-20b040d4819d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10065,7 +10169,7 @@
       "locationCountryCode": "CH",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-08T16:35:49.096Z",
+      "postedAt": "2026-09-08T09:16:19.123Z",
       "firstIndexedAt": "2026-09-08T23:15:17.046Z",
       "url": "https://www.dreamworkhq.com/job/261e984e-1ef4-4bd7-815b-d9182635aa3b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10078,7 +10182,7 @@
       "locationCountryCode": "IL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T12:09:47.352Z",
+      "postedAt": "2026-09-10T03:31:12.916Z",
       "firstIndexedAt": "2026-09-08T22:40:04.042Z",
       "url": "https://www.dreamworkhq.com/job/71ba3ad5-fcc8-4610-8edb-6b939a57bb6e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10107,19 +10211,6 @@
       "postedAt": "2026-09-08T18:32:56.875Z",
       "firstIndexedAt": "2026-09-08T20:01:14.348Z",
       "url": "https://www.dreamworkhq.com/job/9eb9fdef-f08e-46c9-a442-cf0c8974f13e?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "e460ded6-d42b-47f0-93a9-0a6afec16ecd",
-      "title": "Mobile Software Engineer Intern/Co-op​ (Winter 2027)",
-      "company": "Td",
-      "companyDomain": "td.com",
-      "location": "Toronto, Ontario",
-      "locationCountryCode": "CA",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-09-19T03:30:47.151Z",
-      "firstIndexedAt": "2026-09-08T19:43:41.283Z",
-      "url": "https://www.dreamworkhq.com/job/e460ded6-d42b-47f0-93a9-0a6afec16ecd?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "4632e49f-da8d-4b60-899c-32a65487e301",
@@ -10169,7 +10260,7 @@
       "locationCountryCode": "PH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-08T16:45:22.328Z",
+      "postedAt": "2026-09-08T16:51:30.411Z",
       "firstIndexedAt": "2026-09-08T18:48:27.938Z",
       "url": "https://www.dreamworkhq.com/job/b21e4ae4-72e8-49ed-a625-0d218d08de2a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10208,7 +10299,7 @@
       "locationCountryCode": "IE",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T17:33:09.645Z",
+      "postedAt": "2026-09-24T17:47:12.170Z",
       "firstIndexedAt": "2026-09-08T15:48:29.709Z",
       "url": "https://www.dreamworkhq.com/job/e40bc589-92fb-43e4-87d2-42849f2a1284?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10247,7 +10338,7 @@
       "locationCountryCode": "MY",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-08T17:33:09.849Z",
+      "postedAt": "2026-09-08T17:47:16.292Z",
       "firstIndexedAt": "2026-09-08T14:22:25.115Z",
       "url": "https://www.dreamworkhq.com/job/49c00f49-326f-400e-8eb5-7aaad74e7df0?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10260,7 +10351,7 @@
       "locationCountryCode": "CH",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-08T18:49:23.773Z",
+      "postedAt": "2026-09-08T15:47:18.151Z",
       "firstIndexedAt": "2026-09-08T14:18:33.995Z",
       "url": "https://www.dreamworkhq.com/job/5aa44d0a-a810-445a-ae9a-0df19ae8bd6c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10364,7 +10455,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-08T18:19:00.239Z",
+      "postedAt": "2026-09-08T17:22:51.018Z",
       "firstIndexedAt": "2026-09-08T06:55:23.506Z",
       "url": "https://www.dreamworkhq.com/job/4c92e5a0-4734-4843-882c-d50ad4793373?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10377,7 +10468,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-08T18:19:00.239Z",
+      "postedAt": "2026-09-08T17:22:51.018Z",
       "firstIndexedAt": "2026-09-08T06:55:23.506Z",
       "url": "https://www.dreamworkhq.com/job/e85da16f-09a5-402b-9e90-8dc56edef5cb?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10390,7 +10481,7 @@
       "locationCountryCode": "SG",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-09T05:34:13.577Z",
+      "postedAt": "2026-09-08T07:52:21.084Z",
       "firstIndexedAt": "2026-09-08T06:06:42.238Z",
       "url": "https://www.dreamworkhq.com/job/395a6994-4959-4414-ac80-cc21a238ed50?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10403,7 +10494,7 @@
       "locationCountryCode": "SG",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-09T05:34:13.577Z",
+      "postedAt": "2026-09-08T07:52:21.084Z",
       "firstIndexedAt": "2026-09-08T06:06:42.238Z",
       "url": "https://www.dreamworkhq.com/job/665a9e48-5739-438a-a3a3-7b3780b0a4bb?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10455,7 +10546,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-07T18:19:00.239Z",
+      "postedAt": "2026-09-07T17:22:51.018Z",
       "firstIndexedAt": "2026-09-07T10:34:42.067Z",
       "url": "https://www.dreamworkhq.com/job/d4d0f4e7-325d-4564-9ead-0e4825ddece2?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10468,7 +10559,7 @@
       "locationCountryCode": "FR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-07T09:31:38.841Z",
+      "postedAt": "2026-09-07T09:45:56.011Z",
       "firstIndexedAt": "2026-09-07T10:32:40.614Z",
       "url": "https://www.dreamworkhq.com/job/8e73f1a4-42ad-4d08-a02d-58d5a41c1455?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10481,7 +10572,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-07T17:33:09.849Z",
+      "postedAt": "2026-09-07T17:47:16.292Z",
       "firstIndexedAt": "2026-09-07T10:28:04.221Z",
       "url": "https://www.dreamworkhq.com/job/1e26bca9-2840-4977-a0fb-ef4f5b6b2ce7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10494,7 +10585,7 @@
       "locationCountryCode": "MY",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-07T17:33:09.849Z",
+      "postedAt": "2026-09-07T17:47:16.292Z",
       "firstIndexedAt": "2026-09-07T10:28:04.221Z",
       "url": "https://www.dreamworkhq.com/job/52864b46-2d73-41d9-bc9d-245337ecea79?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10507,7 +10598,7 @@
       "locationCountryCode": "MY",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-07T17:33:09.849Z",
+      "postedAt": "2026-09-07T17:47:16.292Z",
       "firstIndexedAt": "2026-09-07T10:28:04.221Z",
       "url": "https://www.dreamworkhq.com/job/68862458-c702-4091-9957-87f33b286b6a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10520,7 +10611,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-07T17:15:44.016Z",
+      "postedAt": "2026-09-07T17:35:10.232Z",
       "firstIndexedAt": "2026-09-07T08:10:21.386Z",
       "url": "https://www.dreamworkhq.com/job/5870e9dc-77c8-4347-a073-2e7647977468?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10533,7 +10624,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-07T17:15:44.016Z",
+      "postedAt": "2026-09-07T17:35:10.232Z",
       "firstIndexedAt": "2026-09-07T08:10:21.386Z",
       "url": "https://www.dreamworkhq.com/job/7f097039-623e-4fe5-8119-10e489f082e5?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10546,7 +10637,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-07T17:15:44.016Z",
+      "postedAt": "2026-09-07T17:35:10.232Z",
       "firstIndexedAt": "2026-09-07T08:10:21.386Z",
       "url": "https://www.dreamworkhq.com/job/816cebd1-ca39-4b7a-a169-47a7d9e591d4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10559,7 +10650,7 @@
       "locationCountryCode": "SG",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-07T17:15:44.016Z",
+      "postedAt": "2026-09-07T17:35:10.232Z",
       "firstIndexedAt": "2026-09-07T08:10:21.386Z",
       "url": "https://www.dreamworkhq.com/job/9b1c9694-d7a1-4c3d-a521-b8baf9f09ec6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10603,6 +10694,19 @@
       "url": "https://www.dreamworkhq.com/job/941ccbd0-22a4-413c-9857-81601194a136?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
+      "id": "d13bee84-c15f-47de-a194-a542b684801d",
+      "title": "Physical Design Intern",
+      "company": "Marvell Technology",
+      "companyDomain": "marvell.com",
+      "location": "Petah-Tikva",
+      "locationCountryCode": "IL",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-10-04T14:01:32.495Z",
+      "firstIndexedAt": "2026-09-06T12:00:41.875Z",
+      "url": "https://www.dreamworkhq.com/job/d13bee84-c15f-47de-a194-a542b684801d?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
       "id": "82c6fdf7-d6ee-406d-85f2-d63921af60ec",
       "title": "Security Application Intern",
       "company": "JCI",
@@ -10611,7 +10715,7 @@
       "locationCountryCode": "CR",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-05T16:29:45.379Z",
+      "postedAt": "2026-09-05T16:47:36.464Z",
       "firstIndexedAt": "2026-09-05T14:39:13.662Z",
       "url": "https://www.dreamworkhq.com/job/82c6fdf7-d6ee-406d-85f2-d63921af60ec?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10910,7 +11014,7 @@
       "locationCountryCode": "IE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-05T05:34:13.577Z",
+      "postedAt": "2026-09-04T07:52:21.084Z",
       "firstIndexedAt": "2026-09-04T20:25:09.954Z",
       "url": "https://www.dreamworkhq.com/job/4fdb394c-6cfc-47fc-aa66-418fd178f58c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10936,7 +11040,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-05T15:38:25.950Z",
+      "postedAt": "2026-09-05T17:39:09.906Z",
       "firstIndexedAt": "2026-09-04T19:55:45.568Z",
       "url": "https://www.dreamworkhq.com/job/81039364-484c-43af-9e51-988d7021a9fd?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10949,7 +11053,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-05T15:38:25.950Z",
+      "postedAt": "2026-09-05T17:39:09.906Z",
       "firstIndexedAt": "2026-09-04T19:55:45.568Z",
       "url": "https://www.dreamworkhq.com/job/a7fb6194-e6f5-4fa5-af88-d2b405790630?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10962,7 +11066,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-05T15:38:25.950Z",
+      "postedAt": "2026-09-05T17:39:09.906Z",
       "firstIndexedAt": "2026-09-04T19:55:45.568Z",
       "url": "https://www.dreamworkhq.com/job/f8f4d90a-f60a-4f81-8be7-bb35c34bca64?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -10975,7 +11079,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-05T15:38:25.950Z",
+      "postedAt": "2026-09-05T17:39:09.906Z",
       "firstIndexedAt": "2026-09-04T19:55:45.568Z",
       "url": "https://www.dreamworkhq.com/job/fb4486cc-f19a-4fbc-97fc-7eba92c949b9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11001,7 +11105,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-04T13:15:58.654Z",
+      "postedAt": "2026-09-05T02:51:45.310Z",
       "firstIndexedAt": "2026-09-04T17:13:36.126Z",
       "url": "https://www.dreamworkhq.com/job/126f4765-fcf5-4c3a-81cc-7904242dfb9e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11014,7 +11118,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-04T13:15:58.681Z",
+      "postedAt": "2026-09-05T02:51:45.335Z",
       "firstIndexedAt": "2026-09-04T17:13:36.126Z",
       "url": "https://www.dreamworkhq.com/job/4c470b82-c114-400c-9068-101819b5c268?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11027,7 +11131,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-09T13:15:57.216Z",
+      "postedAt": "2026-09-10T02:51:44.159Z",
       "firstIndexedAt": "2026-09-04T17:13:36.126Z",
       "url": "https://www.dreamworkhq.com/job/bcca21a8-1d21-442a-bba9-535163eaac0f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11053,7 +11157,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-04T15:38:25.950Z",
+      "postedAt": "2026-09-04T17:39:09.906Z",
       "firstIndexedAt": "2026-09-04T16:34:42.196Z",
       "url": "https://www.dreamworkhq.com/job/214c8f42-e961-42f7-aad8-d4d835831b2d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11066,7 +11170,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-04T15:38:25.950Z",
+      "postedAt": "2026-09-04T17:39:09.906Z",
       "firstIndexedAt": "2026-09-04T16:34:42.196Z",
       "url": "https://www.dreamworkhq.com/job/841c4e91-5d17-470b-8119-8d01044c8170?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11092,7 +11196,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-04T15:12:16.782Z",
+      "postedAt": "2026-09-04T07:15:32.776Z",
       "firstIndexedAt": "2026-09-04T14:16:07.021Z",
       "url": "https://www.dreamworkhq.com/job/68998ad3-e880-4421-9a01-6c3698e43823?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11131,7 +11235,7 @@
       "locationCountryCode": "ES",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-16T14:20:12.427Z",
+      "postedAt": "2026-09-16T17:38:15.519Z",
       "firstIndexedAt": "2026-09-04T11:17:03.713Z",
       "url": "https://www.dreamworkhq.com/job/9a1be8cc-371b-45ab-a71b-f51c1354a4d6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11144,7 +11248,7 @@
       "locationCountryCode": "IE",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-04T16:35:49.096Z",
+      "postedAt": "2026-09-04T09:16:19.123Z",
       "firstIndexedAt": "2026-09-04T09:31:02.313Z",
       "url": "https://www.dreamworkhq.com/job/3a69d0e1-075a-4439-bea8-a6faaab916f6?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11157,7 +11261,7 @@
       "locationCountryCode": "CO",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-04T03:59:52.222Z",
+      "postedAt": "2026-09-04T06:47:19.794Z",
       "firstIndexedAt": "2026-09-04T08:33:47.257Z",
       "url": "https://www.dreamworkhq.com/job/d3f799ef-7bcd-45af-81a6-630309b972a2?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11222,7 +11326,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-04T05:12:18.083Z",
+      "postedAt": "2026-09-03T18:03:23.856Z",
       "firstIndexedAt": "2026-09-03T22:57:58.375Z",
       "url": "https://www.dreamworkhq.com/job/001b72ea-9cac-4d97-ae47-f4f5033fc408?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11235,7 +11339,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-04T05:12:18.083Z",
+      "postedAt": "2026-09-03T18:03:23.856Z",
       "firstIndexedAt": "2026-09-03T22:57:58.375Z",
       "url": "https://www.dreamworkhq.com/job/017448dd-40f5-4ada-9652-203fabc36d6d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11261,7 +11365,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-04T05:12:18.083Z",
+      "postedAt": "2026-09-03T18:03:23.856Z",
       "firstIndexedAt": "2026-09-03T22:57:35.796Z",
       "url": "https://www.dreamworkhq.com/job/a3587188-3c78-41d1-b14c-28bd4ffeb44a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -11326,7 +11430,7 @@
       "locationCountryCode": "IE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-04T05:34:13.577Z",
+      "postedAt": "2026-09-04T06:18:09.046Z",
       "firstIndexedAt": "2026-09-03T15:18:32.216Z",
       "url": "https://www.dreamworkhq.com/job/be280016-fefc-49bd-adcd-887b36eb3ddd?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12158,7 +12262,7 @@
       "locationCountryCode": "CA",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T17:24:17.196Z",
+      "postedAt": "2026-10-01T17:40:05.842Z",
       "firstIndexedAt": "2026-09-01T10:45:30.074Z",
       "url": "https://www.dreamworkhq.com/job/16049fff-246f-4911-a7ae-55ff6eeb4b14?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12254,6 +12358,19 @@
       "url": "https://www.dreamworkhq.com/job/75b16460-afc3-4b9e-ad7d-e7068335b63c?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
+      "id": "feab15b2-6087-4ab8-9efd-2cc1adbedb6d",
+      "title": "AI Intern – Vision-Language-Action (VLA) & Data",
+      "company": "Rivr",
+      "companyDomain": "rivr.tech",
+      "location": "Zürich",
+      "locationCountryCode": "CH",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-08-31T13:18:22.443Z",
+      "firstIndexedAt": "2026-08-31T18:15:20.313Z",
+      "url": "https://www.dreamworkhq.com/job/feab15b2-6087-4ab8-9efd-2cc1adbedb6d?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
       "id": "10b95617-c974-4cb6-8a32-c3f8f7824e08",
       "title": "Software Engineer Summer Internship - Lysaker, Norway",
       "company": "Cisco",
@@ -12345,6 +12462,19 @@
       "url": "https://www.dreamworkhq.com/job/9443988d-b467-4ad5-bff1-05f769b5fd16?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
+      "id": "fe140a2e-00cf-406b-90f5-5b328ab7a5a0",
+      "title": "Internship Data Analytics & Process Improvement – 6 Months | Start Spring 2027",
+      "company": "Stryker",
+      "companyDomain": "stryker.com",
+      "location": "Schönkirchen, Germany",
+      "locationCountryCode": "DE",
+      "remoteType": null,
+      "globalRemote": false,
+      "postedAt": "2026-09-01T02:37:13.560Z",
+      "firstIndexedAt": "2026-08-31T13:05:37.255Z",
+      "url": "https://www.dreamworkhq.com/job/fe140a2e-00cf-406b-90f5-5b328ab7a5a0?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
       "id": "1ba3d9b3-cde7-4221-a08f-6e2ad0090363",
       "title": "Internship Software Test Engineering & Medical Technology – 6 Months | Start Spring 2027",
       "company": "Stryker",
@@ -12405,7 +12535,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-03T18:19:00.240Z",
+      "postedAt": "2026-09-04T02:10:49.344Z",
       "firstIndexedAt": "2026-08-31T09:06:13.458Z",
       "url": "https://www.dreamworkhq.com/job/59ff9242-8097-401c-8c03-5ceef78a401d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12418,7 +12548,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T12:09:47.447Z",
+      "postedAt": "2026-09-09T14:01:39.320Z",
       "firstIndexedAt": "2026-08-31T08:48:26.323Z",
       "url": "https://www.dreamworkhq.com/job/8c79ec22-7fdb-4b4e-8fda-917afdc925fb?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12431,7 +12561,7 @@
       "locationCountryCode": "CN",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-08T12:09:47.388Z",
+      "postedAt": "2026-09-08T14:01:39.384Z",
       "firstIndexedAt": "2026-08-31T08:48:26.323Z",
       "url": "https://www.dreamworkhq.com/job/9fa3b98e-6b0e-49a3-8f06-ca847ab03a4f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12444,7 +12574,7 @@
       "locationCountryCode": "SG",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-04T17:15:44.016Z",
+      "postedAt": "2026-09-04T17:35:10.232Z",
       "firstIndexedAt": "2026-08-31T07:17:13.913Z",
       "url": "https://www.dreamworkhq.com/job/18cdb1d0-d4e3-4efb-98d4-05a3286fd555?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12522,7 +12652,7 @@
       "locationCountryCode": "CZ",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-17T13:36:20.138Z",
+      "postedAt": "2026-09-17T13:48:58.522Z",
       "firstIndexedAt": "2026-08-29T20:13:17.995Z",
       "url": "https://www.dreamworkhq.com/job/97bb6470-04e5-4ea5-8a66-e0c34a866973?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12592,19 +12722,6 @@
       "url": "https://www.dreamworkhq.com/job/c6605801-14a0-410c-b71d-4a405de9295d?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "1230e9ee-1504-423a-9285-6f1f4f408b53",
-      "title": "AI Intern",
-      "company": "EURES Netherlands",
-      "companyDomain": "dish.nl",
-      "location": "Noord-Holland, Netherlands",
-      "locationCountryCode": "NL",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2026-08-28T01:12:50.461Z",
-      "firstIndexedAt": "2026-08-28T21:31:27.155Z",
-      "url": "https://www.dreamworkhq.com/job/1230e9ee-1504-423a-9285-6f1f4f408b53?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "a62ce84f-da94-4449-8316-0b71285d0df2",
       "title": "Android Software Engineer (RDSS Intern)",
       "company": "Nvidia",
@@ -12626,7 +12743,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-29T17:39:28.985Z",
+      "postedAt": "2026-09-29T18:03:23.851Z",
       "firstIndexedAt": "2026-08-28T10:52:37.564Z",
       "url": "https://www.dreamworkhq.com/job/be49ca54-efb9-495b-8f27-6e8530c9c641?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12639,7 +12756,7 @@
       "locationCountryCode": "CA",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T17:39:28.986Z",
+      "postedAt": "2026-09-24T18:03:23.853Z",
       "firstIndexedAt": "2026-08-28T10:52:37.564Z",
       "url": "https://www.dreamworkhq.com/job/e289d6f9-a187-46a0-9db6-a2da9a904d27?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12678,7 +12795,7 @@
       "locationCountryCode": "MY",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-18T08:17:23.876Z",
+      "postedAt": "2026-09-19T02:39:22.033Z",
       "firstIndexedAt": "2026-08-28T03:48:02.770Z",
       "url": "https://www.dreamworkhq.com/job/e4935275-f682-4502-aeeb-e046ce613bf5?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -12787,19 +12904,6 @@
       "url": "https://www.dreamworkhq.com/job/0695e2e7-09a3-4317-a26e-0b7321a6557a?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "54bdde75-897a-4723-9367-11c56af57446",
-      "title": "College Intern - Product Engineering (Graphics)",
-      "company": "HP Inc.",
-      "companyDomain": "hpwolf.com",
-      "location": "Singapore, South West, Singapore",
-      "locationCountryCode": "SG",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-08-26T23:29:52.041Z",
-      "firstIndexedAt": "2026-08-27T17:30:35.340Z",
-      "url": "https://www.dreamworkhq.com/job/54bdde75-897a-4723-9367-11c56af57446?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "1d1bf12c-f921-4aa6-b090-e32ea0327fac",
       "title": "College Intern - New Product Introduction Engineering (NPI Mechanical/Mechatronics)",
       "company": "HP Inc.",
@@ -12860,7 +12964,7 @@
       "locationCountryCode": "PH",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-09T11:17:41.471Z",
+      "postedAt": "2026-09-09T11:32:29.328Z",
       "firstIndexedAt": "2026-08-27T13:37:12.288Z",
       "url": "https://www.dreamworkhq.com/job/a86931e7-c29b-4e25-acd2-819a8b578b6e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -13058,6 +13162,19 @@
       "postedAt": "2026-08-27T03:34:07.824Z",
       "firstIndexedAt": "2026-08-26T11:08:48.557Z",
       "url": "https://www.dreamworkhq.com/job/57def131-33b8-4d56-8852-50e32ae6fe8a?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "fc69fb06-247c-4e8c-8a5c-7aff08b3a653",
+      "title": "AI Developer Technology Intern, Robotics - 2027",
+      "company": "Nvidia",
+      "companyDomain": "nvidia.com",
+      "location": "2 Locations",
+      "locationCountryCode": "CN",
+      "remoteType": "onsite",
+      "globalRemote": false,
+      "postedAt": "2026-08-27T03:34:07.824Z",
+      "firstIndexedAt": "2026-08-26T08:29:18.973Z",
+      "url": "https://www.dreamworkhq.com/job/fc69fb06-247c-4e8c-8a5c-7aff08b3a653?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "a0249c81-edf5-4666-ad0f-b7689c713d6a",
@@ -13354,7 +13471,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T16:23:50.544Z",
+      "postedAt": "2026-10-02T06:04:56.008Z",
       "firstIndexedAt": "2026-08-24T16:09:24.882Z",
       "url": "https://www.dreamworkhq.com/job/74168cee-f09a-4e41-8587-e9d4e3b050f2?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -13393,22 +13510,9 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-30T15:00:57.716Z",
+      "postedAt": "2026-09-30T15:15:56.119Z",
       "firstIndexedAt": "2026-08-24T06:38:43.958Z",
       "url": "https://www.dreamworkhq.com/job/93eb5fc4-1751-449c-af7c-1fc8d1094b07?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "1a1aa1fa-c645-4869-b498-ed9a73d70545",
-      "title": "September 2027 - Data Enablement (CPA) - 8 month Co-op - Montreal",
-      "company": "Global Campus",
-      "companyDomain": "globalcampus.sdsu.edu",
-      "location": "Montreal",
-      "locationCountryCode": "CA",
-      "remoteType": "remote",
-      "globalRemote": false,
-      "postedAt": "2026-08-21T10:49:10.049Z",
-      "firstIndexedAt": "2026-08-22T20:41:10.760Z",
-      "url": "https://www.dreamworkhq.com/job/1a1aa1fa-c645-4869-b498-ed9a73d70545?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "dc5a3c04-2c18-49fc-b919-c7da0c79a3d8",
@@ -13515,19 +13619,6 @@
       "url": "https://www.dreamworkhq.com/job/8b7b3278-4474-488f-98da-aca32d759b21?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "08bca3ff-b3e4-433d-b840-cab730575d7e",
-      "title": "Application Security Intern",
-      "company": "Manulife",
-      "companyDomain": "manulife.com",
-      "location": "Quezon City",
-      "locationCountryCode": "PH",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-22T02:34:23.430Z",
-      "url": "https://www.dreamworkhq.com/job/08bca3ff-b3e4-433d-b840-cab730575d7e?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "31859455-d6cc-4df8-9dab-0010fc90e5a6",
       "title": "Automation: Software Technical Analysis Intern",
       "company": "Manulife",
@@ -13562,7 +13653,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-17T15:12:16.133Z",
+      "postedAt": "2026-09-17T07:15:32.180Z",
       "firstIndexedAt": "2026-08-22T02:09:21.836Z",
       "url": "https://www.dreamworkhq.com/job/3bd6bc9d-e9e7-4704-9e80-4caf26097b71?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -13731,7 +13822,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-25T12:05:33.472Z",
+      "postedAt": "2026-09-26T02:52:22.386Z",
       "firstIndexedAt": "2026-08-21T04:21:00.850Z",
       "url": "https://www.dreamworkhq.com/job/26d2f422-2c6c-40fc-b0b3-5dfe3753ea26?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -14199,7 +14290,7 @@
       "locationCountryCode": "MY",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-10-01T14:47:10.921Z",
+      "postedAt": "2026-10-01T17:10:04.798Z",
       "firstIndexedAt": "2026-08-18T13:30:02.273Z",
       "url": "https://www.dreamworkhq.com/job/1301410c-7e98-42b8-8851-175fdbe0db1f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -14563,7 +14654,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-27T14:18:04.040Z",
+      "postedAt": "2026-09-27T16:31:36.677Z",
       "firstIndexedAt": "2026-08-14T12:48:41.060Z",
       "url": "https://www.dreamworkhq.com/job/dbc5d02a-a217-4f14-9091-e945cb54d136?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -14592,19 +14683,6 @@
       "postedAt": "2026-08-11T14:48:20.858Z",
       "firstIndexedAt": "2026-08-14T00:45:26.825Z",
       "url": "https://www.dreamworkhq.com/job/8090faff-90ba-4ae0-b694-a3e1f4dcdada?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "901e64d5-2d3f-40c9-962e-361b13b72ab1",
-      "title": "Software Engineering Intern - Spring/Summer 2027",
-      "company": "Frontcareers",
-      "companyDomain": "front.com",
-      "location": "Paris, France",
-      "locationCountryCode": "FR",
-      "remoteType": "hybrid",
-      "globalRemote": false,
-      "postedAt": "2026-08-12T13:04:47.353Z",
-      "firstIndexedAt": "2026-08-13T20:15:17.096Z",
-      "url": "https://www.dreamworkhq.com/job/901e64d5-2d3f-40c9-962e-361b13b72ab1?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "dda2118f-8f57-4219-b7dd-2e108a81d399",
@@ -14836,7 +14914,7 @@
       "locationCountryCode": "IT",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-09T12:31:33.046Z",
+      "postedAt": "2026-09-10T02:50:48.139Z",
       "firstIndexedAt": "2026-08-10T15:02:41.921Z",
       "url": "https://www.dreamworkhq.com/job/1eaae44a-3a0b-4fc6-ba3f-9e7629448b1d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -14862,7 +14940,7 @@
       "locationCountryCode": "MX",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-08T12:05:34.830Z",
+      "postedAt": "2026-09-09T02:52:23.937Z",
       "firstIndexedAt": "2026-08-10T00:45:46.698Z",
       "url": "https://www.dreamworkhq.com/job/cc683f7c-da61-40ca-9d40-da8fc53c3efd?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -15369,7 +15447,7 @@
       "locationCountryCode": "PT",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-28T13:35:19.100Z",
+      "postedAt": "2026-09-28T16:33:04.415Z",
       "firstIndexedAt": "2026-08-05T13:15:39.934Z",
       "url": "https://www.dreamworkhq.com/job/a3f44b9e-2010-4c40-b134-da252f54db22?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -15421,7 +15499,7 @@
       "locationCountryCode": "NL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-17T15:40:51.976Z",
+      "postedAt": "2026-09-18T03:49:55.547Z",
       "firstIndexedAt": "2026-08-04T14:32:08.677Z",
       "url": "https://www.dreamworkhq.com/job/65e8ef9c-594a-46fe-9367-fcde4a95097c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -15954,7 +16032,7 @@
       "locationCountryCode": "NL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T15:40:49.214Z",
+      "postedAt": "2026-09-25T03:49:53.353Z",
       "firstIndexedAt": "2026-07-27T15:02:22.605Z",
       "url": "https://www.dreamworkhq.com/job/ee32a9d5-0d77-49c9-be81-e0bc9dab55b8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -16565,7 +16643,7 @@
       "locationCountryCode": "DE",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-09T12:31:33.046Z",
+      "postedAt": "2026-09-10T02:50:48.139Z",
       "firstIndexedAt": "2026-07-13T08:59:38.055Z",
       "url": "https://www.dreamworkhq.com/job/81481ebd-cb3b-4140-8ed9-3bccde6b7194?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -16864,7 +16942,7 @@
       "locationCountryCode": "SG",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-07T09:33:09.800Z",
+      "postedAt": "2026-09-07T09:47:55.299Z",
       "firstIndexedAt": "2026-07-10T22:32:42.820Z",
       "url": "https://www.dreamworkhq.com/job/bed74d03-f3d1-4214-a624-63f2185e9ca4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -16958,19 +17036,6 @@
       "postedAt": "2026-07-02T18:01:37.189Z",
       "firstIndexedAt": "2026-07-10T22:32:41.696Z",
       "url": "https://www.dreamworkhq.com/job/8081d8e9-c150-4582-a65e-1ab95d86cdea?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "a6127877-25f0-4e26-be50-81eae45e195f",
-      "title": "Consulting - Cyber Consulting Year-End Internship (Dec 26 to Feb 27)",
-      "company": "Global Campus",
-      "companyDomain": "globalcampus.sdsu.edu",
-      "location": "Singapore",
-      "locationCountryCode": "SG",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-07-02T18:01:37.049Z",
-      "firstIndexedAt": "2026-07-10T22:32:41.696Z",
-      "url": "https://www.dreamworkhq.com/job/a6127877-25f0-4e26-be50-81eae45e195f?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "ba5aee4f-96c5-4119-a7c1-c09cd0c3b0e0",
@@ -17163,7 +17228,7 @@
       "locationCountryCode": "IT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T12:31:33.046Z",
+      "postedAt": "2026-09-10T02:50:48.139Z",
       "firstIndexedAt": "2026-07-09T16:32:52.245Z",
       "url": "https://www.dreamworkhq.com/job/32b47591-7c5d-4153-8dc8-4394154c98cc?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -17176,7 +17241,7 @@
       "locationCountryCode": "IT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-09T12:31:33.046Z",
+      "postedAt": "2026-09-10T02:50:48.139Z",
       "firstIndexedAt": "2026-07-09T16:32:52.245Z",
       "url": "https://www.dreamworkhq.com/job/a27d21d9-acfa-453a-a4a5-c533ba1521b7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -17189,7 +17254,7 @@
       "locationCountryCode": "IT",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-16T12:31:33.046Z",
+      "postedAt": "2026-09-17T02:50:48.139Z",
       "firstIndexedAt": "2026-07-09T16:32:51.160Z",
       "url": "https://www.dreamworkhq.com/job/77f4ddfb-074c-4929-9afc-c4e16654750a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -17233,19 +17298,6 @@
       "url": "https://www.dreamworkhq.com/job/f264ba82-55ab-42d6-8a09-28735a126ccf?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "10aac0c6-ff92-438f-be9d-b2cf77ab8f12",
-      "title": "2027 Technology Developer Summer Internship Programme Singapore",
-      "company": "Barclays",
-      "companyDomain": "barclays.co.uk",
-      "location": "Singapore, Marina Bay Financial Tower 2",
-      "locationCountryCode": "SG",
-      "remoteType": "onsite",
-      "globalRemote": false,
-      "postedAt": "2026-07-08T06:46:19.819Z",
-      "firstIndexedAt": "2026-07-08T06:11:09.221Z",
-      "url": "https://www.dreamworkhq.com/job/10aac0c6-ff92-438f-be9d-b2cf77ab8f12?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "744a424b-9d89-4586-aad9-30262edd51b0",
       "title": "Development Tools Software Intern",
       "company": "Intel",
@@ -17280,7 +17332,7 @@
       "locationCountryCode": "NL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-14T15:40:52.542Z",
+      "postedAt": "2026-09-15T03:49:56.182Z",
       "firstIndexedAt": "2026-07-05T06:02:13.497Z",
       "url": "https://www.dreamworkhq.com/job/f747bb0d-51af-4402-a45a-fea7b156fe68?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -17943,7 +17995,7 @@
       "locationCountryCode": "NL",
       "remoteType": "onsite",
       "globalRemote": false,
-      "postedAt": "2026-09-24T15:40:49.363Z",
+      "postedAt": "2026-09-25T03:49:53.396Z",
       "firstIndexedAt": "2026-06-16T06:13:22.993Z",
       "url": "https://www.dreamworkhq.com/job/1d122140-a2bf-4a53-80b8-a9286959c027?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -17956,7 +18008,7 @@
       "locationCountryCode": "BE",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-10-01T16:23:50.544Z",
+      "postedAt": "2026-10-02T06:04:56.009Z",
       "firstIndexedAt": "2026-06-14T06:07:20.075Z",
       "url": "https://www.dreamworkhq.com/job/c9ff194d-9151-4a80-8b0e-cf9eb46f322e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -18520,19 +18572,6 @@
       "url": "https://www.dreamworkhq.com/job/90d94b28-ecde-46af-a641-c1281c4f2040?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "37cdf9e5-7800-4366-8467-e4941e739cf2",
-      "title": "Data Analyst Intern",
-      "company": "Appier",
-      "companyDomain": "appier.com",
-      "location": "Taipei, Taiwan",
-      "locationCountryCode": "TW",
-      "remoteType": null,
-      "globalRemote": false,
-      "postedAt": "2025-12-24T08:08:30.000Z",
-      "firstIndexedAt": "2026-05-28T11:22:19.950Z",
-      "url": "https://www.dreamworkhq.com/job/37cdf9e5-7800-4366-8467-e4941e739cf2?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "e928c9e3-659f-4f05-a8a0-655610dddb65",
       "title": "Software Engineer Intern, Backend Development",
       "company": "Appier",
@@ -18762,7 +18801,7 @@
       "locationCountryCode": "ES",
       "remoteType": null,
       "globalRemote": false,
-      "postedAt": "2026-09-29T13:51:37.604Z",
+      "postedAt": "2026-09-29T14:05:46.593Z",
       "firstIndexedAt": "2026-05-28T06:22:36.432Z",
       "url": "https://www.dreamworkhq.com/job/51b55c75-5966-4338-bde3-0eebd8f68931?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -18879,7 +18918,7 @@
       "locationCountryCode": "ES",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-18T13:29:56.500Z",
+      "postedAt": "2026-09-18T13:36:01.631Z",
       "firstIndexedAt": "2026-05-27T10:26:11.427Z",
       "url": "https://www.dreamworkhq.com/job/dcbdae14-ff5c-4dc1-9e43-a54b729240c4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -19087,7 +19126,7 @@
       "locationCountryCode": "IT",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-09-22T11:30:49.917Z",
+      "postedAt": "2026-09-23T02:09:58.144Z",
       "firstIndexedAt": "2026-05-25T04:25:52.063Z",
       "url": "https://www.dreamworkhq.com/job/559d072e-dc73-4448-bac4-7895b2d9153b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -19386,7 +19425,7 @@
       "locationCountryCode": "PL",
       "remoteType": "hybrid",
       "globalRemote": false,
-      "postedAt": "2026-10-01T16:23:50.544Z",
+      "postedAt": "2026-10-02T06:04:56.009Z",
       "firstIndexedAt": "2026-05-22T06:11:41.624Z",
       "url": "https://www.dreamworkhq.com/job/59be30bf-9c7d-4f50-8f5b-7d37deeec8fd?utm_source=github&utm_campaign=gh-tech-internships"
     },
