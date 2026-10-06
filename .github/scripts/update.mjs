@@ -107,6 +107,32 @@ async function waitWithinBudget(delay, deadline) {
   assertInventoryBudget(deadline);
 }
 
+/** Rounds down so the claim is never larger than the live count: 1,498,263 -> "1.4M+". */
+function formatActiveJobs(count) {
+  if (count >= 1_000_000) return `${Math.floor(count / 100_000) / 10}M+`;
+  if (count >= 1_000) return `${Math.floor(count / 1_000)}K+`;
+  return `${count}`;
+}
+
+/**
+ * The corpus size the site itself shows. The stats route fails closed when its
+ * observation is stale, and a board must still publish then, so this is one
+ * attempt outside the retry loop and the copy drops the number on a miss.
+ */
+async function fetchActiveJobsLabel() {
+  try {
+    const res = await fetch(`${API_BASE}/public/listing-stats`, {
+      headers: { "user-agent": "dreamwork-job-lists/1.0 (+https://www.dreamworkhq.com)" },
+      signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+    });
+    if (!res.ok) return null;
+    const { activeJobs } = await res.json();
+    return Number.isSafeInteger(activeJobs) && activeJobs > 0 ? formatActiveJobs(activeJobs) : null;
+  } catch {
+    return null;
+  }
+}
+
 async function fetchJson(url, deadline = Infinity) {
   for (let attempt = 1; attempt <= FETCH_MAX_ATTEMPTS; attempt++) {
     const delay = Math.max(0, lastRequestAt + REQUEST_INTERVAL_MS - Date.now());
@@ -734,7 +760,7 @@ function renderGrowthReadme(rows, config, now) {
   ${linkRow}
 </p>
 
-Star this repo and new roles land in your GitHub feed every day. Listings come from [Dreamwork](${matchesUrl}), which crawls 400,000+ jobs directly from company career pages.
+Star this repo and new roles land in your GitHub feed every day. Listings come from [Dreamwork](${matchesUrl}), which crawls ${config.activeJobsLabel ? `${config.activeJobsLabel} live jobs` : "jobs"} directly from company career pages.
 
 ${statsLine}
 ${intlLine}${businessLine}${cryptoLine}
@@ -1678,6 +1704,7 @@ for (const source of config.sources) {
 if (config.mode === "inventory") totalMatching = new Set(all.map(row => row.id)).size;
 config.totalMatching = totalMatching;
 config.totalMatchingCapped = totalMatchingCapped;
+config.activeJobsLabel = isCommunityPresentation(config) ? null : await fetchActiveJobsLabel();
 
 // Partition and pick the display set.
 // inventory mode: every verified-open matching role (US in README,
