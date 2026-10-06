@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-04**
+**1 currently open roles** · Updated **2026-10-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Scale AI](https://www.dreamworkhq.com/c/scale.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern (Summer 2027)](https://www.dreamworkhq.com/job/a850283c-e272-49b2-9386-4660b3e59e2e?utm_source=github&utm_campaign=gh-tech-internships) | Doha, Qatar |  | 18d |
+| **[Scale AI](https://www.dreamworkhq.com/c/scale.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern (Summer 2027)](https://www.dreamworkhq.com/job/a850283c-e272-49b2-9386-4660b3e59e2e?utm_source=github&utm_campaign=gh-tech-internships) | Doha, Qatar |  | 21d |
 
 <!-- TABLE_END -->
