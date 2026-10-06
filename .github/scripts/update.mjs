@@ -819,7 +819,7 @@ ${config.tagline}
 
 **${rows.length} open internships** · **${companies} companies** · **${addedToday} added in the last 24 hours** · Updated **${updated}**
 
-Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq).
+Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq)${config.activeJobsLabel ? `, which crawls ${config.activeJobsLabel} live jobs` : ""}.
 
 ${config.internationalBoard ? "Looking outside the US? Browse [International internships](INTERNATIONAL.md), organized by country and refreshed separately.\n" : ""}
 ${config.businessBoard ? "Looking beyond technical roles? Browse [Business internships](BUSINESS.md) in finance, accounting, and data analytics.\n" : ""}
@@ -1704,7 +1704,7 @@ for (const source of config.sources) {
 if (config.mode === "inventory") totalMatching = new Set(all.map(row => row.id)).size;
 config.totalMatching = totalMatching;
 config.totalMatchingCapped = totalMatchingCapped;
-config.activeJobsLabel = isCommunityPresentation(config) ? null : await fetchActiveJobsLabel();
+config.activeJobsLabel = await fetchActiveJobsLabel();
 
 // Partition and pick the display set.
 // inventory mode: every verified-open matching role (US in README,
