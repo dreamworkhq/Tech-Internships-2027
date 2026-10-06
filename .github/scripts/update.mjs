@@ -1220,7 +1220,7 @@ function renderBusinessPage(rows, config, board, now, totalRows) {
     ? `**${rows.length} open internships**`
     : `**${rows.length} newest of ${totalRows} open internships**`;
   const attribution = isCommunityPresentation(config)
-    ? "Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq)."
+    ? `Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq)${config.activeJobsLabel ? `, which crawls ${config.activeJobsLabel} live jobs` : ""}.`
     : `Click a role to view it and apply, or let [Dreamwork](${SITE_BASE}/?utm_source=github&utm_medium=business_readme&utm_campaign=${config.utmCampaign}) match the list against your resume.`;
 
   return `# ${board.title}
@@ -1348,6 +1348,7 @@ async function generateBusiness(config, out, now) {
     board,
   );
 
+  if (isCommunityPresentation(config)) runtimeConfig.activeJobsLabel = await fetchActiveJobsLabel();
   const rendered = fitToRenderLimit(
     rows,
     (kept) => renderBusinessPage(kept, runtimeConfig, board, now, rows.length),
@@ -1444,7 +1445,7 @@ function renderCryptoPage(rows, config, board, now, totalRows) {
     ? `**${rows.length} open internships**`
     : `**${rows.length} newest of ${totalRows} open internships**`;
   const attribution = isCommunityPresentation(config)
-    ? "Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq)."
+    ? `Every role links directly to the company's career page. Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq)${config.activeJobsLabel ? `, which crawls ${config.activeJobsLabel} live jobs` : ""}.`
     : `Click a role to view it and apply, or let [Dreamwork](${SITE_BASE}/?utm_source=github&utm_medium=crypto_readme&utm_campaign=${config.utmCampaign}) match the list against your resume.`;
 
   return `# ${board.title}
@@ -1575,6 +1576,7 @@ async function generateCrypto(config, out, now) {
   }
   assertCryptoSnapshotHealth(rows, loadPreviousCryptoSnapshot(out, config), board);
 
+  if (isCommunityPresentation(config)) runtimeConfig.activeJobsLabel = await fetchActiveJobsLabel();
   const rendered = fitToRenderLimit(
     rows,
     (kept) => renderCryptoPage(kept, runtimeConfig, board, now, rows.length),
