@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-06T00:59:41.417Z",
+  "generatedAt": "2026-10-06T23:35:03.011Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
   "count": 115,
   "listings": [
+    {
+      "id": "efa3c43c-68c7-4686-9ff3-ca05fa741791",
+      "title": "Binance Accelerator Program - Ads Implementation",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "UAE, Dubai",
+      "locationCountryCode": "AE",
+      "functionPrimary": "Marketing",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-10-06T00:36:16.323Z",
+      "firstIndexedAt": "2026-10-06T10:30:31.209Z",
+      "url": "https://www.dreamworkhq.com/job/efa3c43c-68c7-4686-9ff3-ca05fa741791?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "733e9ba0-68bf-4166-bb1b-09a893ab28fb",
       "title": "Binance Accelerator Program - Backend Engineer, Pay & Card",
@@ -164,22 +180,6 @@
       "postedAt": "2026-09-23T08:46:41.298Z",
       "firstIndexedAt": "2026-09-23T10:30:34.545Z",
       "url": "https://www.dreamworkhq.com/job/45e58bcf-8061-4d0a-a750-9222d2231ece?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "a82da814-f074-4d72-9bc5-62dd27b8f3f6",
-      "title": "VIP Sales, SEA (6 months contract)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Philippines, Manila",
-      "locationCountryCode": "PH",
-      "functionPrimary": "Sales",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-22T10:00:04.919Z",
-      "firstIndexedAt": "2026-09-22T16:16:14.414Z",
-      "url": "https://www.dreamworkhq.com/job/a82da814-f074-4d72-9bc5-62dd27b8f3f6?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "c160330b-9edb-4226-8d72-4e35a862b9ef",
@@ -807,7 +807,7 @@
     },
     {
       "id": "b0a693a1-d63b-4dc3-b7b9-2c7951346bb4",
-      "title": "Binance Accelerator Program - Data Scientist/ AI Agent (Transaction Monitoring)",
+      "title": "Binance Accelerator Program - Data Scientist, Risk Monitoring (Fully Remote)",
       "company": "Binance",
       "companyDomain": "binance.com",
       "location": "Asia",
