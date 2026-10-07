@@ -1,4 +1,4 @@
-# Tech internships in Malta
+# Tech internships in Azerbaijan
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Betsson](https://www.dreamworkhq.com/c/betsson.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineering Intern](https://www.dreamworkhq.com/job/6686305f-e7e9-459e-b857-2a44a6fa41ee?utm_source=github&utm_campaign=gh-tech-internships) | Malta |  | 8d |
+| **[Xsolla](https://www.dreamworkhq.com/c/xsolla.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI-First Engineering Intern](https://www.dreamworkhq.com/job/71d4091c-beba-476f-a6da-7d7f57ecbdd6?utm_source=github&utm_campaign=gh-tech-internships) | Baku |  | 0d |
 
 <!-- TABLE_END -->
