@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-10-07**
+**7 currently open roles** · Updated **2026-10-08**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -25,7 +25,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Digital, Cloud, Data - IT Strategy Stream](https://www.dreamworkhq.com/job/541802e6-426a-4ecc-b9be-ab06b699476c?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta |  | 12d |
-| **[Cermati](https://www.dreamworkhq.com/c/cermati.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/ca7433c7-1021-4d27-8103-1f3e85c40811?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Jakarta, Indonesia |  | 14d |
+| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Digital, Cloud, Data - IT Strategy Stream](https://www.dreamworkhq.com/job/541802e6-426a-4ecc-b9be-ab06b699476c?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta |  | 13d |
+| **[Cermati](https://www.dreamworkhq.com/c/cermati.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/ca7433c7-1021-4d27-8103-1f3e85c40811?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Jakarta, Indonesia |  | 15d |
 
 <!-- TABLE_END -->
