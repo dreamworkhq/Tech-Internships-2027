@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-08**
+**1 currently open roles** · Updated **2026-10-09**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Betsson](https://www.dreamworkhq.com/c/betsson.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineering Intern](https://www.dreamworkhq.com/job/6686305f-e7e9-459e-b857-2a44a6fa41ee?utm_source=github&utm_campaign=gh-tech-internships) | Malta |  | 9d |
+| **[Betsson](https://www.dreamworkhq.com/c/betsson.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineering Intern](https://www.dreamworkhq.com/job/6686305f-e7e9-459e-b857-2a44a6fa41ee?utm_source=github&utm_campaign=gh-tech-internships) | Malta |  | 10d |
 
 <!-- TABLE_END -->
