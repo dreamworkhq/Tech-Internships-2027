@@ -2,61 +2,61 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1635 country-located roles** across **62 countries** · **5 explicitly global remote** · Updated **2026-10-09**
+**1646 country-located roles** across **62 countries** · **5 explicitly global remote** · Updated **2026-10-10**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
 | --- | ---: |
-| [Singapore](international/singapore.md) | 250 |
-| [Canada](international/canada.md) | 215 |
-| [United Kingdom](international/united-kingdom.md) | 110 |
-| [China](international/china.md) | 94 |
-| [France](international/france.md) | 80 |
+| [Singapore](international/singapore.md) | 261 |
+| [Canada](international/canada.md) | 208 |
+| [United Kingdom](international/united-kingdom.md) | 108 |
+| [China](international/china.md) | 95 |
+| [France](international/france.md) | 81 |
 | [Germany](international/germany.md) | 79 |
-| [India](international/india.md) | 67 |
-| [Malaysia](international/malaysia.md) | 56 |
-| [Netherlands](international/netherlands.md) | 55 |
-| [Switzerland](international/switzerland.md) | 54 |
-| [Italy](international/italy.md) | 43 |
+| [India](international/india.md) | 72 |
+| [Malaysia](international/malaysia.md) | 60 |
+| [Netherlands](international/netherlands.md) | 53 |
+| [Switzerland](international/switzerland.md) | 52 |
 | [Vietnam](international/vietnam.md) | 42 |
-| [Poland](international/poland.md) | 40 |
+| [Poland](international/poland.md) | 41 |
+| [Italy](international/italy.md) | 39 |
 | [Taiwan](international/taiwan.md) | 39 |
+| [Ireland](international/ireland.md) | 32 |
 | [Mexico](international/mexico.md) | 32 |
 | [Spain](international/spain.md) | 32 |
-| [Ireland](international/ireland.md) | 31 |
-| [Brazil](international/brazil.md) | 26 |
+| [Brazil](international/brazil.md) | 25 |
 | [Hong Kong SAR China](international/hong-kong-sar-china.md) | 21 |
 | [Portugal](international/portugal.md) | 21 |
+| [Belgium](international/belgium.md) | 20 |
 | [Czechia](international/czechia.md) | 19 |
-| [Belgium](international/belgium.md) | 18 |
-| [Colombia](international/colombia.md) | 14 |
+| [Colombia](international/colombia.md) | 15 |
 | [New Zealand](international/new-zealand.md) | 13 |
 | [Philippines](international/philippines.md) | 13 |
-| [Israel](international/israel.md) | 11 |
-| [Australia](international/australia.md) | 10 |
+| [Israel](international/israel.md) | 12 |
 | [Romania](international/romania.md) | 10 |
+| [Australia](international/australia.md) | 9 |
 | [Denmark](international/denmark.md) | 9 |
 | [Austria](international/austria.md) | 8 |
 | [South Korea](international/south-korea.md) | 8 |
 | [Hungary](international/hungary.md) | 7 |
 | [Indonesia](international/indonesia.md) | 7 |
 | [Peru](international/peru.md) | 7 |
+| [Serbia](international/serbia.md) | 7 |
 | [Thailand](international/thailand.md) | 7 |
 | [Ukraine](international/ukraine.md) | 7 |
 | [Greece](international/greece.md) | 6 |
-| [Serbia](international/serbia.md) | 6 |
 | [United Arab Emirates](international/united-arab-emirates.md) | 6 |
 | [Argentina](international/argentina.md) | 5 |
 | [Egypt](international/egypt.md) | 5 |
-| [Sri Lanka](international/sri-lanka.md) | 5 |
+| [Puerto Rico](international/puerto-rico.md) | 5 |
 | [Costa Rica](international/costa-rica.md) | 4 |
 | [Japan](international/japan.md) | 4 |
 | [Luxembourg](international/luxembourg.md) | 4 |
 | [Norway](international/norway.md) | 4 |
 | [Saudi Arabia](international/saudi-arabia.md) | 4 |
+| [Sri Lanka](international/sri-lanka.md) | 4 |
 | [Türkiye](international/turkiye.md) | 4 |
-| [Puerto Rico](international/puerto-rico.md) | 3 |
 | [Slovakia](international/slovakia.md) | 3 |
 | [Bulgaria](international/bulgaria.md) | 2 |
 | [Lithuania](international/lithuania.md) | 2 |

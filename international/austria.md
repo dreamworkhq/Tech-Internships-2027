@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-10-09**
+**8 currently open roles** · Updated **2026-10-10**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sentry](https://www.dreamworkhq.com/c/sentry.io?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern (Summer 2027)](https://www.dreamworkhq.com/job/4bd233f4-5919-4f0c-8e4e-90f3674e3dc4?utm_source=github&utm_campaign=gh-tech-internships) | Vienna, Austria (Hybrid) | $43K | 27d |
-| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Software Application Developer - Cryptographic Validation S…](https://www.dreamworkhq.com/job/177182fc-930f-4e17-8609-0582c6b6fd8c?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn | $36K | 28d |
+| **[Sentry](https://www.dreamworkhq.com/c/sentry.io?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern (Summer 2027)](https://www.dreamworkhq.com/job/4bd233f4-5919-4f0c-8e4e-90f3674e3dc4?utm_source=github&utm_campaign=gh-tech-internships) | Vienna, Austria (Hybrid) | $43K | 28d |
+| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Software Application Developer - Cryptographic Validation S…](https://www.dreamworkhq.com/job/177182fc-930f-4e17-8609-0582c6b6fd8c?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn | $36K | 29d |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Automotive Customer Application Software Engineer (m/f/d)](https://www.dreamworkhq.com/job/d1c58770-ded9-466b-9efb-e34bec0e3a75?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $36K | 2mo |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship – Digital Verification & Generative AI Support (m/f/d)](https://www.dreamworkhq.com/job/09735c45-d4f6-4a62-bde0-78ab1bb31d75?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $36K | 2mo |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship – Digital Design & Generative AI Support (m/f/d)](https://www.dreamworkhq.com/job/4f5a24c6-e219-48cc-aec8-e60a4fff94ed?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $36K | 2mo |
@@ -26,7 +26,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Royal DSM](https://www.dreamworkhq.com/c/dsm.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data Management (5 month, hybrid)](https://www.dreamworkhq.com/job/5559ccf2-e546-47cf-8fc9-4622a49d0f7f?utm_source=github&utm_campaign=gh-tech-internships) | — (Hybrid) | $29K | 0d |
-| **[RedBull](https://www.dreamworkhq.com/c/redbull.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data Science](https://www.dreamworkhq.com/job/130d48f0-ed1c-41fe-82ef-ada69e689d8f?utm_source=github&utm_campaign=gh-tech-internships) | Elsbethen, Salzburg, Austria | $29K | 28d |
+| **[Royal DSM](https://www.dreamworkhq.com/c/dsm.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data Management (5 month, hybrid)](https://www.dreamworkhq.com/job/5559ccf2-e546-47cf-8fc9-4622a49d0f7f?utm_source=github&utm_campaign=gh-tech-internships) | — (Hybrid) | $29K | 1d |
+| **[RedBull](https://www.dreamworkhq.com/c/redbull.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data Science](https://www.dreamworkhq.com/job/130d48f0-ed1c-41fe-82ef-ada69e689d8f?utm_source=github&utm_campaign=gh-tech-internships) | Elsbethen, Salzburg, Austria | $29K | 29d |
 
 <!-- TABLE_END -->
