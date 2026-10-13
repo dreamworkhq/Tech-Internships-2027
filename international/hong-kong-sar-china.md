@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**21 currently open roles** · Updated **2026-10-12**
+**21 currently open roles** · Updated **2026-10-13**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,9 +15,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Schonfeld](https://www.dreamworkhq.com/c/schonfeld.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Quantitative C++ Developer Intern](https://www.dreamworkhq.com/job/582fe0ab-55d5-455b-acf2-7928742b25ed?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong, Hong Kong |  | 12d |
-| **[Dvtrading](https://www.dreamworkhq.com/c/dvtrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Developer Intern (DV Equities)](https://www.dreamworkhq.com/job/8a289024-4f4e-4ca5-883f-c90c316d21b6?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 24d |
-| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Development Engineer Intern](https://www.dreamworkhq.com/job/f9a3e575-dac0-4101-99e7-c7e4dc6d75d4?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR |  | 29d |
+| **[Schonfeld](https://www.dreamworkhq.com/c/schonfeld.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Quantitative C++ Developer Intern](https://www.dreamworkhq.com/job/582fe0ab-55d5-455b-acf2-7928742b25ed?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong, Hong Kong |  | 13d |
+| **[Dvtrading](https://www.dreamworkhq.com/c/dvtrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Developer Intern (DV Equities)](https://www.dreamworkhq.com/job/8a289024-4f4e-4ca5-883f-c90c316d21b6?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 25d |
+| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Development Engineer Intern](https://www.dreamworkhq.com/job/f9a3e575-dac0-4101-99e7-c7e4dc6d75d4?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR |  | 1mo |
 | **[Nex](https://www.dreamworkhq.com/c/playthatmovesyou.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer 2027 \| Software Engineer Intern (Developer Experience)](https://www.dreamworkhq.com/job/04e03f7b-2133-4b0a-b38f-0e9ea405ab6f?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
 | **[Nex](https://www.dreamworkhq.com/c/playthatmovesyou.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer 2027 \| Software Engineer Intern (Platform)](https://www.dreamworkhq.com/job/1c82e238-7b59-4834-9502-029d603e4271?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
 | **[Nex](https://www.dreamworkhq.com/c/playthatmovesyou.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer 2027 \| Software Engineer Intern (ML Research, Core Technology)](https://www.dreamworkhq.com/job/1f854d51-9170-4580-98e3-612d2b115bd7?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
@@ -35,9 +35,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Manulife](https://www.dreamworkhq.com/c/manulife.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Co-op Internship 2027: Business Intelligence (6 months)](https://www.dreamworkhq.com/job/04063a4b-ff91-4515-936c-0a63e525c1d4?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 10d |
-| **[Djeholdings](https://www.dreamworkhq.com/c/edelman.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Creative Intern (Art base)](https://www.dreamworkhq.com/job/5b33ced9-070a-4383-945f-55904cb26eb3?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 19d |
-| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Smart Contract Security Audit Intern (AI Audit)](https://www.dreamworkhq.com/job/4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3?utm_source=github&utm_campaign=gh-tech-internships) | Remote (APAC - Remote; Hong Kong SAR) |  | 29d |
+| **[Manulife](https://www.dreamworkhq.com/c/manulife.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Co-op Internship 2027: Business Intelligence (6 months)](https://www.dreamworkhq.com/job/04063a4b-ff91-4515-936c-0a63e525c1d4?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 11d |
+| **[Djeholdings](https://www.dreamworkhq.com/c/edelman.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Creative Intern (Art base)](https://www.dreamworkhq.com/job/5b33ced9-070a-4383-945f-55904cb26eb3?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 20d |
+| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Smart Contract Security Audit Intern (AI Audit)](https://www.dreamworkhq.com/job/4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3?utm_source=github&utm_campaign=gh-tech-internships) | Remote (APAC - Remote; Hong Kong SAR) |  | 1mo |
 | **[Intactfc](https://www.dreamworkhq.com/c/intactfc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Scientist - Internship/Co-op (Winter or Summer2027)](https://www.dreamworkhq.com/job/5191691b-f8a7-4094-aef8-f49f60d4d69e?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong Science Park, HK (Hybrid) |  | 1mo |
 | **[Quberesearchandtechnologies](https://www.dreamworkhq.com/c/qube.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 - Internship, Security Engineer](https://www.dreamworkhq.com/job/bcc18fa8-e1bc-4b8b-80b8-1253e2460e59?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
 | **[Barclays](https://www.dreamworkhq.com/c/barclays.co.uk?utm_source=github&utm_campaign=gh-tech-internships)** | [Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong](https://www.dreamworkhq.com/job/5f0dc85a-34e8-48e7-855d-8be60f701439?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong, Cheung Kong Center |  | 3mo |

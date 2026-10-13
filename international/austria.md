@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-10-12**
+**9 currently open roles** · Updated **2026-10-13**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-6) · 6 roles
-- [Other](#other-2) · 2 roles
+- [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -22,11 +22,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship – Digital Design & Generative AI Support (m/f/d)](https://www.dreamworkhq.com/job/4f5a24c6-e219-48cc-aec8-e60a4fff94ed?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $36K | 2mo |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Digital Design Team Support (m/f/d)](https://www.dreamworkhq.com/job/b37253a3-54c7-4357-9592-c3fef7478008?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $36K | 2mo |
 
-### Other (2)
+### Other (3)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Secure Firmware Development (m/f/d)](https://www.dreamworkhq.com/job/e91163ad-284c-4ed4-aa1a-59a937bd0795?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $38K | 0d |
+| **[RedBull](https://www.dreamworkhq.com/c/redbull.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data Science](https://www.dreamworkhq.com/job/5a980ac6-99ee-47be-8c0b-719d1448a412?utm_source=github&utm_campaign=gh-tech-internships) | Elsbethen, Salzburg, Austria | $30K | 0d |
+| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Secure Firmware Development (m/f/d)](https://www.dreamworkhq.com/job/e91163ad-284c-4ed4-aa1a-59a937bd0795?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $38K | 1d |
 | **[Royal DSM](https://www.dreamworkhq.com/c/dsm.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data Management (5 month, hybrid)](https://www.dreamworkhq.com/job/5559ccf2-e546-47cf-8fc9-4622a49d0f7f?utm_source=github&utm_campaign=gh-tech-internships) | — (Hybrid) | $29K | 4d |
 
 <!-- TABLE_END -->

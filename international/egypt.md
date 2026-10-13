@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**4 currently open roles** · Updated **2026-10-12**
+**4 currently open roles** · Updated **2026-10-13**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Product Management, Cairo - Egypt](https://www.dreamworkhq.com/job/9ae4c42d-3e8c-48b2-b80b-1ce55b0e17cf?utm_source=github&utm_campaign=gh-tech-internships) | Cairo, Egypt |  | 15d |
+| **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Product Management, Cairo - Egypt](https://www.dreamworkhq.com/job/9ae4c42d-3e8c-48b2-b80b-1ce55b0e17cf?utm_source=github&utm_campaign=gh-tech-internships) | Cairo, Egypt |  | 16d |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [ETIC, Cloud Engineering Intern](https://www.dreamworkhq.com/job/b1c15ebf-bfba-41c0-9fff-48c860671a09?utm_source=github&utm_campaign=gh-tech-internships) | Cairo - ETIC |  | 3mo |
 | **[Pwc](https://www.dreamworkhq.com/c/pwc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [ETIC, Cyber Security Summer Internship](https://www.dreamworkhq.com/job/5dd9e97c-56d5-44f2-bd59-e829a4ed7d56?utm_source=github&utm_campaign=gh-tech-internships) | Cairo - ETIC |  | 3mo |
 | **[Pwc](https://www.dreamworkhq.com/c/pwc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [ETIC, Summer Internship - Applied AI](https://www.dreamworkhq.com/job/265b626d-cb3b-4800-9f4a-7e150fa4855f?utm_source=github&utm_campaign=gh-tech-internships) | Cairo - ETIC |  | 4mo |

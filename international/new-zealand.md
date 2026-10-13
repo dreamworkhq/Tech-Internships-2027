@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-10-12**
+**12 currently open roles** · Updated **2026-10-13**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-8) · 8 roles
-- [Data Science](#data-science-5) · 5 roles
+- [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Rocket Lab](https://www.dreamworkhq.com/c/rocketlabusa.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/9f1a7252-880f-4aef-814d-3ac4bf041cf8?utm_source=github&utm_campaign=gh-tech-internships) | Auckland |  | 19d |
+| **[Rocket Lab](https://www.dreamworkhq.com/c/rocketlabusa.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/9f1a7252-880f-4aef-814d-3ac4bf041cf8?utm_source=github&utm_campaign=gh-tech-internships) | Auckland |  | 20d |
 | **[Tencent](https://www.dreamworkhq.com/c/tencent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Game Backend Development Intern](https://www.dreamworkhq.com/job/dd2042c5-813e-480b-909a-389184732bd2?utm_source=github&utm_campaign=gh-tech-internships) | New Zealand-Auckland |  | 2mo |
 | **[Rocket Lab](https://www.dreamworkhq.com/c/rocketlabusa.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Launch Safety Software Intern](https://www.dreamworkhq.com/job/9a650125-e384-4749-9529-e2eb73f7dfdd?utm_source=github&utm_campaign=gh-tech-internships) | Auckland, NZ |  | 2mo |
 | **[Rocket Lab](https://www.dreamworkhq.com/c/rocketlabusa.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Web Services Intern](https://www.dreamworkhq.com/job/182b03da-5dfa-47ee-80e4-e155c8a501e4?utm_source=github&utm_campaign=gh-tech-internships) | Auckland, NZ |  | 2mo |
@@ -24,14 +24,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Halter](https://www.dreamworkhq.com/c/halterhq.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Firmware Internship 2026/2027](https://www.dreamworkhq.com/job/68d77488-d2e2-4919-9e6c-4719ba30a459?utm_source=github&utm_campaign=gh-tech-internships) | Auckland |  | 4mo |
 | **[Partly.Com](https://www.dreamworkhq.com/c/partly.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern/ Graduate Software Engineer, NZ](https://www.dreamworkhq.com/job/fa8000ff-5ab5-41c1-99bd-3efdfcdb3001?utm_source=github&utm_campaign=gh-tech-internships) | Christchurch |  | 4mo |
 
-### Data Science (5)
+### Other (4)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Comvita](https://www.dreamworkhq.com/c/comvita.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer Internship 2026/27](https://www.dreamworkhq.com/job/903984fd-b741-44ea-b5cc-1e55fc7a0a9a?utm_source=github&utm_campaign=gh-tech-internships) | Paengaroa, Bay of Plenty | $35K | 6d |
-| **[RTX (Raytheon)](https://www.dreamworkhq.com/c/rtx.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Analyst](https://www.dreamworkhq.com/job/820c04a4-83b3-4803-9ca1-e0df2520e942?utm_source=github&utm_campaign=gh-tech-internships) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 18d |
-| **[RTX (Raytheon)](https://www.dreamworkhq.com/c/rtx.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - CFT Data Analysist](https://www.dreamworkhq.com/job/36d92248-710a-4bef-b97e-fb81dec17fac?utm_source=github&utm_campaign=gh-tech-internships) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 19d |
-| **[Christchurch Engine Centre](https://www.dreamworkhq.com/c/christchurchenginecentre.co.nz?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Customer Focus Team Data Analysist](https://www.dreamworkhq.com/job/c92f7e08-5edb-4979-a760-974eeb720ebb?utm_source=github&utm_campaign=gh-tech-internships) | Christchurch Central, Canterbury |  | 19d |
+| **[RTX (Raytheon)](https://www.dreamworkhq.com/c/rtx.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Analyst](https://www.dreamworkhq.com/job/820c04a4-83b3-4803-9ca1-e0df2520e942?utm_source=github&utm_campaign=gh-tech-internships) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 19d |
+| **[RTX (Raytheon)](https://www.dreamworkhq.com/c/rtx.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - CFT Data Analysist](https://www.dreamworkhq.com/job/36d92248-710a-4bef-b97e-fb81dec17fac?utm_source=github&utm_campaign=gh-tech-internships) | NZ-CAN-CHRISTCHURCH-115-1 ~ 115 Orchard Rd … |  | 20d |
+| **[Christchurch Engine Centre](https://www.dreamworkhq.com/c/christchurchenginecentre.co.nz?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Customer Focus Team Data Analysist](https://www.dreamworkhq.com/job/c92f7e08-5edb-4979-a760-974eeb720ebb?utm_source=github&utm_campaign=gh-tech-internships) | Christchurch Central, Canterbury |  | 20d |
 | **[Partly.Com](https://www.dreamworkhq.com/c/partly.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science Intern/Graduate, NZ](https://www.dreamworkhq.com/job/c3ebc12b-a6c2-443b-b482-78a60c641b73?utm_source=github&utm_campaign=gh-tech-internships) | Christchurch |  | 3mo |
 
 <!-- TABLE_END -->
