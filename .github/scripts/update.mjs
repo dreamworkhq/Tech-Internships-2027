@@ -492,7 +492,6 @@ function selectLinkEligibleRows(rows, config) {
   return directRows;
 }
 
-// ---------- rendering ----------
 
 function esc(text) {
   // Escape everything that can break a markdown table cell or link label.
@@ -1662,7 +1661,6 @@ async function generateInternational(config, out, now) {
   );
 }
 
-// ---------- main ----------
 
 const { configPath, out, scope } = parseArgs(process.argv.slice(2));
 const config = JSON.parse(readFileSync(configPath, "utf8"));
