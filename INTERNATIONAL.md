@@ -2,81 +2,83 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1696 country-located roles** across **62 countries** · **5 explicitly global remote** · Updated **2026-10-13**
+**1701 country-located roles** across **63 countries** · **6 explicitly global remote** · Updated **2026-10-14**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
 | --- | ---: |
-| [Singapore](international/singapore.md) | 269 |
-| [Canada](international/canada.md) | 216 |
-| [China](international/china.md) | 104 |
-| [United Kingdom](international/united-kingdom.md) | 101 |
-| [India](international/india.md) | 90 |
+| [Singapore](international/singapore.md) | 268 |
+| [Canada](international/canada.md) | 211 |
+| [China](international/china.md) | 103 |
+| [United Kingdom](international/united-kingdom.md) | 99 |
+| [India](international/india.md) | 98 |
 | [France](international/france.md) | 78 |
-| [Germany](international/germany.md) | 74 |
+| [Germany](international/germany.md) | 70 |
 | [Malaysia](international/malaysia.md) | 63 |
 | [Netherlands](international/netherlands.md) | 57 |
-| [Switzerland](international/switzerland.md) | 52 |
-| [Poland](international/poland.md) | 48 |
-| [Vietnam](international/vietnam.md) | 43 |
-| [Italy](international/italy.md) | 41 |
-| [Taiwan](international/taiwan.md) | 40 |
+| [Poland](international/poland.md) | 51 |
+| [Switzerland](international/switzerland.md) | 50 |
+| [Italy](international/italy.md) | 43 |
+| [Vietnam](international/vietnam.md) | 41 |
+| [Taiwan](international/taiwan.md) | 39 |
 | [Ireland](international/ireland.md) | 35 |
-| [Mexico](international/mexico.md) | 32 |
-| [Spain](international/spain.md) | 31 |
+| [Mexico](international/mexico.md) | 33 |
+| [Spain](international/spain.md) | 32 |
 | [Brazil](international/brazil.md) | 25 |
-| [Hong Kong SAR China](international/hong-kong-sar-china.md) | 21 |
+| [Hong Kong SAR China](international/hong-kong-sar-china.md) | 22 |
 | [Portugal](international/portugal.md) | 21 |
-| [Czechia](international/czechia.md) | 18 |
-| [Belgium](international/belgium.md) | 17 |
+| [Czechia](international/czechia.md) | 19 |
+| [Belgium](international/belgium.md) | 18 |
 | [Colombia](international/colombia.md) | 14 |
 | [Israel](international/israel.md) | 14 |
-| [Australia](international/australia.md) | 12 |
-| [New Zealand](international/new-zealand.md) | 12 |
-| [Philippines](international/philippines.md) | 12 |
+| [Philippines](international/philippines.md) | 13 |
+| [Australia](international/australia.md) | 11 |
+| [New Zealand](international/new-zealand.md) | 11 |
+| [Austria](international/austria.md) | 10 |
 | [Thailand](international/thailand.md) | 10 |
-| [Austria](international/austria.md) | 9 |
+| [Romania](international/romania.md) | 9 |
 | [Denmark](international/denmark.md) | 8 |
 | [Hungary](international/hungary.md) | 8 |
-| [Romania](international/romania.md) | 8 |
-| [South Korea](international/south-korea.md) | 8 |
+| [Ukraine](international/ukraine.md) | 8 |
+| [Indonesia](international/indonesia.md) | 7 |
 | [Peru](international/peru.md) | 7 |
 | [Serbia](international/serbia.md) | 7 |
-| [Ukraine](international/ukraine.md) | 7 |
 | [United Arab Emirates](international/united-arab-emirates.md) | 7 |
 | [Greece](international/greece.md) | 6 |
-| [Indonesia](international/indonesia.md) | 6 |
 | [Puerto Rico](international/puerto-rico.md) | 6 |
 | [Saudi Arabia](international/saudi-arabia.md) | 6 |
+| [South Korea](international/south-korea.md) | 6 |
 | [Argentina](international/argentina.md) | 5 |
 | [Costa Rica](international/costa-rica.md) | 5 |
 | [Egypt](international/egypt.md) | 4 |
 | [Japan](international/japan.md) | 4 |
 | [Norway](international/norway.md) | 4 |
+| [Slovakia](international/slovakia.md) | 4 |
 | [Sri Lanka](international/sri-lanka.md) | 4 |
 | [Türkiye](international/turkiye.md) | 4 |
+| [Bulgaria](international/bulgaria.md) | 3 |
 | [Luxembourg](international/luxembourg.md) | 3 |
-| [Slovakia](international/slovakia.md) | 3 |
+| [Russia](international/russia.md) | 3 |
 | [South Africa](international/south-africa.md) | 3 |
-| [Bulgaria](international/bulgaria.md) | 2 |
 | [Lithuania](international/lithuania.md) | 2 |
-| [Russia](international/russia.md) | 2 |
 | [Azerbaijan](international/azerbaijan.md) | 1 |
 | [Cambodia](international/cambodia.md) | 1 |
 | [Kenya](international/kenya.md) | 1 |
 | [Malta](international/malta.md) | 1 |
 | [Morocco](international/morocco.md) | 1 |
+| [Pakistan](international/pakistan.md) | 1 |
 | [Qatar](international/qatar.md) | 1 |
 | [Suriname](international/suriname.md) | 1 |
 | [Sweden](international/sweden.md) | 1 |
 
-## Global remote (5)
+## Global remote (6)
 
 Only roles whose listing explicitly says applicants can work from anywhere appear here. A role merely labeled "Remote" is not treated as globally available.
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **[Icfexternal](https://www.dreamworkhq.com/c/icf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Summer Intern, Data Analytics (Reston, VA or Remote)](https://www.dreamworkhq.com/job/a4b415b5-1946-4228-807e-7e298d158a92?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Reston, VA) | $38K–$78K | 6d |
 | **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/6e07f617-19b8-4111-88f1-561fed69750f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Portugal) |  | 1mo |
 | **[Yotta](https://www.dreamworkhq.com/c/yottalabs.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Engineer Intern - AI Systems](https://www.dreamworkhq.com/job/8b4a8a28-5248-4a7c-9985-0db6583a0c85?utm_source=github&utm_campaign=gh-tech-internships) | Remote (United States) |  | 2mo |
 | **[DeliveryHero](https://www.dreamworkhq.com/c/deliveryhero.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/99b4692a-4928-4f20-b509-2bcee4b68ba6?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Barcelona, , Spain) |  | 3mo |
