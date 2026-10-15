@@ -4,28 +4,29 @@ Verified-open crypto, blockchain, and web3 internships worldwide, updated daily.
 
 [← US tech internships](README.md) · [International internships](INTERNATIONAL.md) · [Business internships](BUSINESS.md)
 
-**51 open internships** · **21 companies** · **3 added in the last 24 hours** · Updated **2026-10-14**
+**51 open internships** · **21 companies** · **0 added in the last 24 hours** · Updated **2026-10-15**
 
 Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.com/?utm_source=github&utm_medium=crypto_readme&utm_campaign=gh-tech-internships) match the list against your resume.
 
-- [Engineering](#engineering-33) · 33 roles
+- [Engineering](#engineering-32) · 32 roles
+- [Operations](#operations-5) · 5 roles
 - [Security](#security-5) · 5 roles
-- [Other](#other-13) · 13 roles
+- [Other](#other-9) · 9 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (33)
+### Engineering (32)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern for Crypto and Cross Domain Solutions](https://www.dreamworkhq.com/job/d5f354ec-4a73-4884-96cf-dbe15fc5f1ba?utm_source=github&utm_campaign=gh-tech-internships) | Taunton, MA, US |  | 0d |
-| **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern for Crypto & Cross Domain Solutions](https://www.dreamworkhq.com/job/feeff579-bbb7-4bd8-a71b-e1f3ef6cbf5a?utm_source=github&utm_campaign=gh-tech-internships) | Scottsdale, AZ, US |  | 0d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Software Engineer (Full-stack / AI-orien…](https://www.dreamworkhq.com/job/af411b93-6d90-484b-99c3-7fc0165fc1a8?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 14d |
-| **[Merklescience](https://www.dreamworkhq.com/c/merklescience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer - Intern (Frontend)](https://www.dreamworkhq.com/job/3bd3233a-009b-420c-bbb0-9c895bc5ad40?utm_source=github&utm_campaign=gh-tech-internships) | Bangalore |  | 15d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Software Engineer (KYB)](https://www.dreamworkhq.com/job/982fcc38-c005-47dc-b3a6-cd574e00dc2d?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 19d |
-| **[ALTEN](https://www.dreamworkhq.com/c/alten.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Stage Innovation : Ingénieur Génie logiciel Frontend / Blockchain](https://www.dreamworkhq.com/job/7bc9d166-5b88-467b-bc27-7f00ca698333?utm_source=github&utm_campaign=gh-tech-internships) | Rennes, Brittany, France |  | 20d |
-| **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Intern Engineer for Crypto and Cross Domain Solutions](https://www.dreamworkhq.com/job/80beecfb-8abe-4581-bb9d-70b1155b179f?utm_source=github&utm_campaign=gh-tech-internships) | Scottsdale, AZ, US |  | 28d |
-| **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware EE Intern Engineer for Crypto and Cross Domain Solutions](https://www.dreamworkhq.com/job/fa5e4893-f487-4768-b522-9c46c7735d3b?utm_source=github&utm_campaign=gh-tech-internships) | Scottsdale, AZ, US |  | 28d |
+| **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern for Crypto and Cross Domain Solutions](https://www.dreamworkhq.com/job/d5f354ec-4a73-4884-96cf-dbe15fc5f1ba?utm_source=github&utm_campaign=gh-tech-internships) | Taunton, MA, US |  | 1d |
+| **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern for Crypto & Cross Domain Solutions](https://www.dreamworkhq.com/job/feeff579-bbb7-4bd8-a71b-e1f3ef6cbf5a?utm_source=github&utm_campaign=gh-tech-internships) | Scottsdale, AZ, US |  | 1d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Software Engineer (Full-stack / AI-orien…](https://www.dreamworkhq.com/job/af411b93-6d90-484b-99c3-7fc0165fc1a8?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 15d |
+| **[Merklescience](https://www.dreamworkhq.com/c/merklescience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer - Intern (Frontend)](https://www.dreamworkhq.com/job/3bd3233a-009b-420c-bbb0-9c895bc5ad40?utm_source=github&utm_campaign=gh-tech-internships) | Bangalore |  | 16d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Software Engineer (KYB)](https://www.dreamworkhq.com/job/982fcc38-c005-47dc-b3a6-cd574e00dc2d?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 20d |
+| **[ALTEN](https://www.dreamworkhq.com/c/alten.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Stage Innovation : Ingénieur Génie logiciel Frontend / Blockchain](https://www.dreamworkhq.com/job/7bc9d166-5b88-467b-bc27-7f00ca698333?utm_source=github&utm_campaign=gh-tech-internships) | Rennes, Brittany, France |  | 21d |
+| **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Intern Engineer for Crypto and Cross Domain Solutions](https://www.dreamworkhq.com/job/80beecfb-8abe-4581-bb9d-70b1155b179f?utm_source=github&utm_campaign=gh-tech-internships) | Scottsdale, AZ, US |  | 29d |
+| **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware EE Intern Engineer for Crypto and Cross Domain Solutions](https://www.dreamworkhq.com/job/fa5e4893-f487-4768-b522-9c46c7735d3b?utm_source=github&utm_campaign=gh-tech-internships) | Scottsdale, AZ, US |  | 29d |
 | **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Development Engineer Intern](https://www.dreamworkhq.com/job/f9a3e575-dac0-4101-99e7-c7e4dc6d75d4?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Software Engineer (Convert)](https://www.dreamworkhq.com/job/86eb42a1-c31e-47d9-91cd-f878171d4b72?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Software Engineer (Stocks)](https://www.dreamworkhq.com/job/b0448e6c-dfdc-41a3-a7b6-42de581b0f91?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Taiwan, Taipei) |  | 1mo |
@@ -36,7 +37,6 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 | **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[Intern\] Test Development Engineer Intern](https://www.dreamworkhq.com/job/f629d222-4507-43ee-ac50-feeca0c75e6c?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Software Engineer (Ledger)](https://www.dreamworkhq.com/job/c7db128c-9d38-482e-bfb8-8a18c8630a34?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Taiwan, Taipei) |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Software Engineer (Reconciliation)](https://www.dreamworkhq.com/job/dac64454-3ff9-4298-903c-9b1f4af8ebcf?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 1mo |
-| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Quality SW Process Internship](https://www.dreamworkhq.com/job/b38d8f84-ee4a-4a39-9b75-e74cad9658e7?utm_source=github&utm_campaign=gh-tech-internships) | Sibiu (Hybrid) |  | 1mo |
 | **[Merklescience](https://www.dreamworkhq.com/c/merklescience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer(Intern)- Backend](https://www.dreamworkhq.com/job/55340783-b58b-401e-93d7-fcf4d31b5436?utm_source=github&utm_campaign=gh-tech-internships) | Bangalore (Hybrid) |  | 2mo |
 | **[Certik](https://www.dreamworkhq.com/c/certik.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Compliance Engineer Intern](https://www.dreamworkhq.com/job/a2be243f-2753-455f-aa0e-e1174655ae71?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Europe / Asia) |  | 2mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Software Engineer (Cryptography)](https://www.dreamworkhq.com/job/f236f599-ea6d-4795-8838-a78f9cbbc93a?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 2mo |
@@ -52,6 +52,16 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 | **[Allium](https://www.dreamworkhq.com/c/allium.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Engineering Intern - General / AI](https://www.dreamworkhq.com/job/968e2ad3-6a09-4f11-999b-8a81f14b5755?utm_source=github&utm_campaign=gh-tech-internships) | Remote (New York) |  | 4mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - QA (Web3)](https://www.dreamworkhq.com/job/dc3357e6-5fc0-4d31-966c-a2dac9d0fcd0?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 5mo |
 
+### Operations (5)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **[Robinhood](https://www.dreamworkhq.com/c/robinhood.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Operations Intern (Summer 2027)](https://www.dreamworkhq.com/job/745d733e-4f44-474a-8447-bbbcefa34660?utm_source=github&utm_campaign=gh-tech-internships) | New York, NY (Hybrid) | $69K | 1mo |
+| **[Robinhood](https://www.dreamworkhq.com/c/robinhood.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Partnership Intern (Summer 2027)](https://www.dreamworkhq.com/job/ff69b4f8-747f-40bc-a219-22db71a69a8d?utm_source=github&utm_campaign=gh-tech-internships) | New York, NY (Hybrid) | $69K | 1mo |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Web3 Operations (for current university s…](https://www.dreamworkhq.com/job/1c4a5f74-6a07-4d65-acdd-6140ebbeefa4?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 1mo |
+| **[Coinbase](https://www.dreamworkhq.com/c/coinbase.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Inventory Operations Intern](https://www.dreamworkhq.com/job/21b93a50-079a-4f39-84a3-49c22693ccc1?utm_source=github&utm_campaign=gh-tech-internships) | Hybrid - New York, NY (Hybrid) | $83K | 1mo |
+| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Quality SW Process Internship](https://www.dreamworkhq.com/job/b38d8f84-ee4a-4a39-9b75-e74cad9658e7?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations (Hybrid) |  | 1mo |
+
 ### Security (5)
 
 | Company | Role | Location | Pay | Added |
@@ -62,18 +72,14 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 | **[Certik](https://www.dreamworkhq.com/c/certik.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Research Internship](https://www.dreamworkhq.com/job/1130fd4d-1171-4b97-a41a-4dfd51a1bd87?utm_source=github&utm_campaign=gh-tech-internships) | Remote (New York, NY / Seattle, WA / San Franci…) | $36K–$96K | 4mo |
 | **[Certik](https://www.dreamworkhq.com/c/certik.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Blockchain Security Expert Intern - AI Track](https://www.dreamworkhq.com/job/f9c1f472-ce2c-40ee-83f1-77ebbdfadcb8?utm_source=github&utm_campaign=gh-tech-internships) | Remote (New York, New York / Remote) | $72K–$96K | 4mo |
 
-### Other (13)
+### Other (9)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Recrutement Banque De France](https://www.dreamworkhq.com/c/recrutement.banque-france.fr?utm_source=github&utm_campaign=gh-tech-internships)** | [SG DEFI DEVELOPPEUR - ANALYSTE FINANCIER H/F](https://www.dreamworkhq.com/job/ca751caf-e781-43f4-9405-3765fe37c462?utm_source=github&utm_campaign=gh-tech-internships) | PARIS |  | 0d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Product Manager (meme)](https://www.dreamworkhq.com/job/2021f91f-666c-43c5-99fd-1844065b4d0d?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Hong Kong) |  | 19d |
-| **[Robinhood](https://www.dreamworkhq.com/c/robinhood.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Accounting Intern (Summer 2027)](https://www.dreamworkhq.com/job/c1a4de70-1c23-4af1-9dfe-217a6d68b5be?utm_source=github&utm_campaign=gh-tech-internships) | New York, NY (Hybrid) | $60K | 29d |
-| **[Robinhood](https://www.dreamworkhq.com/c/robinhood.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Operations Intern (Summer 2027)](https://www.dreamworkhq.com/job/745d733e-4f44-474a-8447-bbbcefa34660?utm_source=github&utm_campaign=gh-tech-internships) | New York, NY (Hybrid) | $69K | 29d |
-| **[Robinhood](https://www.dreamworkhq.com/c/robinhood.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Partnership Intern (Summer 2027)](https://www.dreamworkhq.com/job/ff69b4f8-747f-40bc-a219-22db71a69a8d?utm_source=github&utm_campaign=gh-tech-internships) | New York, NY (Hybrid) | $69K | 29d |
+| **[Recrutement Banque De France](https://www.dreamworkhq.com/c/recrutement.banque-france.fr?utm_source=github&utm_campaign=gh-tech-internships)** | [SG DEFI DEVELOPPEUR - ANALYSTE FINANCIER H/F](https://www.dreamworkhq.com/job/ca751caf-e781-43f4-9405-3765fe37c462?utm_source=github&utm_campaign=gh-tech-internships) | PARIS |  | 1d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Programm - Product Manager (meme)](https://www.dreamworkhq.com/job/2021f91f-666c-43c5-99fd-1844065b4d0d?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Hong Kong) |  | 20d |
+| **[Robinhood](https://www.dreamworkhq.com/c/robinhood.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Accounting Intern (Summer 2027)](https://www.dreamworkhq.com/job/c1a4de70-1c23-4af1-9dfe-217a6d68b5be?utm_source=github&utm_campaign=gh-tech-internships) | New York, NY (Hybrid) | $60K | 1mo |
 | **[Coinhako](https://www.dreamworkhq.com/c/coinhako.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern (Finance) - January to May 2027](https://www.dreamworkhq.com/job/6ee05c6f-d712-4d3d-ab8e-ebe69f76b21b?utm_source=github&utm_campaign=gh-tech-internships) | Singapore |  | 1mo |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Web3 Operations (for current university s…](https://www.dreamworkhq.com/job/1c4a5f74-6a07-4d65-acdd-6140ebbeefa4?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 1mo |
-| **[Coinbase](https://www.dreamworkhq.com/c/coinbase.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Inventory Operations Intern](https://www.dreamworkhq.com/job/21b93a50-079a-4f39-84a3-49c22693ccc1?utm_source=github&utm_campaign=gh-tech-internships) | Hybrid - New York, NY (Hybrid) | $83K | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Global Swag](https://www.dreamworkhq.com/job/0fd2bb8a-4879-4058-8d63-9f1651e126a2?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 2mo |
 | **[Tether](https://www.dreamworkhq.com/c/tether.to?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Engineer Intern (Multimodal LLM)](https://www.dreamworkhq.com/job/3961a5a5-ba77-4b01-982b-129fa9f15282?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Remote job) |  | 3mo |
 | **[Pioneer Services](https://www.dreamworkhq.com/c/bnbchain.org?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer Relations Intern](https://www.dreamworkhq.com/job/7f57b282-6729-4c91-82f4-455bd835b694?utm_source=github&utm_campaign=gh-tech-internships) | Remote (North America) |  | 4mo |
