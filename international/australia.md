@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-10-16**
+**10 currently open roles** · Updated **2026-10-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Heidihealth.Com.Au](https://www.dreamworkhq.com/c/heidihealth.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [2026/2027 Software Engineering Intern Program (Heidi Launch Lab)](https://www.dreamworkhq.com/job/ee3e6055-0e71-4c48-9d41-453f33feac5c?utm_source=github&utm_campaign=gh-tech-internships) | Melbourne (Hybrid) |  | 1d |
-| **[Possible Consulting](https://www.dreamworkhq.com/c/possibleconsulting.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Information Technology – Web developer Intern](https://www.dreamworkhq.com/job/3a612afb-f4b8-4125-9e21-0680db46e744?utm_source=github&utm_campaign=gh-tech-internships) | Adelaide SA |  | 3d |
+| **[Heidihealth.Com.Au](https://www.dreamworkhq.com/c/heidihealth.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [2026/2027 Software Engineering Intern Program (Heidi Launch Lab)](https://www.dreamworkhq.com/job/ee3e6055-0e71-4c48-9d41-453f33feac5c?utm_source=github&utm_campaign=gh-tech-internships) | Melbourne (Hybrid) |  | 2d |
+| **[Possible Consulting](https://www.dreamworkhq.com/c/possibleconsulting.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Information Technology – Web developer Intern](https://www.dreamworkhq.com/job/3a612afb-f4b8-4125-9e21-0680db46e744?utm_source=github&utm_campaign=gh-tech-internships) | Adelaide SA |  | 4d |
 | **[Cummins Apprenticeship](https://www.dreamworkhq.com/c/cummins.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Undergraduate Projects & Design Engineering Intern](https://www.dreamworkhq.com/job/63d48455-28c6-4058-89ef-8d8c5e6f8e13?utm_source=github&utm_campaign=gh-tech-internships) | Scoresby, Melbourne VIC |  | 1mo |
 | **[Cummins Apprenticeship](https://www.dreamworkhq.com/c/cummins.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Undergraduate Projects & Design Engineering Internship](https://www.dreamworkhq.com/job/38c0e13c-b4ec-44d3-8ad4-7f653e605b6f?utm_source=github&utm_campaign=gh-tech-internships) | Scoresby, Victoria, Australia |  | 1mo |
 | **[Cummins Re Power ...](https://www.dreamworkhq.com/c/cumminsrepower.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Undergraduate Projects & Design Engineering Internship](https://www.dreamworkhq.com/job/f7279795-60d9-407f-82fa-83b02a7830cd?utm_source=github&utm_campaign=gh-tech-internships) | Scoresby, Victoria, Australia |  | 1mo |
@@ -28,7 +28,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[EQUANS](https://www.dreamworkhq.com/c/equans.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Data Analysis (geophysical and geotechnical investigations)](https://www.dreamworkhq.com/job/b68edc56-ed22-4bd1-82b6-a03c54446677?utm_source=github&utm_campaign=gh-tech-internships) | St Leonards, Sydney NSW |  | 3d |
-| **[Hoban Recruitment](https://www.dreamworkhq.com/c/hoban.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Victorian Government Cyber Internship Program](https://www.dreamworkhq.com/job/1621f4cb-a06d-4373-b826-93d4a180baf6?utm_source=github&utm_campaign=gh-tech-internships) | Melbourne VIC | $43K | 12d |
+| **[EQUANS](https://www.dreamworkhq.com/c/equans.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Data Analysis (geophysical and geotechnical investigations)](https://www.dreamworkhq.com/job/b68edc56-ed22-4bd1-82b6-a03c54446677?utm_source=github&utm_campaign=gh-tech-internships) | St Leonards, Sydney NSW |  | 4d |
+| **[Hoban Recruitment](https://www.dreamworkhq.com/c/hoban.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Victorian Government Cyber Internship Program](https://www.dreamworkhq.com/job/1621f4cb-a06d-4373-b826-93d4a180baf6?utm_source=github&utm_campaign=gh-tech-internships) | Melbourne VIC | $43K | 13d |
 
 <!-- TABLE_END -->
