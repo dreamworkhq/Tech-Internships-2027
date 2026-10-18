@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-10-17**
+**6 currently open roles** · Updated **2026-10-18**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,10 +14,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Infra Engineer - 2027 Internship](https://www.dreamworkhq.com/job/05f9099c-babd-4d59-a17a-73a1cff279d0?utm_source=github&utm_campaign=gh-tech-internships) | AE, Dubai |  | 4d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Engineering Operations - 2027 Internship , DCEO](https://www.dreamworkhq.com/job/f5dcb643-5de4-49cb-b840-9b05b1825327?utm_source=github&utm_campaign=gh-tech-internships) | AE, Dubai |  | 8d |
-| **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Global Markets Summer Internship 2027 - Product Management intern & Sal…](https://www.dreamworkhq.com/job/5e4ffdec-4ec9-4ee1-9212-95847be59384?utm_source=github&utm_campaign=gh-tech-internships) | Dubai, United Arab Emirates |  | 10d |
-| **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Pref…](https://www.dreamworkhq.com/job/aead0eb4-e5bd-4c93-9fbd-94b8ab1b8d39?utm_source=github&utm_campaign=gh-tech-internships) | Dubai, United Arab Emirates |  | 12d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Infra Engineer - 2027 Internship](https://www.dreamworkhq.com/job/05f9099c-babd-4d59-a17a-73a1cff279d0?utm_source=github&utm_campaign=gh-tech-internships) | AE, Dubai |  | 5d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Engineering Operations - 2027 Internship , DCEO](https://www.dreamworkhq.com/job/f5dcb643-5de4-49cb-b840-9b05b1825327?utm_source=github&utm_campaign=gh-tech-internships) | AE, Dubai |  | 9d |
+| **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Global Markets Summer Internship 2027 - Product Management intern & Sal…](https://www.dreamworkhq.com/job/5e4ffdec-4ec9-4ee1-9212-95847be59384?utm_source=github&utm_campaign=gh-tech-internships) | Dubai, United Arab Emirates |  | 11d |
+| **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Pref…](https://www.dreamworkhq.com/job/aead0eb4-e5bd-4c93-9fbd-94b8ab1b8d39?utm_source=github&utm_campaign=gh-tech-internships) | Dubai, United Arab Emirates |  | 13d |
 | **[Ifm Us](https://www.dreamworkhq.com/c/ifm.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineer Internship – LLM Data](https://www.dreamworkhq.com/job/0f7a0b18-43d3-4da0-b6af-b8cae85be2ef?utm_source=github&utm_campaign=gh-tech-internships) | Abu Dhabi |  | 1mo |
 | **[Asula](https://www.dreamworkhq.com/c/asula.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer: Intern/New Grad](https://www.dreamworkhq.com/job/76979749-2383-498d-a885-721f4fa35bee?utm_source=github&utm_campaign=gh-tech-internships) | Dubai |  | 4mo |
 
