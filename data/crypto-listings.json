@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T22:19:39.785Z",
+  "generatedAt": "2026-10-19T02:22:20.279Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 51,
+  "count": 47,
   "listings": [
     {
       "id": "d5f354ec-4a73-4884-96cf-dbe15fc5f1ba",
@@ -164,54 +164,6 @@
       "postedAt": "2026-09-16T04:00:00.000Z",
       "firstIndexedAt": "2026-09-16T15:16:21.299Z",
       "url": "https://www.dreamworkhq.com/job/fa5e4893-f487-4768-b522-9c46c7735d3b?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "745d733e-4f44-474a-8447-bbbcefa34660",
-      "title": "Crypto Operations Intern (Summer 2027)",
-      "company": "Robinhood",
-      "companyDomain": "robinhood.com",
-      "location": "New York, NY",
-      "locationCountryCode": "US",
-      "functionPrimary": "Operations",
-      "remoteType": "hybrid",
-      "salaryMin": 68640,
-      "salaryMax": 68640,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-14T12:00:09.000Z",
-      "firstIndexedAt": "2026-09-15T10:45:16.780Z",
-      "url": "https://www.dreamworkhq.com/job/745d733e-4f44-474a-8447-bbbcefa34660?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "c1a4de70-1c23-4af1-9dfe-217a6d68b5be",
-      "title": "Crypto Accounting Intern (Summer 2027)",
-      "company": "Robinhood",
-      "companyDomain": "robinhood.com",
-      "location": "New York, NY",
-      "locationCountryCode": "US",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": 60320,
-      "salaryMax": 60320,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-14T12:00:08.000Z",
-      "firstIndexedAt": "2026-09-15T10:45:16.780Z",
-      "url": "https://www.dreamworkhq.com/job/c1a4de70-1c23-4af1-9dfe-217a6d68b5be?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "ff69b4f8-747f-40bc-a219-22db71a69a8d",
-      "title": "Crypto Partnership Intern (Summer 2027)",
-      "company": "Robinhood",
-      "companyDomain": "robinhood.com",
-      "location": "New York, NY",
-      "locationCountryCode": "US",
-      "functionPrimary": "Operations",
-      "remoteType": "hybrid",
-      "salaryMin": 68640,
-      "salaryMax": 68640,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-14T12:00:09.000Z",
-      "firstIndexedAt": "2026-09-15T10:45:16.780Z",
-      "url": "https://www.dreamworkhq.com/job/ff69b4f8-747f-40bc-a219-22db71a69a8d?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3",
@@ -390,22 +342,6 @@
       "url": "https://www.dreamworkhq.com/job/edeeee59-ade0-46e2-8911-5c7ea7360bfd?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "f629d222-4507-43ee-ac50-feeca0c75e6c",
-      "title": "[Intern] Test Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T08:26:18.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://www.dreamworkhq.com/job/f629d222-4507-43ee-ac50-feeca0c75e6c?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "21b93a50-079a-4f39-84a3-49c22693ccc1",
       "title": "Crypto Inventory Operations Intern",
       "company": "Coinbase",
@@ -458,7 +394,7 @@
       "title": "Crypto Quality SW Process Internship",
       "company": "NXP Semiconductors",
       "companyDomain": "nxp.com",
-      "location": "2 Locations",
+      "location": "Sibiu",
       "locationCountryCode": "RO",
       "functionPrimary": "Operations",
       "remoteType": "hybrid",
@@ -518,20 +454,20 @@
       "url": "https://www.dreamworkhq.com/job/a2be243f-2753-455f-aa0e-e1174655ae71?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "0fd2bb8a-4879-4058-8d63-9f1651e126a2",
-      "title": "Binance Accelerator Program - Global Swag",
+      "id": "4a114a42-3b9a-4256-a2e0-b7e80ee28277",
+      "title": "Pioneer Talent Program - Full Stack AI Engineer, Backend Oriented (Top Talent Program)",
       "company": "Binance",
       "companyDomain": "binance.com",
-      "location": "Hong Kong",
-      "locationCountryCode": "HK",
-      "functionPrimary": "Marketing",
-      "remoteType": null,
+      "location": "Asia",
+      "locationCountryCode": null,
+      "functionPrimary": "Engineering",
+      "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-07-22T02:28:05.316Z",
-      "firstIndexedAt": "2026-07-24T11:00:31.098Z",
-      "url": "https://www.dreamworkhq.com/job/0fd2bb8a-4879-4058-8d63-9f1651e126a2?utm_source=github&utm_campaign=gh-tech-internships"
+      "postedAt": "2023-11-23T03:28:37.589Z",
+      "firstIndexedAt": "2026-07-24T11:00:36.405Z",
+      "url": "https://www.dreamworkhq.com/job/4a114a42-3b9a-4256-a2e0-b7e80ee28277?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "f236f599-ea6d-4795-8838-a78f9cbbc93a",
