@@ -239,7 +239,7 @@
     ],
     "themeInclude": "\\b(?:crypto(?:currency)?|blockchain|web3|bitcoin|ethereum|stablecoin|defi)\\b",
     "titleExclude": "senior|staff|principal|director|\\bvp\\b|\\b2028\\b|\\b2029\\b",
-    "minRows": 50,
+    "minRows": 30,
     "maxPagesPerSource": 45,
     "minPreviousCountRatio": 0.65,
     "minPreviousOverlapRatio": 0.35,
