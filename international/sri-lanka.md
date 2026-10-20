@@ -2,21 +2,20 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**4 currently open roles** · Updated **2026-10-19**
+**3 currently open roles** · Updated **2026-10-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-4) · 4 roles
+- [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (4)
+### Other (3)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[MSF](https://www.dreamworkhq.com/c/montanastatefund.org?utm_source=github&utm_campaign=gh-tech-internships)** | [Creative Intern (Communication Department)](https://www.dreamworkhq.com/job/ca6efa42-1d77-4096-9187-1ff34bceba03?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombo, Western, 00200, Sri Lanka) |  | 5d |
-| **[MAS Holdings](https://www.dreamworkhq.com/c/masholdings.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Product Engineering Center (PEC)](https://www.dreamworkhq.com/job/f23fff92-268b-4159-aa88-db5180e3f4a9?utm_source=github&utm_campaign=gh-tech-internships) | Sri Lanka |  | 18d |
-| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Engineering](https://www.dreamworkhq.com/job/0549a170-81d8-4f23-a6ff-52f521269cff?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 26d |
+| **[MAS Holdings](https://www.dreamworkhq.com/c/masholdings.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Product Engineering Center (PEC)](https://www.dreamworkhq.com/job/f23fff92-268b-4159-aa88-db5180e3f4a9?utm_source=github&utm_campaign=gh-tech-internships) | Sri Lanka |  | 19d |
+| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Engineering](https://www.dreamworkhq.com/job/0549a170-81d8-4f23-a6ff-52f521269cff?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 27d |
 | **[Zebra](https://www.dreamworkhq.com/c/zebra.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026(6 months) Internship(Sri Lanka) -Software Engineering](https://www.dreamworkhq.com/job/14c02e52-8a60-4b31-a1ae-29142ee7ac8d?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka (Hybrid) |  | 2mo |
 
 <!-- TABLE_END -->
