@@ -2,23 +2,24 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**12 currently open roles** · Updated **2026-10-20**
+**13 currently open roles** · Updated **2026-10-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-12) · 12 roles
+- [Other](#other-13) · 13 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (12)
+### Other (13)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Ericsson](https://www.dreamworkhq.com/c/ericsson.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Services Professional Intern IT - SENA](https://www.dreamworkhq.com/job/ba0ed249-63f0-4975-afff-8a9e8edae2b1?utm_source=github&utm_campaign=gh-tech-internships) | Distrito Capital, Cundinamarca, Colombia |  | 10d |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Intern](https://www.dreamworkhq.com/job/4def1e2c-4596-48b9-9d82-196678aa8214?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Bogota, Colombia) |  | 25d |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Graphic Design Intern](https://www.dreamworkhq.com/job/6dc80c90-072f-46db-b0c6-e87f910df945?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Bogota, Colombia) |  | 25d |
+| **[Ericsson](https://www.dreamworkhq.com/c/ericsson.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Services Professional Intern IT - SENA](https://www.dreamworkhq.com/job/ba0ed249-63f0-4975-afff-8a9e8edae2b1?utm_source=github&utm_campaign=gh-tech-internships) | Distrito Capital, Cundinamarca, Colombia |  | 11d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Intern](https://www.dreamworkhq.com/job/4def1e2c-4596-48b9-9d82-196678aa8214?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Bogota, Colombia) |  | 26d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Graphic Design Intern](https://www.dreamworkhq.com/job/6dc80c90-072f-46db-b0c6-e87f910df945?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Bogota, Colombia) |  | 26d |
 | **[NielsenIQ](https://www.dreamworkhq.com/c/nielseniq.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Inteligencia de Mercados - Bogotá - Cali o Medellin](https://www.dreamworkhq.com/job/5c14eee4-3b80-43b7-b8c6-338206f8c1d2?utm_source=github&utm_campaign=gh-tech-internships) | Bogotá, Bogota, Colombia (Hybrid) |  | 1mo |
-| **[Viamericas](https://www.dreamworkhq.com/c/viamericas.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Infrastructure Intern](https://www.dreamworkhq.com/job/541bfb51-c51f-45b9-9742-49bbfbe385de?utm_source=github&utm_campaign=gh-tech-internships) | Medellin, Antioquia |  | 1mo |
+| **[Rockwell Automation](https://www.dreamworkhq.com/c/rockwellautomation.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Developer](https://www.dreamworkhq.com/job/d3f799ef-7bcd-45af-81a6-630309b972a2?utm_source=github&utm_campaign=gh-tech-internships) | Medellin, Antioquia, Colombia (Hybrid) |  | 1mo |
+| **[Viamericas](https://www.dreamworkhq.com/c/viamericas.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Infrastructure Intern](https://www.dreamworkhq.com/job/541bfb51-c51f-45b9-9742-49bbfbe385de?utm_source=github&utm_campaign=gh-tech-internships) | Medellin, Antioquia |  | 2mo |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Design Intern](https://www.dreamworkhq.com/job/b2d8b7c0-6e25-4e41-9674-77d5892496f4?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 2mo |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Data Intern](https://www.dreamworkhq.com/job/cc1f955d-1512-4ddf-8ec5-a67da6f8ed04?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 2mo |
 | **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data and Machine Learning Intern](https://www.dreamworkhq.com/job/42cad5e1-5cf3-4fec-b440-c2838096d854?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia) |  | 4mo |
