@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T22:39:27.789Z",
+  "generatedAt": "2026-10-22T22:32:45.769Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 42,
+  "count": 41,
   "listings": [
     {
       "id": "1596da51-50bb-40f0-90d3-32978e79a107",
@@ -132,22 +132,6 @@
       "postedAt": "2026-09-24T14:26:16.039Z",
       "firstIndexedAt": "2026-09-24T20:01:14.123Z",
       "url": "https://www.dreamworkhq.com/job/7bc9d166-5b88-467b-bc27-7f00ca698333?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "80beecfb-8abe-4581-bb9d-70b1155b179f",
-      "title": "Software Intern Engineer for Crypto and Cross Domain Solutions",
-      "company": "General Dynamics Mission Systems",
-      "companyDomain": "gdmissionsystems.com",
-      "location": "Scottsdale, AZ, US",
-      "locationCountryCode": "US",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-16T04:00:00.000Z",
-      "firstIndexedAt": "2026-09-16T15:16:21.299Z",
-      "url": "https://www.dreamworkhq.com/job/80beecfb-8abe-4581-bb9d-70b1155b179f?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "fa5e4893-f487-4768-b522-9c46c7735d3b",
@@ -346,7 +330,7 @@
       "title": "Crypto Quality SW Process Internship",
       "company": "NXP Semiconductors",
       "companyDomain": "nxp.com",
-      "location": "2 Locations",
+      "location": "Sibiu",
       "locationCountryCode": "RO",
       "functionPrimary": "Engineering",
       "remoteType": "hybrid",
