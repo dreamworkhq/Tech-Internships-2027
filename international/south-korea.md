@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-10-21**
+**6 currently open roles** · Updated **2026-10-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Moloco](https://www.dreamworkhq.com/c/moloco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (3 months)](https://www.dreamworkhq.com/job/667da21f-83ba-4886-b1c2-425be5155aad?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, Korea |  | 22d |
+| **[Moloco](https://www.dreamworkhq.com/c/moloco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (3 months)](https://www.dreamworkhq.com/job/667da21f-83ba-4886-b1c2-425be5155aad?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, Korea |  | 23d |
 | **[RenesasElectronics](https://www.dreamworkhq.com/c/renesas.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Analog Design Engineer](https://www.dreamworkhq.com/job/e0fad8a8-6731-4900-b4e0-b738a1721063?utm_source=github&utm_campaign=gh-tech-internships) | Seongnam-si, Gyeonggi-do, Korea, republic of |  | 1mo |
 | **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Forward Deployed Software Engineer, Internship - Commercial](https://www.dreamworkhq.com/job/06198623-e39b-4a37-bf60-f86188b21b71?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, South Korea (Hybrid) |  | 2mo |
 | **[BorgWarner](https://www.dreamworkhq.com/c/borgwarner.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Engineering Intern](https://www.dreamworkhq.com/job/7c4d5af1-c2e7-456a-92c8-77503eed0191?utm_source=github&utm_campaign=gh-tech-internships) | Eumsung - South Korea |  | 2mo |
