@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-10-22**
+**10 currently open roles** · Updated **2026-10-23**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sertis](https://www.dreamworkhq.com/c/sertiscorp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineer Intern](https://www.dreamworkhq.com/job/d1e6b1bb-0d97-4a7b-a383-a06481a145ed?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Bangkok Metropolis, Thailand |  | 27d |
+| **[Sertis](https://www.dreamworkhq.com/c/sertiscorp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineer Intern](https://www.dreamworkhq.com/job/d1e6b1bb-0d97-4a7b-a383-a06481a145ed?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Bangkok Metropolis, Thailand |  | 28d |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Test Engineer Intern](https://www.dreamworkhq.com/job/22338deb-22b7-476e-96fb-b76fc29faaab?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok |  | 1mo |
 | **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Technologist, Hardware Development Engineering (Studying Ph.D …](https://www.dreamworkhq.com/job/870f3af3-f847-491c-a62f-03ff510c9fce?utm_source=github&utm_campaign=gh-tech-internships) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
 | **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - AI Information Technology (Studying Master's and Bachelor Degr…](https://www.dreamworkhq.com/job/dafacd2d-5418-408f-a756-15de55bb7140?utm_source=github&utm_campaign=gh-tech-internships) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
@@ -29,6 +29,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sertis](https://www.dreamworkhq.com/c/sertiscorp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Scientist Intern](https://www.dreamworkhq.com/job/91671027-ef0a-4430-b287-3d1c63310110?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Bangkok Metropolis, Thailand |  | 27d |
+| **[Sertis](https://www.dreamworkhq.com/c/sertiscorp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Scientist Intern](https://www.dreamworkhq.com/job/91671027-ef0a-4430-b287-3d1c63310110?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Bangkok Metropolis, Thailand |  | 28d |
 
 <!-- TABLE_END -->

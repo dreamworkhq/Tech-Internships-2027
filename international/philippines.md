@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-10-22**
+**13 currently open roles** · Updated **2026-10-23**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Analytics](https://www.dreamworkhq.com/job/7ebc16f1-94ba-4b80-a009-3bdbd9c1dd55?utm_source=github&utm_campaign=gh-tech-internships) | Biñan City, LAGUNA, Philippines |  | 1d |
-| **[Globe](https://www.dreamworkhq.com/c/globe.com.ph?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineer Intern - EDS](https://www.dreamworkhq.com/job/d42d9a37-19bf-42f7-a313-eae7458d0f55?utm_source=github&utm_campaign=gh-tech-internships) | 19F The Globe Tower |  | 8d |
+| **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Analytics](https://www.dreamworkhq.com/job/0a8dc6c2-1866-4eb7-a1a7-aa954d91971c?utm_source=github&utm_campaign=gh-tech-internships) | Biñan City, LAGUNA, Philippines |  | 0d |
+| **[Globe](https://www.dreamworkhq.com/c/globe.com.ph?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineer Intern - EDS](https://www.dreamworkhq.com/job/d42d9a37-19bf-42f7-a313-eae7458d0f55?utm_source=github&utm_campaign=gh-tech-internships) | 19F The Globe Tower |  | 9d |
 | **[RealPage](https://www.dreamworkhq.com/c/realpage.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern (Technical Internship) \| Software, Analytics & AI for Property …](https://www.dreamworkhq.com/job/a4c7e9ac-a6a1-4b6d-8503-d7c643e139f4?utm_source=github&utm_campaign=gh-tech-internships) | Manila, Pasig, PH (Hybrid) |  | 1mo |
 | **[QIMA](https://www.dreamworkhq.com/c/qima.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineer - Internship](https://www.dreamworkhq.com/job/5671c2c5-40ca-4176-8ede-076367dadacd?utm_source=github&utm_campaign=gh-tech-internships) | Cebu City, Central Visayas, Philippines |  | 1mo |
 | **[Trend Micro](https://www.dreamworkhq.com/c/trendmicro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [GRID DEVOPS INTERN](https://www.dreamworkhq.com/job/a86931e7-c29b-4e25-acd2-819a8b578b6e?utm_source=github&utm_campaign=gh-tech-internships) | Manila |  | 1mo |
@@ -27,7 +27,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Umusic](https://www.dreamworkhq.com/c/universalmusic.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analytics Intern](https://www.dreamworkhq.com/job/10ff047f-cbc3-48c7-a8da-adda0072be48?utm_source=github&utm_campaign=gh-tech-internships) | Manila, Philippines |  | 27d |
+| **[Umusic](https://www.dreamworkhq.com/c/universalmusic.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analytics Intern](https://www.dreamworkhq.com/job/10ff047f-cbc3-48c7-a8da-adda0072be48?utm_source=github&utm_campaign=gh-tech-internships) | Manila, Philippines |  | 28d |
 | **[Trend Micro](https://www.dreamworkhq.com/c/trendmicro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cybersecurity Intern](https://www.dreamworkhq.com/job/9d14633a-092e-415f-9cbf-5ad0a6fa74e4?utm_source=github&utm_campaign=gh-tech-internships) | Manila |  | 1mo |
 | **[Disney](https://www.dreamworkhq.com/c/disney.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Product & Graphic Design, Disney Consumer Products - Jan to Jun…](https://www.dreamworkhq.com/job/b21e4ae4-72e8-49ed-a625-0d218d08de2a?utm_source=github&utm_campaign=gh-tech-internships) | Taguig, Philippines |  | 1mo |
 | **[Globe](https://www.dreamworkhq.com/c/globe.com.ph?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Customer Data Analytics](https://www.dreamworkhq.com/job/ea2b397a-2364-4004-8b8b-c3fa2ae40fb2?utm_source=github&utm_campaign=gh-tech-internships) | 22F The Globe Tower |  | 1mo |
