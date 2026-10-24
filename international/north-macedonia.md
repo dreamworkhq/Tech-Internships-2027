@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-23**
+**1 currently open roles** · Updated **2026-10-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DevOps Intern](https://www.dreamworkhq.com/job/d894afcf-6c6a-469b-a331-8b77cf231f1f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (North Macedonia) |  | 8d |
+| **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DevOps Intern](https://www.dreamworkhq.com/job/d894afcf-6c6a-469b-a331-8b77cf231f1f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (North Macedonia) |  | 9d |
 
 <!-- TABLE_END -->
