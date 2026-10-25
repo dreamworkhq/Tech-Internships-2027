@@ -2,25 +2,24 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**14 currently open roles** · Updated **2026-10-24**
+**13 currently open roles** · Updated **2026-10-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-13) · 13 roles
+- [Engineering](#engineering-12) · 12 roles
 - [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (13)
+### Engineering (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Engineer Intern](https://www.dreamworkhq.com/job/98e9f83a-a67f-400e-b928-6ab363c4d6a9?utm_source=github&utm_campaign=gh-tech-internships) | Yokneam |  | 3d |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification- Intern](https://www.dreamworkhq.com/job/058acbf1-3f70-49d9-acba-f1c611825283?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 10d |
-| **[F5](https://www.dreamworkhq.com/c/f5.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DevOps & Cloud Infrastructure Intern](https://www.dreamworkhq.com/job/b363f45d-6483-4879-aced-92313d170846?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv (Hybrid) |  | 14d |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Digital IC Design- Intern](https://www.dreamworkhq.com/job/b5f5780e-eca3-4fc2-9f84-0d051a6a39b4?utm_source=github&utm_campaign=gh-tech-internships) | Yokneam |  | 20d |
-| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware/Electrical Engineering BS/MS Intern, 2027](https://www.dreamworkhq.com/job/fd0d359d-1416-41a0-ac96-916a760f1c7f?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel, Haifa, Israel |  | 21d |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification - Intern](https://www.dreamworkhq.com/job/baf97c0f-d255-4559-aeca-5541e093b823?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 23d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Engineer Intern](https://www.dreamworkhq.com/job/98e9f83a-a67f-400e-b928-6ab363c4d6a9?utm_source=github&utm_campaign=gh-tech-internships) | Yokneam |  | 4d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification- Intern](https://www.dreamworkhq.com/job/058acbf1-3f70-49d9-acba-f1c611825283?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 11d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Digital IC Design- Intern](https://www.dreamworkhq.com/job/b5f5780e-eca3-4fc2-9f84-0d051a6a39b4?utm_source=github&utm_campaign=gh-tech-internships) | Yokneam |  | 21d |
+| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware/Electrical Engineering BS/MS Intern, 2027](https://www.dreamworkhq.com/job/fd0d359d-1416-41a0-ac96-916a760f1c7f?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel, Haifa, Israel |  | 22d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification - Intern](https://www.dreamworkhq.com/job/baf97c0f-d255-4559-aeca-5541e093b823?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 24d |
 | **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification Intern](https://www.dreamworkhq.com/job/3b16d518-6fb1-413a-96d1-32b96e7ab89b?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 1mo |
 | **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Digital IC Design Intern](https://www.dreamworkhq.com/job/12e55416-6caa-4cc2-80cc-824682369813?utm_source=github&utm_campaign=gh-tech-internships) | IL - Petah Tikva |  | 1mo |
 | **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Physical Design Intern](https://www.dreamworkhq.com/job/d13bee84-c15f-47de-a194-a542b684801d?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 1mo |
