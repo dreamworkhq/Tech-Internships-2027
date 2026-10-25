@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T21:47:06.682Z",
+  "generatedAt": "2026-10-25T21:47:56.774Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 42,
+  "count": 41,
   "listings": [
     {
       "id": "e381a870-3d13-4939-b05c-cd1fb793d4cd",
@@ -244,22 +244,6 @@
       "postedAt": "2026-09-09T07:47:42.000Z",
       "firstIndexedAt": "2026-09-09T15:30:43.343Z",
       "url": "https://www.dreamworkhq.com/job/2cd9118e-305a-4351-848a-bbb15de4a451?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "b32a6e9a-819a-4072-9856-4513512b6348",
-      "title": "[Intern] Test Development Engineer Intern （Trading Engine）",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "functionPrimary": "Security",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T04:26:41.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://www.dreamworkhq.com/job/b32a6e9a-819a-4072-9856-4513512b6348?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "e37426e2-d0d1-4600-b0e1-01f2c0236399",
