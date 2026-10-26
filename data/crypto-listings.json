@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-25T21:47:56.774Z",
+  "generatedAt": "2026-10-26T23:36:20.375Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 41,
+  "count": 42,
   "listings": [
+    {
+      "id": "acda97e4-5b22-4fee-bf8b-6e082f082b88",
+      "title": "Software Test Engineering Intern - Space and Embedded Crypto",
+      "company": "General Dynamics Mission Systems",
+      "companyDomain": "gdmissionsystems.com",
+      "location": "Scottsdale, AZ, US",
+      "locationCountryCode": "US",
+      "functionPrimary": "Engineering",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-10-26T04:00:00.000Z",
+      "firstIndexedAt": "2026-10-26T20:01:22.364Z",
+      "url": "https://www.dreamworkhq.com/job/acda97e4-5b22-4fee-bf8b-6e082f082b88?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "e381a870-3d13-4939-b05c-cd1fb793d4cd",
       "title": "Animator Intern",
