@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-10-27**
+**1 currently open roles** · Updated **2026-10-28**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [IT Internship Program: Analytics & Data Engineering](https://www.dreamworkhq.com/job/df581418-ed80-4690-a020-6d476c919240?utm_source=github&utm_campaign=gh-tech-internships) | Moscow (Hybrid) |  | 13d |
+| **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [IT Internship Program: Analytics & Data Engineering](https://www.dreamworkhq.com/job/df581418-ed80-4690-a020-6d476c919240?utm_source=github&utm_campaign=gh-tech-internships) | Moscow (Hybrid) |  | 14d |
 
 <!-- TABLE_END -->

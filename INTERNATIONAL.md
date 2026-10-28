@@ -2,40 +2,40 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1668 country-located roles** across **64 countries** · **4 explicitly global remote** · Updated **2026-10-27**
+**1688 country-located roles** across **64 countries** · **4 explicitly global remote** · Updated **2026-10-28**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
 | --- | ---: |
-| [Singapore](international/singapore.md) | 253 |
-| [Canada](international/canada.md) | 203 |
-| [China](international/china.md) | 119 |
-| [United Kingdom](international/united-kingdom.md) | 101 |
-| [France](international/france.md) | 73 |
+| [Singapore](international/singapore.md) | 255 |
+| [Canada](international/canada.md) | 207 |
+| [China](international/china.md) | 120 |
+| [United Kingdom](international/united-kingdom.md) | 105 |
+| [India](international/india.md) | 78 |
+| [France](international/france.md) | 75 |
 | [Germany](international/germany.md) | 71 |
-| [India](international/india.md) | 71 |
-| [Malaysia](international/malaysia.md) | 63 |
-| [Poland](international/poland.md) | 56 |
-| [Taiwan](international/taiwan.md) | 48 |
+| [Malaysia](international/malaysia.md) | 66 |
+| [Poland](international/poland.md) | 54 |
+| [Netherlands](international/netherlands.md) | 47 |
+| [Taiwan](international/taiwan.md) | 47 |
 | [Switzerland](international/switzerland.md) | 45 |
-| [Vietnam](international/vietnam.md) | 45 |
+| [Vietnam](international/vietnam.md) | 44 |
 | [Italy](international/italy.md) | 42 |
-| [Netherlands](international/netherlands.md) | 42 |
 | [Mexico](international/mexico.md) | 39 |
-| [Spain](international/spain.md) | 34 |
 | [Brazil](international/brazil.md) | 28 |
-| [Ireland](international/ireland.md) | 24 |
+| [Spain](international/spain.md) | 27 |
 | [Belgium](international/belgium.md) | 23 |
-| [Hong Kong SAR China](international/hong-kong-sar-china.md) | 21 |
-| [Portugal](international/portugal.md) | 17 |
+| [Ireland](international/ireland.md) | 23 |
+| [Hong Kong SAR China](international/hong-kong-sar-china.md) | 22 |
+| [Portugal](international/portugal.md) | 18 |
 | [Colombia](international/colombia.md) | 14 |
 | [Philippines](international/philippines.md) | 14 |
-| [Israel](international/israel.md) | 12 |
+| [Israel](international/israel.md) | 13 |
+| [Ukraine](international/ukraine.md) | 12 |
+| [Czechia](international/czechia.md) | 11 |
 | [Romania](international/romania.md) | 11 |
-| [Ukraine](international/ukraine.md) | 11 |
 | [Austria](international/austria.md) | 10 |
-| [Czechia](international/czechia.md) | 10 |
 | [New Zealand](international/new-zealand.md) | 10 |
 | [Peru](international/peru.md) | 10 |
 | [Thailand](international/thailand.md) | 10 |
@@ -44,23 +44,23 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Indonesia](international/indonesia.md) | 8 |
 | [Serbia](international/serbia.md) | 8 |
 | [United Arab Emirates](international/united-arab-emirates.md) | 8 |
-| [Australia](international/australia.md) | 7 |
 | [Denmark](international/denmark.md) | 7 |
 | [Luxembourg](international/luxembourg.md) | 7 |
+| [Sri Lanka](international/sri-lanka.md) | 7 |
 | [Argentina](international/argentina.md) | 6 |
+| [Australia](international/australia.md) | 6 |
 | [Puerto Rico](international/puerto-rico.md) | 6 |
-| [Sri Lanka](international/sri-lanka.md) | 6 |
 | [Saudi Arabia](international/saudi-arabia.md) | 5 |
-| [Slovakia](international/slovakia.md) | 5 |
 | [Türkiye](international/turkiye.md) | 5 |
 | [Costa Rica](international/costa-rica.md) | 4 |
-| [Egypt](international/egypt.md) | 4 |
 | [Greece](international/greece.md) | 4 |
 | [Japan](international/japan.md) | 4 |
 | [Norway](international/norway.md) | 4 |
+| [Slovakia](international/slovakia.md) | 4 |
 | [South Africa](international/south-africa.md) | 4 |
+| [Sweden](international/sweden.md) | 4 |
 | [Bulgaria](international/bulgaria.md) | 3 |
-| [Sweden](international/sweden.md) | 3 |
+| [Egypt](international/egypt.md) | 3 |
 | [Lithuania](international/lithuania.md) | 2 |
 | [Armenia](international/armenia.md) | 1 |
 | [Azerbaijan](international/azerbaijan.md) | 1 |
