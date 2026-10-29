@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-10-28**
+**6 currently open roles** · Updated **2026-10-29**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Manager Intern, ShopX(Rewards)](https://www.dreamworkhq.com/job/e5a24d3a-f011-44d2-bb85-32337c0e075a?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Argentina, Remote) |  | 1d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Manager Intern, ShopX(Rewards)](https://www.dreamworkhq.com/job/e5a24d3a-f011-44d2-bb85-32337c0e075a?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Argentina, Remote) |  | 2d |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management Intern](https://www.dreamworkhq.com/job/12f977d7-2d11-4dcc-b04b-7318d242ca24?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Argentina, Remote) |  | 1mo |
 | **[Salesforce](https://www.dreamworkhq.com/c/salesforce.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Experience Builder Intern - Creative Design](https://www.dreamworkhq.com/job/af705af0-d22c-4a42-bf53-ee298146b42b?utm_source=github&utm_campaign=gh-tech-internships) | Argentina - Buenos Aires |  | 1mo |
 | **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Analog Design Intern](https://www.dreamworkhq.com/job/456e1b33-6997-4118-9756-c9cd45aaeebc?utm_source=github&utm_campaign=gh-tech-internships) | Cordoba, Argentina |  | 5mo |
