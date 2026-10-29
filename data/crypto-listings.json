@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T23:32:04.913Z",
+  "generatedAt": "2026-10-29T23:41:36.184Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 42,
+  "count": 40,
   "listings": [
     {
       "id": "acda97e4-5b22-4fee-bf8b-6e082f082b88",
@@ -278,22 +278,6 @@
       "url": "https://www.dreamworkhq.com/job/e992f114-b27d-4bed-a249-8fe992a371fd?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "edeeee59-ade0-46e2-8911-5c7ea7360bfd",
-      "title": "[Intern] Big Data Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR",
-      "locationCountryCode": "HK",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T09:57:37.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://www.dreamworkhq.com/job/edeeee59-ade0-46e2-8911-5c7ea7360bfd?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "21b93a50-079a-4f39-84a3-49c22693ccc1",
       "title": "Crypto Inventory Operations Intern",
       "company": "Coinbase",
@@ -532,22 +516,6 @@
       "postedAt": "2026-03-26T19:40:01.700Z",
       "firstIndexedAt": "2026-05-28T11:03:02.801Z",
       "url": "https://www.dreamworkhq.com/job/035a204c-8d01-46b6-9a9c-ff77d9e588e1?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "92894c54-3a6a-481e-b512-618de6c82bc5",
-      "title": "Software Engineer - 2027 New Grads",
-      "company": "Ellipsislabs",
-      "companyDomain": "ellipsislabs.com",
-      "location": "New York, New York",
-      "locationCountryCode": "US",
-      "functionPrimary": "Engineering",
-      "remoteType": "hybrid",
-      "salaryMin": 150000,
-      "salaryMax": 200000,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-03-26T19:41:41.029Z",
-      "firstIndexedAt": "2026-05-28T11:03:02.801Z",
-      "url": "https://www.dreamworkhq.com/job/92894c54-3a6a-481e-b512-618de6c82bc5?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "7f57b282-6729-4c91-82f4-455bd835b694",
