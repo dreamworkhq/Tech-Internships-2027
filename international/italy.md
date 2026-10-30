@@ -2,14 +2,14 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**43 currently open roles** · Updated **2026-10-29**
+**44 currently open roles** · Updated **2026-10-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-29) · 29 roles
 - [Data Science](#data-science-8) · 8 roles
 - [Security](#security-5) · 5 roles
-- [Other](#other-1) · 1 roles
+- [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -17,20 +17,20 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Pirelli](https://www.dreamworkhq.com/c/pirelli.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Maintenance, Automation & Robotics Engineer Settimo T.se P…](https://www.dreamworkhq.com/job/06ed6ddb-3696-44e8-9ea9-c64f044fb58b?utm_source=github&utm_campaign=gh-tech-internships) | Italy |  | 0d |
-| **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [PMU Design Verification Intern](https://www.dreamworkhq.com/job/d29599d1-a94c-4e6c-b048-6c09782e3e32?utm_source=github&utm_campaign=gh-tech-internships) | Livorno | $43K–$65K | 2d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Manufacturing Engineer – CURRICULAR INTERNSHIP (m/f/d)](https://www.dreamworkhq.com/job/1c0841cc-273b-4935-b762-839acc374ae2?utm_source=github&utm_campaign=gh-tech-internships) | Nonantola, Emilia-Romagna, Italy |  | 6d |
-| **[Analog Devices](https://www.dreamworkhq.com/c/analog.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AMS Design Verification Intern](https://www.dreamworkhq.com/job/02e821a1-fb2a-40c3-9955-2025895f1f69?utm_source=github&utm_campaign=gh-tech-internships) | Italy, Milan, Assago |  | 7d |
-| **[Analog Devices](https://www.dreamworkhq.com/c/analog.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Digital Design Engineering Intern](https://www.dreamworkhq.com/job/09e79a13-c89c-4bba-b461-3a71c08318d7?utm_source=github&utm_campaign=gh-tech-internships) | Italy, Milan, Assago |  | 7d |
-| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Architect Intern - Milano](https://www.dreamworkhq.com/job/001b23ba-5a34-4f39-8170-e0593dc33123?utm_source=github&utm_campaign=gh-tech-internships) | Milan |  | 9d |
-| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Infrastructure Intern - Milano](https://www.dreamworkhq.com/job/5e9c0811-b59b-44be-90d2-f129d32ae93a?utm_source=github&utm_campaign=gh-tech-internships) | Milan |  | 15d |
-| **[Baker Hughes](https://www.dreamworkhq.com/c/bakerhughes.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Generative AI - 2027 (M/F/D)](https://www.dreamworkhq.com/job/50b92776-a990-4688-b04b-de349e0de152?utm_source=github&utm_campaign=gh-tech-internships) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 15d |
-| **[Doctolib](https://www.dreamworkhq.com/c/doctolib.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern - Fullstack (x/f/m) - Milano](https://www.dreamworkhq.com/job/a5c5c246-e1d6-433d-b924-b6e93239402e?utm_source=github&utm_campaign=gh-tech-internships) | Milano, Milan, Italy (Hybrid) |  | 17d |
-| **[External Career Page](https://www.dreamworkhq.com/c/external-careers.jobs.unsw.edu.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Full Stack Software Developer](https://www.dreamworkhq.com/job/0319b548-a642-47fb-9545-f6182237a263?utm_source=github&utm_campaign=gh-tech-internships) | Genova, Genova, Italy (Hybrid) |  | 22d |
-| **[Baker Hughes](https://www.dreamworkhq.com/c/bakerhughes.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Physical AI & Computer Vision - 2027 (M/F/D)](https://www.dreamworkhq.com/job/779a7007-2449-4c57-a490-c2e89b7117d8?utm_source=github&utm_campaign=gh-tech-internships) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 23d |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Analog IC Design Engineer, Intern](https://www.dreamworkhq.com/job/1347122d-201a-4a74-a3b4-50697bfbed04?utm_source=github&utm_campaign=gh-tech-internships) | Pavia, Italy | $24K–$32K | 24d |
-| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern - Milano \[DIG\]](https://www.dreamworkhq.com/job/5d8a713c-0927-4c91-852c-e1c3d14456da?utm_source=github&utm_campaign=gh-tech-internships) | Milan |  | 27d |
-| **[Cerved](https://www.dreamworkhq.com/c/cerved.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer Intern](https://www.dreamworkhq.com/job/fefae5ec-21d8-46f4-9c01-0e901fa1498d?utm_source=github&utm_campaign=gh-tech-internships) | San Donato Milanese, Italy (Hybrid) |  | 27d |
+| **[Pirelli](https://www.dreamworkhq.com/c/pirelli.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Maintenance, Automation & Robotics Engineer Settimo T.se P…](https://www.dreamworkhq.com/job/06ed6ddb-3696-44e8-9ea9-c64f044fb58b?utm_source=github&utm_campaign=gh-tech-internships) | Italy |  | 1d |
+| **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [PMU Design Verification Intern](https://www.dreamworkhq.com/job/d29599d1-a94c-4e6c-b048-6c09782e3e32?utm_source=github&utm_campaign=gh-tech-internships) | Livorno | $43K–$65K | 3d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Manufacturing Engineer – CURRICULAR INTERNSHIP (m/f/d)](https://www.dreamworkhq.com/job/1c0841cc-273b-4935-b762-839acc374ae2?utm_source=github&utm_campaign=gh-tech-internships) | Nonantola, Emilia-Romagna, Italy |  | 7d |
+| **[Analog Devices](https://www.dreamworkhq.com/c/analog.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AMS Design Verification Intern](https://www.dreamworkhq.com/job/02e821a1-fb2a-40c3-9955-2025895f1f69?utm_source=github&utm_campaign=gh-tech-internships) | Italy, Milan, Assago |  | 8d |
+| **[Analog Devices](https://www.dreamworkhq.com/c/analog.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Digital Design Engineering Intern](https://www.dreamworkhq.com/job/09e79a13-c89c-4bba-b461-3a71c08318d7?utm_source=github&utm_campaign=gh-tech-internships) | Italy, Milan, Assago |  | 8d |
+| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Architect Intern - Milano](https://www.dreamworkhq.com/job/001b23ba-5a34-4f39-8170-e0593dc33123?utm_source=github&utm_campaign=gh-tech-internships) | Milan |  | 10d |
+| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Infrastructure Intern - Milano](https://www.dreamworkhq.com/job/5e9c0811-b59b-44be-90d2-f129d32ae93a?utm_source=github&utm_campaign=gh-tech-internships) | Milan |  | 16d |
+| **[Baker Hughes](https://www.dreamworkhq.com/c/bakerhughes.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Generative AI - 2027 (M/F/D)](https://www.dreamworkhq.com/job/50b92776-a990-4688-b04b-de349e0de152?utm_source=github&utm_campaign=gh-tech-internships) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 16d |
+| **[Doctolib](https://www.dreamworkhq.com/c/doctolib.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern - Fullstack (x/f/m) - Milano](https://www.dreamworkhq.com/job/a5c5c246-e1d6-433d-b924-b6e93239402e?utm_source=github&utm_campaign=gh-tech-internships) | Milano, Milan, Italy (Hybrid) |  | 18d |
+| **[External Career Page](https://www.dreamworkhq.com/c/external-careers.jobs.unsw.edu.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Full Stack Software Developer](https://www.dreamworkhq.com/job/0319b548-a642-47fb-9545-f6182237a263?utm_source=github&utm_campaign=gh-tech-internships) | Genova, Genova, Italy (Hybrid) |  | 23d |
+| **[Baker Hughes](https://www.dreamworkhq.com/c/bakerhughes.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Physical AI & Computer Vision - 2027 (M/F/D)](https://www.dreamworkhq.com/job/779a7007-2449-4c57-a490-c2e89b7117d8?utm_source=github&utm_campaign=gh-tech-internships) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 24d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Analog IC Design Engineer, Intern](https://www.dreamworkhq.com/job/1347122d-201a-4a74-a3b4-50697bfbed04?utm_source=github&utm_campaign=gh-tech-internships) | Pavia, Italy | $24K–$32K | 25d |
+| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern - Milano \[DIG\]](https://www.dreamworkhq.com/job/5d8a713c-0927-4c91-852c-e1c3d14456da?utm_source=github&utm_campaign=gh-tech-internships) | Milan |  | 28d |
+| **[Cerved](https://www.dreamworkhq.com/c/cerved.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer Intern](https://www.dreamworkhq.com/job/fefae5ec-21d8-46f4-9c01-0e901fa1498d?utm_source=github&utm_campaign=gh-tech-internships) | San Donato Milanese, Italy (Hybrid) |  | 28d |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Italy](https://www.dreamworkhq.com/job/69ffeedf-2abd-40b0-a693-63177abec3ab?utm_source=github&utm_campaign=gh-tech-internships) | IT, Turin | $23K | 1mo |
 | **[Musixmatch](https://www.dreamworkhq.com/c/musixmatch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Frontend Intern](https://www.dreamworkhq.com/job/279d8a32-700b-4f35-b4be-0d1a3abe40bc?utm_source=github&utm_campaign=gh-tech-internships) | Bologna |  | 1mo |
 | **[Musixmatch](https://www.dreamworkhq.com/c/musixmatch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/91d083e3-ffbb-42bb-9c10-109672d1d202?utm_source=github&utm_campaign=gh-tech-internships) | Bologna |  | 1mo |
@@ -51,9 +51,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[GSKCareers](https://www.dreamworkhq.com/c/gsk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: MSAT Digital & Data Science, Italy, 2026](https://www.dreamworkhq.com/job/e6beb465-da78-4140-801b-7e977195392f?utm_source=github&utm_campaign=gh-tech-internships) | Italy - Rosia |  | 5d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Intelligence Intern Italy](https://www.dreamworkhq.com/job/ebc638d5-d9ae-41ca-af3e-b31a5957f917?utm_source=github&utm_campaign=gh-tech-internships) | IT, Milan | $24K | 14d |
-| **[Baker Hughes](https://www.dreamworkhq.com/c/bakerhughes.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern – Data Analyst – 2027 (M/F/D)](https://www.dreamworkhq.com/job/351efb7b-c031-4c77-8617-47a920121aca?utm_source=github&utm_campaign=gh-tech-internships) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 22d |
+| **[GSKCareers](https://www.dreamworkhq.com/c/gsk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: MSAT Digital & Data Science, Italy, 2026](https://www.dreamworkhq.com/job/e6beb465-da78-4140-801b-7e977195392f?utm_source=github&utm_campaign=gh-tech-internships) | Italy - Rosia |  | 6d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Intelligence Intern Italy](https://www.dreamworkhq.com/job/ebc638d5-d9ae-41ca-af3e-b31a5957f917?utm_source=github&utm_campaign=gh-tech-internships) | IT, Milan | $24K | 15d |
+| **[Baker Hughes](https://www.dreamworkhq.com/c/bakerhughes.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern – Data Analyst – 2027 (M/F/D)](https://www.dreamworkhq.com/job/351efb7b-c031-4c77-8617-47a920121aca?utm_source=github&utm_campaign=gh-tech-internships) | IT-FI-FLORENCE-VIA FELICE MATTEUCCI 2 |  | 23d |
 | **[ICSGBLCOR](https://www.dreamworkhq.com/c/ing.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Engineer Intern](https://www.dreamworkhq.com/job/d0b0ad90-0e01-43e8-8b1a-e3241f94b690?utm_source=github&utm_campaign=gh-tech-internships) | MILAN (Hybrid) |  | 1mo |
 | **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analytics Intern – Channel Team](https://www.dreamworkhq.com/job/ef5a7ee7-4da5-481d-bd7c-dbf7b71bf71c?utm_source=github&utm_campaign=gh-tech-internships) | Milan, Milano, Italy (Hybrid) |  | 1mo |
 | **[Pirelli](https://www.dreamworkhq.com/c/pirelli.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data Scientist](https://www.dreamworkhq.com/job/2de9de33-ef93-4d84-a2f3-d64f368c1655?utm_source=github&utm_campaign=gh-tech-internships) | Italy |  | 3mo |
@@ -64,16 +64,17 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[A. Loacker Spa/AG](https://www.dreamworkhq.com/c/loacker.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship in Data Protection & Information Security Awareness (m/f/d)](https://www.dreamworkhq.com/job/59855e55-04ea-4b6d-8e22-8257473a063d?utm_source=github&utm_campaign=gh-tech-internships) | IT - Auna di Sotto/Unterinn |  | 4d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.dreamworkhq.com/job/5d466772-618e-465e-913e-e408fba8c5f8?utm_source=github&utm_campaign=gh-tech-internships) | IT, Milan |  | 21d |
+| **[A. Loacker Spa/AG](https://www.dreamworkhq.com/c/loacker.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship in Data Protection & Information Security Awareness (m/f/d)](https://www.dreamworkhq.com/job/59855e55-04ea-4b6d-8e22-8257473a063d?utm_source=github&utm_campaign=gh-tech-internships) | IT - Auna di Sotto/Unterinn |  | 5d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [(Physical) Security Specialist Intern - 2027 Internship](https://www.dreamworkhq.com/job/5d466772-618e-465e-913e-e408fba8c5f8?utm_source=github&utm_campaign=gh-tech-internships) | IT, Milan |  | 22d |
 | **[Pirelli](https://www.dreamworkhq.com/c/pirelli.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Cyber Security and Defence](https://www.dreamworkhq.com/job/c39a6911-f609-40d2-a7b5-af66ae2ec981?utm_source=github&utm_campaign=gh-tech-internships) | Italy |  | 2mo |
 | **[Reply](https://www.dreamworkhq.com/c/reply.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Secure AI Innovation Engineer](https://www.dreamworkhq.com/job/8f1cd74b-51f4-4c04-ba5a-2cf530094ba7?utm_source=github&utm_campaign=gh-tech-internships) | Italy |  | 4mo |
 | **[Avanade](https://www.dreamworkhq.com/c/avanade.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Secure Cloud Platform Intern](https://www.dreamworkhq.com/job/eb82ff90-e27c-4e55-99f2-876f3607c237?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 5mo |
 
-### Other (1)
+### Other (2)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **[UNIPOL](https://www.dreamworkhq.com/c/unipol.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern \| Product Owner Junior](https://www.dreamworkhq.com/job/25fc9249-bedb-4730-8898-edf17c138fe0?utm_source=github&utm_campaign=gh-tech-internships) | MILANO, LOMBARDIA, Italy |  | 0d |
 | **[Pirelli](https://www.dreamworkhq.com/c/pirelli.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Product Tread Designer - Moto](https://www.dreamworkhq.com/job/0df4705a-096d-472a-94e5-f64c0da49ecc?utm_source=github&utm_campaign=gh-tech-internships) | Italy |  | 3mo |
 
 <!-- TABLE_END -->
