@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-10-30**
+**9 currently open roles** · Updated **2026-10-31**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Moloco](https://www.dreamworkhq.com/c/moloco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Engineer Intern (3-month Internship)](https://www.dreamworkhq.com/job/788c91f7-f7d1-4405-95b3-40f2fffe3773?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, Korea |  | 3d |
-| **[BMW AG](https://www.dreamworkhq.com/c/bmw.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BMW Financial Services Korea\] IT Intern -AI Engineering](https://www.dreamworkhq.com/job/19335ffb-5693-40db-91c3-a92c065c2045?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 7d |
+| **[Moloco](https://www.dreamworkhq.com/c/moloco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Engineer Intern (3-month Internship)](https://www.dreamworkhq.com/job/788c91f7-f7d1-4405-95b3-40f2fffe3773?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, Korea |  | 4d |
+| **[BMW AG](https://www.dreamworkhq.com/c/bmw.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BMW Financial Services Korea\] IT Intern -AI Engineering](https://www.dreamworkhq.com/job/19335ffb-5693-40db-91c3-a92c065c2045?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 8d |
 | **[Moloco](https://www.dreamworkhq.com/c/moloco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (3 months)](https://www.dreamworkhq.com/job/667da21f-83ba-4886-b1c2-425be5155aad?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, Korea |  | 1mo |
 | **[RenesasElectronics](https://www.dreamworkhq.com/c/renesas.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Analog Design Engineer](https://www.dreamworkhq.com/job/e0fad8a8-6731-4900-b4e0-b738a1721063?utm_source=github&utm_campaign=gh-tech-internships) | Seongnam-si, Gyeonggi-do, Korea, republic of |  | 2mo |
 | **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Forward Deployed Software Engineer, Internship - Commercial](https://www.dreamworkhq.com/job/06198623-e39b-4a37-bf60-f86188b21b71?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, South Korea (Hybrid) |  | 2mo |
@@ -28,6 +28,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[BMW AG](https://www.dreamworkhq.com/c/bmw.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BMW Financial Services Korea\] Product Management Intern](https://www.dreamworkhq.com/job/0ee0b442-1184-4e43-aa81-baaedfaafa41?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 7d |
+| **[BMW AG](https://www.dreamworkhq.com/c/bmw.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BMW Financial Services Korea\] Product Management Intern](https://www.dreamworkhq.com/job/0ee0b442-1184-4e43-aa81-baaedfaafa41?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 8d |
 
 <!-- TABLE_END -->
