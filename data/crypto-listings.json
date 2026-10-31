@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T23:17:40.514Z",
+  "generatedAt": "2026-10-31T22:32:12.640Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 41,
+  "count": 33,
   "listings": [
     {
       "id": "4215c8b1-6676-4df9-a18b-e64e0c031956",
@@ -118,22 +118,6 @@
       "url": "https://www.dreamworkhq.com/job/ca751caf-e781-43f4-9405-3765fe37c462?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "af411b93-6d90-484b-99c3-7fc0165fc1a8",
-      "title": "Binance Accelerator Programm - Software Engineer (Full-stack / AI-oriented)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Engineering",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-28T05:51:54.127Z",
-      "firstIndexedAt": "2026-09-30T02:15:52.724Z",
-      "url": "https://www.dreamworkhq.com/job/af411b93-6d90-484b-99c3-7fc0165fc1a8?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "3bd3233a-009b-420c-bbb0-9c895bc5ad40",
       "title": "Software Engineer - Intern (Frontend)",
       "company": "Merklescience",
@@ -148,22 +132,6 @@
       "postedAt": "2026-09-28T18:34:13.631Z",
       "firstIndexedAt": "2026-09-29T17:31:18.767Z",
       "url": "https://www.dreamworkhq.com/job/3bd3233a-009b-420c-bbb0-9c895bc5ad40?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "2021f91f-666c-43c5-99fd-1844065b4d0d",
-      "title": "Binance Accelerator Programm - Product Manager (meme)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Hong Kong",
-      "locationCountryCode": "HK",
-      "functionPrimary": "Product",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-25T01:48:36.477Z",
-      "firstIndexedAt": "2026-09-25T05:16:15.824Z",
-      "url": "https://www.dreamworkhq.com/job/2021f91f-666c-43c5-99fd-1844065b4d0d?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "7bc9d166-5b88-467b-bc27-7f00ca698333",
@@ -230,22 +198,6 @@
       "url": "https://www.dreamworkhq.com/job/6ee05c6f-d712-4d3d-ab8e-ebe69f76b21b?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "1c4a5f74-6a07-4d65-acdd-6140ebbeefa4",
-      "title": "Binance Accelerator Program - Web3 Operations (for current university students)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Operations",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2025-04-30T09:16:10.863Z",
-      "firstIndexedAt": "2026-09-10T13:15:39.798Z",
-      "url": "https://www.dreamworkhq.com/job/1c4a5f74-6a07-4d65-acdd-6140ebbeefa4?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "2cd9118e-305a-4351-848a-bbb15de4a451",
       "title": "[Intern] Test Development Engineer Intern",
       "company": "Bybit",
@@ -310,29 +262,13 @@
       "url": "https://www.dreamworkhq.com/job/21b93a50-079a-4f39-84a3-49c22693ccc1?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "dac64454-3ff9-4298-903c-9b1f4af8ebcf",
-      "title": "Binance Accelerator Programm - Software Engineer (Reconciliation)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Taiwan, Taipei",
-      "locationCountryCode": "TW",
-      "functionPrimary": "Engineering",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-03T13:11:46.060Z",
-      "firstIndexedAt": "2026-09-03T15:45:57.856Z",
-      "url": "https://www.dreamworkhq.com/job/dac64454-3ff9-4298-903c-9b1f4af8ebcf?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "b38d8f84-ee4a-4a39-9b75-e74cad9658e7",
       "title": "Crypto Quality SW Process Internship",
       "company": "NXP Semiconductors",
       "companyDomain": "nxp.com",
-      "location": "Sibiu",
+      "location": "2 Locations",
       "locationCountryCode": "RO",
-      "functionPrimary": "Engineering",
+      "functionPrimary": "Operations",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
@@ -390,38 +326,6 @@
       "url": "https://www.dreamworkhq.com/job/a2be243f-2753-455f-aa0e-e1174655ae71?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "b0a693a1-d63b-4dc3-b7b9-2c7951346bb4",
-      "title": "Binance Accelerator Program - Sanction Program Analyst",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Legal",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2024-11-08T02:51:49.048Z",
-      "firstIndexedAt": "2026-07-30T15:45:22.021Z",
-      "url": "https://www.dreamworkhq.com/job/b0a693a1-d63b-4dc3-b7b9-2c7951346bb4?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "b021fc05-b0bf-4251-82b1-8468e1bdc7e0",
-      "title": "Binance Accelerator Program - AI Agent Engineer",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Engineering",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-24T10:53:37.591Z",
-      "firstIndexedAt": "2026-07-24T11:00:25.275Z",
-      "url": "https://www.dreamworkhq.com/job/b021fc05-b0bf-4251-82b1-8468e1bdc7e0?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "3961a5a5-ba77-4b01-982b-129fa9f15282",
       "title": "Research Engineer Intern (Multimodal LLM)",
       "company": "Tether",
@@ -436,22 +340,6 @@
       "postedAt": "2025-11-27T11:05:31.000Z",
       "firstIndexedAt": "2026-07-11T14:32:16.875Z",
       "url": "https://www.dreamworkhq.com/job/3961a5a5-ba77-4b01-982b-129fa9f15282?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "6c24c964-5efe-43e5-b730-ccba86de0359",
-      "title": "Binance Accelerator Program - AI Supportability Engineer",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-06-22T09:21:02.758Z",
-      "firstIndexedAt": "2026-06-23T06:11:24.755Z",
-      "url": "https://www.dreamworkhq.com/job/6c24c964-5efe-43e5-b730-ccba86de0359?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "12c62b82-86a0-4d26-b12e-4216b607241a",
@@ -644,22 +532,6 @@
       "postedAt": "2025-10-29T16:39:08.000Z",
       "firstIndexedAt": "2026-05-23T07:59:48.207Z",
       "url": "https://www.dreamworkhq.com/job/4604837d-83cc-4703-a6b1-0c90e904cf80?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "dc3357e6-5fc0-4d31-966c-a2dac9d0fcd0",
-      "title": "Binance Accelerator Program - QA (Web3)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-01-15T07:02:08.129Z",
-      "firstIndexedAt": "2026-05-15T18:04:57.164Z",
-      "url": "https://www.dreamworkhq.com/job/dc3357e6-5fc0-4d31-966c-a2dac9d0fcd0?utm_source=github&utm_campaign=gh-tech-internships"
     }
   ]
 }
