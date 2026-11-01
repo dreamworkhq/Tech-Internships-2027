@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-10-31T22:32:12.640Z",
+  "generatedAt": "2026-11-01T22:58:42.871Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 33,
+  "count": 34,
   "listings": [
+    {
+      "id": "43cea437-ca21-468f-a92e-1af29279bac0",
+      "title": "Research Intern, Frontier",
+      "company": "a16z Crypto",
+      "companyDomain": "a16zcrypto.com",
+      "location": "New York, New York, United States",
+      "locationCountryCode": "US",
+      "functionPrimary": "Research",
+      "remoteType": "onsite",
+      "salaryMin": 182000,
+      "salaryMax": 234000,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-10-30T23:04:24.000Z",
+      "firstIndexedAt": "2026-10-31T23:15:46.442Z",
+      "url": "https://www.dreamworkhq.com/job/43cea437-ca21-468f-a92e-1af29279bac0?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "4215c8b1-6676-4df9-a18b-e64e0c031956",
       "title": "DeFi Quant Trader Intern (Credit)",
