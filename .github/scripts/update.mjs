@@ -95,9 +95,11 @@ function networkFailureMessage(error, signal) {
   return `network error: ${error instanceof Error ? error.message : String(error)}`;
 }
 
+class InventoryBudgetError extends Error {}
+
 function assertInventoryBudget(deadline, delay = 0) {
   if (Date.now() + delay >= deadline) {
-    throw new Error("Inventory time budget exceeded; refusing to publish partial output.");
+    throw new InventoryBudgetError("Inventory time budget exceeded; refusing to publish partial output.");
   }
 }
 
@@ -133,7 +135,9 @@ async function fetchActiveJobsLabel() {
   }
 }
 
-async function fetchJson(url, deadline = Infinity) {
+async function fetchJson(url, deadline = Infinity, options = {}) {
+  const acceptStatuses = options.acceptStatuses ?? null;
+  const redirect = options.redirect ?? "follow";
   for (let attempt = 1; attempt <= FETCH_MAX_ATTEMPTS; attempt++) {
     const delay = Math.max(0, lastRequestAt + REQUEST_INTERVAL_MS - Date.now());
     await waitWithinBudget(delay, deadline);
@@ -144,6 +148,7 @@ async function fetchJson(url, deadline = Infinity) {
     try {
       res = await fetch(url, {
         headers: { "user-agent": "dreamwork-job-lists/1.0 (+https://www.dreamworkhq.com)" },
+        redirect,
         signal,
       });
     } catch (error) {
@@ -160,6 +165,16 @@ async function fetchJson(url, deadline = Infinity) {
     }
 
     if (!res.ok) {
+      if (acceptStatuses?.has(res.status)) {
+        let body = null;
+        try {
+          body = await res.json();
+        } catch {
+          body = null;
+        }
+        assertInventoryBudget(deadline);
+        return { status: res.status, body };
+      }
       const retriableStatus = res.status === 429 || res.status >= 500;
       if (retriableStatus && attempt < FETCH_MAX_ATTEMPTS) {
         const retryAfter = res.headers.get("retry-after");
@@ -193,6 +208,7 @@ async function fetchJson(url, deadline = Infinity) {
       continue;
     }
     assertInventoryBudget(deadline);
+    if (acceptStatuses) return { status: res.status, body: data };
     return data;
   }
 
@@ -914,6 +930,30 @@ function renderJson(rows, config, now) {
 
 const DEFAULT_MIN_PREVIOUS_COUNT_RATIO = 0.7;
 const DEFAULT_MIN_PREVIOUS_OVERLAP_RATIO = 0.4;
+const COMPANY_DROP_WARNING_RATIO = 0.5;
+const COMPANY_DROP_WARNING_LIMIT = 10;
+// A previous id leaves both retention denominators only when GET
+// /listings/:id positively reports the posting gone. A `recent_source_miss`
+// tombstone means the API moved the row to `stale`: a covering crawl missed it
+// on every source for 48 hours, or a liveness probe saw the employer's page
+// dead. The 404 reasons are lifecycle facts the API marks `gone: true`.
+// `source_cadence_grace`, `detail_stability_window_elapsed`, and
+// `listing_missing` are deliberately absent: an active row no crawl has
+// re-seen, or an id the API cannot find, is what a stopped crawler or a wrong
+// database looks like.
+const CONFIRMED_GONE_NOT_FOUND_REASONS = new Set([
+  "status_closed",
+  "status_expired",
+  "known_expired",
+]);
+// Bounds on what confirmed retirements may explain in one run. The 8 October
+// 2026 Binance unlisting kept 47.7% of the rows, explained 52.3%, and left
+// nothing unconfirmed.
+const RETIREMENT_MIN_RAW_COUNT_RATIO = 0.4;
+const RETIREMENT_MAX_EXPLAINED_SHARE = 0.6;
+const RETIREMENT_MAX_UNCONFIRMED_SHARE = 0.1;
+const RETIREMENT_MAX_DETAIL_READS = 200;
+const RETIREMENT_DETAIL_BUDGET_MS = 10 * 60 * 1000;
 
 function loadPreviousSnapshot(out, config) {
   const snapshotPath = join(out, "data", "listings.json");
@@ -939,7 +979,135 @@ function loadPreviousSnapshot(out, config) {
   return snapshot;
 }
 
-function assertPreviousSnapshotHealth(rows, previous, config) {
+function companyIdentity(record) {
+  const domain = typeof record.companyDomain === "string"
+    ? record.companyDomain.trim().toLowerCase()
+    : "";
+  const nameSource = record.company ?? record.companyName;
+  const name = typeof nameSource === "string" ? nameSource.trim() : "";
+  if (!domain && !name) return null;
+  return {
+    key: domain ? `domain:${domain}` : `name:${name.toLowerCase()}`,
+    label: (name || domain).replace(/[\r\n]+/g, " ").replaceAll("::", ":"),
+  };
+}
+
+function warnOnSharpCompanyDrops(rows, previousListings) {
+  const previousCounts = new Map();
+  const labels = new Map();
+  for (const listing of previousListings) {
+    const identity = companyIdentity(listing);
+    if (!identity) continue;
+    previousCounts.set(identity.key, (previousCounts.get(identity.key) ?? 0) + 1);
+    if (!labels.has(identity.key)) labels.set(identity.key, identity.label);
+  }
+  const currentCounts = new Map();
+  for (const row of rows) {
+    const identity = companyIdentity(row);
+    if (!identity) continue;
+    currentCounts.set(identity.key, (currentCounts.get(identity.key) ?? 0) + 1);
+  }
+  const warnings = [];
+  for (const [key, prior] of previousCounts) {
+    const current = currentCounts.get(key) ?? 0;
+    const dropped = prior - current;
+    if (dropped / prior > COMPANY_DROP_WARNING_RATIO) {
+      warnings.push({ label: labels.get(key), prior, dropped });
+    }
+  }
+  warnings.sort((a, b) => b.dropped - a.dropped || a.label.localeCompare(b.label));
+  // A collapse can touch hundreds of companies. Keep the log short enough that
+  // the refusal printed after it is not lost when the process exits.
+  for (const warning of warnings.slice(0, COMPANY_DROP_WARNING_LIMIT)) {
+    const pct = ((warning.dropped / warning.prior) * 100).toFixed(1);
+    console.warn(
+      `::warning title=Company listing drop::${warning.label} dropped ${warning.dropped} of ${warning.prior} listings (${pct}% of its rows).`,
+    );
+  }
+  if (warnings.length > COMPANY_DROP_WARNING_LIMIT) {
+    console.warn(
+      `::warning title=Company listing drop::${warnings.length - COMPANY_DROP_WARNING_LIMIT} more companies dropped more than half their rows.`,
+    );
+  }
+}
+
+/**
+ * GET /listings/:id, or null when the read still fails after fetchJson's
+ * retries. The API answers this route with a 200 or 404 body and never an HTTP
+ * redirect, so a redirect fails the read. An exhausted time budget aborts the
+ * gate instead of reading as a failure.
+ */
+async function readListingDetail(id, deadline) {
+  try {
+    return await fetchJson(
+      `${API_BASE}/listings/${encodeURIComponent(id)}`,
+      deadline,
+      { acceptStatuses: new Set([404]), redirect: "error" },
+    );
+  } catch (error) {
+    if (error instanceof InventoryBudgetError) throw error;
+    return null;
+  }
+}
+
+/**
+ * `confirmed` is true only for a successful read that positively reports the
+ * previous id gone. `label` names the outcome for the run log.
+ */
+function classifyRetirement(id, response, currentIds) {
+  if (response === null) return { confirmed: false, label: "read failed" };
+  const { status, body } = response;
+  if (!body || typeof body !== "object") {
+    return { confirmed: false, label: `${status} without a JSON body` };
+  }
+  if (status === 404) {
+    const reason = typeof body.reason === "string" ? body.reason : "404 without a reason";
+    if (body.gone === true && CONFIRMED_GONE_NOT_FOUND_REASONS.has(reason)) {
+      return { confirmed: true, label: reason };
+    }
+    return { confirmed: false, label: body.gone === true ? reason : `${reason} (not gone)` };
+  }
+  if (body.tombstone) {
+    const reason = typeof body.tombstone.reason === "string" ? body.tombstone.reason : "tombstone without a reason";
+    if (reason === "recent_source_miss" && body.tombstone.listing?.id === id) {
+      return { confirmed: true, label: reason };
+    }
+    return { confirmed: false, label: body.tombstone.listing?.id === id ? reason : "tombstone for another id" };
+  }
+  if (body.graceListing) return { confirmed: false, label: "source_cadence_grace" };
+  if (typeof body.canonicalListingId === "string" && body.canonicalListingId && !body.listing) {
+    return currentIds.has(body.canonicalListingId)
+      ? { confirmed: true, label: "canonical_redirect" }
+      : { confirmed: false, label: "canonical_redirect off the list" };
+  }
+  if (body.listing) return { confirmed: false, label: "still active" };
+  return { confirmed: false, label: "unrecognized detail" };
+}
+
+function retentionRatios(currentCount, expected, overlap, minCountRatio, minOverlapRatio) {
+  const countRatio = currentCount / expected;
+  const overlapRatio = overlap / expected;
+  return {
+    ok: countRatio >= minCountRatio && overlapRatio >= minOverlapRatio,
+    countRatio,
+    overlapRatio,
+  };
+}
+
+function formatReadCounts(counts) {
+  return [...counts]
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .map(([label, count]) => `${label} ${count}`)
+    .join(", ") || "none";
+}
+
+/**
+ * Count retention and id overlap against the last published snapshot. When the
+ * raw ratios fail, previous ids the detail API confirms gone may leave both
+ * denominators, within the RETIREMENT_* bounds. Anything else, including any
+ * failed or ambiguous read, still counts as a loss.
+ */
+async function assertPreviousSnapshotHealth(rows, previous, config) {
   if (!previous || previous.listings.length === 0) return;
   if (process.env.DREAMWORK_JOB_LIST_ALLOW_SNAPSHOT_RESET === "1") {
     console.warn(
@@ -947,11 +1115,20 @@ function assertPreviousSnapshotHealth(rows, previous, config) {
     );
     return;
   }
+  if (rows.length === 0) {
+    throw new Error(
+      `Snapshot health check failed: current list is empty (0 rows vs ${previous.listings.length} previous). Refusing to overwrite the list.`,
+    );
+  }
+  // Fresh feeds churn employers as the newest window moves. Inventory lists
+  // do not, so one employer unlisting most of its roles is an alert, not a
+  // reason to freeze every other company on the board.
+  if (config.mode !== "fresh") warnOnSharpCompanyDrops(rows, previous.listings);
+
   const previousIds = new Set(previous.listings.map((listing) => listing.id));
   const currentIds = new Set(rows.map((row) => row.id));
   const overlap = [...previousIds].filter((id) => currentIds.has(id)).length;
-  const countRatio = rows.length / previousIds.size;
-  const overlapRatio = overlap / previousIds.size;
+  const missingIds = [...previousIds].filter((id) => !currentIds.has(id));
   const minCountRatio =
     config.minPreviousCountRatio ?? DEFAULT_MIN_PREVIOUS_COUNT_RATIO;
   // Inventory lists should retain most IDs between runs. A capped fresh feed
@@ -960,11 +1137,91 @@ function assertPreviousSnapshotHealth(rows, previous, config) {
   const minOverlapRatio =
     config.minPreviousOverlapRatio ??
     (config.mode === "fresh" ? 0 : DEFAULT_MIN_PREVIOUS_OVERLAP_RATIO);
-  if (countRatio < minCountRatio || overlapRatio < minOverlapRatio) {
-    throw new Error(
-      `Snapshot health check failed: ${rows.length} current rows vs ${previousIds.size} previous (${(countRatio * 100).toFixed(1)}% count retention), ${overlap} retained ids (${(overlapRatio * 100).toFixed(1)}% overlap). Minimums are ${(minCountRatio * 100).toFixed(1)}% count and ${(minOverlapRatio * 100).toFixed(1)}% overlap. Refusing to overwrite the list.`,
+  const previousCount = previousIds.size;
+  const ratiosFor = (expected) =>
+    retentionRatios(rows.length, expected, overlap, minCountRatio, minOverlapRatio);
+  const refuse = (expected, note = "") => {
+    const { countRatio, overlapRatio } = ratiosFor(expected);
+    return new Error(
+      `Snapshot health check failed: ${rows.length} current rows vs ${expected} previous (${(countRatio * 100).toFixed(1)}% count retention), ${overlap} retained ids (${(overlapRatio * 100).toFixed(1)}% overlap).${note ? ` ${note}` : ""} Minimums are ${(minCountRatio * 100).toFixed(1)}% count and ${(minOverlapRatio * 100).toFixed(1)}% overlap. Refusing to overwrite the list.`,
+    );
+  };
+  if (ratiosFor(previousCount).ok) return;
+
+  if (rows.length < previousCount * RETIREMENT_MIN_RAW_COUNT_RATIO) {
+    throw refuse(
+      previousCount,
+      `Retirements cannot explain a run that keeps under ${RETIREMENT_MIN_RAW_COUNT_RATIO * 100}% of the previous rows.`,
     );
   }
+  if (missingIds.length > RETIREMENT_MAX_DETAIL_READS) {
+    throw refuse(
+      previousCount,
+      `${missingIds.length} previous ids are missing, more than the ${RETIREMENT_MAX_DETAIL_READS} detail reads one run may spend explaining a drop.`,
+    );
+  }
+  const maxExplained = Math.floor(previousCount * RETIREMENT_MAX_EXPLAINED_SHARE);
+  const maxUnexplained = Math.floor(previousCount * RETIREMENT_MAX_UNCONFIRMED_SHARE);
+  // The best outcome for the ids not yet read is that each is confirmed gone,
+  // up to the cap. Once even that fails, stop reading.
+  const bestCaseFails = (unexplained) =>
+    !ratiosFor(Math.max(overlap + unexplained, previousCount - maxExplained)).ok;
+  if (bestCaseFails(0)) throw refuse(previousCount);
+
+  const deadline = Math.min(inventoryDeadline, Date.now() + RETIREMENT_DETAIL_BUDGET_MS);
+  // A route that gives every id the same answer (a cached error page, a proxy,
+  // a wrong deployment) must not be read as a wave of closures. A row the new
+  // list holds must come back active under its own id first.
+  const canaryId = rows[0].id;
+  const canary = await readListingDetail(canaryId, deadline);
+  if (
+    canary?.status !== 200 ||
+    canary.body?.listing?.id !== canaryId ||
+    canary.body.tombstone ||
+    canary.body.graceListing
+  ) {
+    throw refuse(
+      previousCount,
+      `The detail route did not return listed row ${canaryId} as active, so its answers for missing ids are not trusted.`,
+    );
+  }
+  const confirmedCounts = new Map();
+  const unconfirmedCounts = new Map();
+  let explained = 0;
+  let unexplained = 0;
+  const readSummary = () =>
+    `Detail reads confirmed gone: ${formatReadCounts(confirmedCounts)}; still counted as lost: ${formatReadCounts(unconfirmedCounts)}.`;
+  for (const id of missingIds) {
+    const read = classifyRetirement(id, await readListingDetail(id, deadline), currentIds);
+    const counts = read.confirmed ? confirmedCounts : unconfirmedCounts;
+    counts.set(read.label, (counts.get(read.label) ?? 0) + 1);
+    if (read.confirmed) explained += 1;
+    else unexplained += 1;
+    if (explained > maxExplained) {
+      throw refuse(
+        previousCount,
+        `More than ${maxExplained} of ${previousCount} previous rows (${RETIREMENT_MAX_EXPLAINED_SHARE * 100}%) read as retired; one run may not explain that much. ${readSummary()}`,
+      );
+    }
+    if (unexplained > maxUnexplained) {
+      throw refuse(
+        previousCount - explained,
+        `More than ${maxUnexplained} of ${previousCount} previous rows (${RETIREMENT_MAX_UNCONFIRMED_SHARE * 100}%) left the list without a confirmed retirement; retirements may explain a drop only when they explain nearly all of it. ${readSummary()}`,
+      );
+    }
+    if (bestCaseFails(unexplained)) {
+      throw refuse(previousCount - explained, `${explained} previous rows confirmed gone were excluded. ${readSummary()}`);
+    }
+  }
+
+  const expected = previousCount - explained;
+  if (!ratiosFor(expected).ok) {
+    throw refuse(expected, `${explained} previous rows confirmed gone were excluded. ${readSummary()}`);
+  }
+  const surface = config.surface ?? config.repo ?? "list";
+  console.warn(
+    `::warning title=Snapshot retirements excluded::${surface}: excluded ${explained} previous rows the public API confirms gone from snapshot retention (${rows.length} current vs ${expected} still expected). ${readSummary()}`,
+  );
 }
 
 function countryName(code) {
@@ -1130,14 +1387,15 @@ function loadPreviousInternationalSnapshot(out, config) {
   return snapshot;
 }
 
-function assertInternationalSnapshotHealth(rows, countryGroups, previous, board) {
+async function assertInternationalSnapshotHealth(rows, countryGroups, previous, board) {
   if (!previous || previous.listings.length === 0) return;
   if (process.env.DREAMWORK_JOB_LIST_ALLOW_INTERNATIONAL_SNAPSHOT_RESET === "1") {
     console.warn("Bypassing international previous-snapshot health gate after an explicit audit.");
     return;
   }
-  assertPreviousSnapshotHealth(rows, previous, {
+  await assertPreviousSnapshotHealth(rows, previous, {
     mode: "inventory",
+    surface: "international",
     minPreviousCountRatio: board.minPreviousCountRatio,
     minPreviousOverlapRatio: board.minPreviousOverlapRatio,
   });
@@ -1303,7 +1561,7 @@ function loadPreviousBusinessSnapshot(out, config) {
   return snapshot;
 }
 
-function assertBusinessSnapshotHealth(rows, previous, board) {
+async function assertBusinessSnapshotHealth(rows, previous, board) {
   if (
     previous &&
     process.env.DREAMWORK_JOB_LIST_ALLOW_BUSINESS_SNAPSHOT_RESET === "1"
@@ -1313,8 +1571,9 @@ function assertBusinessSnapshotHealth(rows, previous, board) {
     );
     return;
   }
-  assertPreviousSnapshotHealth(rows, previous, {
+  await assertPreviousSnapshotHealth(rows, previous, {
     mode: "inventory",
+    surface: "business",
     minPreviousCountRatio: board.minPreviousCountRatio,
     minPreviousOverlapRatio: board.minPreviousOverlapRatio,
   });
@@ -1341,7 +1600,7 @@ async function generateBusiness(config, out, now) {
       `Only ${rows.length} business rows after filtering; refusing to overwrite the list (minRows=${board.minRows ?? 25}).`,
     );
   }
-  assertBusinessSnapshotHealth(
+  await assertBusinessSnapshotHealth(
     rows,
     loadPreviousBusinessSnapshot(out, config),
     board,
@@ -1530,13 +1789,14 @@ function loadPreviousCryptoSnapshot(out, config) {
   return snapshot;
 }
 
-function assertCryptoSnapshotHealth(rows, previous, board) {
+async function assertCryptoSnapshotHealth(rows, previous, board) {
   if (previous && process.env.DREAMWORK_JOB_LIST_ALLOW_CRYPTO_SNAPSHOT_RESET === "1") {
     console.warn("Bypassing crypto previous-snapshot health gate after an explicit audit.");
     return;
   }
-  assertPreviousSnapshotHealth(rows, previous, {
+  await assertPreviousSnapshotHealth(rows, previous, {
     mode: "inventory",
+    surface: "crypto",
     minPreviousCountRatio: board.minPreviousCountRatio,
     minPreviousOverlapRatio: board.minPreviousOverlapRatio,
   });
@@ -1573,7 +1833,7 @@ async function generateCrypto(config, out, now) {
       `Only ${rows.length} crypto rows after filtering; refusing to overwrite the list (minRows=${board.minRows ?? 25}).`,
     );
   }
-  assertCryptoSnapshotHealth(rows, loadPreviousCryptoSnapshot(out, config), board);
+  await assertCryptoSnapshotHealth(rows, loadPreviousCryptoSnapshot(out, config), board);
 
   if (isCommunityPresentation(config)) runtimeConfig.activeJobsLabel = await fetchActiveJobsLabel();
   const rendered = fitToRenderLimit(
@@ -1632,7 +1892,7 @@ async function generateInternational(config, out, now) {
     if (!countryGroups.has(row.locationCountryCode)) countryGroups.set(row.locationCountryCode, []);
     countryGroups.get(row.locationCountryCode).push(row);
   }
-  assertInternationalSnapshotHealth(
+  await assertInternationalSnapshotHealth(
     allRows,
     countryGroups,
     loadPreviousInternationalSnapshot(out, config),
@@ -1737,7 +1997,7 @@ const readme = fitToRenderLimit(readmeRows, (r) => renderReadme(r, config, now))
 const jsonRows = config.mode === "inventory"
   ? (config.usOnly ? usRows.concat(intl ? intlRows : []) : linkEligibleRows)
   : (config.usOnly ? usRows.concat(intlRows.slice(0, intlKept)) : readmeRows).slice(0, 1500);
-assertPreviousSnapshotHealth(jsonRows, loadPreviousSnapshot(out, config), config);
+await assertPreviousSnapshotHealth(jsonRows, loadPreviousSnapshot(out, config), config);
 
 // All remote fetch, filtering, rendering, and health checks complete before
 // the first output mutation, so a failed run preserves the last good snapshot.
