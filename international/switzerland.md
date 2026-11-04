@@ -2,32 +2,31 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**46 currently open roles** · Updated **2026-11-03**
+**45 currently open roles** · Updated **2026-11-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-37) · 37 roles
+- [Engineering](#engineering-36) · 36 roles
 - [Data Science](#data-science-6) · 6 roles
 - [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (37)
+### Engineering (36)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Compiler Intern, CUDA Tile IR - Summer 2027](https://www.dreamworkhq.com/job/922df397-45e5-407f-a729-875fe2d9b8be?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland, Zurich |  | 0d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SLAM / Computer Vision Intern, RIVR](https://www.dreamworkhq.com/job/acef6feb-6be8-4e97-82d4-24ac06da52d1?utm_source=github&utm_campaign=gh-tech-internships) | CH, Zurich |  | 0d |
-| **[KanadeviaInova](https://www.dreamworkhq.com/c/kanadevia-inova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship (6 months) - Data Analysis and Correlations for Tender Engin…](https://www.dreamworkhq.com/job/06384752-827b-46bd-82c0-117d5d654b30?utm_source=github&utm_campaign=gh-tech-internships) | Zürich, ZH, Switzerland (Hybrid) |  | 4d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Robotics Wireless & Network Engineer Intern, RIVR](https://www.dreamworkhq.com/job/9f72da9e-0b8e-4c55-829c-d3ebbc8d8d84?utm_source=github&utm_campaign=gh-tech-internships) | CH, Zurich |  | 5d |
-| **[Skydio](https://www.dreamworkhq.com/c/skydio.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich)](https://www.dreamworkhq.com/job/4ab26d54-292e-426a-ad25-2856b07461b4?utm_source=github&utm_campaign=gh-tech-internships) | Zurich, Switzerland | $98K | 7d |
-| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Software and Data Engineer (for 12 months in Rotkreuz)](https://www.dreamworkhq.com/job/af2e8cc7-9abf-4f25-8349-cf6aa1b30075?utm_source=github&utm_campaign=gh-tech-internships) | Rotkreuz (Hybrid) |  | 7d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [GenAI Algorithms Intern – Model Optimization for Inference](https://www.dreamworkhq.com/job/5d0bb3cf-1861-459b-a637-0a6eb05ad81e?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland, Zurich |  | 8d |
-| **[Adobe](https://www.dreamworkhq.com/c/adobe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Intern- Software Engineer](https://www.dreamworkhq.com/job/b4426d16-1e20-41dc-a306-dbba16667cca?utm_source=github&utm_campaign=gh-tech-internships) | Basel (Hybrid) | $115K | 14d |
-| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer Technology Engineering Intern - Compute Performance](https://www.dreamworkhq.com/job/9a4b765f-f1a7-4004-9053-bd8a09f1029b?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 19d |
-| **[Lombardodier](https://www.dreamworkhq.com/c/lombardodier.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Generative AI Intern](https://www.dreamworkhq.com/job/97b2cda3-f076-41c5-92ca-c383e775b1fe?utm_source=github&utm_campaign=gh-tech-internships) | Geneva |  | 27d |
-| **[GE Vernova](https://www.dreamworkhq.com/c/gevernova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Liaison Engineering Intern](https://www.dreamworkhq.com/job/6cb60fb0-8937-4f6b-88b6-0dabf1f95034?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 27d |
-| **[Swisscom](https://www.dreamworkhq.com/c/swisscom.ch?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship NETAdvance - ONIS AI DevOps](https://www.dreamworkhq.com/job/631ce36f-b84d-49b3-bf57-2f289dce9c50?utm_source=github&utm_campaign=gh-tech-internships) | Bern (Hybrid) |  | 29d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Compiler Intern, CUDA Tile IR - Summer 2027](https://www.dreamworkhq.com/job/922df397-45e5-407f-a729-875fe2d9b8be?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland, Zurich |  | 1d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SLAM / Computer Vision Intern, RIVR](https://www.dreamworkhq.com/job/acef6feb-6be8-4e97-82d4-24ac06da52d1?utm_source=github&utm_campaign=gh-tech-internships) | CH, Zurich |  | 1d |
+| **[KanadeviaInova](https://www.dreamworkhq.com/c/kanadevia-inova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship (6 months) - Data Analysis and Correlations for Tender Engin…](https://www.dreamworkhq.com/job/06384752-827b-46bd-82c0-117d5d654b30?utm_source=github&utm_campaign=gh-tech-internships) | Zürich, ZH, Switzerland (Hybrid) |  | 5d |
+| **[Skydio](https://www.dreamworkhq.com/c/skydio.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich)](https://www.dreamworkhq.com/job/4ab26d54-292e-426a-ad25-2856b07461b4?utm_source=github&utm_campaign=gh-tech-internships) | Zurich, Switzerland | $98K | 8d |
+| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Software and Data Engineer (for 12 months in Rotkreuz)](https://www.dreamworkhq.com/job/af2e8cc7-9abf-4f25-8349-cf6aa1b30075?utm_source=github&utm_campaign=gh-tech-internships) | Rotkreuz (Hybrid) |  | 8d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [GenAI Algorithms Intern – Model Optimization for Inference](https://www.dreamworkhq.com/job/5d0bb3cf-1861-459b-a637-0a6eb05ad81e?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland, Zurich |  | 9d |
+| **[Adobe](https://www.dreamworkhq.com/c/adobe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Intern- Software Engineer](https://www.dreamworkhq.com/job/b4426d16-1e20-41dc-a306-dbba16667cca?utm_source=github&utm_campaign=gh-tech-internships) | Basel (Hybrid) | $115K | 15d |
+| **[Nvidia](https://www.dreamworkhq.com/c/nvidia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer Technology Engineering Intern - Compute Performance](https://www.dreamworkhq.com/job/9a4b765f-f1a7-4004-9053-bd8a09f1029b?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 20d |
+| **[Lombardodier](https://www.dreamworkhq.com/c/lombardodier.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Generative AI Intern](https://www.dreamworkhq.com/job/97b2cda3-f076-41c5-92ca-c383e775b1fe?utm_source=github&utm_campaign=gh-tech-internships) | Geneva |  | 28d |
+| **[GE Vernova](https://www.dreamworkhq.com/c/gevernova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Liaison Engineering Intern](https://www.dreamworkhq.com/job/6cb60fb0-8937-4f6b-88b6-0dabf1f95034?utm_source=github&utm_campaign=gh-tech-internships) | 2 Locations |  | 28d |
+| **[Swisscom](https://www.dreamworkhq.com/c/swisscom.ch?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship NETAdvance - ONIS AI DevOps](https://www.dreamworkhq.com/job/631ce36f-b84d-49b3-bf57-2f289dce9c50?utm_source=github&utm_campaign=gh-tech-internships) | Bern (Hybrid) |  | 1mo |
 | **[Anybotics](https://www.dreamworkhq.com/c/anybotics.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern - Industrialization](https://www.dreamworkhq.com/job/2e3b5d29-da9c-4cf1-82fe-a8222c432080?utm_source=github&utm_campaign=gh-tech-internships) | Zurich | $43K | 1mo |
 | **[Pinterest](https://www.dreamworkhq.com/c/pinterest.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern 2027 (Zurich)](https://www.dreamworkhq.com/job/c189d0f0-3c8d-45e0-af99-a64069b0a2ff?utm_source=github&utm_campaign=gh-tech-internships) | Zurich, CH (Hybrid) |  | 1mo |
 | **[ELCA](https://www.dreamworkhq.com/c/elca.ch?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: AI-Powered Technology Radar](https://www.dreamworkhq.com/job/4ead02c1-ac8f-42c9-9abf-4b4b898eb20b?utm_source=github&utm_campaign=gh-tech-internships) | Zurich, Switzerland |  | 1mo |
@@ -58,10 +57,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Nestlé](https://www.dreamworkhq.com/c/nestlehealthscience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Knowledge Engineering Intern](https://www.dreamworkhq.com/job/134147c1-1f8b-43ee-affa-82d9a4a8f9b4?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland |  | 4d |
-| **[Swisscom](https://www.dreamworkhq.com/c/swisscom.ch?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Web Analytics](https://www.dreamworkhq.com/job/6a86e4e4-5a93-421f-aae9-350f7e76ef08?utm_source=github&utm_campaign=gh-tech-internships) | Zurich (Hybrid) |  | 18d |
-| **[Abbott](https://www.dreamworkhq.com/c/lingo.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Data Science - Future Talent Program](https://www.dreamworkhq.com/job/279900e7-860e-4228-a67a-44542cef99e4?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland - Basel |  | 21d |
-| **[Nestlé](https://www.dreamworkhq.com/c/nestlehealthscience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [R&D Data Science Intern](https://www.dreamworkhq.com/job/6da279eb-8070-4371-942e-5f9e334d58d4?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland (Hybrid) |  | 26d |
+| **[Swiss Re](https://www.dreamworkhq.com/c/swissre.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Group Underwriting Intern](https://www.dreamworkhq.com/job/afc702f0-4843-48c9-ae46-4f1c63ed732e?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland (Hybrid) |  | 0d |
+| **[Nestlé](https://www.dreamworkhq.com/c/nestlehealthscience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Knowledge Engineering Intern](https://www.dreamworkhq.com/job/134147c1-1f8b-43ee-affa-82d9a4a8f9b4?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland |  | 5d |
+| **[Abbott](https://www.dreamworkhq.com/c/lingo.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Data Science - Future Talent Program](https://www.dreamworkhq.com/job/279900e7-860e-4228-a67a-44542cef99e4?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland - Basel |  | 22d |
+| **[Nestlé](https://www.dreamworkhq.com/c/nestlehealthscience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [R&D Data Science Intern](https://www.dreamworkhq.com/job/6da279eb-8070-4371-942e-5f9e334d58d4?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland (Hybrid) |  | 27d |
 | **[Lombardodier](https://www.dreamworkhq.com/c/lombardodier.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship – Data Engineer - Accelerating Adoption of Microsoft Fabric](https://www.dreamworkhq.com/job/0f8083ff-c96b-4b87-9e39-83eb0d72a058?utm_source=github&utm_campaign=gh-tech-internships) | Geneva |  | 1mo |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science PhD Intern, 2027](https://www.dreamworkhq.com/job/1649595f-a841-4c35-95fa-24166c19853d?utm_source=github&utm_campaign=gh-tech-internships) | Zürich, Switzerland |  | 2mo |
 
@@ -69,7 +68,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Generative AI Designer (as of January 2027 for 12 months in…](https://www.dreamworkhq.com/job/309c9ff5-ac66-4f1e-9929-8aa7001c74fc?utm_source=github&utm_campaign=gh-tech-internships) | Rotkreuz |  | 5d |
+| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Generative AI Designer (as of January 2027 for 12 months in…](https://www.dreamworkhq.com/job/309c9ff5-ac66-4f1e-9929-8aa7001c74fc?utm_source=github&utm_campaign=gh-tech-internships) | Rotkreuz |  | 6d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Global Product Management REF297536H](https://www.dreamworkhq.com/job/647ed497-846b-490b-b3f6-8dcd36395c52?utm_source=github&utm_campaign=gh-tech-internships) | Solothurn/Zuchwil, , Switzerland |  | 1mo |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship – Design Sustainable Packaging REF296423S](https://www.dreamworkhq.com/job/b35c3030-5cc5-4b8b-884a-1dc9c791117a?utm_source=github&utm_campaign=gh-tech-internships) | Solothurn/Zuchwil, , Switzerland |  | 1mo |
 

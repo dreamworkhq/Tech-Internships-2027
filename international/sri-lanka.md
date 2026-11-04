@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-11-03**
+**8 currently open roles** · Updated **2026-11-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,9 +15,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Engineering](https://www.dreamworkhq.com/job/3c2135c2-f77d-4da9-ac1d-2885859b62d4?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 0d |
-| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Site Reliability Engineering](https://www.dreamworkhq.com/job/f6b716a2-ce2f-4480-8725-e1f249a099d7?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 1d |
-| **[MAS Holdings](https://www.dreamworkhq.com/c/masholdings.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Product Engineering Center (PEC)](https://www.dreamworkhq.com/job/096e9f26-b09c-43ed-8f52-196924f2fdc6?utm_source=github&utm_campaign=gh-tech-internships) | Sri Lanka |  | 5d |
+| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Engineering](https://www.dreamworkhq.com/job/3c2135c2-f77d-4da9-ac1d-2885859b62d4?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 1d |
+| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Site Reliability Engineering](https://www.dreamworkhq.com/job/f6b716a2-ce2f-4480-8725-e1f249a099d7?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 2d |
+| **[MAS Holdings](https://www.dreamworkhq.com/c/masholdings.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Product Engineering Center (PEC)](https://www.dreamworkhq.com/job/096e9f26-b09c-43ed-8f52-196924f2fdc6?utm_source=github&utm_campaign=gh-tech-internships) | Sri Lanka |  | 6d |
 | **[Circles](https://www.dreamworkhq.com/c/circlesco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Software Engineer (Database Administrator)](https://www.dreamworkhq.com/job/ecc5abaf-75f1-4272-b4bb-3941e69028d6?utm_source=github&utm_campaign=gh-tech-internships) | Sri Lanka (Hybrid) |  | 1mo |
 | **[Zebra](https://www.dreamworkhq.com/c/zebra.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026(6 months) Internship(Sri Lanka) -Software Engineering](https://www.dreamworkhq.com/job/14c02e52-8a60-4b31-a1ae-29142ee7ac8d?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka (Hybrid) |  | 2mo |
 
@@ -25,8 +25,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[IFS](https://www.dreamworkhq.com/c/ifs.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI & Automation Intern](https://www.dreamworkhq.com/job/e41d0118-2613-46da-91b5-9758aedb826c?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, WESTERN PROVINCE, Sri Lanka (Hybrid) |  | 5d |
-| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - UX/UI Engineering](https://www.dreamworkhq.com/job/dda14517-fed5-4e5d-bb8c-85ce10e3b5d7?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 5d |
-| **[MAS Holdings](https://www.dreamworkhq.com/c/masholdings.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Science & Analytics](https://www.dreamworkhq.com/job/56c2cc26-4888-4661-b096-2a203fb6217b?utm_source=github&utm_campaign=gh-tech-internships) | Sri Lanka |  | 8d |
+| **[IFS](https://www.dreamworkhq.com/c/ifs.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI & Automation Intern](https://www.dreamworkhq.com/job/e41d0118-2613-46da-91b5-9758aedb826c?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, WESTERN PROVINCE, Sri Lanka (Hybrid) |  | 6d |
+| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - UX/UI Engineering](https://www.dreamworkhq.com/job/dda14517-fed5-4e5d-bb8c-85ce10e3b5d7?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 6d |
+| **[MAS Holdings](https://www.dreamworkhq.com/c/masholdings.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Science & Analytics](https://www.dreamworkhq.com/job/56c2cc26-4888-4661-b096-2a203fb6217b?utm_source=github&utm_campaign=gh-tech-internships) | Sri Lanka |  | 9d |
 
 <!-- TABLE_END -->
