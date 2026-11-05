@@ -1,8 +1,8 @@
-# Tech internships in Bangladesh
+# Tech internships in Croatia
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-04**
+**1 currently open roles** · Updated **2026-11-05**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Brain Station 23](https://www.dreamworkhq.com/c/brainstation23.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Quality Assurance (SQA) Intern](https://www.dreamworkhq.com/job/e4d19ab6-de5f-4788-88c7-f39d6aea14e4?utm_source=github&utm_campaign=gh-tech-internships) | Dhaka, Dhaka, Bangladesh |  | 5d |
+| **[DeltaElectronics](https://www.dreamworkhq.com/c/deltaww.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Electrical Engineer Intern - Modular Data Center Solutions](https://www.dreamworkhq.com/job/5451781b-743b-4bbc-b22a-ce341c2edb6e?utm_source=github&utm_campaign=gh-tech-internships) | Zagreb, , Croatia |  | 0d |
 
 <!-- TABLE_END -->
