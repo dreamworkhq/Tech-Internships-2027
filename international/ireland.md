@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**19 currently open roles** · Updated **2026-11-05**
+**19 currently open roles** · Updated **2026-11-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,11 +15,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[General Motors](https://www.dreamworkhq.com/c/generalmotors.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Java Software Engineer Intern](https://www.dreamworkhq.com/job/ace57e2e-d020-4885-bdcb-e83e05866d72?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Ireland (Hybrid) |  | 6d |
-| **[MongoDB](https://www.dreamworkhq.com/c/mongodb.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 - Summer Software Engineer Intern, Dublin](https://www.dreamworkhq.com/job/61480caa-e06b-45d3-bb27-8020c12358e8?utm_source=github&utm_campaign=gh-tech-internships) | Dublin (Hybrid) |  | 12d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Infra Engineer - 2027 Internship, Logistics Team](https://www.dreamworkhq.com/job/a81a61be-a517-42d3-81e1-c102cd22486d?utm_source=github&utm_campaign=gh-tech-internships) | IE, D, Dublin |  | 23d |
-| **[MongoDB](https://www.dreamworkhq.com/c/mongodb.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.dreamworkhq.com/job/ce50a436-41e5-4547-907c-86fc44d2a2c2?utm_source=github&utm_campaign=gh-tech-internships) | Dublin (Hybrid) |  | 27d |
-| **[Pinterest](https://www.dreamworkhq.com/c/pinterest.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Intern 2027 (Dublin)](https://www.dreamworkhq.com/job/c48d620b-66ff-452c-9f09-2a3971bd003b?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, IE (Hybrid) | $68K–$85K | 29d |
+| **[General Motors](https://www.dreamworkhq.com/c/generalmotors.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Java Software Engineer Intern](https://www.dreamworkhq.com/job/ace57e2e-d020-4885-bdcb-e83e05866d72?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Ireland (Hybrid) |  | 7d |
+| **[MongoDB](https://www.dreamworkhq.com/c/mongodb.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 - Summer Software Engineer Intern, Dublin](https://www.dreamworkhq.com/job/61480caa-e06b-45d3-bb27-8020c12358e8?utm_source=github&utm_campaign=gh-tech-internships) | Dublin (Hybrid) |  | 13d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Infra Engineer - 2027 Internship, Logistics Team](https://www.dreamworkhq.com/job/a81a61be-a517-42d3-81e1-c102cd22486d?utm_source=github&utm_campaign=gh-tech-internships) | IE, D, Dublin |  | 24d |
+| **[MongoDB](https://www.dreamworkhq.com/c/mongodb.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.dreamworkhq.com/job/ce50a436-41e5-4547-907c-86fc44d2a2c2?utm_source=github&utm_campaign=gh-tech-internships) | Dublin (Hybrid) |  | 28d |
+| **[Pinterest](https://www.dreamworkhq.com/c/pinterest.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Intern 2027 (Dublin)](https://www.dreamworkhq.com/job/c48d620b-66ff-452c-9f09-2a3971bd003b?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, IE (Hybrid) | $68K–$85K | 1mo |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Support Associate Internship - April 2027 start, Support Engineer…](https://www.dreamworkhq.com/job/e59ade67-86f2-4630-a01e-544ade06d77b?utm_source=github&utm_campaign=gh-tech-internships) | IE, D, Dublin |  | 1mo |
 | **[Pinterest](https://www.dreamworkhq.com/c/pinterest.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern 2027 (Dublin)](https://www.dreamworkhq.com/job/40f8f050-1b3a-478f-806f-9e6b3e8a73dc?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, IE (Hybrid) | $45K–$48K | 1mo |
 | **[Arista Networks](https://www.dreamworkhq.com/c/arista.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern 2026/2027](https://www.dreamworkhq.com/job/05929b16-0920-4637-b889-c1491e23c2d9?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, County Dublin, Ireland |  | 1mo |
@@ -36,8 +36,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Logitech](https://www.dreamworkhq.com/c/logitech.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Engineering](https://www.dreamworkhq.com/job/38ed09e6-2b4b-49a4-8ef0-94f938702c4a?utm_source=github&utm_campaign=gh-tech-internships) | Cork, Ireland |  | 21d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.dreamworkhq.com/job/cfe3bac9-3bc3-48a4-853f-a8c556c8becc?utm_source=github&utm_campaign=gh-tech-internships) | IE, Dublin |  | 23d |
+| **[Logitech](https://www.dreamworkhq.com/c/logitech.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Engineering](https://www.dreamworkhq.com/job/38ed09e6-2b4b-49a4-8ef0-94f938702c4a?utm_source=github&utm_campaign=gh-tech-internships) | Cork, Ireland |  | 22d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.dreamworkhq.com/job/cfe3bac9-3bc3-48a4-853f-a8c556c8becc?utm_source=github&utm_campaign=gh-tech-internships) | IE, Dublin |  | 24d |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Analyst MBA Intern, 2027](https://www.dreamworkhq.com/job/2f8a24f0-53a0-4eed-9f86-f582c7d826d4?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Ireland | $81K | 1mo |
 
 <!-- TABLE_END -->

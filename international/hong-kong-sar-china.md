@@ -2,21 +2,21 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**20 currently open roles** · Updated **2026-11-05**
+**19 currently open roles** · Updated **2026-11-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-14) · 14 roles
+- [Engineering](#engineering-13) · 13 roles
 - [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (14)
+### Engineering (13)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Schonfeld](https://www.dreamworkhq.com/c/schonfeld.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 AI Forward Deployed Engineer Intern](https://www.dreamworkhq.com/job/43616a7e-dd2d-4c37-8325-aa37000da25f?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong, Hong Kong |  | 8d |
-| **[Foresea Technologies](https://www.dreamworkhq.com/c/ovrsea.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - AI Ops Builder & Automatisation](https://www.dreamworkhq.com/job/be3e02f0-1fbd-4fb3-b32c-a867c00a37eb?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR |  | 15d |
+| **[Schonfeld](https://www.dreamworkhq.com/c/schonfeld.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 AI Forward Deployed Engineer Intern](https://www.dreamworkhq.com/job/43616a7e-dd2d-4c37-8325-aa37000da25f?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong, Hong Kong |  | 9d |
+| **[Foresea Technologies](https://www.dreamworkhq.com/c/ovrsea.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - AI Ops Builder & Automatisation](https://www.dreamworkhq.com/job/be3e02f0-1fbd-4fb3-b32c-a867c00a37eb?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR |  | 16d |
 | **[Schonfeld](https://www.dreamworkhq.com/c/schonfeld.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Quantitative C++ Developer Intern](https://www.dreamworkhq.com/job/582fe0ab-55d5-455b-acf2-7928742b25ed?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong, Hong Kong |  | 1mo |
 | **[Dvtrading](https://www.dreamworkhq.com/c/dvtrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Developer Intern (DV QES)](https://www.dreamworkhq.com/job/8a289024-4f4e-4ca5-883f-c90c316d21b6?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
 | **[Nex](https://www.dreamworkhq.com/c/playthatmovesyou.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer 2027 \| Software Engineer Intern (Developer Experience)](https://www.dreamworkhq.com/job/04e03f7b-2133-4b0a-b38f-0e9ea405ab6f?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
@@ -25,7 +25,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Nex](https://www.dreamworkhq.com/c/playthatmovesyou.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer 2027 \| Software Engineer Intern - Game Development (Creative & …](https://www.dreamworkhq.com/job/2388b803-f19a-4839-a50c-256f87a1e0fc?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
 | **[Nex](https://www.dreamworkhq.com/c/playthatmovesyou.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer 2027 \| Software Engineer Intern (Engineering, Core Technology)](https://www.dreamworkhq.com/job/31eeb8a5-5106-424b-8281-57b553655b22?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
 | **[Nex](https://www.dreamworkhq.com/c/playthatmovesyou.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer 2027 \| Software Engineer Intern - Game Development (Sports & Ac…](https://www.dreamworkhq.com/job/d5f46a9e-cfa2-4f74-8328-ceee399b7d64?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
-| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Big Data Development Engineer Intern](https://www.dreamworkhq.com/job/e37426e2-d0d1-4600-b0e1-01f2c0236399?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR |  | 1mo |
 | **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus C++ Software Engineer (Intern)](https://www.dreamworkhq.com/job/7c8ad9f4-1b13-4940-b05c-514551c94a6a?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong; Shanghai |  | 2mo |
 | **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus Python Software Engineer (Intern)](https://www.dreamworkhq.com/job/8afa7a6a-6637-47e6-8df9-e0596d20c227?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong; Shanghai |  | 2mo |
 | **[Imc](https://www.dreamworkhq.com/c/imc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern 2027](https://www.dreamworkhq.com/job/5f47b790-384d-4dd9-8e0d-b1c213110113?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong, Hong Kong |  | 2mo |
@@ -34,8 +33,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Hitachi](https://www.dreamworkhq.com/c/hitachi.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/0536b8a8-34c4-49ff-9fc6-61df5790c129?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong, Hong Kong SAR |  | 19d |
-| **[BASF](https://www.dreamworkhq.com/c/basf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Data Analytics, Dispersions & Resins](https://www.dreamworkhq.com/job/653ed623-d350-40bc-9b03-0a34b578165d?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 22d |
+| **[Hitachi](https://www.dreamworkhq.com/c/hitachi.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/0536b8a8-34c4-49ff-9fc6-61df5790c129?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong, Hong Kong SAR |  | 20d |
+| **[BASF](https://www.dreamworkhq.com/c/basf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Data Analytics, Dispersions & Resins](https://www.dreamworkhq.com/job/653ed623-d350-40bc-9b03-0a34b578165d?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 23d |
 | **[Djeholdings](https://www.dreamworkhq.com/c/edelman.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Creative Intern (Art base)](https://www.dreamworkhq.com/job/5b33ced9-070a-4383-945f-55904cb26eb3?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |
 | **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Smart Contract Security Audit Intern (AI Audit)](https://www.dreamworkhq.com/job/4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3?utm_source=github&utm_campaign=gh-tech-internships) | Remote (APAC - Remote; Hong Kong SAR) |  | 1mo |
 | **[Quberesearchandtechnologies](https://www.dreamworkhq.com/c/qube.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 - Internship, Security Engineer](https://www.dreamworkhq.com/job/bcc18fa8-e1bc-4b8b-80b8-1253e2460e59?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 2mo |

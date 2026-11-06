@@ -2,22 +2,23 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**13 currently open roles** · Updated **2026-11-05**
+**15 currently open roles** · Updated **2026-11-06**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-12) · 12 roles
-- [Other](#other-1) · 1 roles
+- [Engineering](#engineering-13) · 13 roles
+- [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (12)
+### Engineering (13)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[IT One\] SAP CPI (Internship)](https://www.dreamworkhq.com/job/efb7aa16-1686-407a-9db2-9fa77d7b54d1?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Tipco Tower |  | 2d |
-| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[IT One\] ABAPer (Internship)](https://www.dreamworkhq.com/job/022af333-1d60-4110-9260-c795921ce71f?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Tipco Tower |  | 2d |
-| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[IT One\] SAP HR-Payroll (Internship)](https://www.dreamworkhq.com/job/a22d3536-9c74-4e0b-87b4-11cc94de0169?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Tipco Tower |  | 2d |
+| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[IT One\] SAP MM (Internship)](https://www.dreamworkhq.com/job/65d206f2-67d7-4e51-b5fb-de238ac2293c?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Tipco Tower |  | 0d |
+| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[IT One\] SAP CPI (Internship)](https://www.dreamworkhq.com/job/efb7aa16-1686-407a-9db2-9fa77d7b54d1?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Tipco Tower |  | 3d |
+| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[IT One\] ABAPer (Internship)](https://www.dreamworkhq.com/job/022af333-1d60-4110-9260-c795921ce71f?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Tipco Tower |  | 3d |
+| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[IT One\] SAP HR-Payroll (Internship)](https://www.dreamworkhq.com/job/a22d3536-9c74-4e0b-87b4-11cc94de0169?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Tipco Tower |  | 3d |
 | **[Sertis](https://www.dreamworkhq.com/c/sertiscorp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineer Intern](https://www.dreamworkhq.com/job/d1e6b1bb-0d97-4a7b-a383-a06481a145ed?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Bangkok Metropolis, Thailand |  | 1mo |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Test Engineer Intern](https://www.dreamworkhq.com/job/22338deb-22b7-476e-96fb-b76fc29faaab?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok |  | 1mo |
 | **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Technologist, Hardware Development Engineering (Studying Ph.D …](https://www.dreamworkhq.com/job/870f3af3-f847-491c-a62f-03ff510c9fce?utm_source=github&utm_campaign=gh-tech-internships) | BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thaila… |  | 1mo |
@@ -28,10 +29,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship 2026, Product Quality Management, Power Solutions (PS/QMM1.2…](https://www.dreamworkhq.com/job/60e734b3-55ab-4b6e-9a8c-e4bd20443c1a?utm_source=github&utm_campaign=gh-tech-internships) | Hemaraj Eastern Seaboard Industrial Estate,… |  | 5mo |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship 2026, Data Analyst Engineer, Power Solutions (HmjP/TEF4)](https://www.dreamworkhq.com/job/8887900d-6e07-42fe-b06a-b6c403c289c7?utm_source=github&utm_campaign=gh-tech-internships) | Hemaraj Eastern Seaboard Industrial Estate,… |  | 5mo |
 
-### Other (1)
+### Other (2)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **[Pwc](https://www.dreamworkhq.com/c/pwc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analytics Intern](https://www.dreamworkhq.com/job/585bd552-3d2a-49b3-a10c-3f6acd249403?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok |  | 0d |
 | **[Sertis](https://www.dreamworkhq.com/c/sertiscorp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Scientist Intern](https://www.dreamworkhq.com/job/91671027-ef0a-4430-b287-3d1c63310110?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Bangkok Metropolis, Thailand |  | 1mo |
 
 <!-- TABLE_END -->
