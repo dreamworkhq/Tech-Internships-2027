@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-11-05T00:36:25.608Z",
+  "generatedAt": "2026-11-06T00:34:06.650Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
   "count": 34,
   "listings": [
+    {
+      "id": "6bb44c5b-f80a-4312-b074-6e070d964ec3",
+      "title": "STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (F/H)",
+      "company": "Thales",
+      "companyDomain": "thales.com",
+      "location": "Palaiseau",
+      "locationCountryCode": "FR",
+      "functionPrimary": "Engineering",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-11-05T19:12:14.233Z",
+      "firstIndexedAt": "2026-11-05T15:28:25.030Z",
+      "url": "https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "43cea437-ca21-468f-a92e-1af29279bac0",
       "title": "Research Intern, Frontier",
@@ -198,22 +214,6 @@
       "url": "https://www.dreamworkhq.com/job/f9a3e575-dac0-4101-99e7-c7e4dc6d75d4?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "6ee05c6f-d712-4d3d-ab8e-ebe69f76b21b",
-      "title": "Data Analyst Intern (Finance) - January to May 2027",
-      "company": "Coinhako",
-      "companyDomain": "coinhako.com",
-      "location": "Singapore",
-      "locationCountryCode": "SG",
-      "functionPrimary": "Data Science",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-10T09:41:45.111Z",
-      "firstIndexedAt": "2026-09-12T15:01:12.967Z",
-      "url": "https://www.dreamworkhq.com/job/6ee05c6f-d712-4d3d-ab8e-ebe69f76b21b?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "2cd9118e-305a-4351-848a-bbb15de4a451",
       "title": "[Intern] Test Development Engineer Intern",
       "company": "Bybit",
@@ -282,9 +282,9 @@
       "title": "Crypto Quality SW Process Internship",
       "company": "NXP Semiconductors",
       "companyDomain": "nxp.com",
-      "location": "Sibiu",
+      "location": "2 Locations",
       "locationCountryCode": "RO",
-      "functionPrimary": "Operations",
+      "functionPrimary": "Engineering",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
