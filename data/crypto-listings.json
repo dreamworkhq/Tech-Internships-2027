@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T00:34:06.650Z",
+  "generatedAt": "2026-11-07T00:05:55.753Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 34,
+  "count": 33,
   "listings": [
     {
       "id": "6bb44c5b-f80a-4312-b074-6e070d964ec3",
@@ -17,7 +17,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-05T19:12:14.233Z",
+      "postedAt": "2026-11-05T19:31:18.450Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -230,27 +230,11 @@
       "url": "https://www.dreamworkhq.com/job/2cd9118e-305a-4351-848a-bbb15de4a451?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "e37426e2-d0d1-4600-b0e1-01f2c0236399",
-      "title": "Big Data Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR",
-      "locationCountryCode": "HK",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T10:13:04.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://www.dreamworkhq.com/job/e37426e2-d0d1-4600-b0e1-01f2c0236399?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "e992f114-b27d-4bed-a249-8fe992a371fd",
       "title": "[Intern] Test Development Engineer Intern",
       "company": "Bybit",
       "companyDomain": "bybit.com",
-      "location": "Kuala Lumpur, Malaysia",
+      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
       "locationCountryCode": "MY",
       "functionPrimary": "Engineering",
       "remoteType": "onsite",
@@ -282,9 +266,9 @@
       "title": "Crypto Quality SW Process Internship",
       "company": "NXP Semiconductors",
       "companyDomain": "nxp.com",
-      "location": "2 Locations",
+      "location": "Sibiu",
       "locationCountryCode": "RO",
-      "functionPrimary": "Engineering",
+      "functionPrimary": "Operations",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
