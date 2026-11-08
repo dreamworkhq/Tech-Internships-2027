@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T20:23:29.079Z",
+  "generatedAt": "2026-11-08T20:39:03.080Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "business",
-  "count": 512,
+  "count": 492,
   "listings": [
     {
       "id": "5d82a112-6ba7-41ae-8645-e61d8dcd5561",
@@ -661,7 +661,7 @@
       "salaryMin": 35360,
       "salaryMax": 35360,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-06T14:05:10.608Z",
+      "postedAt": "2026-11-06T14:20:16.242Z",
       "firstIndexedAt": "2026-11-06T23:16:10.924Z",
       "url": "https://www.dreamworkhq.com/job/b3b46bfe-ec1a-4855-85a4-954fd0738622?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -676,7 +676,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-06T11:46:03.363Z",
+      "postedAt": "2026-11-06T12:01:18.770Z",
       "firstIndexedAt": "2026-11-06T21:57:26.232Z",
       "url": "https://www.dreamworkhq.com/job/774e092c-470f-47ac-96a7-be69a28e8a7e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -691,7 +691,7 @@
       "salaryMin": 52000,
       "salaryMax": 54080,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-06T19:51:56.003Z",
+      "postedAt": "2026-11-06T20:20:06.801Z",
       "firstIndexedAt": "2026-11-06T19:16:50.797Z",
       "url": "https://www.dreamworkhq.com/job/38acc686-3555-4702-8747-cbe4ac79f030?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1441,24 +1441,9 @@
       "salaryMin": 41600,
       "salaryMax": 41600,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-05T12:33:20.550Z",
+      "postedAt": "2026-11-05T12:46:15.607Z",
       "firstIndexedAt": "2026-11-06T00:44:18.477Z",
       "url": "https://www.dreamworkhq.com/job/8741ccef-0323-48b9-887a-4e288546506f?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "965e9866-0fae-425a-93f6-4c76acb62245",
-      "title": "Workforce Analytics Graduate Summer Intern",
-      "company": "Centene",
-      "companyDomain": "centene.com",
-      "location": "Remote-MO",
-      "functionPrimary": "Data Science",
-      "remoteType": "remote",
-      "salaryMin": 43680,
-      "salaryMax": 62400,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-11-05T23:05:59.380Z",
-      "firstIndexedAt": "2026-11-05T20:58:17.027Z",
-      "url": "https://www.dreamworkhq.com/job/965e9866-0fae-425a-93f6-4c76acb62245?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "47312bd9-ac62-47d7-a6d1-6260dfd00c03",
@@ -1761,21 +1746,6 @@
       "url": "https://www.dreamworkhq.com/job/5e55ff97-223d-4a2a-868b-a6b135ca6d71?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "c77138bd-6342-4bd4-98b1-d7bd6fc2ad81",
-      "title": "Finance Intern Spring 2027",
-      "company": "RTX (Raytheon)",
-      "companyDomain": "rtx.com",
-      "location": "US-MA-TEWKSBURY-TB3 ~ 50 Apple Hill Dr ~ CONCORD BLDG, Tewksbury Tb3 300 Concord",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": 37000,
-      "salaryMax": 82000,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-11-04T16:11:07.572Z",
-      "firstIndexedAt": "2026-11-04T15:20:31.172Z",
-      "url": "https://www.dreamworkhq.com/job/c77138bd-6342-4bd4-98b1-d7bd6fc2ad81?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "1e390b88-fb12-4da5-92cc-f01674fd55b9",
       "title": "Customer Insights & Analytics Intern",
       "company": "Risk Solutions",
@@ -1786,7 +1756,7 @@
       "salaryMin": 41600,
       "salaryMax": 41600,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-03T15:34:27.138Z",
+      "postedAt": "2026-11-03T15:46:12.703Z",
       "firstIndexedAt": "2026-11-04T15:15:00.724Z",
       "url": "https://www.dreamworkhq.com/job/1e390b88-fb12-4da5-92cc-f01674fd55b9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -1801,24 +1771,9 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-04T10:41:23.736Z",
+      "postedAt": "2026-11-04T19:31:05.091Z",
       "firstIndexedAt": "2026-11-04T14:20:03.535Z",
       "url": "https://www.dreamworkhq.com/job/3e891b3a-0993-41da-9d64-e28c377bbf68?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "667dc78c-fddc-4f3c-b175-06747987fd5d",
-      "title": "Finance Intern (Spring 2027)",
-      "company": "RTX (Raytheon)",
-      "companyDomain": "rtx.com",
-      "location": "US-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": 42000,
-      "salaryMax": 88000,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-11-04T04:20:58.176Z",
-      "firstIndexedAt": "2026-11-04T11:23:47.314Z",
-      "url": "https://www.dreamworkhq.com/job/667dc78c-fddc-4f3c-b175-06747987fd5d?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "fbfe62bf-8632-4780-b7ea-519c3b5262fc",
@@ -1861,7 +1816,7 @@
       "salaryMin": 33010,
       "salaryMax": 91998,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-03T18:30:56.035Z",
+      "postedAt": "2026-11-03T08:32:01.230Z",
       "firstIndexedAt": "2026-11-04T04:10:51.007Z",
       "url": "https://www.dreamworkhq.com/job/f8be807b-a12b-45e5-8c52-3ef4515610be?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2326,7 +2281,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-02T20:17:38.995Z",
+      "postedAt": "2026-11-03T00:01:16.135Z",
       "firstIndexedAt": "2026-11-03T21:25:52.038Z",
       "url": "https://www.dreamworkhq.com/job/8578f30d-62c2-45a5-a17a-935d8a3fdc85?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2341,7 +2296,7 @@
       "salaryMin": 52000,
       "salaryMax": 52000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-03T21:07:46.991Z",
+      "postedAt": "2026-11-03T13:03:10.958Z",
       "firstIndexedAt": "2026-11-03T21:23:34.521Z",
       "url": "https://www.dreamworkhq.com/job/fc035d07-3a36-4893-9e1f-7ea304133503?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2356,24 +2311,9 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-02T20:02:35.716Z",
+      "postedAt": "2026-11-02T20:45:36.791Z",
       "firstIndexedAt": "2026-11-03T20:09:20.751Z",
       "url": "https://www.dreamworkhq.com/job/8fd89f91-2f6d-4259-a395-e2c286a5f86c?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "3adbeed9-7d5e-4af7-8eb6-cc93c4863d12",
-      "title": "Summer 2027 Healthcare Analytics Data Science Graduate Intern",
-      "company": "Highmark Health",
-      "companyDomain": "highmark.com",
-      "location": "PA, Working at Home - Pennsylvania",
-      "functionPrimary": "Data Science",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-11-03T20:04:13.889Z",
-      "firstIndexedAt": "2026-11-03T19:24:12.163Z",
-      "url": "https://www.dreamworkhq.com/job/3adbeed9-7d5e-4af7-8eb6-cc93c4863d12?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "36697dd9-277a-4266-b9f6-e4ccff941bda",
@@ -2491,7 +2431,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-02T15:01:12.337Z",
+      "postedAt": "2026-11-02T15:16:27.675Z",
       "firstIndexedAt": "2026-11-02T17:10:59.670Z",
       "url": "https://www.dreamworkhq.com/job/8333a520-fa1b-4342-9ade-944026871b8a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2524,21 +2464,6 @@
       "postedAt": "2026-11-01T23:08:58.000Z",
       "firstIndexedAt": "2026-11-02T02:32:44.545Z",
       "url": "https://www.dreamworkhq.com/job/45cb6c05-243b-4c4f-be83-828813355651?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "b01a99d6-afa9-4847-9133-1e6773f0ffe6",
-      "title": "Financial Advisor Branch Intern",
-      "company": "Edward Jones",
-      "companyDomain": "edwardjones.com",
-      "location": "Oskaloosa, Iowa, United States",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-11-01T05:59:55.000Z",
-      "firstIndexedAt": "2026-11-02T02:31:38.349Z",
-      "url": "https://www.dreamworkhq.com/job/b01a99d6-afa9-4847-9133-1e6773f0ffe6?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "13ff2e53-5f1d-48a0-9bfd-2b6cc06dd988",
@@ -2596,24 +2521,9 @@
       "salaryMin": 58240,
       "salaryMax": 58240,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-02T20:17:41.440Z",
+      "postedAt": "2026-11-02T12:00:55.067Z",
       "firstIndexedAt": "2026-11-01T06:17:55.057Z",
       "url": "https://www.dreamworkhq.com/job/2e43d58e-94b6-4d19-ad03-5d992616e23d?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "822144a6-412c-4e7d-89f1-1818c2394518",
-      "title": "Accounting Intern",
-      "company": "Prg Real Estate Management",
-      "companyDomain": null,
-      "location": "PRG Real Estate Management INC, Philadelphia, PA, US",
-      "functionPrimary": "Finance",
-      "remoteType": null,
-      "salaryMin": 41600,
-      "salaryMax": 43680,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-10-31T20:23:52.000Z",
-      "firstIndexedAt": "2026-11-01T02:34:03.358Z",
-      "url": "https://www.dreamworkhq.com/job/822144a6-412c-4e7d-89f1-1818c2394518?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "d4b1f374-9265-4663-9b27-26ff73bd6cf0",
@@ -2641,7 +2551,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-05T15:03:10.793Z",
+      "postedAt": "2026-11-06T03:16:01.440Z",
       "firstIndexedAt": "2026-10-31T05:02:57.901Z",
       "url": "https://www.dreamworkhq.com/job/bec5b836-8123-4fc5-935d-3c8a490ee842?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2671,7 +2581,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-30T20:01:27.279Z",
+      "postedAt": "2026-10-30T10:31:17.032Z",
       "firstIndexedAt": "2026-10-31T00:21:46.976Z",
       "url": "https://www.dreamworkhq.com/job/6dc8b3f3-96f2-4771-8168-e36984cf0c99?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2686,7 +2596,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-30T20:01:29.150Z",
+      "postedAt": "2026-10-30T10:31:17.089Z",
       "firstIndexedAt": "2026-10-31T00:21:46.976Z",
       "url": "https://www.dreamworkhq.com/job/f43b2f8c-702d-4c68-8c5a-c376598b4dd7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2721,21 +2631,6 @@
       "url": "https://www.dreamworkhq.com/job/b37f6189-d458-40a1-a3d2-a275c0ce8455?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "2a21d8c5-0f15-441a-81a9-70fad1402f2f",
-      "title": "2027 Summer Intern US Advanced Analytics Cambridge MA",
-      "company": "Sanofi",
-      "companyDomain": "sanofi.com",
-      "location": "Cambridge, MA",
-      "functionPrimary": "Data Science",
-      "remoteType": "onsite",
-      "salaryMin": 74880,
-      "salaryMax": 97760,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-10-30T03:51:37.524Z",
-      "firstIndexedAt": "2026-10-30T00:38:44.214Z",
-      "url": "https://www.dreamworkhq.com/job/2a21d8c5-0f15-441a-81a9-70fad1402f2f?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "f1594ddc-f5b7-4a37-83f5-1217ca6039c1",
       "title": "Program Finance Systems Analyst Intern (Summer 2027)",
       "company": "Snc",
@@ -2746,7 +2641,7 @@
       "salaryMin": 48963,
       "salaryMax": 67330,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-29T16:31:07.012Z",
+      "postedAt": "2026-10-29T16:48:06.920Z",
       "firstIndexedAt": "2026-10-29T23:43:01.476Z",
       "url": "https://www.dreamworkhq.com/job/f1594ddc-f5b7-4a37-83f5-1217ca6039c1?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2791,7 +2686,7 @@
       "salaryMin": 54080,
       "salaryMax": 62400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-28T11:18:05.058Z",
+      "postedAt": "2026-10-28T12:48:41.672Z",
       "firstIndexedAt": "2026-10-29T02:49:10.376Z",
       "url": "https://www.dreamworkhq.com/job/49b73c0c-b677-48e0-9a40-7127a6ec9986?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2806,7 +2701,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-28T17:04:01.933Z",
+      "postedAt": "2026-10-28T20:18:00.983Z",
       "firstIndexedAt": "2026-10-29T01:23:45.982Z",
       "url": "https://www.dreamworkhq.com/job/51b81c5c-22b0-4472-9159-9960d3a305fe?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2821,7 +2716,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-28T17:04:01.933Z",
+      "postedAt": "2026-10-28T20:18:00.623Z",
       "firstIndexedAt": "2026-10-29T01:23:45.982Z",
       "url": "https://www.dreamworkhq.com/job/4824ed2b-50b1-41ab-862d-8e93253aac8f?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2836,7 +2731,7 @@
       "salaryMin": 37232,
       "salaryMax": 105872,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-28T09:46:21.338Z",
+      "postedAt": "2026-10-28T10:02:12.198Z",
       "firstIndexedAt": "2026-10-28T21:56:11.345Z",
       "url": "https://www.dreamworkhq.com/job/9dbb56db-297d-4735-add1-ade68f96a73c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2851,7 +2746,7 @@
       "salaryMin": 37232,
       "salaryMax": 105872,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-28T09:46:21.649Z",
+      "postedAt": "2026-10-28T10:02:12.571Z",
       "firstIndexedAt": "2026-10-28T21:56:11.345Z",
       "url": "https://www.dreamworkhq.com/job/7b54ef9d-0f53-4c3d-b092-4d294fc04c58?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -2926,24 +2821,9 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-28T18:01:25.032Z",
+      "postedAt": "2026-10-29T06:15:45.825Z",
       "firstIndexedAt": "2026-10-28T15:21:06.947Z",
       "url": "https://www.dreamworkhq.com/job/0deccc5a-862b-4914-8030-b7d9d520edf5?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "a9e5dc9a-45ea-4e10-aaa3-8b466fc09d6a",
-      "title": "Winter 2027 Tax Internship - Milwaukee",
-      "company": "Bakertilly",
-      "companyDomain": "bakertilly.com",
-      "location": "USA WI Milwaukee",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": 52000,
-      "salaryMax": 174720,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-10-29T11:21:48.651Z",
-      "firstIndexedAt": "2026-10-28T14:30:09.001Z",
-      "url": "https://www.dreamworkhq.com/job/a9e5dc9a-45ea-4e10-aaa3-8b466fc09d6a?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "ba3a3b03-bcdc-46a1-85e4-313fcd513a46",
@@ -2956,7 +2836,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-26T15:36:23.332Z",
+      "postedAt": "2026-10-27T03:47:58.569Z",
       "firstIndexedAt": "2026-10-28T04:32:37.498Z",
       "url": "https://www.dreamworkhq.com/job/ba3a3b03-bcdc-46a1-85e4-313fcd513a46?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3001,7 +2881,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-26T09:32:53.964Z",
+      "postedAt": "2026-10-26T09:45:59.390Z",
       "firstIndexedAt": "2026-10-27T16:42:38.002Z",
       "url": "https://www.dreamworkhq.com/job/9fd065f1-2825-4cb9-8d39-e92498420660?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3106,7 +2986,7 @@
       "salaryMin": 114400,
       "salaryMax": 114400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-23T14:33:04.613Z",
+      "postedAt": "2026-10-24T02:45:41.999Z",
       "firstIndexedAt": "2026-10-24T03:21:08.528Z",
       "url": "https://www.dreamworkhq.com/job/774db808-4442-42f9-963a-cb8863e31c51?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3121,7 +3001,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-23T15:03:12.776Z",
+      "postedAt": "2026-10-24T03:16:05.111Z",
       "firstIndexedAt": "2026-10-24T01:12:38.265Z",
       "url": "https://www.dreamworkhq.com/job/078c5d81-958a-4c04-ae57-2d5a84a31774?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3156,21 +3036,6 @@
       "url": "https://www.dreamworkhq.com/job/c6d27d95-bf38-4e43-b4df-7d37a376e305?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "44865a6b-3bbb-479d-9101-e2588683fc48",
-      "title": "Bank Credit Risk Analyst Intern",
-      "company": "USAAJOBSWD",
-      "companyDomain": "usaa.com",
-      "location": "San Antonio Home Office I",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": 49920,
-      "salaryMax": 68640,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-10-23T13:50:02.761Z",
-      "firstIndexedAt": "2026-10-23T13:22:31.005Z",
-      "url": "https://www.dreamworkhq.com/job/44865a6b-3bbb-479d-9101-e2588683fc48?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "35376cd9-5a50-45a9-a0d1-8d2e6d7d84e0",
       "title": "Sales Excellence Data Analytics Intern - Summer 2027",
       "company": "External Career Page",
@@ -3181,7 +3046,7 @@
       "salaryMin": 41600,
       "salaryMax": 70720,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-22T10:02:58.307Z",
+      "postedAt": "2026-10-22T16:48:13.194Z",
       "firstIndexedAt": "2026-10-22T21:20:54.897Z",
       "url": "https://www.dreamworkhq.com/job/35376cd9-5a50-45a9-a0d1-8d2e6d7d84e0?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3256,7 +3121,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-21T17:02:47.088Z",
+      "postedAt": "2026-10-22T05:17:04.048Z",
       "firstIndexedAt": "2026-10-21T18:53:29.471Z",
       "url": "https://www.dreamworkhq.com/job/2f44ee8d-9f47-44f1-9dd0-7180c59da17d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3286,7 +3151,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-20T19:02:14.437Z",
+      "postedAt": "2026-10-20T19:16:28.369Z",
       "firstIndexedAt": "2026-10-21T07:01:43.956Z",
       "url": "https://www.dreamworkhq.com/job/2830077b-92ab-4dbe-9b3e-5615753d62cd?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3316,7 +3181,7 @@
       "salaryMin": 52000,
       "salaryMax": 72800,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-20T14:33:04.894Z",
+      "postedAt": "2026-10-21T02:45:41.836Z",
       "firstIndexedAt": "2026-10-21T04:21:26.140Z",
       "url": "https://www.dreamworkhq.com/job/7fdca684-e1d6-45aa-b14b-da62ef5d3efe?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3331,7 +3196,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-20T15:36:23.586Z",
+      "postedAt": "2026-10-21T03:47:58.825Z",
       "firstIndexedAt": "2026-10-21T03:05:28.074Z",
       "url": "https://www.dreamworkhq.com/job/962464a7-d735-427a-a636-5e4db92fc28a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3421,7 +3286,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-19T14:17:22.302Z",
+      "postedAt": "2026-10-19T20:02:26.277Z",
       "firstIndexedAt": "2026-10-19T09:16:38.695Z",
       "url": "https://www.dreamworkhq.com/job/630b64ea-d0d0-4a09-9ef5-d27bce5cf7d9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3496,7 +3361,7 @@
       "salaryMin": 35464,
       "salaryMax": 41600,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-23T15:17:10.276Z",
+      "postedAt": "2026-10-24T03:31:10.478Z",
       "firstIndexedAt": "2026-10-16T00:59:58.752Z",
       "url": "https://www.dreamworkhq.com/job/04669f20-b5c8-476e-b4d7-265deb045d90?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3511,7 +3376,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-15T18:01:27.780Z",
+      "postedAt": "2026-10-16T06:15:47.595Z",
       "firstIndexedAt": "2026-10-15T22:42:57.086Z",
       "url": "https://www.dreamworkhq.com/job/0e11f8f9-871c-420f-adb6-94b19579c7b3?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3526,7 +3391,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-15T18:01:27.882Z",
+      "postedAt": "2026-10-16T06:15:47.578Z",
       "firstIndexedAt": "2026-10-15T20:56:56.864Z",
       "url": "https://www.dreamworkhq.com/job/a591dd95-7a80-49e6-a05e-d933f08fa53e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3541,7 +3406,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-29T17:15:53.446Z",
+      "postedAt": "2026-10-29T17:30:59.891Z",
       "firstIndexedAt": "2026-10-15T14:34:20.142Z",
       "url": "https://www.dreamworkhq.com/job/2d21c7e2-1de1-4847-ad5d-835aaa7d552e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3556,7 +3421,7 @@
       "salaryMin": 59800,
       "salaryMax": 200720,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-14T14:16:58.077Z",
+      "postedAt": "2026-10-15T02:31:24.646Z",
       "firstIndexedAt": "2026-10-15T09:06:06.486Z",
       "url": "https://www.dreamworkhq.com/job/3ba8e0c6-6611-47b8-9997-982274895a88?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3586,24 +3451,9 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-14T20:21:04.626Z",
+      "postedAt": "2026-10-14T20:46:59.630Z",
       "firstIndexedAt": "2026-10-15T01:43:16.037Z",
       "url": "https://www.dreamworkhq.com/job/e13b4607-e5b3-4498-b15f-1d5a0ceabbce?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "bd727051-805f-41a1-a3f9-e8c0755e2f26",
-      "title": "Intern-Insights and Analytics (Health Systems Marketing) Cambridge, MA or Nashville, TN - Summer 2027",
-      "company": "Philips",
-      "companyDomain": "philips.com",
-      "location": "Cambridge (US), Massachusetts, United States",
-      "functionPrimary": "Data Science",
-      "remoteType": "onsite",
-      "salaryMin": 52000,
-      "salaryMax": 83200,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-10-28T11:31:36.266Z",
-      "firstIndexedAt": "2026-10-14T18:48:17.203Z",
-      "url": "https://www.dreamworkhq.com/job/bd727051-805f-41a1-a3f9-e8c0755e2f26?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "1994e308-56ee-4e53-98e9-d6201ccb5e80",
@@ -3661,7 +3511,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-13T20:19:09.933Z",
+      "postedAt": "2026-10-13T08:34:20.058Z",
       "firstIndexedAt": "2026-10-14T04:02:56.871Z",
       "url": "https://www.dreamworkhq.com/job/e58091bb-7956-4644-8d8c-93029098300a?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3691,7 +3541,7 @@
       "salaryMin": 41600,
       "salaryMax": 83200,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-13T20:18:30.337Z",
+      "postedAt": "2026-10-13T20:46:43.181Z",
       "firstIndexedAt": "2026-10-14T01:33:30.777Z",
       "url": "https://www.dreamworkhq.com/job/3763290f-cda5-4577-aea6-1ed6379fb89e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3721,7 +3571,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-12T18:01:29.202Z",
+      "postedAt": "2026-10-13T06:15:48.650Z",
       "firstIndexedAt": "2026-10-14T00:47:16.308Z",
       "url": "https://www.dreamworkhq.com/job/33336acb-15df-4836-b33e-2e0074151671?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3736,7 +3586,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-13T13:46:46.652Z",
+      "postedAt": "2026-10-13T14:01:29.064Z",
       "firstIndexedAt": "2026-10-14T00:40:01.034Z",
       "url": "https://www.dreamworkhq.com/job/35642ea0-df82-4ab6-a003-4e827fd1fa51?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3796,7 +3646,7 @@
       "salaryMin": 52000,
       "salaryMax": 52000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-06T17:02:46.379Z",
+      "postedAt": "2026-11-07T05:17:01.184Z",
       "firstIndexedAt": "2026-10-13T21:24:23.464Z",
       "url": "https://www.dreamworkhq.com/job/5287be39-e86e-4726-a840-0989c3a664af?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3826,7 +3676,7 @@
       "salaryMin": 41600,
       "salaryMax": 83200,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-11T09:16:23.030Z",
+      "postedAt": "2026-10-11T09:31:19.027Z",
       "firstIndexedAt": "2026-10-13T17:02:19.246Z",
       "url": "https://www.dreamworkhq.com/job/0501fd3c-6792-41c6-9f0b-e82f40cdddc8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3841,7 +3691,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-13T10:31:26.238Z",
+      "postedAt": "2026-10-13T10:46:13.149Z",
       "firstIndexedAt": "2026-10-13T15:32:27.093Z",
       "url": "https://www.dreamworkhq.com/job/97c44d0e-816a-4472-ac29-c62b3cea6cae?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3856,7 +3706,7 @@
       "salaryMin": 59800,
       "salaryMax": 200720,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-14T14:16:57.907Z",
+      "postedAt": "2026-10-15T02:31:24.593Z",
       "firstIndexedAt": "2026-10-13T12:46:10.257Z",
       "url": "https://www.dreamworkhq.com/job/4a4d711f-e419-43af-80e5-842b65050f61?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3901,7 +3751,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-09T18:01:29.224Z",
+      "postedAt": "2026-10-10T06:15:48.591Z",
       "firstIndexedAt": "2026-10-09T20:52:47.074Z",
       "url": "https://www.dreamworkhq.com/job/d0d42b72-7ab2-4c78-b741-185ee65432b8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3931,7 +3781,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-21T17:15:54.375Z",
+      "postedAt": "2026-10-21T17:31:01.465Z",
       "firstIndexedAt": "2026-10-09T10:04:22.878Z",
       "url": "https://www.dreamworkhq.com/job/039d8a86-d8fe-4e98-911c-80f552ef4f28?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3946,7 +3796,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-21T17:15:55.112Z",
+      "postedAt": "2026-10-21T17:31:02.597Z",
       "firstIndexedAt": "2026-10-09T10:04:22.878Z",
       "url": "https://www.dreamworkhq.com/job/07ce77c8-c2e6-4a77-8bb8-067d0430cbd5?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3961,7 +3811,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-21T17:15:54.652Z",
+      "postedAt": "2026-10-21T17:31:01.426Z",
       "firstIndexedAt": "2026-10-09T10:04:22.878Z",
       "url": "https://www.dreamworkhq.com/job/a71b7a03-6a1e-4ad2-9f77-8c32b8a29ff2?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -3976,7 +3826,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-30T17:15:53.135Z",
+      "postedAt": "2026-10-30T17:30:59.877Z",
       "firstIndexedAt": "2026-10-09T10:04:22.878Z",
       "url": "https://www.dreamworkhq.com/job/bc60205d-f9ea-4161-9e0b-dffd45228dc9?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4021,7 +3871,7 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-09T16:01:00.322Z",
+      "postedAt": "2026-10-09T16:16:11.031Z",
       "firstIndexedAt": "2026-10-08T17:20:31.628Z",
       "url": "https://www.dreamworkhq.com/job/04c9ea0b-0cf8-4ab2-ae45-a773ab8dbf4e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4066,7 +3916,7 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-09T16:01:00.293Z",
+      "postedAt": "2026-10-09T16:16:10.867Z",
       "firstIndexedAt": "2026-10-08T17:20:31.628Z",
       "url": "https://www.dreamworkhq.com/job/d5ba8efe-9f50-4034-ae7f-de0e050c9f50?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4096,7 +3946,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-08T18:01:29.800Z",
+      "postedAt": "2026-10-09T06:15:49.090Z",
       "firstIndexedAt": "2026-10-08T14:30:20.518Z",
       "url": "https://www.dreamworkhq.com/job/3d4ced79-6bf0-4875-b864-217fb1436bae?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4171,7 +4021,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-03T18:01:23.909Z",
+      "postedAt": "2026-11-04T06:15:44.813Z",
       "firstIndexedAt": "2026-10-07T21:43:49.626Z",
       "url": "https://www.dreamworkhq.com/job/a22cca8c-e5b7-4d24-b303-b46fe276e8db?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4186,7 +4036,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-21T17:15:55.141Z",
+      "postedAt": "2026-10-21T17:31:02.827Z",
       "firstIndexedAt": "2026-10-07T18:58:28.186Z",
       "url": "https://www.dreamworkhq.com/job/7a74c0a2-f63a-4f81-a27d-e4f37d509302?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4201,7 +4051,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-21T17:15:55.160Z",
+      "postedAt": "2026-10-21T17:31:02.851Z",
       "firstIndexedAt": "2026-10-07T18:58:28.186Z",
       "url": "https://www.dreamworkhq.com/job/9cee9de4-2ffd-4204-b592-d3ef2a853af1?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4216,7 +4066,7 @@
       "salaryMin": 37440,
       "salaryMax": 43680,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-21T17:15:54.907Z",
+      "postedAt": "2026-10-21T17:31:02.553Z",
       "firstIndexedAt": "2026-10-07T18:58:28.186Z",
       "url": "https://www.dreamworkhq.com/job/ce1ffce2-9335-4833-96c4-80a6ca8fecd2?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4336,7 +4186,7 @@
       "salaryMin": 41600,
       "salaryMax": 52000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-27T05:01:18.235Z",
+      "postedAt": "2026-10-27T06:00:53.171Z",
       "firstIndexedAt": "2026-10-06T19:37:16.897Z",
       "url": "https://www.dreamworkhq.com/job/240df199-50a7-4365-a5a6-c166fdf8a6ec?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4360,7 +4210,7 @@
       "title": "Finance Project Management & Financial Systems Analyst Intern (Summer 2027)",
       "company": "GlobalFoundries",
       "companyDomain": "gf.com",
-      "location": "2 Locations",
+      "location": "USA - Texas - Austin",
       "functionPrimary": "Finance",
       "remoteType": "onsite",
       "salaryMin": 41600,
@@ -4396,37 +4246,22 @@
       "salaryMin": 33010,
       "salaryMax": 91998,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-12T18:30:57.693Z",
+      "postedAt": "2026-10-12T08:32:04.294Z",
       "firstIndexedAt": "2026-10-06T11:17:18.037Z",
       "url": "https://www.dreamworkhq.com/job/f4e59515-e5ee-4b2d-93ba-98a0d7371817?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "e26c70ec-1ec4-4157-bebb-0895e4df7362",
-      "title": "Finance Project Management & Financial Systems Analyst Intern (Summer 2027)",
-      "company": "GlobalFoundries",
-      "companyDomain": "gf.com",
-      "location": "USA - Texas - Austin",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 41600,
-      "salaryMax": 83200,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-10-05T21:07:20.526Z",
-      "firstIndexedAt": "2026-10-06T05:02:03.006Z",
-      "url": "https://www.dreamworkhq.com/job/e26c70ec-1ec4-4157-bebb-0895e4df7362?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "ece3b23d-31b4-4f49-ad70-b2dff10cf2e8",
       "title": "2027 Summer Intern – AI & Hardware Analytics, ADPT",
       "company": "General Motors",
       "companyDomain": "generalmotors.com",
-      "location": "2 Locations",
+      "location": "Warren, Michigan, United States of America",
       "functionPrimary": "Data Science",
       "remoteType": "onsite",
       "salaryMin": 97200,
       "salaryMax": 104400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-27T17:01:50.952Z",
+      "postedAt": "2026-10-27T17:17:39.373Z",
       "firstIndexedAt": "2026-10-05T23:36:36.241Z",
       "url": "https://www.dreamworkhq.com/job/ece3b23d-31b4-4f49-ad70-b2dff10cf2e8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4456,7 +4291,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-09T17:02:47.648Z",
+      "postedAt": "2026-10-10T05:17:06.232Z",
       "firstIndexedAt": "2026-10-03T03:21:00.342Z",
       "url": "https://www.dreamworkhq.com/job/8e836659-36a8-470d-8716-6603550609a4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4591,7 +4426,7 @@
       "salaryMin": 33010,
       "salaryMax": 91998,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-12T18:30:57.607Z",
+      "postedAt": "2026-10-12T08:32:04.357Z",
       "firstIndexedAt": "2026-10-02T01:36:46.155Z",
       "url": "https://www.dreamworkhq.com/job/feb737c9-0cb9-4050-881d-a067fd079c57?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4606,7 +4441,7 @@
       "salaryMin": 33010,
       "salaryMax": 91998,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-12T18:30:57.512Z",
+      "postedAt": "2026-10-12T08:32:04.236Z",
       "firstIndexedAt": "2026-10-01T20:59:58.866Z",
       "url": "https://www.dreamworkhq.com/job/776e043f-1cd8-43bf-95e7-4b220affbc1d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4621,7 +4456,7 @@
       "salaryMin": 33010,
       "salaryMax": 91998,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-27T18:30:56.809Z",
+      "postedAt": "2026-10-27T08:32:02.608Z",
       "firstIndexedAt": "2026-10-01T20:59:58.866Z",
       "url": "https://www.dreamworkhq.com/job/f76f3fd3-be36-40a8-bd7b-5bbafd9ee020?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4639,21 +4474,6 @@
       "postedAt": "2026-10-01T15:06:14.000Z",
       "firstIndexedAt": "2026-10-01T20:15:19.343Z",
       "url": "https://www.dreamworkhq.com/job/be0a6c40-1d90-47cc-a629-90c83d142332?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "ab52ea3e-a878-444c-8607-dadaa004a073",
-      "title": "Intern, Financial Analyst (Summer 2027)",
-      "company": "Allegiant Air",
-      "companyDomain": "allegiantair.com",
-      "location": "Las Vegas, NV",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 31200,
-      "salaryMax": 41600,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-29T17:39:39.399Z",
-      "firstIndexedAt": "2026-10-01T18:49:07.534Z",
-      "url": "https://www.dreamworkhq.com/job/ab52ea3e-a878-444c-8607-dadaa004a073?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "55c9fec6-bbf9-48d8-bc84-48c082ac42a0",
@@ -4756,7 +4576,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-13T15:03:14.223Z",
+      "postedAt": "2026-10-14T03:16:07.260Z",
       "firstIndexedAt": "2026-09-30T02:06:25.415Z",
       "url": "https://www.dreamworkhq.com/job/335a51b6-27ed-4468-a4a3-2a1745656b32?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -4834,21 +4654,6 @@
       "postedAt": "2026-09-28T15:36:06.503Z",
       "firstIndexedAt": "2026-09-29T12:05:19.140Z",
       "url": "https://www.dreamworkhq.com/job/1e09b4f2-a6d3-4021-83f5-1fcd5e71a38e?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "fae8ec54-8308-4df1-95ac-ea4c6c834c0a",
-      "title": "Summer Internship 2027 - Data Analytics - Operational Excellence",
-      "company": "Airbus",
-      "companyDomain": "airbus.com",
-      "location": "Mobile Area, AL",
-      "functionPrimary": "Data Science",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-28T10:35:02.014Z",
-      "firstIndexedAt": "2026-09-29T12:04:40.189Z",
-      "url": "https://www.dreamworkhq.com/job/fae8ec54-8308-4df1-95ac-ea4c6c834c0a?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "d1ca71fe-74f3-4d56-a094-88b280dc4cb2",
@@ -5016,21 +4821,6 @@
       "url": "https://www.dreamworkhq.com/job/03b02310-be6d-416c-952f-1824d841db53?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "76758cde-d508-4348-b90a-f0a0e00e8a46",
-      "title": "Accounting Advisory Intern - WINTER 2027",
-      "company": "Crowe",
-      "companyDomain": "crowe.com",
-      "location": "Chicago IL USA",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 56160,
-      "salaryMax": 87360,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-24T05:45:27.252Z",
-      "firstIndexedAt": "2026-09-24T05:49:43.477Z",
-      "url": "https://www.dreamworkhq.com/job/76758cde-d508-4348-b90a-f0a0e00e8a46?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "d856f1a8-a26a-4ce7-b848-1c9ed4de777c",
       "title": "IT Data Analyst Intern",
       "company": "Danaher",
@@ -5151,21 +4941,6 @@
       "url": "https://www.dreamworkhq.com/job/2b8625cd-15c8-453d-b5ff-62379540dfc4?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "fe73ed90-5677-4ab5-8a7c-e291ea0586f4",
-      "title": "Data and Analytics Summer 2027 Intern (Undergraduate)",
-      "company": "Centene",
-      "companyDomain": "centene.com",
-      "location": "Remote-MO",
-      "functionPrimary": "Data Science",
-      "remoteType": "remote",
-      "salaryMin": 43680,
-      "salaryMax": 54080,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-11-04T20:58:15.500Z",
-      "firstIndexedAt": "2026-09-19T10:17:32.308Z",
-      "url": "https://www.dreamworkhq.com/job/fe73ed90-5677-4ab5-8a7c-e291ea0586f4?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "83b41b51-be09-4cba-a734-32eba5a2c633",
       "title": "Manufacturing Data & Analytics Co-Op - Spring 2027",
       "company": "Flex",
@@ -5179,21 +4954,6 @@
       "postedAt": "2026-09-19T04:05:35.323Z",
       "firstIndexedAt": "2026-09-18T23:05:44.575Z",
       "url": "https://www.dreamworkhq.com/job/83b41b51-be09-4cba-a734-32eba5a2c633?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "02a41e2a-51dc-4281-9fc1-7042113e7b95",
-      "title": "2027 Guardian Summer Intern, Corporate Finance & Risk - Investment Reporting & Data Analytics",
-      "company": "Guardianlife",
-      "companyDomain": "guardianlife.com",
-      "location": "New York",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": 41600,
-      "salaryMax": 72800,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-19T05:17:50.139Z",
-      "firstIndexedAt": "2026-09-18T17:28:44.530Z",
-      "url": "https://www.dreamworkhq.com/job/02a41e2a-51dc-4281-9fc1-7042113e7b95?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "107cbe54-8afd-481d-8c16-8e9f3e60c1cb",
@@ -5281,7 +5041,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-09T13:47:49.411Z",
+      "postedAt": "2026-10-10T02:01:43.031Z",
       "firstIndexedAt": "2026-09-17T17:19:56.871Z",
       "url": "https://www.dreamworkhq.com/job/e5646699-4a03-4e71-bb2b-a00d581878f7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5781,21 +5541,6 @@
       "url": "https://www.dreamworkhq.com/job/a98c7e8b-b35e-4a7f-9560-584be3c82e56?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "0f4a72f5-1f4d-4ddb-9481-d41ecbf02bb9",
-      "title": "Financial Systems Intern - Summer 2027",
-      "company": "Tmhcc",
-      "companyDomain": "tmhcc.com",
-      "location": "Texas - Houston (Corporate Office)",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-08T08:28:26.882Z",
-      "firstIndexedAt": "2026-09-11T14:37:03.491Z",
-      "url": "https://www.dreamworkhq.com/job/0f4a72f5-1f4d-4ddb-9481-d41ecbf02bb9?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "1596aaec-15f9-4540-9618-fe39b100a6a2",
       "title": "2027 Business Analytics Summer Internship",
       "company": "Protective",
@@ -5830,13 +5575,13 @@
       "title": "Summer 2027 Intern - Finance Operations Associate",
       "company": "Salesforce",
       "companyDomain": "salesforce.com",
-      "location": "3 Locations",
+      "location": "Indiana - Indianapolis",
       "functionPrimary": "Finance",
       "remoteType": "onsite",
       "salaryMin": 58240,
       "salaryMax": 66560,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-04T13:02:15.510Z",
+      "postedAt": "2026-11-05T01:16:48.763Z",
       "firstIndexedAt": "2026-09-10T20:53:16.695Z",
       "url": "https://www.dreamworkhq.com/job/f4e95fd3-4ad7-4733-b19d-d5493e24ddc4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5941,7 +5686,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-28T20:01:33.597Z",
+      "postedAt": "2026-10-28T10:15:33.778Z",
       "firstIndexedAt": "2026-09-09T17:34:45.957Z",
       "url": "https://www.dreamworkhq.com/job/902ca8c3-0054-424e-8c87-c149f7dbb9bc?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -5950,7 +5695,7 @@
       "title": "Summer 2027 Internship: Corporate Accounting",
       "company": "Qtsdatacenters",
       "companyDomain": "qtsdatacenters.com",
-      "location": "Overland Park, KS",
+      "location": "4 Locations",
       "functionPrimary": "Finance",
       "remoteType": "onsite",
       "salaryMin": null,
@@ -6141,21 +5886,6 @@
       "url": "https://www.dreamworkhq.com/job/d7987fe6-8ef7-49d8-a25e-0523489d101f?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "cf12bc16-494f-444d-a082-b6b7110f070a",
-      "title": "Summer 2027 Accounting Internship - West Bridgewater, MA",
-      "company": "Us Erac",
-      "companyDomain": "enterprise.com",
-      "location": "West Bridgewater, MA, US",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 52000,
-      "salaryMax": 52000,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-09-08T04:00:00.000Z",
-      "firstIndexedAt": "2026-09-08T18:02:01.058Z",
-      "url": "https://www.dreamworkhq.com/job/cf12bc16-494f-444d-a082-b6b7110f070a?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "0c04071b-a5f8-4f87-a531-7e5c961f2e0c",
       "title": "Summer 2027 Accounting Internship - Richmond, VA",
       "company": "Us Erac",
@@ -6301,7 +6031,7 @@
       "salaryMin": 47840,
       "salaryMax": 89440,
       "salaryPeriod": "annual",
-      "postedAt": "2024-11-06T06:01:06.827Z",
+      "postedAt": "2024-11-08T07:32:53.233Z",
       "firstIndexedAt": "2026-09-04T03:30:31.558Z",
       "url": "https://www.dreamworkhq.com/job/e431e774-42ad-488b-ae3d-bc961f84ad8e?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6346,7 +6076,7 @@
       "salaryMin": 58240,
       "salaryMax": 62400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-26T11:46:46.859Z",
+      "postedAt": "2026-10-27T00:01:39.550Z",
       "firstIndexedAt": "2026-09-03T13:17:37.968Z",
       "url": "https://www.dreamworkhq.com/job/6ac362ca-3d85-4121-bf1d-5e8f9c2b3a81?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6361,7 +6091,7 @@
       "salaryMin": 58240,
       "salaryMax": 62400,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-26T11:46:47.276Z",
+      "postedAt": "2026-10-27T00:01:39.538Z",
       "firstIndexedAt": "2026-09-03T13:17:37.968Z",
       "url": "https://www.dreamworkhq.com/job/f85c708f-d9fe-4a5c-a13d-a530e6416da4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6466,7 +6196,7 @@
       "salaryMin": 76960,
       "salaryMax": 76960,
       "salaryPeriod": "annual",
-      "postedAt": "2026-11-05T12:15:46.514Z",
+      "postedAt": "2026-11-05T12:31:01.939Z",
       "firstIndexedAt": "2026-09-03T01:16:23.064Z",
       "url": "https://www.dreamworkhq.com/job/be226bdc-d14e-4912-b74f-236329244b5b?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6576,21 +6306,6 @@
       "url": "https://www.dreamworkhq.com/job/b7966697-1c46-4c81-801c-1d2d58423c7c?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "5208aa7e-72cc-4862-ae66-b188962262fa",
-      "title": "2027 AI & Analytics Intern",
-      "company": "Tranetechnologies",
-      "companyDomain": "tranetechnologies.com",
-      "location": "Davidson, North Carolina",
-      "functionPrimary": "Data Science",
-      "remoteType": "onsite",
-      "salaryMin": 46800,
-      "salaryMax": 62400,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-11-02T23:41:53.070Z",
-      "firstIndexedAt": "2026-09-02T09:42:51.211Z",
-      "url": "https://www.dreamworkhq.com/job/5208aa7e-72cc-4862-ae66-b188962262fa?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "4dd016ae-ad15-4e03-bffb-81e7f5cd61c4",
       "title": "Denver Internal Audit and Financial Advisory Intern - 2027",
       "company": "Robert Half",
@@ -6601,7 +6316,7 @@
       "salaryMin": 58240,
       "salaryMax": 79040,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-14T05:18:24.194Z",
+      "postedAt": "2026-10-14T05:31:31.680Z",
       "firstIndexedAt": "2026-09-02T08:20:48.657Z",
       "url": "https://www.dreamworkhq.com/job/4dd016ae-ad15-4e03-bffb-81e7f5cd61c4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6616,7 +6331,7 @@
       "salaryMin": 58240,
       "salaryMax": 79040,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-14T05:18:24.055Z",
+      "postedAt": "2026-10-14T05:31:31.212Z",
       "firstIndexedAt": "2026-09-02T08:20:48.657Z",
       "url": "https://www.dreamworkhq.com/job/c51ca835-10a2-4580-b596-1412b0784c8d?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6631,7 +6346,7 @@
       "salaryMin": 58240,
       "salaryMax": 58240,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-14T05:18:24.303Z",
+      "postedAt": "2026-10-14T05:31:31.599Z",
       "firstIndexedAt": "2026-09-02T08:20:48.657Z",
       "url": "https://www.dreamworkhq.com/job/cadb4095-bb41-484b-8f9f-ed19e9f06798?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6646,7 +6361,7 @@
       "salaryMin": 58240,
       "salaryMax": 79040,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-14T05:18:23.992Z",
+      "postedAt": "2026-10-14T05:31:31.407Z",
       "firstIndexedAt": "2026-09-02T08:20:48.657Z",
       "url": "https://www.dreamworkhq.com/job/d66ec9a8-b04a-4b5b-a1b8-33cfbefb55d4?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -6910,7 +6625,7 @@
       "title": "Winter 2027 Tax Intern, National Office (State and Local Tax)",
       "company": "Armaninollp",
       "companyDomain": "armanino.com",
-      "location": "8 Locations",
+      "location": "Century City, California",
       "functionPrimary": "Finance",
       "remoteType": "onsite",
       "salaryMin": 74880,
@@ -7006,7 +6721,7 @@
       "salaryMin": 64480,
       "salaryMax": 64480,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-19T12:15:50.232Z",
+      "postedAt": "2026-10-19T12:31:03.395Z",
       "firstIndexedAt": "2026-08-27T02:00:45.552Z",
       "url": "https://www.dreamworkhq.com/job/b5990829-f430-409d-8930-3b9c854cadce?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7021,7 +6736,7 @@
       "salaryMin": 60320,
       "salaryMax": 104000,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-21T11:31:19.171Z",
+      "postedAt": "2026-10-21T15:03:18.014Z",
       "firstIndexedAt": "2026-08-24T11:47:22.814Z",
       "url": "https://www.dreamworkhq.com/job/25e9e949-2966-47f6-8c1a-091f2ccace72?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7261,7 +6976,7 @@
       "salaryMin": 37960,
       "salaryMax": 37960,
       "salaryPeriod": "annual",
-      "postedAt": "2026-10-26T19:31:23.499Z",
+      "postedAt": "2026-10-27T07:46:08.877Z",
       "firstIndexedAt": "2026-08-17T20:42:10.744Z",
       "url": "https://www.dreamworkhq.com/job/5c37b096-eaa8-4b3c-a102-8540463906ab?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7285,7 +7000,7 @@
       "title": "Risk Intern",
       "company": "Crowe",
       "companyDomain": "crowe.com",
-      "location": "7 Locations",
+      "location": "Chicago IL USA",
       "functionPrimary": "Finance",
       "remoteType": "onsite",
       "salaryMin": 56160,
@@ -7401,21 +7116,6 @@
       "url": "https://www.dreamworkhq.com/job/852edcfa-03aa-47d9-9a54-4985e0b4d630?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "e5041499-55ca-40b3-b2f1-f3f7f5a5d49e",
-      "title": "Data Analytics & Insights Intern",
-      "company": "Mortenson",
-      "companyDomain": "mortenson.com",
-      "location": "MN, United States",
-      "functionPrimary": "Data Science",
-      "remoteType": null,
-      "salaryMin": 37440,
-      "salaryMax": 37440,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-08-10T16:23:51.000Z",
-      "firstIndexedAt": "2026-08-11T01:30:41.392Z",
-      "url": "https://www.dreamworkhq.com/job/e5041499-55ca-40b3-b2f1-f3f7f5a5d49e?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "f02afa8d-940a-456d-b9b1-c01ee630c494",
       "title": "2027 MBA Finance Leadership Development Program (FLDP) Internship",
       "company": "Amazon",
@@ -7441,7 +7141,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-16T09:32:55.209Z",
+      "postedAt": "2026-10-16T09:46:00.583Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
       "url": "https://www.dreamworkhq.com/job/17ae0b56-1501-4aab-88d1-20566b741020?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7456,7 +7156,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-15T09:32:55.485Z",
+      "postedAt": "2026-10-15T09:46:01.066Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
       "url": "https://www.dreamworkhq.com/job/5c856ffc-ee2f-4ec3-9134-2f1cb86eda2c?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7486,7 +7186,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-19T09:32:54.644Z",
+      "postedAt": "2026-10-19T09:46:00.361Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
       "url": "https://www.dreamworkhq.com/job/c5410afb-9408-420f-b5ef-fcec480b8aa8?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -7516,7 +7216,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-10-20T17:04:01.934Z",
+      "postedAt": "2026-10-20T20:18:06.976Z",
       "firstIndexedAt": "2026-08-04T05:17:46.089Z",
       "url": "https://www.dreamworkhq.com/job/84fff745-be99-4b73-9520-da331f874f6f?utm_source=github&utm_campaign=gh-tech-internships"
     },
