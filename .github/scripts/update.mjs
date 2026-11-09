@@ -307,6 +307,7 @@ function keepRow(row, config, source) {
   // full of those reads as spam, so drop them.
   if (/\bconfidential\b/i.test(row.companyName)) return false;
   if (/\b\d{9,}\b/.test(row.companyName)) return false;
+  if (config.companyExclude && new RegExp(config.companyExclude, "i").test(row.companyName)) return false;
   if (config.titleInclude && !new RegExp(config.titleInclude, "i").test(row.title)) return false;
   const scopedFunctions = config.titleIncludeAllSourceFunctions;
   const applyTitleIncludeAll =
@@ -1949,8 +1950,16 @@ if (scope === "international") {
 let all = [];
 let totalMatching = 0;
 let totalMatchingCapped = false;
+// A source that repeats every filter of another source and adds one (a title
+// search inside a function) reads a deeper window of rows the broader source
+// already counts, so it adds nothing to the upstream total.
+const refinesAnotherSource = (source) =>
+  config.sources.some((other) =>
+    other !== source &&
+    Object.keys(other).length < Object.keys(source).length &&
+    Object.entries(other).every(([key, value]) => source[key] === value));
 for (const source of config.sources) {
-  if (config.mode !== "inventory") {
+  if (config.mode !== "inventory" && !refinesAnotherSource(source)) {
     const params = new URLSearchParams({ limit: "1" });
     for (const [k, v] of Object.entries(source)) {
       if (v !== null && v !== undefined && v !== "") params.set(k, String(v));
