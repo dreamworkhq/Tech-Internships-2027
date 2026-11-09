@@ -248,7 +248,18 @@ async function fetchSource(source, config) {
       if (keepRow(row, config, source)) collected.push(row);
     }
     if (cursorSupported && Object.hasOwn(data, "nextCursor")) {
-      if (data.nextCursor === null) return collected;
+      if (data.nextCursor === null) {
+        // A keyless walk ends at the API's guest row cap with walkCapped set.
+        // It serves the lowest listing ids, not the newest, so the source is
+        // an arbitrary partial set and the page must not claim completeness.
+        if (data.walkCapped === true) {
+          (config.cappedSources ??= []).push(describeSource(source));
+          console.warn(
+            `${config.repo}: ${describeSource(source)} stopped at the API's keyless row cap; publishing as a partial list.`,
+          );
+        }
+        return collected;
+      }
       if (typeof data.nextCursor !== "string" || !data.nextCursor || seenCursors.has(data.nextCursor)) {
         throw new Error(`Invalid or repeated inventory cursor for ${describeSource(source)}; refusing to publish partial output.`);
       }
@@ -699,12 +710,19 @@ function renderSections(rows, config, now) {
   return { toc: `${toc}\n`, body };
 }
 
+function partialInventoryNote(config) {
+  const capped = config.cappedSources?.length ?? 0;
+  if (!capped) return "";
+  return `This list is partial: ${capped} of its searches reached the public listings API's 1,000-row limit, so some open roles are missing.`;
+}
+
 function renderGrowthReadme(rows, config, now) {
   const updated = now.toISOString().slice(0, 10);
   const matchesUrl = `${SITE_BASE}/?utm_source=github&utm_medium=readme_cta&utm_campaign=${config.utmCampaign}`;
   const { toc, body } = renderSections(rows, config, now);
-  const inventoryScope =
-    rows.length >= (config.usOpenTotal ?? rows.length)
+  const inventoryScope = partialInventoryNote(config)
+    ? `**${rows.length}** currently open roles are listed. ${partialInventoryNote(config)}`
+    : rows.length >= (config.usOpenTotal ?? rows.length)
       ? `All **${rows.length}** currently open roles are listed.`
       : `The **${rows.length}** newest of **${config.usOpenTotal}** currently open roles are listed (GitHub caps how much of a page it renders).`;
   const totalMatchingLabel = `${(config.totalMatching ?? 0).toLocaleString("en-US")}${config.totalMatchingCapped ? "+" : ""}`;
@@ -834,7 +852,7 @@ function renderCommunityReadme(rows, config, now) {
 ${config.tagline}
 
 **${rows.length} open internships** · **${companies} companies** · **${addedToday} added in the last 24 hours** · Updated **${updated}**
-
+${partialInventoryNote(config) ? `\n${partialInventoryNote(config)}\n` : ""}
 Indexed from company career pages and maintained by [Dreamwork](https://github.com/dreamworkhq)${config.activeJobsLabel ? `, which crawls ${config.activeJobsLabel} live jobs` : ""}.
 
 ${config.internationalBoard ? "Looking outside the US? Browse [International internships](INTERNATIONAL.md), organized by country and refreshed separately.\n" : ""}
@@ -905,6 +923,7 @@ function renderJson(rows, config, now) {
           : "https://www.dreamworkhq.com",
       list: config.repo,
       count: rows.length,
+      ...(config.cappedSources?.length ? { partial: true } : {}),
       listings: rows.map((row) => {
         const salary = trustedSalaryRange(row);
         return {
@@ -1322,7 +1341,7 @@ ${renderTable(globalRows, config, now)}
 [← US internships](README.md)${businessLink}${cryptoLink}
 
 **${totalCountryRows} country-located roles** across **${countryGroups.size} countries**${globalRows.length ? ` · **${globalRows.length} explicitly global remote**` : ""} · Updated **${updated}**
-
+${partialInventoryNote(config) ? `\n${partialInventoryNote(config)}\n` : ""}
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
@@ -1350,6 +1369,7 @@ function internationalSnapshot(rows, countryGroups, globalRows, config, now) {
     list: config.repo,
     scope: "international",
     count: rows.length,
+    ...(config.cappedSources?.length ? { partial: true } : {}),
     countryCounts,
     globalRemoteCount: globalRows.length,
     listings: rows.map((row) => ({
@@ -1488,7 +1508,7 @@ ${board.tagline}
 [← US tech internships](README.md)${internationalLink}${cryptoLink}
 
 ${coverage} · **${companies} companies** · **${addedToday} added in the last 24 hours** · Updated **${updated}**
-
+${partialInventoryNote(config) ? `\n${partialInventoryNote(config)}\n` : ""}
 ${attribution}
 
 ${toc ? `${toc}\n` : ""}<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
@@ -1516,6 +1536,7 @@ function businessSnapshot(rows, config, now) {
     list: config.repo,
     scope: "business",
     count: rows.length,
+    ...(config.cappedSources?.length ? { partial: true } : {}),
     listings: rows.map((row) => {
       const salary = trustedSalaryRange(row);
       return {
@@ -1714,7 +1735,7 @@ ${board.tagline}
 [← US tech internships](README.md)${internationalLink}${businessLink}
 
 ${coverage} · **${companies} companies** · **${addedToday} added in the last 24 hours** · Updated **${updated}**
-
+${partialInventoryNote(config) ? `\n${partialInventoryNote(config)}\n` : ""}
 ${attribution}
 
 ${toc ? `${toc}\n` : ""}<!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
@@ -1743,6 +1764,7 @@ function cryptoSnapshot(rows, config, now) {
     list: config.repo,
     scope: "crypto",
     count: rows.length,
+    ...(config.cappedSources?.length ? { partial: true } : {}),
     listings: rows.map((row) => {
       const salary = trustedSalaryRange(row);
       return {
