@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-08**
+**1 currently open roles** · Updated **2026-11-09**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[NielsenIQ](https://www.dreamworkhq.com/c/nielseniq.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern](https://www.dreamworkhq.com/job/9a162744-c112-49ca-94b4-57df8907ecbe?utm_source=github&utm_campaign=gh-tech-internships) | Santiago, RM, Chile (Hybrid) |  | 1d |
+| **[NielsenIQ](https://www.dreamworkhq.com/c/nielseniq.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern](https://www.dreamworkhq.com/job/9a162744-c112-49ca-94b4-57df8907ecbe?utm_source=github&utm_campaign=gh-tech-internships) | Santiago, RM, Chile (Hybrid) |  | 2d |
 
 <!-- TABLE_END -->
