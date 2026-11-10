@@ -2,20 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**9 currently open roles** · Updated **2026-11-09**
+**11 currently open roles** · Updated **2026-11-10**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-9) · 9 roles
+- [Other](#other-11) · 11 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (9)
+### Other (11)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Pfizer Digital](https://www.dreamworkhq.com/c/pfizer.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analytics & AI Innovation Intern](https://www.dreamworkhq.com/job/6f76bb71-0a17-4183-a637-877a763b92ce?utm_source=github&utm_campaign=gh-tech-internships) | Colombia - Bogota - Suba |  | 6d |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Manager Intern, ShopX(Rewards)](https://www.dreamworkhq.com/job/7a5d0fa6-ad68-43f2-be9a-d735ac52a135?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 13d |
+| **[Amadeus](https://www.dreamworkhq.com/c/amadeus.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cybersecurity Intern](https://www.dreamworkhq.com/job/125743ae-3c64-4b27-bfb3-76abd929451b?utm_source=github&utm_campaign=gh-tech-internships) | Bogota (Hybrid) |  | 0d |
+| **[Amadeus](https://www.dreamworkhq.com/c/amadeus.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Intern](https://www.dreamworkhq.com/job/90d89aa7-71e3-4894-be58-0d29817d0f68?utm_source=github&utm_campaign=gh-tech-internships) | Bogota (Hybrid) |  | 0d |
+| **[Pfizer Digital](https://www.dreamworkhq.com/c/pfizer.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analytics & AI Innovation Intern](https://www.dreamworkhq.com/job/6f76bb71-0a17-4183-a637-877a763b92ce?utm_source=github&utm_campaign=gh-tech-internships) | Colombia - Bogota - Suba |  | 7d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Manager Intern, ShopX(Rewards)](https://www.dreamworkhq.com/job/7a5d0fa6-ad68-43f2-be9a-d735ac52a135?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 14d |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Intern](https://www.dreamworkhq.com/job/4def1e2c-4596-48b9-9d82-196678aa8214?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Bogota, Colombia) |  | 1mo |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Graphic Design Intern](https://www.dreamworkhq.com/job/6dc80c90-072f-46db-b0c6-e87f910df945?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Bogota, Colombia) |  | 1mo |
 | **[NielsenIQ](https://www.dreamworkhq.com/c/nielseniq.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Inteligencia de Mercados - Bogotá - Cali o Medellin](https://www.dreamworkhq.com/job/5c14eee4-3b80-43b7-b8c6-338206f8c1d2?utm_source=github&utm_campaign=gh-tech-internships) | Bogotá, Bogota, Colombia (Hybrid) |  | 2mo |
