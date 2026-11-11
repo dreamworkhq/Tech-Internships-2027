@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-11-10T02:28:42.322Z",
+  "generatedAt": "2026-11-11T00:19:21.040Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
   "count": 33,
   "listings": [
+    {
+      "id": "77639f53-be2a-4060-bfb4-e3b97ab373f5",
+      "title": "Software Test Engineering Intern - Space and Embedded Crypto",
+      "company": "General Dynamics Mission Systems",
+      "companyDomain": "gdmissionsystems.com",
+      "location": "Scottsdale, AZ, US",
+      "locationCountryCode": "US",
+      "functionPrimary": "Engineering",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-11-10T05:00:00.000Z",
+      "firstIndexedAt": "2026-11-10T19:17:23.405Z",
+      "url": "https://www.dreamworkhq.com/job/77639f53-be2a-4060-bfb4-e3b97ab373f5?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "6bb44c5b-f80a-4312-b074-6e070d964ec3",
       "title": "STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (F/H)",
@@ -17,7 +33,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-05T16:32:56.888Z",
+      "postedAt": "2026-11-05T23:38:36.868Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -84,22 +100,6 @@
       "postedAt": "2026-11-03T14:25:52.226Z",
       "firstIndexedAt": "2026-10-30T06:30:18.650Z",
       "url": "https://www.dreamworkhq.com/job/f98f7355-b869-4574-b3fb-6a330de84d3d?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "acda97e4-5b22-4fee-bf8b-6e082f082b88",
-      "title": "Software Test Engineering Intern - Space and Embedded Crypto",
-      "company": "General Dynamics Mission Systems",
-      "companyDomain": "gdmissionsystems.com",
-      "location": "Scottsdale, AZ, US",
-      "locationCountryCode": "US",
-      "functionPrimary": "Engineering",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-10-26T04:00:00.000Z",
-      "firstIndexedAt": "2026-10-26T20:01:22.364Z",
-      "url": "https://www.dreamworkhq.com/job/acda97e4-5b22-4fee-bf8b-6e082f082b88?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "e381a870-3d13-4939-b05c-cd1fb793d4cd",
