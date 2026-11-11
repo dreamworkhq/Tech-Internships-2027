@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-10**
+**1 currently open roles** · Updated **2026-11-11**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[The Citco Group Limited](https://www.dreamworkhq.com/c/citco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Citco Vilnius Internship Program Autumn/Winter 2026 - Automation Develo…](https://www.dreamworkhq.com/job/372c29e9-31ad-4490-ad7a-5b8c56508c0c?utm_source=github&utm_campaign=gh-tech-internships) | Vilniaus Apskritis, Lithuania (Hybrid) |  | 1mo |
+| **[Eneba](https://www.dreamworkhq.com/c/eneba.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer (paid internship)](https://www.dreamworkhq.com/job/1f9f625a-fbc9-40b0-bd47-2ba345bdb8c8?utm_source=github&utm_campaign=gh-tech-internships) | Kaunas |  | 0d |
 
 <!-- TABLE_END -->

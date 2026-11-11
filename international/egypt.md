@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-11-10**
+**2 currently open roles** · Updated **2026-11-11**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 

@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-10**
+**1 currently open roles** · Updated **2026-11-11**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Grab](https://www.dreamworkhq.com/c/grab.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Product Support](https://www.dreamworkhq.com/job/f0d60ebd-fa0b-46f4-b975-d3697f2a787f?utm_source=github&utm_campaign=gh-tech-internships) | Phnom Penh, , Cambodia |  | 1mo |
+| **[Grab](https://www.dreamworkhq.com/c/grab.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Product Support](https://www.dreamworkhq.com/job/9b1ada6b-1e6c-4e43-b1e0-6cb7aac6d927?utm_source=github&utm_campaign=gh-tech-internships) | Phnom Penh, , Cambodia |  | 0d |
 
 <!-- TABLE_END -->

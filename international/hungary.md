@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-11-10**
+**10 currently open roles** · Updated **2026-11-11**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Function Developer intern](https://www.dreamworkhq.com/job/91fbfa23-6e9b-4c35-80b6-cf23751810c2?utm_source=github&utm_campaign=gh-tech-internships) | Budapest, , Hungary (Hybrid) |  | 0d |
-| **[Cloudera](https://www.dreamworkhq.com/c/cloudera.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern](https://www.dreamworkhq.com/job/390946d5-e73a-4d5c-89e6-5d753b40bf72?utm_source=github&utm_campaign=gh-tech-internships) | Hungary > Budapest (Hybrid) |  | 5d |
-| **[Silabs](https://www.dreamworkhq.com/c/silabs.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Development in Test Intern](https://www.dreamworkhq.com/job/15017b04-fe4a-4a02-8039-a001eb3f2912?utm_source=github&utm_campaign=gh-tech-internships) | Budapest |  | 8d |
-| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Industrial Automation Engineer Intern](https://www.dreamworkhq.com/job/6d033c5d-0a59-454b-934c-9749a9260117?utm_source=github&utm_campaign=gh-tech-internships) | Budapest, Millennium Gardens |  | 22d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Function Developer intern](https://www.dreamworkhq.com/job/91fbfa23-6e9b-4c35-80b6-cf23751810c2?utm_source=github&utm_campaign=gh-tech-internships) | Budapest, , Hungary (Hybrid) |  | 1d |
+| **[Cloudera](https://www.dreamworkhq.com/c/cloudera.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern](https://www.dreamworkhq.com/job/390946d5-e73a-4d5c-89e6-5d753b40bf72?utm_source=github&utm_campaign=gh-tech-internships) | Hungary > Budapest (Hybrid) |  | 6d |
+| **[Silabs](https://www.dreamworkhq.com/c/silabs.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Development in Test Intern](https://www.dreamworkhq.com/job/15017b04-fe4a-4a02-8039-a001eb3f2912?utm_source=github&utm_campaign=gh-tech-internships) | Budapest |  | 9d |
+| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Industrial Automation Engineer Intern](https://www.dreamworkhq.com/job/6d033c5d-0a59-454b-934c-9749a9260117?utm_source=github&utm_campaign=gh-tech-internships) | Budapest, Millennium Gardens |  | 23d |
 | **[Formlabs](https://www.dreamworkhq.com/c/formlabs.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (Full stack)](https://www.dreamworkhq.com/job/0969808c-129e-40b1-b4c6-44e30c7dced7?utm_source=github&utm_campaign=gh-tech-internships) | Budapest, Hungary (Hybrid) |  | 1mo |
 | **[PTC](https://www.dreamworkhq.com/c/ptc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Developer Intern](https://www.dreamworkhq.com/job/d9f1980a-e37d-424c-8195-a561f048aa0c?utm_source=github&utm_campaign=gh-tech-internships) | Budapest, Hungary |  | 1mo |
 | **[Aumovio](https://www.dreamworkhq.com/c/aumovio.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Odometry Algorithm Developer Intern](https://www.dreamworkhq.com/job/626b7e3f-7f2d-4113-9ae6-e33dfe140487?utm_source=github&utm_campaign=gh-tech-internships) | Budapest, , Hungary |  | 1mo |

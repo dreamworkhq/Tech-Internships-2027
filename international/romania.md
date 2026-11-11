@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**12 currently open roles** · Updated **2026-11-10**
+**12 currently open roles** · Updated **2026-11-11**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,10 +15,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Thales](https://www.dreamworkhq.com/c/thales.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Thales Technology Internship: Software Development, Testing & IT Operat…](https://www.dreamworkhq.com/job/8c89f52c-df0e-408e-a52e-2726cf757a7f?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest |  | 1d |
-| **[Analog Devices](https://www.dreamworkhq.com/c/analog.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Embedded Software Engineer Intern](https://www.dreamworkhq.com/job/a8b47d54-6e98-4934-9023-cd847acc2ea3?utm_source=github&utm_campaign=gh-tech-internships) | Romania, Cluj-Napoca, Decembrie |  | 6d |
-| **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Bachelors - Software Engineering (QA Automation) (1-year full-ti…](https://www.dreamworkhq.com/job/90d0f584-21c6-4305-a515-6f75ba79ef2c?utm_source=github&utm_campaign=gh-tech-internships) | Bucuresti, Romania |  | 10d |
-| **[Adobe](https://www.dreamworkhq.com/c/adobe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Intern- Software Engineer](https://www.dreamworkhq.com/job/6536cfd5-76e1-4a9a-bfeb-f85c5b1c7392?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest (Hybrid) | $28K | 21d |
+| **[Thales](https://www.dreamworkhq.com/c/thales.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Thales Technology Internship: Software Development, Testing & IT Operat…](https://www.dreamworkhq.com/job/8c89f52c-df0e-408e-a52e-2726cf757a7f?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest |  | 2d |
+| **[Analog Devices](https://www.dreamworkhq.com/c/analog.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Embedded Software Engineer Intern](https://www.dreamworkhq.com/job/a8b47d54-6e98-4934-9023-cd847acc2ea3?utm_source=github&utm_campaign=gh-tech-internships) | Romania, Cluj-Napoca, Decembrie |  | 7d |
+| **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Bachelors - Software Engineering (QA Automation) (1-year full-ti…](https://www.dreamworkhq.com/job/90d0f584-21c6-4305-a515-6f75ba79ef2c?utm_source=github&utm_campaign=gh-tech-internships) | Bucuresti, Romania |  | 11d |
+| **[Adobe](https://www.dreamworkhq.com/c/adobe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Intern- Software Engineer](https://www.dreamworkhq.com/job/6536cfd5-76e1-4a9a-bfeb-f85c5b1c7392?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest (Hybrid) | $28K | 22d |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Internship - Systems Engineering](https://www.dreamworkhq.com/job/ab10ec8d-7355-42e4-b4db-dd5e0d3b933a?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest |  | 1mo |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.dreamworkhq.com/job/2b088f51-aaf3-4dcc-bd10-792f7df790d0?utm_source=github&utm_campaign=gh-tech-internships) | RO, Iasi |  | 1mo |
 | **[Stripe](https://www.dreamworkhq.com/c/stripe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern](https://www.dreamworkhq.com/job/4d54816c-bce3-4715-8bcb-9e890bd744a8?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest | $31K | 2mo |
@@ -30,7 +30,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Garrett Advancing Motion](https://www.dreamworkhq.com/c/garrettmotion.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management & Data Analysis Intern](https://www.dreamworkhq.com/job/f4966cd7-39c2-4edd-93a0-18791b84b106?utm_source=github&utm_campaign=gh-tech-internships) | BUCUREŞTI, BUCUREŞTI, Romania (Hybrid) |  | 20d |
-| **[Nvent](https://www.dreamworkhq.com/c/nvent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Intelligence & Data Analytics Intern- 1 year](https://www.dreamworkhq.com/job/a4f2a9c4-2ed2-4e9b-be03-11f2640e19cd?utm_source=github&utm_campaign=gh-tech-internships) | Prejmer, RO |  | 21d |
+| **[Garrett Advancing Motion](https://www.dreamworkhq.com/c/garrettmotion.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management & Data Analysis Intern](https://www.dreamworkhq.com/job/f4966cd7-39c2-4edd-93a0-18791b84b106?utm_source=github&utm_campaign=gh-tech-internships) | BUCUREŞTI, BUCUREŞTI, Romania (Hybrid) |  | 21d |
+| **[Nvent](https://www.dreamworkhq.com/c/nvent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Intelligence & Data Analytics Intern- 1 year](https://www.dreamworkhq.com/job/a4f2a9c4-2ed2-4e9b-be03-11f2640e19cd?utm_source=github&utm_campaign=gh-tech-internships) | Prejmer, RO |  | 22d |
 
 <!-- TABLE_END -->
