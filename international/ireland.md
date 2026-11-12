@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**21 currently open roles** · Updated **2026-11-11**
+**22 currently open roles** · Updated **2026-11-12**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-18) · 18 roles
-- [Other](#other-3) · 3 roles
+- [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -15,13 +15,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sunlife](https://www.dreamworkhq.com/c/sunlife.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Delivery Internship Student](https://www.dreamworkhq.com/job/1221a49f-d225-4b6a-afd5-9b4298be4660?utm_source=github&utm_campaign=gh-tech-internships) | Waterford, Waterford, Ireland |  | 0d |
-| **[Microsoft](https://www.dreamworkhq.com/c/microsoft.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship Opportunities](https://www.dreamworkhq.com/job/578fce93-8f37-4fc1-8929-3c46e0528669?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 3d |
-| **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Automation Engineer](https://www.dreamworkhq.com/job/942134f2-72b7-4cdd-b276-b537a3b13431?utm_source=github&utm_campaign=gh-tech-internships) | Cork |  | 4d |
-| **[AMD](https://www.dreamworkhq.com/c/amd.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Analog & Mixed-Signal Design Intern](https://www.dreamworkhq.com/job/483a257b-aced-4ab6-bb58-b0f3e56d02c6?utm_source=github&utm_campaign=gh-tech-internships) | Cork, Cork, Ireland |  | 4d |
-| **[General Motors](https://www.dreamworkhq.com/c/generalmotors.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Java Software Engineer Intern](https://www.dreamworkhq.com/job/ace57e2e-d020-4885-bdcb-e83e05866d72?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Ireland (Hybrid) |  | 12d |
-| **[MongoDB](https://www.dreamworkhq.com/c/mongodb.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 - Summer Software Engineer Intern, Dublin](https://www.dreamworkhq.com/job/61480caa-e06b-45d3-bb27-8020c12358e8?utm_source=github&utm_campaign=gh-tech-internships) | Dublin (Hybrid) |  | 18d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Infra Engineer - 2027 Internship, Logistics Team](https://www.dreamworkhq.com/job/a81a61be-a517-42d3-81e1-c102cd22486d?utm_source=github&utm_campaign=gh-tech-internships) | IE, D, Dublin |  | 29d |
+| **[Sunlife](https://www.dreamworkhq.com/c/sunlife.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Delivery Internship Student](https://www.dreamworkhq.com/job/1221a49f-d225-4b6a-afd5-9b4298be4660?utm_source=github&utm_campaign=gh-tech-internships) | Waterford, Waterford, Ireland |  | 1d |
+| **[Microsoft](https://www.dreamworkhq.com/c/microsoft.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship Opportunities](https://www.dreamworkhq.com/job/578fce93-8f37-4fc1-8929-3c46e0528669?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 4d |
+| **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Automation Engineer](https://www.dreamworkhq.com/job/942134f2-72b7-4cdd-b276-b537a3b13431?utm_source=github&utm_campaign=gh-tech-internships) | Cork |  | 5d |
+| **[AMD](https://www.dreamworkhq.com/c/amd.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Analog & Mixed-Signal Design Intern](https://www.dreamworkhq.com/job/483a257b-aced-4ab6-bb58-b0f3e56d02c6?utm_source=github&utm_campaign=gh-tech-internships) | Cork, Cork, Ireland |  | 5d |
+| **[General Motors](https://www.dreamworkhq.com/c/generalmotors.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Java Software Engineer Intern](https://www.dreamworkhq.com/job/ace57e2e-d020-4885-bdcb-e83e05866d72?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Ireland (Hybrid) |  | 13d |
+| **[MongoDB](https://www.dreamworkhq.com/c/mongodb.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 - Summer Software Engineer Intern, Dublin](https://www.dreamworkhq.com/job/61480caa-e06b-45d3-bb27-8020c12358e8?utm_source=github&utm_campaign=gh-tech-internships) | Dublin (Hybrid) |  | 19d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Infra Engineer - 2027 Internship, Logistics Team](https://www.dreamworkhq.com/job/a81a61be-a517-42d3-81e1-c102cd22486d?utm_source=github&utm_campaign=gh-tech-internships) | IE, D, Dublin |  | 1mo |
 | **[MongoDB](https://www.dreamworkhq.com/c/mongodb.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.dreamworkhq.com/job/ce50a436-41e5-4547-907c-86fc44d2a2c2?utm_source=github&utm_campaign=gh-tech-internships) | Dublin (Hybrid) |  | 1mo |
 | **[Pinterest](https://www.dreamworkhq.com/c/pinterest.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Intern 2027 (Dublin)](https://www.dreamworkhq.com/job/c48d620b-66ff-452c-9f09-2a3971bd003b?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, IE (Hybrid) | $68K–$85K | 1mo |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Support Associate Internship - April 2027 start, Support Engineer…](https://www.dreamworkhq.com/job/e59ade67-86f2-4630-a01e-544ade06d77b?utm_source=github&utm_campaign=gh-tech-internships) | IE, D, Dublin |  | 1mo |
@@ -34,12 +34,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern](https://www.dreamworkhq.com/job/a8240184-a45b-46e1-8737-5d38cae43e3d?utm_source=github&utm_campaign=gh-tech-internships) | IE, Dublin |  | 4mo |
 | **[Analog Devices](https://www.dreamworkhq.com/c/analog.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Mechanical and Robotics Intern](https://www.dreamworkhq.com/job/52048dde-aeb3-4392-aaa5-c812fa19c809?utm_source=github&utm_campaign=gh-tech-internships) | Ireland, Limerick |  | 5mo |
 
-### Other (3)
+### Other (4)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Logitech](https://www.dreamworkhq.com/c/logitech.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Engineering](https://www.dreamworkhq.com/job/38ed09e6-2b4b-49a4-8ef0-94f938702c4a?utm_source=github&utm_campaign=gh-tech-internships) | Cork, Ireland |  | 27d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.dreamworkhq.com/job/cfe3bac9-3bc3-48a4-853f-a8c556c8becc?utm_source=github&utm_campaign=gh-tech-internships) | IE, Dublin |  | 29d |
+| **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Masters AI (m/f/d)](https://www.dreamworkhq.com/job/3eb5ba9d-9e09-4bdc-9b42-61a86cf20b88?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Co. Dublin, Ireland |  | 0d |
+| **[Logitech](https://www.dreamworkhq.com/c/logitech.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Engineering](https://www.dreamworkhq.com/job/38ed09e6-2b4b-49a4-8ef0-94f938702c4a?utm_source=github&utm_campaign=gh-tech-internships) | Cork, Ireland |  | 28d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.dreamworkhq.com/job/cfe3bac9-3bc3-48a4-853f-a8c556c8becc?utm_source=github&utm_campaign=gh-tech-internships) | IE, Dublin |  | 1mo |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Analyst MBA Intern, 2027](https://www.dreamworkhq.com/job/2f8a24f0-53a0-4eed-9f86-f582c7d826d4?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Ireland | $81K | 1mo |
 
 <!-- TABLE_END -->
