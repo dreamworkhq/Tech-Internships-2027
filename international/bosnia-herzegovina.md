@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-12**
+**1 currently open roles** · Updated **2026-11-13**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Infobip](https://www.dreamworkhq.com/c/infobip.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineering Intern - Sarajevo](https://www.dreamworkhq.com/job/86a20c6e-8e17-4554-a041-e848d0f5c310?utm_source=github&utm_campaign=gh-tech-internships) | Sarajevo (BiH) |  | 0d |
+| **[Infobip](https://www.dreamworkhq.com/c/infobip.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineering Intern - Sarajevo](https://www.dreamworkhq.com/job/86a20c6e-8e17-4554-a041-e848d0f5c310?utm_source=github&utm_campaign=gh-tech-internships) | Sarajevo (BiH) |  | 1d |
 
 <!-- TABLE_END -->
