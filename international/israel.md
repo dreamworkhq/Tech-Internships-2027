@@ -2,23 +2,26 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-11-14**
+**14 currently open roles** · Updated **2026-11-15**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-11) · 11 roles
+- [Engineering](#engineering-14) · 14 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (11)
+### Engineering (14)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Mksinst](https://www.dreamworkhq.com/c/mks.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Spring Software Engineer Undergraduate Intern](https://www.dreamworkhq.com/job/5517a59d-a27a-4886-859b-fabfdbce107b?utm_source=github&utm_campaign=gh-tech-internships) | Israel Jerusalem |  | 4d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Tel-Aviv, Israel](https://www.dreamworkhq.com/job/1a02e231-fbd0-4f71-a768-1631582f8c23?utm_source=github&utm_campaign=gh-tech-internships) | IL, Tel Aviv |  | 16d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Haifa, Israel](https://www.dreamworkhq.com/job/514c7d22-423f-4c5b-b257-dda8da9a11c0?utm_source=github&utm_campaign=gh-tech-internships) | IL, Haifa |  | 16d |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification- Intern](https://www.dreamworkhq.com/job/f6d6d5f7-ab86-418d-a1cd-d69f8cffaa49?utm_source=github&utm_campaign=gh-tech-internships) | IL - Petah Tikva |  | 17d |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Engineer Intern](https://www.dreamworkhq.com/job/98e9f83a-a67f-400e-b928-6ab363c4d6a9?utm_source=github&utm_campaign=gh-tech-internships) | Yokneam |  | 24d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software/Firmware Engineering Intern](https://www.dreamworkhq.com/job/6386faa7-185b-4f60-96b7-76e7facc2c7e?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 0d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Physical Design Intern](https://www.dreamworkhq.com/job/b51aff1e-e34a-4962-98a0-14e4f8892fc8?utm_source=github&utm_campaign=gh-tech-internships) | Yokneam |  | 0d |
+| **[PayPal](https://www.dreamworkhq.com/c/paypal.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/d85e93d3-b63c-4bb7-885b-8f5a0e0fa2a3?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Tel Aviv District, Israel (Hybrid) |  | 0d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification Intern](https://www.dreamworkhq.com/job/dc64eebc-7726-4597-b3a7-17a801c17146?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva (Hybrid) |  | 0d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Tel-Aviv, Israel](https://www.dreamworkhq.com/job/1a02e231-fbd0-4f71-a768-1631582f8c23?utm_source=github&utm_campaign=gh-tech-internships) | IL, Tel Aviv |  | 17d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Haifa, Israel](https://www.dreamworkhq.com/job/514c7d22-423f-4c5b-b257-dda8da9a11c0?utm_source=github&utm_campaign=gh-tech-internships) | IL, Haifa |  | 17d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification- Intern](https://www.dreamworkhq.com/job/f6d6d5f7-ab86-418d-a1cd-d69f8cffaa49?utm_source=github&utm_campaign=gh-tech-internships) | IL - Petah Tikva |  | 18d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Engineer Intern](https://www.dreamworkhq.com/job/98e9f83a-a67f-400e-b928-6ab363c4d6a9?utm_source=github&utm_campaign=gh-tech-internships) | Yokneam |  | 25d |
 | **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification- Intern](https://www.dreamworkhq.com/job/058acbf1-3f70-49d9-acba-f1c611825283?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 1mo |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware/Electrical Engineering BS/MS Intern, 2027](https://www.dreamworkhq.com/job/fd0d359d-1416-41a0-ac96-916a760f1c7f?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel, Haifa, Israel |  | 1mo |
 | **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Digital IC Design Intern](https://www.dreamworkhq.com/job/12e55416-6caa-4cc2-80cc-824682369813?utm_source=github&utm_campaign=gh-tech-internships) | IL - Petah Tikva |  | 1mo |

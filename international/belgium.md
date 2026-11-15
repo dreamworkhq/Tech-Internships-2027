@@ -2,24 +2,26 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**27 currently open roles** · Updated **2026-11-14**
+**29 currently open roles** · Updated **2026-11-15**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-19) · 19 roles
+- [Engineering](#engineering-21) · 21 roles
 - [Other](#other-8) · 8 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (19)
+### Engineering (21)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **Robert Bosch NV/SA** | [Internship - Digitalization & AI for Wiper Blade Testing](https://www.dreamworkhq.com/job/6863e89e-9cf9-4111-a2d4-95b13c1009b9?utm_source=github&utm_campaign=gh-tech-internships) | Flemish Brabant, Belgium |  | 1d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Digitalization & AI for Wiper Blade Testing](https://www.dreamworkhq.com/job/48c5c04d-5742-4c6f-8564-57e7d056a85b?utm_source=github&utm_campaign=gh-tech-internships) | Flemish Brabant, Belgium |  | 1d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Digitalization & AI for Wiper Blade Testing](https://www.dreamworkhq.com/job/a2ed9d19-6edd-4428-ac80-0df90711efe2?utm_source=github&utm_campaign=gh-tech-internships) | Tienen, Vlaanderen, Belgium |  | 2d |
-| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://www.dreamworkhq.com/job/f98f7355-b869-4574-b3fb-6a330de84d3d?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 15d |
-| **[Avanade](https://www.dreamworkhq.com/c/avanade.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data & AI / AI-Powered Internal Business Assistant](https://www.dreamworkhq.com/job/0a395ceb-e827-4ba6-b474-bc74c3f55dac?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 21d |
+| **[SQLI1](https://www.dreamworkhq.com/c/sqli.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Testing & QA Internship](https://www.dreamworkhq.com/job/690f4534-09ad-4354-82a5-bdf103a4a3ee?utm_source=github&utm_campaign=gh-tech-internships) | Diepenbeek, Vlaanderen, Belgium |  | 0d |
+| **[SQLI1](https://www.dreamworkhq.com/c/sqli.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DevOps & Cloud Engineering Internship](https://www.dreamworkhq.com/job/82b96444-9259-48be-811d-6419bf4cf7fe?utm_source=github&utm_campaign=gh-tech-internships) | Diepenbeek, Vlaanderen, Belgium |  | 0d |
+| **Robert Bosch NV/SA** | [Internship - Digitalization & AI for Wiper Blade Testing](https://www.dreamworkhq.com/job/6863e89e-9cf9-4111-a2d4-95b13c1009b9?utm_source=github&utm_campaign=gh-tech-internships) | Flemish Brabant, Belgium |  | 2d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Digitalization & AI for Wiper Blade Testing](https://www.dreamworkhq.com/job/48c5c04d-5742-4c6f-8564-57e7d056a85b?utm_source=github&utm_campaign=gh-tech-internships) | Flemish Brabant, Belgium |  | 2d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Digitalization & AI for Wiper Blade Testing](https://www.dreamworkhq.com/job/a2ed9d19-6edd-4428-ac80-0df90711efe2?utm_source=github&utm_campaign=gh-tech-internships) | Tienen, Vlaanderen, Belgium |  | 3d |
+| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://www.dreamworkhq.com/job/f98f7355-b869-4574-b3fb-6a330de84d3d?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 16d |
+| **[Avanade](https://www.dreamworkhq.com/c/avanade.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data & AI / AI-Powered Internal Business Assistant](https://www.dreamworkhq.com/job/0a395ceb-e827-4ba6-b474-bc74c3f55dac?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 22d |
 | **[Avanade](https://www.dreamworkhq.com/c/avanade.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Graduation Internship in Customer Engagement: AI Powered Power Platform…](https://www.dreamworkhq.com/job/abbcad55-0aec-45d2-960c-eea2ede56af0?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 1mo |
 | **[Avanade](https://www.dreamworkhq.com/c/avanade.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Software Engineer Avanade Agentic Engineering Factory](https://www.dreamworkhq.com/job/ac32c282-4195-4b80-9cad-55617166baa1?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 1mo |
 | **[Avanade](https://www.dreamworkhq.com/c/avanade.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Azure Platform Engineer Avanade Agentic Engineering Factory](https://www.dreamworkhq.com/job/795a461f-f5de-41d4-8ad5-d5a6993c4ece?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 1mo |
@@ -39,12 +41,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[DXC Technology](https://www.dreamworkhq.com/c/dxc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Strikeforce Internship](https://www.dreamworkhq.com/job/d1f4ae5d-f51e-482e-8509-d052f50e2b72?utm_source=github&utm_campaign=gh-tech-internships) | BEL - VAN - MECHELEN |  | 1d |
-| **[Jj](https://www.dreamworkhq.com/c/jnj.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Integrated Data Analytics and Reporting](https://www.dreamworkhq.com/job/c307e854-4bdf-4a63-9332-c5925d11474b?utm_source=github&utm_campaign=gh-tech-internships) | Beerse, Antwerp, Belgium (Hybrid) |  | 3d |
-| **[Match Group](https://www.dreamworkhq.com/c/mtch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science Internship](https://www.dreamworkhq.com/job/eac74fc3-d419-4b8a-bb1d-648f55f8bcb0?utm_source=github&utm_campaign=gh-tech-internships) | Ghent, Belgium (Hybrid) |  | 8d |
-| **[Match Group](https://www.dreamworkhq.com/c/mtch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Internship](https://www.dreamworkhq.com/job/64c0e771-d785-41be-9474-7312e26212f2?utm_source=github&utm_campaign=gh-tech-internships) | Ghent, Belgium |  | 8d |
-| **[Match Group](https://www.dreamworkhq.com/c/mtch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Design Internship](https://www.dreamworkhq.com/job/ef705ef5-43cf-4d72-a9e4-46c67863baea?utm_source=github&utm_campaign=gh-tech-internships) | Ghent, Belgium |  | 8d |
-| **[European Space Agency](https://www.dreamworkhq.com/c/esa.int?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern in the ESA Education Office - STEM Education, Didactics and E-Le…](https://www.dreamworkhq.com/job/b9c7ad33-a31c-467b-af55-7749594f1ee4?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 12d |
+| **[DXC Technology](https://www.dreamworkhq.com/c/dxc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Strikeforce Internship](https://www.dreamworkhq.com/job/d1f4ae5d-f51e-482e-8509-d052f50e2b72?utm_source=github&utm_campaign=gh-tech-internships) | BEL - VAN - MECHELEN |  | 2d |
+| **[Jj](https://www.dreamworkhq.com/c/jnj.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Integrated Data Analytics and Reporting](https://www.dreamworkhq.com/job/c307e854-4bdf-4a63-9332-c5925d11474b?utm_source=github&utm_campaign=gh-tech-internships) | Beerse, Antwerp, Belgium (Hybrid) |  | 4d |
+| **[Match Group](https://www.dreamworkhq.com/c/mtch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science Internship](https://www.dreamworkhq.com/job/eac74fc3-d419-4b8a-bb1d-648f55f8bcb0?utm_source=github&utm_campaign=gh-tech-internships) | Ghent, Belgium (Hybrid) |  | 9d |
+| **[Match Group](https://www.dreamworkhq.com/c/mtch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Internship](https://www.dreamworkhq.com/job/64c0e771-d785-41be-9474-7312e26212f2?utm_source=github&utm_campaign=gh-tech-internships) | Ghent, Belgium |  | 9d |
+| **[Match Group](https://www.dreamworkhq.com/c/mtch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Design Internship](https://www.dreamworkhq.com/job/ef705ef5-43cf-4d72-a9e4-46c67863baea?utm_source=github&utm_campaign=gh-tech-internships) | Ghent, Belgium |  | 9d |
+| **[European Space Agency](https://www.dreamworkhq.com/c/esa.int?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern in the ESA Education Office - STEM Education, Didactics and E-Le…](https://www.dreamworkhq.com/job/b9c7ad33-a31c-467b-af55-7749594f1ee4?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 13d |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science Internship](https://www.dreamworkhq.com/job/8e5672c0-6336-49a3-9641-290bef68f50c?utm_source=github&utm_campaign=gh-tech-internships) | Brussels | $31K | 4mo |
 | **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Security - as of February 2027](https://www.dreamworkhq.com/job/c9ff194d-9151-4a80-8b0e-cf9eb46f322e?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 5mo |
 
