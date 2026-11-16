@@ -2,25 +2,26 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**23 currently open roles** · Updated **2026-11-15**
+**24 currently open roles** · Updated **2026-11-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-13) · 13 roles
+- [Engineering](#engineering-14) · 14 roles
 - [Other](#other-10) · 10 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (13)
+### Engineering (14)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Brex](https://www.dreamworkhq.com/c/brex.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Internship - 2027](https://www.dreamworkhq.com/job/7c788b69-82ce-462e-9f64-38eca1b6ea80?utm_source=github&utm_campaign=gh-tech-internships) | São Paulo, São Paulo, Brazil (Hybrid) |  | 0d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.dreamworkhq.com/job/5fdfd0a4-79d7-4b11-a6d6-1962ba8f8e95?utm_source=github&utm_campaign=gh-tech-internships) | BR, SP, Sao Paulo |  | 11d |
-| **[Deutsche Bank](https://www.dreamworkhq.com/c/db.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - IT System Development](https://www.dreamworkhq.com/job/cbb9e0d2-ac8e-444f-8ee1-6dff2e4e2f3b?utm_source=github&utm_campaign=gh-tech-internships) | Sao Paulo Edificio Pedro Mariz (Hybrid) |  | 12d |
-| **[HP Inc.](https://www.dreamworkhq.com/c/hpwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Development Intern](https://www.dreamworkhq.com/job/4ba53a0f-bd4b-46d5-aced-4c52e907bb97?utm_source=github&utm_campaign=gh-tech-internships) | Porto Alegre, Rio Grande do Sul, Brazil |  | 16d |
-| **[Toku](https://www.dreamworkhq.com/c/toku.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Operations Intern BR](https://www.dreamworkhq.com/job/5a82b749-8db8-45b0-8ae7-a0cc125169f8?utm_source=github&utm_campaign=gh-tech-internships) | Brasil (Hybrid) |  | 23d |
-| **[Diebold](https://www.dreamworkhq.com/c/dieboldnixdorf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Developer C, C++, Java (São Paulo, SP)](https://www.dreamworkhq.com/job/d3b3f0ae-0d08-4a38-b540-8cade5348884?utm_source=github&utm_campaign=gh-tech-internships) | SAO PAULO, SP, Brazil (Hybrid) |  | 24d |
+| **[Red Hat](https://www.dreamworkhq.com/c/redhat.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Services Intern](https://www.dreamworkhq.com/job/838b0c20-ddef-40f9-81ca-ac29c4eecea1?utm_source=github&utm_campaign=gh-tech-internships) | Sao Paulo |  | 0d |
+| **[Brex](https://www.dreamworkhq.com/c/brex.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Internship - 2027](https://www.dreamworkhq.com/job/7c788b69-82ce-462e-9f64-38eca1b6ea80?utm_source=github&utm_campaign=gh-tech-internships) | São Paulo, São Paulo, Brazil (Hybrid) |  | 1d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.dreamworkhq.com/job/5fdfd0a4-79d7-4b11-a6d6-1962ba8f8e95?utm_source=github&utm_campaign=gh-tech-internships) | BR, SP, Sao Paulo |  | 12d |
+| **[Deutsche Bank](https://www.dreamworkhq.com/c/db.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - IT System Development](https://www.dreamworkhq.com/job/cbb9e0d2-ac8e-444f-8ee1-6dff2e4e2f3b?utm_source=github&utm_campaign=gh-tech-internships) | Sao Paulo Edificio Pedro Mariz (Hybrid) |  | 13d |
+| **[HP Inc.](https://www.dreamworkhq.com/c/hpwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Development Intern](https://www.dreamworkhq.com/job/4ba53a0f-bd4b-46d5-aced-4c52e907bb97?utm_source=github&utm_campaign=gh-tech-internships) | Porto Alegre, Rio Grande do Sul, Brazil |  | 17d |
+| **[Toku](https://www.dreamworkhq.com/c/toku.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Operations Intern BR](https://www.dreamworkhq.com/job/5a82b749-8db8-45b0-8ae7-a0cc125169f8?utm_source=github&utm_campaign=gh-tech-internships) | Brasil (Hybrid) |  | 24d |
+| **[Diebold](https://www.dreamworkhq.com/c/dieboldnixdorf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Developer C, C++, Java (São Paulo, SP)](https://www.dreamworkhq.com/job/d3b3f0ae-0d08-4a38-b540-8cade5348884?utm_source=github&utm_campaign=gh-tech-internships) | SAO PAULO, SP, Brazil (Hybrid) |  | 25d |
 | **[Fa Evmr Saasfaprod1](https://www.dreamworkhq.com/c/nokia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer DevOps Intern](https://www.dreamworkhq.com/job/a7395e60-4e9b-4f49-8335-c03e49526ff0?utm_source=github&utm_campaign=gh-tech-internships) | Brazil (Hybrid) |  | 1mo |
 | **[Cadence Design Systems](https://www.dreamworkhq.com/c/cadence.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Product Validation Engineering: AI Quality Assurance (QA)](https://www.dreamworkhq.com/job/22c52c2b-6372-4fde-af7f-adf190a8a00b?utm_source=github&utm_campaign=gh-tech-internships) | BELO HORIZONTE |  | 1mo |
 | **[Aveva](https://www.dreamworkhq.com/c/aveva.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Developer Intern - Brazil](https://www.dreamworkhq.com/job/cc343faf-e38d-480d-9369-3a0207123f93?utm_source=github&utm_campaign=gh-tech-internships) | Sao Paulo, Brazil (Hybrid) |  | 1mo |
@@ -33,10 +34,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Graphic Design Intern](https://www.dreamworkhq.com/job/7cc0856d-6b3b-474a-988f-64c47cfe1e53?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Brazil) |  | 11d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Amazon Intern Program 2027 \| Business & Product Management](https://www.dreamworkhq.com/job/0680169f-0c67-45a1-8fd4-8fc05fe0a3f9?utm_source=github&utm_campaign=gh-tech-internships) | BR, SP, Sao Paulo |  | 17d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Amazon Intern Program 2027 \| Data & Analytics](https://www.dreamworkhq.com/job/e706da5b-7918-496a-aba6-448a5e4f3e67?utm_source=github&utm_campaign=gh-tech-internships) | BR, SP, Sao Paulo |  | 17d |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Manager Intern, ShopX(Rewards)](https://www.dreamworkhq.com/job/100b6879-95ec-42d1-803b-feb54933e28d?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Brazil, Remote) |  | 19d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Graphic Design Intern](https://www.dreamworkhq.com/job/7cc0856d-6b3b-474a-988f-64c47cfe1e53?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Brazil) |  | 12d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Amazon Intern Program 2027 \| Business & Product Management](https://www.dreamworkhq.com/job/0680169f-0c67-45a1-8fd4-8fc05fe0a3f9?utm_source=github&utm_campaign=gh-tech-internships) | BR, SP, Sao Paulo |  | 18d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Amazon Intern Program 2027 \| Data & Analytics](https://www.dreamworkhq.com/job/e706da5b-7918-496a-aba6-448a5e4f3e67?utm_source=github&utm_campaign=gh-tech-internships) | BR, SP, Sao Paulo |  | 18d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Manager Intern, ShopX(Rewards)](https://www.dreamworkhq.com/job/100b6879-95ec-42d1-803b-feb54933e28d?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Brazil, Remote) |  | 20d |
 | **[Toradex](https://www.dreamworkhq.com/c/toradex.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Product Manager Software](https://www.dreamworkhq.com/job/5444b03a-1c99-4f65-9bb2-491f43243b05?utm_source=github&utm_campaign=gh-tech-internships) | Campinas, São Paulo, Brazil |  | 1mo |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management Intern](https://www.dreamworkhq.com/job/c7ef492b-c29c-449f-a253-ca6b4b2950db?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Brazil, Remote) |  | 1mo |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Design Intern](https://www.dreamworkhq.com/job/bc99d8f6-96b5-4fce-86fb-ac6fae6a9326?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Brazil, Remote) |  | 2mo |

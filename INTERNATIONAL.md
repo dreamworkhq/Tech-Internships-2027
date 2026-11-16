@@ -2,7 +2,7 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1693 country-located roles** across **68 countries** · **3 explicitly global remote** · Updated **2026-11-15**
+**1712 country-located roles** across **68 countries** · **3 explicitly global remote** · Updated **2026-11-16**
 
 This list is partial: 3 of its searches reached the public listings API's 1,000-row limit, so some open roles are missing.
 
@@ -10,33 +10,33 @@ This is the international view of the same verified-open internship corpus. Coun
 
 | Country | Open roles |
 | --- | ---: |
-| [Singapore](international/singapore.md) | 215 |
-| [Canada](international/canada.md) | 200 |
-| [India](international/india.md) | 130 |
-| [China](international/china.md) | 102 |
-| [United Kingdom](international/united-kingdom.md) | 96 |
-| [France](international/france.md) | 70 |
-| [Germany](international/germany.md) | 65 |
-| [Malaysia](international/malaysia.md) | 62 |
+| [Singapore](international/singapore.md) | 218 |
+| [Canada](international/canada.md) | 203 |
+| [India](international/india.md) | 143 |
+| [China](international/china.md) | 101 |
+| [United Kingdom](international/united-kingdom.md) | 94 |
+| [France](international/france.md) | 73 |
+| [Germany](international/germany.md) | 63 |
+| [Malaysia](international/malaysia.md) | 61 |
 | [Netherlands](international/netherlands.md) | 55 |
 | [Italy](international/italy.md) | 50 |
-| [Poland](international/poland.md) | 47 |
-| [Taiwan](international/taiwan.md) | 46 |
-| [Vietnam](international/vietnam.md) | 44 |
-| [Switzerland](international/switzerland.md) | 43 |
+| [Poland](international/poland.md) | 45 |
+| [Switzerland](international/switzerland.md) | 44 |
+| [Vietnam](international/vietnam.md) | 43 |
+| [Taiwan](international/taiwan.md) | 41 |
+| [Spain](international/spain.md) | 35 |
 | [Mexico](international/mexico.md) | 32 |
-| [Spain](international/spain.md) | 32 |
-| [Belgium](international/belgium.md) | 29 |
+| [Belgium](international/belgium.md) | 28 |
 | [Thailand](international/thailand.md) | 25 |
-| [Brazil](international/brazil.md) | 23 |
+| [Brazil](international/brazil.md) | 24 |
 | [Czechia](international/czechia.md) | 23 |
 | [Hong Kong SAR China](international/hong-kong-sar-china.md) | 22 |
-| [Ireland](international/ireland.md) | 20 |
+| [Ireland](international/ireland.md) | 19 |
+| [Philippines](international/philippines.md) | 17 |
 | [Portugal](international/portugal.md) | 17 |
-| [Philippines](international/philippines.md) | 16 |
 | [Indonesia](international/indonesia.md) | 15 |
 | [Israel](international/israel.md) | 14 |
-| [Colombia](international/colombia.md) | 12 |
+| [Colombia](international/colombia.md) | 13 |
 | [Croatia](international/croatia.md) | 12 |
 | [Romania](international/romania.md) | 12 |
 | [Ukraine](international/ukraine.md) | 11 |
@@ -44,24 +44,25 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Austria](international/austria.md) | 9 |
 | [Hungary](international/hungary.md) | 9 |
 | [Luxembourg](international/luxembourg.md) | 9 |
-| [Sri Lanka](international/sri-lanka.md) | 8 |
+| [Sri Lanka](international/sri-lanka.md) | 9 |
+| [Türkiye](international/turkiye.md) | 8 |
+| [Argentina](international/argentina.md) | 7 |
 | [Puerto Rico](international/puerto-rico.md) | 7 |
-| [Türkiye](international/turkiye.md) | 7 |
 | [United Arab Emirates](international/united-arab-emirates.md) | 7 |
-| [Argentina](international/argentina.md) | 6 |
 | [Sweden](international/sweden.md) | 6 |
 | [Australia](international/australia.md) | 5 |
 | [Denmark](international/denmark.md) | 5 |
 | [Finland](international/finland.md) | 5 |
+| [Japan](international/japan.md) | 5 |
 | [New Zealand](international/new-zealand.md) | 5 |
 | [Serbia](international/serbia.md) | 5 |
 | [South Korea](international/south-korea.md) | 5 |
 | [Costa Rica](international/costa-rica.md) | 4 |
 | [Greece](international/greece.md) | 4 |
-| [Japan](international/japan.md) | 4 |
 | [Slovakia](international/slovakia.md) | 4 |
 | [South Africa](international/south-africa.md) | 4 |
 | [Bulgaria](international/bulgaria.md) | 3 |
+| [Chile](international/chile.md) | 3 |
 | [Saudi Arabia](international/saudi-arabia.md) | 3 |
 | [Egypt](international/egypt.md) | 2 |
 | [Lithuania](international/lithuania.md) | 2 |
@@ -71,7 +72,6 @@ This is the international view of the same verified-open internship corpus. Coun
 | [Azerbaijan](international/azerbaijan.md) | 1 |
 | [Bosnia & Herzegovina](international/bosnia-herzegovina.md) | 1 |
 | [Cambodia](international/cambodia.md) | 1 |
-| [Chile](international/chile.md) | 1 |
 | [Kuwait](international/kuwait.md) | 1 |
 | [Latvia](international/latvia.md) | 1 |
 | [Morocco](international/morocco.md) | 1 |
