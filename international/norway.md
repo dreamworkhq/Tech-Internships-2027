@@ -2,19 +2,18 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**2 currently open roles** · Updated **2026-11-16**
+**1 currently open roles** · Updated **2026-11-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-2) · 2 roles
+- [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (2)
+### Other (1)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Technician Intern, 2027](https://www.dreamworkhq.com/job/381f4146-e866-4e8a-8153-a3124cfe269b?utm_source=github&utm_campaign=gh-tech-internships) | Skien, Norway |  | 1mo |
-| **[Sonyglobal](https://www.dreamworkhq.com/c/sony.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Firmware Design - Summer Internship](https://www.dreamworkhq.com/job/0c7b6059-e8f9-4b7b-8f13-d7dab31d699d?utm_source=github&utm_campaign=gh-tech-internships) | Lysaker (Hybrid) |  | 1mo |
 
 <!-- TABLE_END -->
