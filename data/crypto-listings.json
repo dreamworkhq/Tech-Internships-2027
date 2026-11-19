@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-11-18T01:53:13.583Z",
+  "generatedAt": "2026-11-19T01:19:15.919Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
   "count": 35,
   "listings": [
+    {
+      "id": "aede671e-8c71-4fe0-82a8-b546f99b3d80",
+      "title": "Animator Intern",
+      "company": "Bybit",
+      "companyDomain": "bybit.com",
+      "location": null,
+      "locationCountryCode": "AE",
+      "functionPrimary": "Design",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-10-23T07:31:20.000Z",
+      "firstIndexedAt": "2026-11-18T05:15:26.132Z",
+      "url": "https://www.dreamworkhq.com/job/aede671e-8c71-4fe0-82a8-b546f99b3d80?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "d3f8ebfc-5978-4d79-9d18-21135a10223a",
       "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
@@ -97,7 +113,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-05T22:33:05.666Z",
+      "postedAt": "2026-11-06T00:37:49.142Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -164,22 +180,6 @@
       "postedAt": "2026-11-03T14:25:52.226Z",
       "firstIndexedAt": "2026-10-30T06:30:18.650Z",
       "url": "https://www.dreamworkhq.com/job/f98f7355-b869-4574-b3fb-6a330de84d3d?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "e381a870-3d13-4939-b05c-cd1fb793d4cd",
-      "title": "Animator Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": null,
-      "locationCountryCode": null,
-      "functionPrimary": "Design",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-10-23T07:31:20.000Z",
-      "firstIndexedAt": "2026-10-23T08:30:33.372Z",
-      "url": "https://www.dreamworkhq.com/job/e381a870-3d13-4939-b05c-cd1fb793d4cd?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "feeff579-bbb7-4bd8-a71b-e1f3ef6cbf5a",
