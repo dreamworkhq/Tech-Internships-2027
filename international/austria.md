@@ -2,24 +2,23 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-11-18**
+**9 currently open roles** · Updated **2026-11-19**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-8) · 8 roles
+- [Engineering](#engineering-7) · 7 roles
 - [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (8)
+### Engineering (7)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cellular RF Receiver Silicon Validation Engineering Intern](https://www.dreamworkhq.com/job/640cd99d-4795-4e54-b144-d4c3d18a26ab?utm_source=github&utm_campaign=gh-tech-internships) | Linz | $34K–$51K | 1d |
-| **[GEHC External Site](https://www.dreamworkhq.com/c/gehc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Mechanical Design](https://www.dreamworkhq.com/job/54c74152-22c5-4c70-896a-8753dde03bdf?utm_source=github&utm_campaign=gh-tech-internships) | Zipf |  | 8d |
-| **[Bitmovin](https://www.dreamworkhq.com/c/bitmovin.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Intern - Product, Business & Marketing - Summer 2027 (AI & Beyond In…](https://www.dreamworkhq.com/job/b79cf89a-8390-48c3-a3be-98955fc94a43?utm_source=github&utm_campaign=gh-tech-internships) | Vienna; Klagenfurt; Berlin |  | 22d |
-| **[Bitmovin](https://www.dreamworkhq.com/c/bitmovin.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern - Summer 2027 (AI & Beyond Incubator)](https://www.dreamworkhq.com/job/b9bb3070-f067-47af-b9d0-30fb49330d3a?utm_source=github&utm_campaign=gh-tech-internships) | Vienna; Klagenfurt; Berlin |  | 22d |
-| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Software Toolchain & Debugger Development (f/m/d)](https://www.dreamworkhq.com/job/cb6f012f-98bb-4c38-aadf-6f49a33d6910?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $38K | 22d |
+| **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cellular RF Receiver Silicon Validation Engineering Intern](https://www.dreamworkhq.com/job/640cd99d-4795-4e54-b144-d4c3d18a26ab?utm_source=github&utm_campaign=gh-tech-internships) | Linz | $34K–$51K | 2d |
+| **[Bitmovin](https://www.dreamworkhq.com/c/bitmovin.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Intern - Product, Business & Marketing - Summer 2027 (AI & Beyond In…](https://www.dreamworkhq.com/job/b79cf89a-8390-48c3-a3be-98955fc94a43?utm_source=github&utm_campaign=gh-tech-internships) | Vienna; Klagenfurt; Berlin |  | 23d |
+| **[Bitmovin](https://www.dreamworkhq.com/c/bitmovin.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern - Summer 2027 (AI & Beyond Incubator)](https://www.dreamworkhq.com/job/b9bb3070-f067-47af-b9d0-30fb49330d3a?utm_source=github&utm_campaign=gh-tech-internships) | Vienna; Klagenfurt; Berlin |  | 23d |
+| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Software Toolchain & Debugger Development (f/m/d)](https://www.dreamworkhq.com/job/cb6f012f-98bb-4c38-aadf-6f49a33d6910?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $38K | 23d |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Software Engineer (m/f/d) - Java & Python Tools Development…](https://www.dreamworkhq.com/job/1848b0ce-06c4-4e46-8f7f-33a2ad21b1eb?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $38K | 1mo |
 | **[Sentry](https://www.dreamworkhq.com/c/sentry.io?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern (Summer 2027)](https://www.dreamworkhq.com/job/4bd233f4-5919-4f0c-8e4e-90f3674e3dc4?utm_source=github&utm_campaign=gh-tech-internships) | Vienna, Austria (Hybrid) | $43K | 2mo |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Digital Design Team Support (m/f/d)](https://www.dreamworkhq.com/job/b37253a3-54c7-4357-9592-c3fef7478008?utm_source=github&utm_campaign=gh-tech-internships) | Gratkorn (Hybrid) | $36K | 3mo |
