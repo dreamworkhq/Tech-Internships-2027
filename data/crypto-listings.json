@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-11-19T01:19:15.919Z",
+  "generatedAt": "2026-11-20T01:33:13.800Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
   "count": 35,
   "listings": [
+    {
+      "id": "910f0abe-5b8b-481a-91e8-2211baa449f7",
+      "title": "Software Test Engineering Intern - Space and Embedded Crypto",
+      "company": "General Dynamics Mission Systems",
+      "companyDomain": "gdmissionsystems.com",
+      "location": "Scottsdale, AZ, US",
+      "locationCountryCode": "US",
+      "functionPrimary": "Engineering",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-11-19T05:00:00.000Z",
+      "firstIndexedAt": "2026-11-20T01:33:30.041Z",
+      "url": "https://www.dreamworkhq.com/job/910f0abe-5b8b-481a-91e8-2211baa449f7?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "aede671e-8c71-4fe0-82a8-b546f99b3d80",
       "title": "Animator Intern",
@@ -86,22 +102,6 @@
       "url": "https://www.dreamworkhq.com/job/af98b6ef-e981-41a4-8460-364c9d9867bd?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "77639f53-be2a-4060-bfb4-e3b97ab373f5",
-      "title": "Software Test Engineering Intern - Space and Embedded Crypto",
-      "company": "General Dynamics Mission Systems",
-      "companyDomain": "gdmissionsystems.com",
-      "location": "Scottsdale, AZ, US",
-      "locationCountryCode": "US",
-      "functionPrimary": "Engineering",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-11-10T05:00:00.000Z",
-      "firstIndexedAt": "2026-11-10T19:17:23.405Z",
-      "url": "https://www.dreamworkhq.com/job/77639f53-be2a-4060-bfb4-e3b97ab373f5?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "6bb44c5b-f80a-4312-b074-6e070d964ec3",
       "title": "STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (F/H)",
       "company": "Thales",
@@ -113,7 +113,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-06T00:37:49.142Z",
+      "postedAt": "2026-11-06T04:39:15.529Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships"
     },
