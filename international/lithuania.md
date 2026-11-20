@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-11-19**
+**1 currently open roles** · Updated **2026-11-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[CGI](https://www.dreamworkhq.com/c/cgi.com?utm_source=github&utm_campaign=gh-tech-internships)** | [IT Internship (Insurance field)](https://www.dreamworkhq.com/job/e864be8d-5950-4043-94e8-2759ed740386?utm_source=github&utm_campaign=gh-tech-internships) | Any - Lithuania, Lithuania |  | 5d |
+| **[Kiongroup](https://www.dreamworkhq.com/c/kiongroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Java Software Engineer Intern](https://www.dreamworkhq.com/job/7d0027bb-de36-4f61-8f24-f2e0ef20eeef?utm_source=github&utm_campaign=gh-tech-internships) | Kaunas, Lithuania (Hybrid) |  | 0d |
 
 <!-- TABLE_END -->
