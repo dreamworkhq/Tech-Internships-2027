@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T01:33:13.800Z",
+  "generatedAt": "2026-11-21T00:55:00.056Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 35,
+  "count": 34,
   "listings": [
     {
       "id": "910f0abe-5b8b-481a-91e8-2211baa449f7",
@@ -113,7 +113,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-06T04:39:15.529Z",
+      "postedAt": "2026-11-06T06:01:33.360Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -228,22 +228,6 @@
       "postedAt": "2026-09-28T18:34:13.631Z",
       "firstIndexedAt": "2026-09-29T17:31:18.767Z",
       "url": "https://www.dreamworkhq.com/job/3bd3233a-009b-420c-bbb0-9c895bc5ad40?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3",
-      "title": "Smart Contract Security Audit Intern (AI Audit)",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "APAC - Remote; Hong Kong SAR",
-      "locationCountryCode": "HK",
-      "functionPrimary": "Security",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-11T14:07:46.000Z",
-      "firstIndexedAt": "2026-09-13T05:30:40.840Z",
-      "url": "https://www.dreamworkhq.com/job/4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "f9a3e575-dac0-4101-99e7-c7e4dc6d75d4",

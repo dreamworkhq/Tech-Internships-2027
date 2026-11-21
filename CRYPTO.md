@@ -4,12 +4,12 @@ Verified-open crypto, blockchain, and web3 internships worldwide, updated daily.
 
 [← US tech internships](README.md) · [International internships](INTERNATIONAL.md) · [Business internships](BUSINESS.md)
 
-**35 open internships** · **19 companies** · **0 added in the last 24 hours** · Updated **2026-11-20**
+**34 open internships** · **19 companies** · **1 added in the last 24 hours** · Updated **2026-11-21**
 
 Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.com/?utm_source=github&utm_medium=crypto_readme&utm_campaign=gh-tech-internships) match the list against your resume.
 
 - [Engineering](#engineering-22) · 22 roles
-- [Other](#other-13) · 13 roles
+- [Other](#other-12) · 12 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -18,11 +18,11 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Test Engineering Intern - Space and Embedded Crypto](https://www.dreamworkhq.com/job/910f0abe-5b8b-481a-91e8-2211baa449f7?utm_source=github&utm_campaign=gh-tech-internships) | Scottsdale, AZ, US (Hybrid) |  | 0d |
-| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - London](https://www.dreamworkhq.com/job/d3f8ebfc-5978-4d79-9d18-21135a10223a?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 2d |
-| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[Intern\] Test Development Engineer Intern](https://www.dreamworkhq.com/job/0330a7d8-520e-4c55-91ba-e9e21e54a051?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR |  | 6d |
-| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Mobile Development Engineer Intern](https://www.dreamworkhq.com/job/af98b6ef-e981-41a4-8460-364c9d9867bd?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 6d |
-| **[Thales](https://www.dreamworkhq.com/c/thales.com?utm_source=github&utm_campaign=gh-tech-internships)** | [STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (…](https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships) | Palaiseau (Hybrid) |  | 14d |
-| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://www.dreamworkhq.com/job/f98f7355-b869-4574-b3fb-6a330de84d3d?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 20d |
+| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - London](https://www.dreamworkhq.com/job/d3f8ebfc-5978-4d79-9d18-21135a10223a?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 3d |
+| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[Intern\] Test Development Engineer Intern](https://www.dreamworkhq.com/job/0330a7d8-520e-4c55-91ba-e9e21e54a051?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR |  | 7d |
+| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Mobile Development Engineer Intern](https://www.dreamworkhq.com/job/af98b6ef-e981-41a4-8460-364c9d9867bd?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong SAR; Kuala Lumpur, Malaysia |  | 7d |
+| **[Thales](https://www.dreamworkhq.com/c/thales.com?utm_source=github&utm_campaign=gh-tech-internships)** | [STAGE - Mise en oeuvre de la crypto PQC pour le Data Centric Security (…](https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships) | Palaiseau (Hybrid) |  | 15d |
+| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brusse…](https://www.dreamworkhq.com/job/f98f7355-b869-4574-b3fb-6a330de84d3d?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 21d |
 | **[General Dynamics Mission Systems](https://www.dreamworkhq.com/c/gdmissionsystems.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern for Crypto & Cross Domain Solutions](https://www.dreamworkhq.com/job/feeff579-bbb7-4bd8-a71b-e1f3ef6cbf5a?utm_source=github&utm_campaign=gh-tech-internships) | Scottsdale, AZ, US (Hybrid) |  | 1mo |
 | **[Merklescience](https://www.dreamworkhq.com/c/merklescience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer - Intern (Frontend)](https://www.dreamworkhq.com/job/3bd3233a-009b-420c-bbb0-9c895bc5ad40?utm_source=github&utm_campaign=gh-tech-internships) | Bangalore |  | 1mo |
 | **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Development Engineer Intern](https://www.dreamworkhq.com/job/f9a3e575-dac0-4101-99e7-c7e4dc6d75d4?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Malaysia |  | 2mo |
@@ -40,17 +40,16 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 | **[Asula](https://www.dreamworkhq.com/c/asula.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer: Intern/New Grad](https://www.dreamworkhq.com/job/76979749-2383-498d-a885-721f4fa35bee?utm_source=github&utm_campaign=gh-tech-internships) | Dubai |  | 5mo |
 | **[Allium](https://www.dreamworkhq.com/c/allium.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Engineering Intern - General / AI](https://www.dreamworkhq.com/job/968e2ad3-6a09-4f11-999b-8a81f14b5755?utm_source=github&utm_campaign=gh-tech-internships) | Remote (New York) |  | 5mo |
 
-### Other (13)
+### Other (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Animator Intern](https://www.dreamworkhq.com/job/aede671e-8c71-4fe0-82a8-b546f99b3d80?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 1d |
-| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DeFi Quant Trader Intern (Credit) - London](https://www.dreamworkhq.com/job/f6118736-e789-453c-a7ae-298b9a8106d1?utm_source=github&utm_campaign=gh-tech-internships) | London (Hybrid) |  | 2d |
-| **[a16z Crypto](https://www.dreamworkhq.com/c/a16zcrypto.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Intern, Frontier](https://www.dreamworkhq.com/job/43cea437-ca21-468f-a92e-1af29279bac0?utm_source=github&utm_campaign=gh-tech-internships) | New York, New York, United States | $182K–$234K | 19d |
-| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DeFi Quant Trader Intern (Credit) - Brussels](https://www.dreamworkhq.com/job/4215c8b1-6676-4df9-a18b-e64e0c031956?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 20d |
-| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://www.dreamworkhq.com/job/7a684bfc-ce74-48a4-abe2-8a68c6839a9b?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 20d |
+| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Animator Intern](https://www.dreamworkhq.com/job/aede671e-8c71-4fe0-82a8-b546f99b3d80?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 2d |
+| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DeFi Quant Trader Intern (Credit) - London](https://www.dreamworkhq.com/job/f6118736-e789-453c-a7ae-298b9a8106d1?utm_source=github&utm_campaign=gh-tech-internships) | London (Hybrid) |  | 3d |
+| **[a16z Crypto](https://www.dreamworkhq.com/c/a16zcrypto.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Intern, Frontier](https://www.dreamworkhq.com/job/43cea437-ca21-468f-a92e-1af29279bac0?utm_source=github&utm_campaign=gh-tech-internships) | New York, New York, United States | $182K–$234K | 20d |
+| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DeFi Quant Trader Intern (Credit) - Brussels](https://www.dreamworkhq.com/job/4215c8b1-6676-4df9-a18b-e64e0c031956?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 21d |
+| **[Keyrock](https://www.dreamworkhq.com/c/keyrock.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://www.dreamworkhq.com/job/7a684bfc-ce74-48a4-abe2-8a68c6839a9b?utm_source=github&utm_campaign=gh-tech-internships) | Brussels |  | 21d |
 | **[Recrutement Banque De France](https://www.dreamworkhq.com/c/recrutement.banque-france.fr?utm_source=github&utm_campaign=gh-tech-internships)** | [SG DEFI DEVELOPPEUR - ANALYSTE FINANCIER H/F](https://www.dreamworkhq.com/job/ca751caf-e781-43f4-9405-3765fe37c462?utm_source=github&utm_campaign=gh-tech-internships) | PARIS |  | 1mo |
-| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Smart Contract Security Audit Intern (AI Audit)](https://www.dreamworkhq.com/job/4609c9f6-4e5c-4a1b-bbc0-cbc2c334b8f3?utm_source=github&utm_campaign=gh-tech-internships) | Remote (APAC - Remote; Hong Kong SAR) |  | 2mo |
 | **[Skymavis](https://www.dreamworkhq.com/c/skymavis.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Operations Intern](https://www.dreamworkhq.com/job/1bb44a90-20df-4241-b362-17d3fa82b84a?utm_source=github&utm_campaign=gh-tech-internships) | Vietnam |  | 3mo |
 | **[Pioneer Services](https://www.dreamworkhq.com/c/bnbchain.org?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer Relations Intern](https://www.dreamworkhq.com/job/7f57b282-6729-4c91-82f4-455bd835b694?utm_source=github&utm_campaign=gh-tech-internships) | Remote (North America) |  | 5mo |
 | **[Certik](https://www.dreamworkhq.com/c/certik.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Research Internship](https://www.dreamworkhq.com/job/1130fd4d-1171-4b97-a41a-4dfd51a1bd87?utm_source=github&utm_campaign=gh-tech-internships) | Remote (New York, NY / Seattle, WA / San Franci…) | $36K–$96K | 5mo |
