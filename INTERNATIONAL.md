@@ -2,7 +2,7 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1685 country-located roles** across **68 countries** · **2 explicitly global remote** · Updated **2026-11-20**
+**1678 country-located roles** across **68 countries** · **2 explicitly global remote** · Updated **2026-11-21**
 
 This list is partial: 2 of its searches reached the public listings API's 1,000-row limit, so some open roles are missing.
 
@@ -10,42 +10,41 @@ This is the international view of the same verified-open internship corpus. Coun
 
 | Country | Open roles |
 | --- | ---: |
-| [Singapore](international/singapore.md) | 219 |
-| [Canada](international/canada.md) | 169 |
+| [Singapore](international/singapore.md) | 216 |
+| [Canada](international/canada.md) | 168 |
 | [India](international/india.md) | 110 |
-| [China](international/china.md) | 102 |
+| [China](international/china.md) | 101 |
 | [United Kingdom](international/united-kingdom.md) | 99 |
 | [France](international/france.md) | 79 |
-| [Malaysia](international/malaysia.md) | 67 |
-| [Germany](international/germany.md) | 56 |
+| [Malaysia](international/malaysia.md) | 66 |
+| [Germany](international/germany.md) | 63 |
 | [Taiwan](international/taiwan.md) | 52 |
-| [Netherlands](international/netherlands.md) | 51 |
+| [Vietnam](international/vietnam.md) | 48 |
 | [Italy](international/italy.md) | 46 |
-| [Vietnam](international/vietnam.md) | 46 |
-| [Poland](international/poland.md) | 45 |
+| [Netherlands](international/netherlands.md) | 46 |
+| [Poland](international/poland.md) | 46 |
 | [Switzerland](international/switzerland.md) | 45 |
 | [Spain](international/spain.md) | 36 |
 | [Mexico](international/mexico.md) | 32 |
-| [Czechia](international/czechia.md) | 30 |
+| [Brazil](international/brazil.md) | 29 |
+| [Czechia](international/czechia.md) | 29 |
 | [Belgium](international/belgium.md) | 27 |
-| [Brazil](international/brazil.md) | 26 |
-| [Ireland](international/ireland.md) | 22 |
-| [Thailand](international/thailand.md) | 22 |
-| [Australia](international/australia.md) | 21 |
+| [Ireland](international/ireland.md) | 23 |
+| [Portugal](international/portugal.md) | 21 |
+| [Thailand](international/thailand.md) | 21 |
+| [Australia](international/australia.md) | 20 |
 | [Hong Kong SAR China](international/hong-kong-sar-china.md) | 20 |
-| [Portugal](international/portugal.md) | 20 |
 | [Philippines](international/philippines.md) | 14 |
-| [Romania](international/romania.md) | 13 |
 | [Tunisia](international/tunisia.md) | 13 |
 | [Ukraine](international/ukraine.md) | 13 |
 | [Croatia](international/croatia.md) | 12 |
 | [Israel](international/israel.md) | 12 |
+| [Colombia](international/colombia.md) | 11 |
 | [Indonesia](international/indonesia.md) | 11 |
-| [Colombia](international/colombia.md) | 10 |
+| [Romania](international/romania.md) | 10 |
 | [Sri Lanka](international/sri-lanka.md) | 10 |
-| [Austria](international/austria.md) | 9 |
-| [Hungary](international/hungary.md) | 9 |
 | [Luxembourg](international/luxembourg.md) | 9 |
+| [Hungary](international/hungary.md) | 8 |
 | [Peru](international/peru.md) | 8 |
 | [Argentina](international/argentina.md) | 7 |
 | [Puerto Rico](international/puerto-rico.md) | 7 |
@@ -53,9 +52,10 @@ This is the international view of the same verified-open internship corpus. Coun
 | [South Korea](international/south-korea.md) | 6 |
 | [Sweden](international/sweden.md) | 6 |
 | [United Arab Emirates](international/united-arab-emirates.md) | 6 |
-| [Costa Rica](international/costa-rica.md) | 5 |
+| [Austria](international/austria.md) | 5 |
 | [Japan](international/japan.md) | 5 |
 | [Serbia](international/serbia.md) | 5 |
+| [Costa Rica](international/costa-rica.md) | 4 |
 | [Denmark](international/denmark.md) | 4 |
 | [Finland](international/finland.md) | 4 |
 | [Greece](international/greece.md) | 4 |
@@ -86,7 +86,7 @@ Only roles whose listing explicitly says applicants can work from anywhere appea
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Yotta](https://www.dreamworkhq.com/c/yottalabs.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Engineer Intern - AI Systems](https://www.dreamworkhq.com/job/8b4a8a28-5248-4a7c-9985-0db6583a0c85?utm_source=github&utm_campaign=gh-tech-internships) | Remote (United States) |  | 3mo |
-| **[DeliveryHero](https://www.dreamworkhq.com/c/deliveryhero.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/99b4692a-4928-4f20-b509-2bcee4b68ba6?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Barcelona, , Spain) |  | 4mo |
+| **[DeliveryHero](https://www.dreamworkhq.com/c/deliveryhero.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/99b4692a-4928-4f20-b509-2bcee4b68ba6?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Barcelona, , Spain) |  | 5mo |
 
 ## Coverage notes
 
