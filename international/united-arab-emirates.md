@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-11-21**
+**6 currently open roles** · Updated **2026-11-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Animator Intern](https://www.dreamworkhq.com/job/aede671e-8c71-4fe0-82a8-b546f99b3d80?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 3d |
+| **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Animator Intern](https://www.dreamworkhq.com/job/aede671e-8c71-4fe0-82a8-b546f99b3d80?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 4d |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Center Infra Engineer - 2027 Internship](https://www.dreamworkhq.com/job/05f9099c-babd-4d59-a17a-73a1cff279d0?utm_source=github&utm_campaign=gh-tech-internships) | AE, Dubai |  | 1mo |
 | **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Global Markets Summer Internship 2027 - Product Management intern & Sal…](https://www.dreamworkhq.com/job/5e4ffdec-4ec9-4ee1-9212-95847be59384?utm_source=github&utm_campaign=gh-tech-internships) | Dubai, United Arab Emirates |  | 1mo |
 | **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Pref…](https://www.dreamworkhq.com/job/aead0eb4-e5bd-4c93-9fbd-94b8ab1b8d39?utm_source=github&utm_campaign=gh-tech-internships) | Dubai, United Arab Emirates |  | 1mo |
