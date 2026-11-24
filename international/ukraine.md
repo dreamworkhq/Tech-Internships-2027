@@ -2,27 +2,28 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**12 currently open roles** · Updated **2026-11-22**
+**13 currently open roles** · Updated **2026-11-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-11) · 11 roles
+- [Engineering](#engineering-12) · 12 roles
 - [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (11)
+### Engineering (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[TenThousand](https://www.dreamworkhq.com/c/tenthousand.tech?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Fullstack developer](https://www.dreamworkhq.com/job/808a6bd9-f3ed-45bd-acb5-fa882191231f?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, Ukraine |  | 2d |
-| **[QATestLab](https://www.dreamworkhq.com/c/qatestlab.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern QA Engineer (Game)](https://www.dreamworkhq.com/job/ec53d644-72dd-4eeb-a9d6-fec50f754fb6?utm_source=github&utm_campaign=gh-tech-internships) | Rivne, Khmelnytskyi, Ukraine (Hybrid) |  | 3d |
-| **[Swipex](https://www.dreamworkhq.com/c/swipex.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Trainee React Native Developer (Internship)](https://www.dreamworkhq.com/job/95e89b6e-adbb-4d13-a04b-59bdefcc46e6?utm_source=github&utm_campaign=gh-tech-internships) | Lviv, Ukraine |  | 17d |
-| **[Swipex](https://www.dreamworkhq.com/c/swipex.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Trainee Node.js (Next.js) Developer (Internship)](https://www.dreamworkhq.com/job/a57aa9bf-6e7a-4832-a14c-a981f7dc2416?utm_source=github&utm_campaign=gh-tech-internships) | Lviv, Ukraine |  | 17d |
-| **[Playtech](https://www.dreamworkhq.com/c/playtech.com?utm_source=github&utm_campaign=gh-tech-internships)** | [QA Engineer (Intern)](https://www.dreamworkhq.com/job/9eb2e2b1-3cd5-47d5-8550-2a400cb11c88?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, , Ukraine |  | 25d |
+| **[TenThousand](https://www.dreamworkhq.com/c/tenthousand.tech?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Fullstack developer](https://www.dreamworkhq.com/job/808a6bd9-f3ed-45bd-acb5-fa882191231f?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, Ukraine |  | 3d |
+| **[QATestLab](https://www.dreamworkhq.com/c/qatestlab.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern QA Engineer (Game)](https://www.dreamworkhq.com/job/ec53d644-72dd-4eeb-a9d6-fec50f754fb6?utm_source=github&utm_campaign=gh-tech-internships) | Rivne, Khmelnytskyi, Ukraine (Hybrid) |  | 4d |
+| **[Swipex](https://www.dreamworkhq.com/c/swipex.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Trainee React Native Developer (Internship)](https://www.dreamworkhq.com/job/95e89b6e-adbb-4d13-a04b-59bdefcc46e6?utm_source=github&utm_campaign=gh-tech-internships) | Lviv, Ukraine |  | 18d |
+| **[Swipex](https://www.dreamworkhq.com/c/swipex.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Trainee Node.js (Next.js) Developer (Internship)](https://www.dreamworkhq.com/job/a57aa9bf-6e7a-4832-a14c-a981f7dc2416?utm_source=github&utm_campaign=gh-tech-internships) | Lviv, Ukraine |  | 18d |
+| **[Playtech](https://www.dreamworkhq.com/c/playtech.com?utm_source=github&utm_campaign=gh-tech-internships)** | [QA Engineer (Intern)](https://www.dreamworkhq.com/job/9eb2e2b1-3cd5-47d5-8550-2a400cb11c88?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, , Ukraine |  | 27d |
 | **[RenesasElectronics](https://www.dreamworkhq.com/c/renesas.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Product Engineering](https://www.dreamworkhq.com/job/27b66626-2312-46cf-9207-0dcb42bf3392?utm_source=github&utm_campaign=gh-tech-internships) | Lviv, , Ukraine |  | 1mo |
 | **[Playtech](https://www.dreamworkhq.com/c/playtech.com?utm_source=github&utm_campaign=gh-tech-internships)** | [QA Engineer (Intern)](https://www.dreamworkhq.com/job/a09993de-7bda-44fb-8838-aea09c6e0b9b?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, Ukraine |  | 2mo |
 | **[King Group](https://www.dreamworkhq.com/c/777.ua?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern QA Manual](https://www.dreamworkhq.com/job/6ec313ef-872b-4deb-9af5-d9f645f384cb?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, Ukraine |  | 3mo |
+| **[JetArt Games](https://www.dreamworkhq.com/c/jetart.games?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern QA Game Engineer](https://www.dreamworkhq.com/job/9272a10a-2c15-439d-9c85-d4038678fa69?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, Ukraine |  | 4mo |
 | **[King Group](https://www.dreamworkhq.com/c/777.ua?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern front-end developer](https://www.dreamworkhq.com/job/96e4efd5-0876-4d29-bed4-a1ae1d6e1693?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, Ukraine |  | 4mo |
 | **[King Group](https://www.dreamworkhq.com/c/777.ua?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern/Trainee QA Engineer](https://www.dreamworkhq.com/job/90a99241-efbe-41a6-8ff5-b9a91180f06c?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, Ukraine |  | 4mo |
 | **[Ericsson](https://www.dreamworkhq.com/c/ericsson.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Network Design Optimization Internship](https://www.dreamworkhq.com/job/65f50911-9960-4b71-86ee-1f3af75f89aa?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv region, Ukraine |  | 4mo |
@@ -31,6 +32,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[King Group](https://www.dreamworkhq.com/c/777.ua?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Motion Designer](https://www.dreamworkhq.com/job/58a65961-ac81-4304-918e-78156fecfc23?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, Ukraine |  | 26d |
+| **[King Group](https://www.dreamworkhq.com/c/777.ua?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Motion Designer](https://www.dreamworkhq.com/job/58a65961-ac81-4304-918e-78156fecfc23?utm_source=github&utm_campaign=gh-tech-internships) | Kyiv, Ukraine |  | 27d |
 
 <!-- TABLE_END -->
