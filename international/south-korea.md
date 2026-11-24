@@ -2,11 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-11-24**
+**8 currently open roles** · Updated **2026-11-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-7) · 7 roles
+- [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -14,12 +15,18 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Clovirtualfashion](https://www.dreamworkhq.com/c/clovirtualfashion.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/8ff8efe6-601a-4bb0-ba73-c7d6492bcf72?utm_source=github&utm_campaign=gh-tech-internships) | Seoul |  | 5d |
-| **[Moloco](https://www.dreamworkhq.com/c/moloco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Engineer Intern (3-month Internship)](https://www.dreamworkhq.com/job/788c91f7-f7d1-4405-95b3-40f2fffe3773?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, Korea |  | 27d |
+| **[Clovirtualfashion](https://www.dreamworkhq.com/c/clovirtualfashion.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/8ff8efe6-601a-4bb0-ba73-c7d6492bcf72?utm_source=github&utm_campaign=gh-tech-internships) | Seoul |  | 6d |
+| **[Moloco](https://www.dreamworkhq.com/c/moloco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Engineer Intern (3-month Internship)](https://www.dreamworkhq.com/job/788c91f7-f7d1-4405-95b3-40f2fffe3773?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, Korea |  | 28d |
 | **[Moloco](https://www.dreamworkhq.com/c/moloco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (3 months)](https://www.dreamworkhq.com/job/667da21f-83ba-4886-b1c2-425be5155aad?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, Korea |  | 1mo |
 | **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Forward Deployed Software Engineer, Internship - Commercial](https://www.dreamworkhq.com/job/06198623-e39b-4a37-bf60-f86188b21b71?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, South Korea (Hybrid) |  | 3mo |
 | **[BorgWarner](https://www.dreamworkhq.com/c/borgwarner.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Engineering Intern](https://www.dreamworkhq.com/job/7c4d5af1-c2e7-456a-92c8-77503eed0191?utm_source=github&utm_campaign=gh-tech-internships) | Eumsung - South Korea |  | 3mo |
 | **[42dot](https://www.dreamworkhq.com/c/42dot.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [\[MS/PhD Intern\] AI Engineer (정규직 전환형)](https://www.dreamworkhq.com/job/8af6cb82-89e1-480a-817a-68b9308887d6?utm_source=github&utm_campaign=gh-tech-internships) | Pangyo (Software Dream Center), South Korea (Hybrid) |  | 4mo |
-| **[Sendbird](https://www.dreamworkhq.com/c/delight.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Agent Engineer, Intern](https://www.dreamworkhq.com/job/b1de5eb5-9fb0-4431-b48a-abf710b64d84?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, South Korea |  | 5mo |
+| **[Sendbird](https://www.dreamworkhq.com/c/delight.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Agent Engineer, Intern](https://www.dreamworkhq.com/job/b1de5eb5-9fb0-4431-b48a-abf710b64d84?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, South Korea |  | 6mo |
+
+### Other (1)
+
+| Company | Role | Location | Pay | Added |
+| --- | --- | --- | --- | --- |
+| **[Zoyi](https://www.dreamworkhq.com/c/channeltalk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Engineer Intern](https://www.dreamworkhq.com/job/d94e2de8-6dc5-4185-b479-ccf566987ea0?utm_source=github&utm_campaign=gh-tech-internships) | Gangnam District, Seoul | $35K | 0d |
 
 <!-- TABLE_END -->

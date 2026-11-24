@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Kiongroup](https://www.dreamworkhq.com/c/kiongroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Java Software Engineer Intern](https://www.dreamworkhq.com/job/b2ca9018-c670-4484-af81-aace3dbdd1bc?utm_source=github&utm_campaign=gh-tech-internships) | Kaunas, Lithuania (Hybrid) |  | 2d |
+| **[Kiongroup](https://www.dreamworkhq.com/c/kiongroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Java Software Engineer Intern](https://www.dreamworkhq.com/job/b2ca9018-c670-4484-af81-aace3dbdd1bc?utm_source=github&utm_campaign=gh-tech-internships) | Kaunas, Lithuania (Hybrid) |  | 3d |
 
 <!-- TABLE_END -->

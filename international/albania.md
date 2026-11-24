@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[BIP](https://www.dreamworkhq.com/c/bip-group.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer-Internship](https://www.dreamworkhq.com/job/b9717fae-cb91-4745-b486-c33bd2a193f1?utm_source=github&utm_campaign=gh-tech-internships) | Tirana, Albania |  | 6d |
+| **[BIP](https://www.dreamworkhq.com/c/bip-group.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer-Internship](https://www.dreamworkhq.com/job/b9717fae-cb91-4745-b486-c33bd2a193f1?utm_source=github&utm_campaign=gh-tech-internships) | Tirana, Albania |  | 7d |
 
 <!-- TABLE_END -->

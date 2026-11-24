@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)](https://www.dreamworkhq.com/job/451b26a0-5f17-4b08-a097-73febb4483a2?utm_source=github&utm_campaign=gh-tech-internships) | Kuwait |  | 11d |
+| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)](https://www.dreamworkhq.com/job/451b26a0-5f17-4b08-a097-73febb4483a2?utm_source=github&utm_campaign=gh-tech-internships) | Kuwait |  | 12d |
 
 <!-- TABLE_END -->
