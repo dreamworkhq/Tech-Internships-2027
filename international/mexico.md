@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**32 currently open roles** · Updated **2026-11-24**
+**32 currently open roles** · Updated **2026-11-25**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -16,9 +16,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Capital Becarios](https://www.dreamworkhq.com/c/capitalreforma.com.mx?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/07e591a8-4ba9-42e7-930e-7d3386ad9258?utm_source=github&utm_campaign=gh-tech-internships) | Ciudad de México, Mexico City, 06600 |  | 4d |
-| **[Jabil Circuit](https://www.dreamworkhq.com/c/jabil.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Engineer Intern](https://www.dreamworkhq.com/job/78738c0f-f5fd-442f-b73e-f4e312ecddfa?utm_source=github&utm_campaign=gh-tech-internships) | Guadalajara |  | 14d |
-| **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Embedded Systems](https://www.dreamworkhq.com/job/e668f77b-4b26-4e43-8621-8c15c594d4bb?utm_source=github&utm_campaign=gh-tech-internships) | CMX, Mexico (Hybrid) |  | 28d |
+| **[Capital Becarios](https://www.dreamworkhq.com/c/capitalreforma.com.mx?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/07e591a8-4ba9-42e7-930e-7d3386ad9258?utm_source=github&utm_campaign=gh-tech-internships) | Ciudad de México, Mexico City, 06600 |  | 5d |
+| **[Jabil Circuit](https://www.dreamworkhq.com/c/jabil.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Engineer Intern](https://www.dreamworkhq.com/job/78738c0f-f5fd-442f-b73e-f4e312ecddfa?utm_source=github&utm_campaign=gh-tech-internships) | Guadalajara |  | 15d |
+| **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Embedded Systems](https://www.dreamworkhq.com/job/e668f77b-4b26-4e43-8621-8c15c594d4bb?utm_source=github&utm_campaign=gh-tech-internships) | CMX, Mexico (Hybrid) |  | 29d |
 | **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern (Bachelors) Automation Engineer](https://www.dreamworkhq.com/job/11572a33-1f81-4031-935b-8be25e26c528?utm_source=github&utm_campaign=gh-tech-internships) | Juarez, CHH, Mexico (Hybrid) |  | 1mo |
 | **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Automation Engineering Intern](https://www.dreamworkhq.com/job/48c13ae1-1ce8-4bf3-80aa-afa1d4b0957c?utm_source=github&utm_campaign=gh-tech-internships) | Juarez, CHH, Mexico |  | 1mo |
 | **[Aerospace](https://www.dreamworkhq.com/c/aerospace.org?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Bachelors – Mechanical Design Engineer](https://www.dreamworkhq.com/job/759cac43-dc54-46f2-927c-2df8486e6b52?utm_source=github&utm_campaign=gh-tech-internships) | Mexicali, BCN, Mexico |  | 1mo |
@@ -29,7 +29,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Development Engineer Intern, Amazon University Talent Acquisit…](https://www.dreamworkhq.com/job/6aea64a6-c819-4191-9f26-42ffc6990edf?utm_source=github&utm_campaign=gh-tech-internships) | MX, DIF, Mexico City |  | 1mo |
 | **[C3iot](https://www.dreamworkhq.com/c/c3.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [QA Engineer - Intern (Summer 2027)](https://www.dreamworkhq.com/job/5032e97d-eded-472a-b5f7-e7fad9732b6b?utm_source=github&utm_campaign=gh-tech-internships) | Guadalajara, Jalisco, Mexico |  | 1mo |
 | **[C3iot](https://www.dreamworkhq.com/c/c3.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer - Intern (Summer 2027)](https://www.dreamworkhq.com/job/8db7ccb7-3c73-47e2-8905-9db443df3327?utm_source=github&utm_campaign=gh-tech-internships) | Guadalajara, Jalisco, Mexico |  | 1mo |
-| **[External Career Page](https://www.dreamworkhq.com/c/external-careers.jobs.unsw.edu.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Engineering Internship](https://www.dreamworkhq.com/job/6e630cb0-2a64-45d3-bc78-9fec6ca56e2b?utm_source=github&utm_campaign=gh-tech-internships) | Apodaca, Nuevo León, Mexico |  | 1mo |
+| **[External Career Page](https://www.dreamworkhq.com/c/external-careers.jobs.unsw.edu.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Engineering Internship](https://www.dreamworkhq.com/job/6e630cb0-2a64-45d3-bc78-9fec6ca56e2b?utm_source=github&utm_campaign=gh-tech-internships) | Apodaca, Nuevo León, Mexico |  | 2mo |
 | **[Intel](https://www.dreamworkhq.com/c/intel.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Silicon Design - Flows and Methodology Intern](https://www.dreamworkhq.com/job/87ee6ca5-4e39-4e8c-8fa7-9ff4864962bd?utm_source=github&utm_campaign=gh-tech-internships) | Mexico, Guadalajara (Hybrid) |  | 2mo |
 | **[Lyft](https://www.dreamworkhq.com/c/lyft.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern, Backend (Summer 2027 - Mexico)](https://www.dreamworkhq.com/job/28764300-12c4-4f81-85e1-7ea600d8fb48?utm_source=github&utm_campaign=gh-tech-internships) | Mexico City, Mexico |  | 2mo |
 | **[Lyft](https://www.dreamworkhq.com/c/lyft.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern, Frontend (Summer 2027)](https://www.dreamworkhq.com/job/b8055caf-1de0-48c9-bf40-837eb9f037b4?utm_source=github&utm_campaign=gh-tech-internships) | Mexico City, Mexico |  | 2mo |
@@ -43,7 +43,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Specialist Intern - Interlomas´ General Offices](https://www.dreamworkhq.com/job/cc91fafe-f9e7-4242-80f6-6763f3dc6b17?utm_source=github&utm_campaign=gh-tech-internships) | MEXICO CITY GENERAL OFFICE |  | 0d |
+| **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Specialist Intern - Interlomas´ General Offices](https://www.dreamworkhq.com/job/cc91fafe-f9e7-4242-80f6-6763f3dc6b17?utm_source=github&utm_campaign=gh-tech-internships) | MEXICO CITY GENERAL OFFICE |  | 1d |
 | **[Abbott](https://www.dreamworkhq.com/c/lingo.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Intelligence Intern](https://www.dreamworkhq.com/job/e54f665a-ee72-4552-b63d-0d7782b6026f?utm_source=github&utm_campaign=gh-tech-internships) | Mexico - Cuidad de Mexico - Cuidad de Mexico |  | 1mo |
 | **[HP Inc.](https://www.dreamworkhq.com/c/hpwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analysis and Systems Internship](https://www.dreamworkhq.com/job/44c1edde-c959-4ead-996c-3082ead462c4?utm_source=github&utm_campaign=gh-tech-internships) | Tlaquepaque, Jalisco, Mexico |  | 1mo |
 | **[NielsenIQ](https://www.dreamworkhq.com/c/nielseniq.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Science](https://www.dreamworkhq.com/job/97f4b22d-7b98-4191-b27b-677945244621?utm_source=github&utm_campaign=gh-tech-internships) | Mexico City, CDMX, Mexico (Hybrid) |  | 2mo |
@@ -53,8 +53,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Graphic Design Intern](https://www.dreamworkhq.com/job/c19eaa4a-5ba4-42e9-8416-a28a02f2399c?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Mexico) |  | 20d |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Manager Intern, ShopX(Rewards)](https://www.dreamworkhq.com/job/a11b7844-ece4-4af4-849b-d78eeae80cf3?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Mexico, Remote) |  | 28d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Graphic Design Intern](https://www.dreamworkhq.com/job/c19eaa4a-5ba4-42e9-8416-a28a02f2399c?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Mexico) |  | 21d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Manager Intern, ShopX(Rewards)](https://www.dreamworkhq.com/job/a11b7844-ece4-4af4-849b-d78eeae80cf3?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Mexico, Remote) |  | 29d |
 | **[IFF](https://www.dreamworkhq.com/c/iff.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Fine Fragrance SDM Assistant Intern](https://www.dreamworkhq.com/job/c9062147-b70e-427e-9252-d9a939446407?utm_source=github&utm_campaign=gh-tech-internships) | Tlalnepantla, Mexico |  | 1mo |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management Intern](https://www.dreamworkhq.com/job/bda03bc6-cc6d-47e7-9cf5-eaba390e86ff?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Mexico, Remote) |  | 2mo |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Program Manager Intern](https://www.dreamworkhq.com/job/a6270442-8708-4e36-9962-0691c050a740?utm_source=github&utm_campaign=gh-tech-internships) | MX, DIF, Mexico City |  | 6mo |
