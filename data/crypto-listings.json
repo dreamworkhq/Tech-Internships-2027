@@ -1,10 +1,42 @@
 {
-  "generatedAt": "2026-11-24T04:52:58.342Z",
+  "generatedAt": "2026-11-25T03:25:59.906Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 34,
+  "count": 35,
   "listings": [
+    {
+      "id": "f208a482-8e56-4021-a518-f6e0d9972abc",
+      "title": "Software Development Intern - Waterloo University - Web3 Core",
+      "company": "Brave",
+      "companyDomain": "brave.com",
+      "location": "Canada",
+      "locationCountryCode": "CA",
+      "functionPrimary": "Engineering",
+      "remoteType": "remote",
+      "salaryMin": 51000,
+      "salaryMax": 51000,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-11-23T21:31:25.000Z",
+      "firstIndexedAt": "2026-11-25T00:31:35.467Z",
+      "url": "https://www.dreamworkhq.com/job/f208a482-8e56-4021-a518-f6e0d9972abc?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "0deba083-593c-42d4-94c4-9c385e3d5e4b",
+      "title": "Software Engineer Intern",
+      "company": "Ritual",
+      "companyDomain": "ritual.io",
+      "location": null,
+      "locationCountryCode": null,
+      "functionPrimary": "Engineering",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-11-24T18:32:09.000Z",
+      "firstIndexedAt": "2026-11-24T18:45:55.299Z",
+      "url": "https://www.dreamworkhq.com/job/0deba083-593c-42d4-94c4-9c385e3d5e4b?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "b5e4ded6-b2a5-4d3c-8cd6-2dc4b711ea83",
       "title": "Research Intern",
@@ -36,22 +68,6 @@
       "postedAt": "2026-11-19T05:00:00.000Z",
       "firstIndexedAt": "2026-11-20T01:33:30.041Z",
       "url": "https://www.dreamworkhq.com/job/910f0abe-5b8b-481a-91e8-2211baa449f7?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "aede671e-8c71-4fe0-82a8-b546f99b3d80",
-      "title": "Animator Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": null,
-      "locationCountryCode": "AE",
-      "functionPrimary": "Design",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-10-23T07:31:20.000Z",
-      "firstIndexedAt": "2026-11-18T05:15:26.132Z",
-      "url": "https://www.dreamworkhq.com/job/aede671e-8c71-4fe0-82a8-b546f99b3d80?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "d3f8ebfc-5978-4d79-9d18-21135a10223a",
@@ -102,7 +118,7 @@
       "url": "https://www.dreamworkhq.com/job/0330a7d8-520e-4c55-91ba-e9e21e54a051?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "af98b6ef-e981-41a4-8460-364c9d9867bd",
+      "id": "fd036d95-eb75-4118-bc41-36cf6651e4d2",
       "title": "Mobile Development Engineer Intern",
       "company": "Bybit",
       "companyDomain": "bybit.com",
@@ -113,9 +129,9 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-12T14:33:12.000Z",
+      "postedAt": "2026-11-12T14:34:41.000Z",
       "firstIndexedAt": "2026-11-13T07:10:56.935Z",
-      "url": "https://www.dreamworkhq.com/job/af98b6ef-e981-41a4-8460-364c9d9867bd?utm_source=github&utm_campaign=gh-tech-internships"
+      "url": "https://www.dreamworkhq.com/job/fd036d95-eb75-4118-bc41-36cf6651e4d2?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "6bb44c5b-f80a-4312-b074-6e070d964ec3",
@@ -129,7 +145,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-06T06:01:33.360Z",
+      "postedAt": "2026-11-06T02:25:06.910Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships"
     },
