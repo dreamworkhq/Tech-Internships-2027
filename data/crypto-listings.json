@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-11-26T02:41:44.807Z",
+  "generatedAt": "2026-11-27T02:39:39.894Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 69,
+  "count": 70,
   "listings": [
+    {
+      "id": "6d36ab3c-fe3f-4cec-b56c-9a3a048b72b9",
+      "title": "Binance Accelerator Program - Strategy Product Manager",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Singapore",
+      "locationCountryCode": "SG",
+      "functionPrimary": "Product",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-11-26T16:02:43.000Z",
+      "firstIndexedAt": "2026-11-26T16:49:04.635Z",
+      "url": "https://www.dreamworkhq.com/job/6d36ab3c-fe3f-4cec-b56c-9a3a048b72b9?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "b7941a4e-473a-45c2-b4eb-129ecbbca8c2",
       "title": "Binance Accelerator Program - VIP User Operations",
@@ -250,8 +266,8 @@
       "title": "Binance Accelerator Program - Events",
       "company": "Binance",
       "companyDomain": "binance.com",
-      "location": "Hong Kong; Malaysia; Singapore",
-      "locationCountryCode": "SG",
+      "location": "Hong Kong; Malaysia; Singapore; United Arab Emirates",
+      "locationCountryCode": "AE",
       "functionPrimary": "Marketing",
       "remoteType": "onsite",
       "salaryMin": null,
@@ -689,7 +705,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-11-05T18:41:20.999Z",
+      "postedAt": "2026-11-05T20:29:48.859Z",
       "firstIndexedAt": "2026-11-05T15:28:25.030Z",
       "url": "https://www.dreamworkhq.com/job/6bb44c5b-f80a-4312-b074-6e070d964ec3?utm_source=github&utm_campaign=gh-tech-internships"
     },
